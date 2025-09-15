@@ -3,7 +3,9 @@
   "title": "OMSN Teaching Manual",
   "type": "dream",
   "dreamTalk": "",
-  "liminalWebRelationships": [],
+  "liminalWebRelationships": [
+    "fd95a30c-dbac-4ac4-9aff-34c60a122184"
+  ],
   "submodules": [],
   "supermodules": []
 }
