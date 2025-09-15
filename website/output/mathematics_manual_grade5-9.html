@@ -1,0 +1,1859 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UNIFIED MATHEMATICS TEACHING MANUAL - OMSN Teaching Manual</title>
+    <style>
+        :root {
+            --primary-color: #2563eb;
+            --secondary-color: #1e40af;
+            --accent-color: #f59e0b;
+            --background-color: #ffffff;
+            --surface-color: #f8fafc;
+            --text-color: #1f2937;
+            --text-secondary: #6b7280;
+            --border-color: #e5e7eb;
+            --success-color: #059669;
+            --warning-color: #d97706;
+            --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        [data-theme="dark"] {
+            --background-color: #1a202c;
+            --surface-color: #2d3748;
+            --text-color: #f7fafc;
+            --text-secondary: #a0aec0;
+            --border-color: #4a5568;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: var(--background-color);
+            margin: 0;
+            padding: 0;
+            transition: var(--transition);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 300px 1fr;
+            gap: 2rem;
+            padding: 1rem;
+            min-height: 100vh;
+        }
+
+        /* Navigation Sidebar */
+        .nav-sidebar {
+            position: sticky;
+            top: 1rem;
+            height: fit-content;
+            background: var(--surface-color);
+            border-radius: 12px;
+            padding: 1.5rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            border: 1px solid var(--border-color);
+        }
+
+        .nav-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1.5rem;
+            padding-bottom: 1rem;
+            border-bottom: 2px solid var(--border-color);
+        }
+
+        .nav-title {
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: var(--primary-color);
+            margin: 0;
+        }
+
+        .theme-toggle {
+            background: none;
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 0.5rem;
+            cursor: pointer;
+            font-size: 1.2rem;
+            transition: var(--transition);
+        }
+
+        .theme-toggle:hover {
+            background: var(--primary-color);
+            color: white;
+        }
+
+        .search-box {
+            width: 100%;
+            padding: 0.75rem;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            background: var(--background-color);
+            color: var(--text-color);
+            font-size: 0.9rem;
+            margin-bottom: 1rem;
+            transition: var(--transition);
+        }
+
+        .search-box:focus {
+            outline: none;
+            border-color: var(--primary-color);
+            box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+        }
+
+        .nav-toc {
+            max-height: 70vh;
+            overflow-y: auto;
+        }
+
+        .nav-toc ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .nav-toc li {
+            margin: 0.25rem 0;
+        }
+
+        .nav-toc a {
+            display: block;
+            padding: 0.5rem 0.75rem;
+            color: var(--text-secondary);
+            text-decoration: none;
+            border-radius: 6px;
+            font-size: 0.9rem;
+            transition: var(--transition);
+            border-left: 3px solid transparent;
+        }
+
+        .nav-toc a:hover {
+            background: var(--primary-color);
+            color: white;
+            transform: translateX(4px);
+        }
+
+        .nav-toc a.active {
+            background: var(--primary-color);
+            color: white;
+            border-left-color: var(--accent-color);
+        }
+
+        .nav-toc .level-1 { padding-left: 0.75rem; font-weight: 600; }
+        .nav-toc .level-2 { padding-left: 1.5rem; }
+        .nav-toc .level-3 { padding-left: 2.25rem; font-size: 0.85rem; }
+        .nav-toc .level-4 { padding-left: 3rem; font-size: 0.8rem; }
+
+        .progress-bar {
+            height: 3px;
+            background: var(--border-color);
+            border-radius: 3px;
+            margin-bottom: 1rem;
+            overflow: hidden;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, var(--primary-color), var(--accent-color));
+            width: 0%;
+            transition: width 0.1s ease-out;
+        }
+
+        /* Main Content */
+        .main-content {
+            background: var(--surface-color);
+            border-radius: 12px;
+            padding: 2rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            border: 1px solid var(--border-color);
+            min-height: 90vh;
+        }
+
+        /* Typography */
+        h1, h2, h3, h4, h5, h6 {
+            color: var(--text-color);
+            margin: 2rem 0 1rem 0;
+            line-height: 1.3;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 800;
+            color: var(--primary-color);
+            margin-bottom: 2rem;
+            padding-bottom: 1rem;
+            border-bottom: 3px solid var(--accent-color);
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: var(--secondary-color);
+            margin-top: 3rem;
+            padding: 1rem 0 0.5rem 0;
+            border-bottom: 2px solid var(--border-color);
+        }
+
+        h3 {
+            font-size: 1.4rem;
+            font-weight: 600;
+            color: var(--primary-color);
+        }
+
+        h4 {
+            font-size: 1.2rem;
+            font-weight: 600;
+        }
+
+        /* Content Elements */
+        p {
+            margin: 1rem 0;
+            text-align: justify;
+        }
+
+        /* Lists */
+        ul, ol {
+            margin: 1rem 0;
+            padding-left: 2rem;
+        }
+
+        li {
+            margin: 0.5rem 0;
+            display: list-item;
+            list-style-position: outside;
+        }
+
+        /* Force list items to stack vertically, not horizontally */
+        li {
+            display: list-item !important;
+            width: 100%;
+            clear: both;
+        }
+
+        /* Special List Styling */
+        ul li::marker {
+            content: "▶ ";
+            color: var(--primary-color);
+        }
+
+        /* Handle inline content within list items */
+        li > * {
+            display: inline;
+        }
+
+        /* But allow block elements to be block */
+        li > p, li > div, li > ul, li > ol {
+            display: block;
+        }
+
+        /* Fix for checkboxes mixed with regular bullets */
+        ul li {
+            list-style-type: none;
+            position: relative;
+            padding-left: 1.5rem;
+        }
+
+        ul li::before {
+            content: "▶";
+            color: var(--primary-color);
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+
+        /* Override for checkbox items */
+        ul li:has(input[type="checkbox"])::before {
+            content: none;
+        }
+
+        /* Checkboxes */
+        li:has(input[type="checkbox"]) {
+            list-style: none;
+            margin-left: -2rem;
+            padding-left: 2rem;
+        }
+
+        input[type="checkbox"] {
+            margin-right: 0.5rem;
+            transform: scale(1.2);
+            accent-color: var(--success-color);
+        }
+
+        /* Tables */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.5rem 0;
+            background: var(--background-color);
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        th, td {
+            padding: 1rem;
+            text-align: left;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        th {
+            background: var(--primary-color);
+            color: white;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            font-size: 0.9rem;
+        }
+
+        tr:nth-child(even) {
+            background: var(--surface-color);
+        }
+
+        tr:hover {
+            background: rgba(37, 99, 235, 0.05);
+        }
+
+        /* Code and Pre */
+        code {
+            background: var(--surface-color);
+            color: var(--accent-color);
+            padding: 0.2rem 0.4rem;
+            border-radius: 4px;
+            font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+            font-size: 0.9em;
+            font-weight: 600;
+        }
+
+        pre {
+            background: var(--surface-color);
+            padding: 1.5rem;
+            border-radius: 8px;
+            overflow-x: auto;
+            border-left: 4px solid var(--primary-color);
+            margin: 1.5rem 0;
+        }
+
+        pre code {
+            background: none;
+            color: var(--text-color);
+            padding: 0;
+        }
+
+        /* Blockquotes */
+        blockquote {
+            margin: 1.5rem 0;
+            padding: 1rem 1.5rem;
+            background: rgba(37, 99, 235, 0.05);
+            border-left: 4px solid var(--primary-color);
+            border-radius: 0 8px 8px 0;
+            font-style: italic;
+        }
+
+        /* Links */
+        a {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+            transition: var(--transition);
+        }
+
+        a:hover {
+            color: var(--secondary-color);
+            text-decoration: underline;
+        }
+
+        /* Emoji and Icons */
+        .emoji-icon {
+            font-size: 1.2em;
+            margin-right: 0.5rem;
+        }
+
+        /* Special Content Markers */
+        .visual-marker {
+            display: inline-block;
+            background: linear-gradient(135deg, var(--accent-color), #f97316);
+            color: white;
+            padding: 0.3rem 0.6rem;
+            border-radius: 6px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            margin-right: 0.5rem;
+        }
+
+        .connection-marker {
+            display: inline-block;
+            background: linear-gradient(135deg, var(--success-color), #10b981);
+            color: white;
+            padding: 0.3rem 0.6rem;
+            border-radius: 6px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            margin-right: 0.5rem;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 1024px) {
+            .container {
+                grid-template-columns: 250px 1fr;
+                gap: 1rem;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                grid-template-columns: 1fr;
+                gap: 1rem;
+            }
+
+            .nav-sidebar {
+                position: static;
+                margin-bottom: 1rem;
+            }
+
+            .nav-toc {
+                max-height: 300px;
+            }
+
+            h1 {
+                font-size: 2rem;
+            }
+
+            h2 {
+                font-size: 1.5rem;
+            }
+
+            .main-content {
+                padding: 1.5rem;
+            }
+        }
+
+        /* Print Styles */
+        @media print {
+            .nav-sidebar {
+                display: none;
+            }
+
+            .container {
+                grid-template-columns: 1fr;
+            }
+
+            .main-content {
+                box-shadow: none;
+                border: none;
+                padding: 0;
+            }
+
+            h1, h2, h3, h4, h5, h6 {
+                page-break-after: avoid;
+            }
+
+            table {
+                page-break-inside: avoid;
+            }
+        }
+
+        /* Smooth Scrolling */
+        html {
+            scroll-behavior: smooth;
+        }
+
+        /* Loading Animation */
+        .loading {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 3px solid var(--border-color);
+            border-radius: 50%;
+            border-top-color: var(--primary-color);
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        /* Collapsible Sections */
+        .collapsible-header {
+            cursor: pointer;
+            user-select: none;
+            display: flex;
+            align-items: center;
+            transition: var(--transition);
+        }
+
+        .collapsible-header:hover {
+            color: var(--primary-color);
+        }
+
+        .collapsible-header::before {
+            content: "▼";
+            margin-right: 0.5rem;
+            transition: transform 0.3s;
+        }
+
+        .collapsible-header.collapsed::before {
+            transform: rotate(-90deg);
+        }
+
+        .collapsible-content {
+            overflow: hidden;
+            transition: max-height 0.3s ease-out;
+        }
+
+        .collapsible-content.collapsed {
+            max-height: 0;
+        }
+
+        /* Copy Button for Code */
+        .code-block {
+            position: relative;
+        }
+
+        .copy-button {
+            position: absolute;
+            top: 0.5rem;
+            right: 0.5rem;
+            background: var(--primary-color);
+            color: white;
+            border: none;
+            border-radius: 4px;
+            padding: 0.3rem 0.6rem;
+            font-size: 0.8rem;
+            cursor: pointer;
+            opacity: 0;
+            transition: var(--transition);
+        }
+
+        .code-block:hover .copy-button {
+            opacity: 1;
+        }
+
+        .copy-button:hover {
+            background: var(--secondary-color);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Navigation Sidebar -->
+        <nav class="nav-sidebar">
+            <div class="nav-header">
+                <h3 class="nav-title">Navigation</h3>
+                <div style="display: flex; gap: 0.5rem;">
+                    <button class="theme-toggle" onclick="window.location.href='index.html'" title="Return to manual collection" style="background: var(--success-color); color: white;">🏠</button>
+                    <button class="theme-toggle" onclick="toggleTheme()" title="Toggle dark/light theme">🌓</button>
+                </div>
+            </div>
+
+            <input type="text" class="search-box" placeholder="Search in document..." onkeyup="searchContent(this.value)">
+
+            <div class="progress-bar">
+                <div class="progress-fill" id="progress-bar"></div>
+            </div>
+
+            <div class="nav-toc" id="table-of-contents">
+                <ul>
+<li><a href="#portuguese-curriculum-grades-5-9" class="level-2">Portuguese Curriculum Grades 5-9</a></li>
+<li><a href="#table-of-contents" class="level-2">TABLE OF CONTENTS</a></li>
+<li><a href="#how-to-use-this-manual-how-to-use" class="level-2">HOW TO USE THIS MANUAL {#how-to-use}</a></li>
+<li><a href="#for-teachers" class="level-3">For Teachers 👩‍🏫</a></li>
+<li><a href="#for-students" class="level-3">For Students 📚</a></li>
+<li><a href="#mathematical-capacities-transversal-mathematical-capacities" class="level-2">MATHEMATICAL CAPACITIES (TRANSVERSAL) {#mathematical-capacities}</a></li>
+<li><a href="#problem-solving" class="level-3">Problem Solving 🧩</a></li>
+<li><a href="#mathematical-reasoning" class="level-3">Mathematical Reasoning 🔍</a></li>
+<li><a href="#computational-thinking" class="level-3">Computational Thinking 💻</a></li>
+<li><a href="#mathematical-communication" class="level-3">Mathematical Communication 💬</a></li>
+<li><a href="#mathematical-representations" class="level-3">Mathematical Representations 📊</a></li>
+<li><a href="#mathematical-connections" class="level-3">Mathematical Connections 🔗</a></li>
+<li><a href="#mathematical-themes-by-progression-mathematical-themes" class="level-2">MATHEMATICAL THEMES BY PROGRESSION {#mathematical-themes}</a></li>
+<li><a href="#1-numbers-operations-numbers-operations" class="level-2">1. NUMBERS &amp; OPERATIONS {#numbers-operations}</a></li>
+<li><a href="#the-number-system-journey" class="level-3">The Number System Journey 🔢</a></li>
+<li><a href="#grade-5-foundation-building" class="level-3">Grade 5: Foundation Building</a></li>
+<li><a href="#grade-6-operation-mastery" class="level-3">Grade 6: Operation Mastery</a></li>
+<li><a href="#grade-7-number-system-expansion" class="level-3">Grade 7: Number System Expansion</a></li>
+<li><a href="#grade-8-powers-and-roots" class="level-3">Grade 8: Powers and Roots</a></li>
+<li><a href="#grade-9-real-numbers" class="level-3">Grade 9: Real Numbers (ℝ)</a></li>
+<li><a href="#assessment-checkpoints-by-grade" class="level-3">Assessment Checkpoints by Grade</a></li>
+<li><a href="#2-algebra-patterns-algebra-patterns" class="level-2">2. ALGEBRA &amp; PATTERNS {#algebra-patterns}</a></li>
+<li><a href="#the-algebraic-thinking-journey" class="level-3">The Algebraic Thinking Journey 📈</a></li>
+<li><a href="#grade-5-pattern-foundation" class="level-3">Grade 5: Pattern Foundation</a></li>
+<li><a href="#grade-6-proportional-relationships" class="level-3">Grade 6: Proportional Relationships</a></li>
+<li><a href="#grade-7-equations-and-functions" class="level-3">Grade 7: Equations and Functions</a></li>
+<li><a href="#grade-8-polynomial-algebra" class="level-3">Grade 8: Polynomial Algebra</a></li>
+<li><a href="#grade-9-advanced-algebra" class="level-3">Grade 9: Advanced Algebra</a></li>
+<li><a href="#assessment-checkpoints-by-grade" class="level-3">Assessment Checkpoints by Grade</a></li>
+<li><a href="#3-data-probability-data-probability" class="level-2">3. DATA &amp; PROBABILITY {#data-probability}</a></li>
+<li><a href="#the-statistical-investigation-journey" class="level-3">The Statistical Investigation Journey 📊</a></li>
+<li><a href="#grade-5-statistical-foundation" class="level-3">Grade 5: Statistical Foundation</a></li>
+<li><a href="#grade-6-continuous-data-analysis" class="level-3">Grade 6: Continuous Data Analysis</a></li>
+<li><a href="#grade-7-advanced-statistical-analysis" class="level-3">Grade 7: Advanced Statistical Analysis</a></li>
+<li><a href="#grade-8-complete-statistical-studies" class="level-3">Grade 8: Complete Statistical Studies</a></li>
+<li><a href="#grade-9-advanced-probability-and-communication" class="level-3">Grade 9: Advanced Probability and Communication</a></li>
+<li><a href="#assessment-checkpoints-by-grade" class="level-3">Assessment Checkpoints by Grade</a></li>
+<li><a href="#4-geometry-measurement-geometry-measurement" class="level-2">4. GEOMETRY &amp; MEASUREMENT {#geometry-measurement}</a></li>
+<li><a href="#the-geometric-understanding-journey" class="level-3">The Geometric Understanding Journey 📐</a></li>
+<li><a href="#grade-5-geometric-foundation" class="level-3">Grade 5: Geometric Foundation</a></li>
+<li><a href="#grade-6-polygon-and-circle-mastery" class="level-3">Grade 6: Polygon and Circle Mastery</a></li>
+<li><a href="#grade-7-angles-and-similarity" class="level-3">Grade 7: Angles and Similarity</a></li>
+<li><a href="#grade-8-pythagorean-theorem-and-transformations" class="level-3">Grade 8: Pythagorean Theorem and Transformations</a></li>
+<li><a href="#grade-9-advanced-circle-geometry-and-trigonometry" class="level-3">Grade 9: Advanced Circle Geometry and Trigonometry</a></li>
+<li><a href="#assessment-checkpoints-by-grade" class="level-3">Assessment Checkpoints by Grade</a></li>
+<li><a href="#assessment-framework-assessment-framework" class="level-2">ASSESSMENT FRAMEWORK {#assessment-framework}</a></li>
+<li><a href="#formative-assessment-strategies" class="level-3">Formative Assessment Strategies</a></li>
+<li><a href="#summative-assessment-design" class="level-3">Summative Assessment Design</a></li>
+<li><a href="#grade-specific-assessment-focus" class="level-3">Grade-Specific Assessment Focus</a></li>
+<li><a href="#assessment-rubrics-by-mathematical-capacity" class="level-3">Assessment Rubrics by Mathematical Capacity</a></li>
+<li><a href="#quick-reference-guides-quick-reference" class="level-2">QUICK REFERENCE GUIDES {#quick-reference}</a></li>
+<li><a href="#for-teachers-concept-coverage-checklist" class="level-3">For Teachers: Concept Coverage Checklist</a></li>
+<li><a href="#grade-5-essential-coverage" class="level-4">Grade 5 Essential Coverage ✅</a></li>
+<li><a href="#grade-6-essential-coverage" class="level-4">Grade 6 Essential Coverage ✅</a></li>
+<li><a href="#grade-7-essential-coverage" class="level-4">Grade 7 Essential Coverage ✅</a></li>
+<li><a href="#grade-8-essential-coverage" class="level-4">Grade 8 Essential Coverage ✅</a></li>
+<li><a href="#grade-9-essential-coverage" class="level-4">Grade 9 Essential Coverage ✅</a></li>
+<li><a href="#for-students-topic-location-guide" class="level-3">For Students: Topic Location Guide</a></li>
+<li><a href="#essential-formulas-by-grade" class="level-3">Essential Formulas by Grade</a></li>
+<li><a href="#visual-teaching-resources" class="level-3">Visual Teaching Resources</a></li>
+<li><a href="#cross-curricular-connections" class="level-3">Cross-Curricular Connections 🔗</a></li>
+<li><a href="#conclusion" class="level-2">CONCLUSION</a></li>
+</ul>
+            </div>
+        </nav>
+
+        <!-- Main Content -->
+        <main class="main-content" id="main-content">
+            <h1 id="unified-mathematics-teaching-manual">UNIFIED MATHEMATICS TEACHING MANUAL</h1>
+
+<h2 id="portuguese-curriculum-grades-5-9">Portuguese Curriculum Grades 5-9</h2>
+
+<p><em>A Thematically-Organized Guide for Teachers and Students</em></p>
+
+<hr />
+
+<h2 id="table-of-contents">TABLE OF CONTENTS</h2>
+
+<p><strong><a href="#how-to-use">PART A: HOW TO USE THIS MANUAL</a></strong>
+- For Teachers
+- For Students
+- Visual Teaching Support</p>
+
+<p><strong><a href="#mathematical-capacities">PART B: MATHEMATICAL CAPACITIES (TRANSVERSAL)</a></strong>
+- Problem Solving
+- Mathematical Reasoning
+- Computational Thinking
+- Mathematical Communication
+- Mathematical Representations
+- Mathematical Connections</p>
+
+<p><strong><a href="#mathematical-themes">PART C: MATHEMATICAL THEMES BY PROGRESSION</a></strong>
+1. <a href="#numbers-operations">Numbers &amp; Operations</a>
+2. <a href="#algebra-patterns">Algebra &amp; Patterns</a>
+3. <a href="#data-probability">Data &amp; Probability</a>
+4. <a href="#geometry-measurement">Geometry &amp; Measurement</a></p>
+
+<p><strong><a href="#assessment-framework">PART D: ASSESSMENT FRAMEWORK</a></strong></p>
+
+<p><strong><a href="#quick-reference">PART E: QUICK REFERENCE GUIDES</a></strong></p>
+
+<hr />
+
+<h2 id="how-to-use-this-manual-how-to-use">HOW TO USE THIS MANUAL {#how-to-use}</h2>
+
+<h3 id="for-teachers">For Teachers 👩‍🏫</h3>
+
+<p><strong>Spiral Curriculum Planning:</strong>
+- Use the progression matrices to see how concepts build across grades
+- Track coverage with the concept checklists
+- Plan review sessions using the "Prior Knowledge" connections</p>
+
+<p><strong>Visual Teaching Support:</strong>
+- Each theme includes suggestions for visual metaphors
+- Poster-ready concept clusters are marked with <span class="emoji-icon">📊</span>
+- Cross-curricular connections highlighted with <span class="emoji-icon">🔗</span></p>
+
+<p><strong>Lesson Planning:</strong>
+- Start with Mathematical Capacities to frame learning objectives
+- Choose appropriate grade-level content from theme progressions
+- Use assessment checkpoints to verify understanding</p>
+
+<h3 id="for-students">For Students <span class="emoji-icon">📚</span></h3>
+
+<p><strong>Quick Reference:</strong>
+- Find topics you've learned using the grade-level indicators
+- Use concept maps to see how ideas connect
+- Check your understanding with the milestone markers</p>
+
+<p><strong>Study Support:</strong>
+- Each theme shows what you'll learn next
+- Visual summaries help remember key concepts
+- Real-world applications show why math matters</p>
+
+<p><strong>Consultation Guide:</strong>
+- Index of all topics with grade references
+- Essential formulas and procedures
+- Problem-solving strategy reminders</p>
+
+<hr />
+
+<h2 id="mathematical-capacities-transversal-mathematical-capacities">MATHEMATICAL CAPACITIES (TRANSVERSAL) {#mathematical-capacities}</h2>
+
+<p><em>These skills develop across all grades and all mathematical themes</em></p>
+
+<h3 id="problem-solving">Problem Solving <span class="emoji-icon">🧩</span></h3>
+
+<p><strong>Grade 5-9 Progression:</strong></p>
+
+<table>
+<thead>
+<tr>
+  <th><strong>Capacity</strong></th>
+  <th><strong>Grades 5-6</strong></th>
+  <th><strong>Grades 7-8</strong></th>
+  <th><strong>Grade 9</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>Process Recognition</strong></td>
+  <td>Identify basic stages</td>
+  <td>Apply systematically</td>
+  <td>Master all stages fluently</td>
+</tr>
+<tr>
+  <td><strong>Strategy Application</strong></td>
+  <td>Trial/error, diagrams</td>
+  <td>Multiple strategies, technology</td>
+  <td>Adapt strategies across contexts</td>
+</tr>
+<tr>
+  <td><strong>Problem Formulation</strong></td>
+  <td>Simple contexts</td>
+  <td>Mathematical/real contexts</td>
+  <td>Complex multi-step situations</td>
+</tr>
+<tr>
+  <td><strong>Strategy Evaluation</strong></td>
+  <td>Recognize correctness</td>
+  <td>Compare efficiency</td>
+  <td>Critical analysis of approaches</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Key Teaching Strategies:</strong>
+- <strong>Visual Metaphor:</strong> Problem-solving as "Mathematical Detective Work"
+- Use the 4-step process: Understand → Plan → Solve → Check
+- Build strategy toolbox progressively
+- Emphasize solution justification, not just answers</p>
+
+<p><span class="emoji-icon">📊</span> <strong>Poster Concept:</strong> "The Problem Solver's Toolkit" - visual guide to strategies</p>
+
+<h3 id="mathematical-reasoning">Mathematical Reasoning <span class="emoji-icon">🔍</span></h3>
+
+<p><strong>Core Development Arc:</strong></p>
+
+<table>
+<thead>
+<tr>
+  <th><strong>Skill</strong></th>
+  <th><strong>Early (5-6)</strong></th>
+  <th><strong>Middle (7-8)</strong></th>
+  <th><strong>Advanced (9)</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>Pattern Recognition</strong></td>
+  <td>Simple sequences</td>
+  <td>Complex patterns</td>
+  <td>Abstract generalizations</td>
+</tr>
+<tr>
+  <td><strong>Conjecture Formation</strong></td>
+  <td>Basic observations</td>
+  <td>Hypothesis testing</td>
+  <td>Systematic validation</td>
+</tr>
+<tr>
+  <td><strong>Justification</strong></td>
+  <td>Natural language</td>
+  <td>Symbolic reasoning</td>
+  <td>Formal proof concepts</td>
+</tr>
+<tr>
+  <td><strong>Critical Analysis</strong></td>
+  <td>Compare solutions</td>
+  <td>Evaluate reasoning</td>
+  <td>Assess argument validity</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Teaching Focus:</strong>
+- Move from "what" to "why" to "what if"
+- Use examples and counterexamples
+- Build from concrete to abstract reasoning
+- Connect reasoning across mathematical themes</p>
+
+<p><span class="emoji-icon">📊</span> <strong>Poster Concept:</strong> "From Pattern to Proof" - reasoning development pathway</p>
+
+<h3 id="computational-thinking">Computational Thinking <span class="emoji-icon">💻</span></h3>
+
+<p><strong>Progressive Skill Building:</strong></p>
+
+<table>
+<thead>
+<tr>
+  <th><strong>Element</strong></th>
+  <th><strong>Grade 5-6</strong></th>
+  <th><strong>Grade 7-8</strong></th>
+  <th><strong>Grade 9</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>Abstraction</strong></td>
+  <td>Extract key info</td>
+  <td>Identify essential patterns</td>
+  <td>Model complex systems</td>
+</tr>
+<tr>
+  <td><strong>Decomposition</strong></td>
+  <td>Break into steps</td>
+  <td>Structure in stages</td>
+  <td>Systematic complexity reduction</td>
+</tr>
+<tr>
+  <td><strong>Pattern Recognition</strong></td>
+  <td>Simple regularities</td>
+  <td>Cross-context patterns</td>
+  <td>Algorithmic patterns</td>
+</tr>
+<tr>
+  <td><strong>Algorithm Development</strong></td>
+  <td>Step-by-step procedures</td>
+  <td>Optimize solutions</td>
+  <td>Debug and refine systematically</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Cross-Curricular Connections:</strong> <span class="emoji-icon">🔗</span>
+- Programming concepts in technology class
+- Scientific method in natural sciences
+- Logical thinking in philosophy/critical thinking</p>
+
+<h3 id="mathematical-communication">Mathematical Communication <span class="emoji-icon">💬</span></h3>
+
+<p><strong>Communication Skills Development:</strong></p>
+
+<table>
+<thead>
+<tr>
+  <th><strong>Grade Band</strong></th>
+  <th><strong>Oral Expression</strong></th>
+  <th><strong>Written Expression</strong></th>
+  <th><strong>Representation Use</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>5-6</strong></td>
+  <td>Basic mathematical vocabulary</td>
+  <td>Simple explanations</td>
+  <td>Multiple formats</td>
+</tr>
+<tr>
+  <td><strong>7-8</strong></td>
+  <td>Structured arguments</td>
+  <td>Mathematical writing</td>
+  <td>Strategic selection</td>
+</tr>
+<tr>
+  <td><strong>9</strong></td>
+  <td>Formal mathematical discourse</td>
+  <td>Proof-like justifications</td>
+  <td>Fluid translation</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Teaching Strategies:</strong>
+- Mathematical discussions and debates
+- Student presentation opportunities
+- Peer explanation and teaching
+- Mathematical journaling</p>
+
+<h3 id="mathematical-representations">Mathematical Representations <span class="emoji-icon">📊</span></h3>
+
+<p><strong>Representation Fluency Progression:</strong></p>
+
+<p><strong>Grade 5-6:</strong> Master basic representations (tables, graphs, diagrams)
+<strong>Grade 7-8:</strong> Connect representations strategically
+<strong>Grade 9:</strong> Fluid translation between all forms</p>
+
+<p><strong>Key Representations by Theme:</strong>
+- Numbers: Number lines, fraction models, place value charts
+- Algebra: Tables, graphs, symbolic expressions
+- Data: Charts, graphs, statistical displays
+- Geometry: Diagrams, constructions, 3D models</p>
+
+<h3 id="mathematical-connections">Mathematical Connections <span class="emoji-icon">🔗</span></h3>
+
+<p><strong>Connection Types:</strong></p>
+
+<ol>
+<li><strong>Within Mathematics:</strong> Links between themes (algebra↔geometry, numbers↔patterns)</li>
+<li><strong>To Other Subjects:</strong> Physics, chemistry, art, music, economics</li>
+<li><strong>To Real World:</strong> Applications in daily life, careers, society</li>
+</ol>
+
+<p><strong>Teaching Approach:</strong>
+- Begin each topic with connections to prior knowledge
+- End with applications and extensions
+- Maintain a "connection board" showing mathematical unity</p>
+
+<hr />
+
+<h2 id="mathematical-themes-by-progression-mathematical-themes">MATHEMATICAL THEMES BY PROGRESSION {#mathematical-themes}</h2>
+
+<h2 id="1-numbers-operations-numbers-operations">1. NUMBERS &amp; OPERATIONS {#numbers-operations}</h2>
+
+<h3 id="the-number-system-journey">The Number System Journey <span class="emoji-icon">🔢</span></h3>
+
+<p><strong>Conceptual Progression:</strong></p>
+
+<pre class="code-block"><code>Grade 5: ℕ (Naturals) → Fractions/Decimals
+Grade 6: Extend Operations → Powers
+Grade 7: ℤ (Integers) → ℚ (Rationals)
+Grade 8: Perfect Powers → Roots → Scientific Notation
+Grade 9: ℝ (Real Numbers) → Irrational Numbers
+</code></pre>
+
+<h3 id="grade-5-foundation-building">Grade 5: Foundation Building</h3>
+
+<p><strong>Natural Numbers:</strong>
+- ✅ Multiples and divisors
+- ✅ Prime numbers (under 100)
+- ✅ Powers as repeated multiplication
+- ✅ Exponential growth modeling</p>
+
+<p><strong>Fractions, Decimals, Percentages:</strong>
+- ✅ Equivalent fractions
+- ✅ Percentage relationships (fraction/100)
+- ✅ Number line representation
+- ✅ Format conversion (↔ decimal ↔ percentage)</p>
+
+<p><strong>Operations:</strong>
+- ✅ Fraction addition/subtraction (simple denominators)
+- ✅ Natural × fraction multiplication
+- ✅ Decimal multiplication/division with naturals
+- ✅ Mental calculation strategies</p>
+
+<p><span class="emoji-icon">📊</span> <strong>Visual Metaphor:</strong> "Number as Language" - different ways to say the same mathematical idea</p>
+
+<h3 id="grade-6-operation-mastery">Grade 6: Operation Mastery</h3>
+
+<p><strong>Natural Numbers Advanced:</strong>
+- ✅ Prime factorization
+- ✅ LCM and GCD (multiple methods)
+- ✅ Power operations (multiplication/division rules)</p>
+
+<p><strong>Fraction Fluency:</strong>
+- ✅ Irreducible fractions
+- ✅ All four operations with fractions
+- ✅ Powers with fractional bases (a/b)ⁿ
+- ✅ Complex numerical expressions</p>
+
+<p><span class="emoji-icon">📊</span> <strong>Teaching Strategy:</strong> Fraction operations through geometric visualization</p>
+
+<h3 id="grade-7-number-system-expansion">Grade 7: Number System Expansion</h3>
+
+<p><strong>Integer Numbers (ℤ):</strong>
+- ✅ Positive/negative meaning on number line
+- ✅ Absolute value as distance concept
+- ✅ Integer operations with properties
+- ✅ Subtraction as addition of opposite
+- ✅ Expressions with parentheses</p>
+
+<p><strong>Rational Numbers (ℚ):</strong>
+- ✅ Rational number meaning and representation
+- ✅ Number line ordering
+- ✅ Rational operations with mental strategies
+- ✅ Percentage problem solving
+- ✅ Scientific notation introduction</p>
+
+<p><span class="emoji-icon">📊</span> <strong>Visual Metaphor:</strong> "Number Line as Mathematical Home" - every number has its place</p>
+
+<h3 id="grade-8-powers-and-roots">Grade 8: Powers and Roots</h3>
+
+<p><strong>Rational Number Operations:</strong>
+- ✅ Rational as finite/infinite periodic decimals
+- ✅ Multiplication/division of rationals
+- ✅ Powers with rational base, integer exponent
+- ✅ Operational rules for powers
+- ✅ Mental calculation mastery</p>
+
+<p><strong>Roots Introduction:</strong>
+- ✅ Perfect squares to 144 with pictorial connection
+- ✅ Square root estimation and calculation
+- ✅ Perfect cubes to 125
+- ✅ Cube root problem solving
+- ✅ Scientific notation operations</p>
+
+<h3 id="grade-9-real-numbers-r">Grade 9: Real Numbers (ℝ)</h3>
+
+<p><strong>Real Number System:</strong>
+- ✅ Irrational numbers as infinite non-periodic decimals
+- ✅ Number line completeness (every point = real number)
+- ✅ Real number properties and operations
+- ✅ Interval notation and set operations
+- ✅ Approximate value analysis and error</p>
+
+<p><span class="emoji-icon">📊</span> <strong>Culminating Visual:</strong> "The Complete Number Universe" - showing all number sets and relationships</p>
+
+<h3 id="assessment-checkpoints-by-grade">Assessment Checkpoints by Grade</h3>
+
+<p><strong>Grade 5:</strong> Fraction/decimal fluency, mental calculation, basic powers
+<strong>Grade 6:</strong> Operation mastery, LCM/GCD applications, complex expressions
+<strong>Grade 7:</strong> Integer/rational operations, percentage problem solving
+<strong>Grade 8:</strong> Power/root calculations, scientific notation, approximate values
+<strong>Grade 9:</strong> Real number operations, interval concepts, error analysis</p>
+
+<hr />
+
+<h2 id="2-algebra-patterns-algebra-patterns">2. ALGEBRA &amp; PATTERNS {#algebra-patterns}</h2>
+
+<h3 id="the-algebraic-thinking-journey">The Algebraic Thinking Journey <span class="emoji-icon">📈</span></h3>
+
+<p><strong>Conceptual Progression:</strong></p>
+
+<pre class="code-block"><code>Grade 5: Sequences → Simple Algebraic Expressions
+Grade 6: Proportionality → Direct Relationships
+Grade 7: Equations → Functions
+Grade 8: Polynomials → Systems → Affine Functions
+Grade 9: Factorization → Quadratic → Inverse Functions
+</code></pre>
+
+<h3 id="grade-5-pattern-foundation">Grade 5: Pattern Foundation</h3>
+
+<p><strong>Sequences and Regularities:</strong>
+- ✅ Growth sequence identification
+- ✅ Formation laws (natural→pictorial→symbolic)
+- ✅ Sequence creation and continuation
+- ✅ Term verification and justification</p>
+
+<p><strong>Algebraic Relations:</strong>
+- ✅ Letters in expressions (variables/unknowns)
+- ✅ Property description through expressions
+- ✅ Algebraic expression evaluation
+- ✅ Equivalent expressions in context</p>
+
+<p><span class="emoji-icon">📊</span> <strong>Visual Metaphor:</strong> "Patterns as Mathematical DNA" - sequences carry mathematical genetic information</p>
+
+<h3 id="grade-6-proportional-relationships">Grade 6: Proportional Relationships</h3>
+
+<p><strong>Advanced Sequences:</strong>
+- ✅ Decreasing sequence formation laws
+- ✅ Consecutive term relationships
+- ✅ Powers and fractions in sequences</p>
+
+<p><strong>Direct Proportionality:</strong>
+- ✅ Multiplicative nature recognition
+- ✅ Proportional vs non-proportional distinction
+- ✅ Fractions as ratios between parts
+- ✅ Proportional reasoning across representations
+- ✅ Algebraic expression of proportionality</p>
+
+<p><span class="emoji-icon">📊</span> <strong>Teaching Strategy:</strong> Proportionality through cooking/scaling real situations</p>
+
+<h3 id="grade-7-equations-and-functions">Grade 7: Equations and Functions</h3>
+
+<p><strong>Algebraic Expressions and Equations:</strong>
+- ✅ 1st degree equation recognition
+- ✅ Situation↔equation translation
+- ✅ Equation solving using inverse operations
+- ✅ Equation equivalence justification
+- ✅ Solution adequacy analysis</p>
+
+<p><strong>Functions Introduction:</strong>
+- ✅ Function as univocal correspondence
+- ✅ Multiple function representations
+- ✅ Real-life situation modeling
+- ✅ Variable relationships from graphs
+- ✅ Direct proportionality as function</p>
+
+<p><span class="emoji-icon">📊</span> <strong>Visual Metaphor:</strong> "Functions as Mathematical Machines" - input→process→output</p>
+
+<h3 id="grade-8-polynomial-algebra">Grade 8: Polynomial Algebra</h3>
+
+<p><strong>Polynomials:</strong>
+- ✅ Monomial and polynomial identification
+- ✅ Polynomial addition and multiplication
+- ✅ Number property description using polynomials</p>
+
+<p><strong>Advanced Equations:</strong>
+- ✅ 1st degree equations with denominators/parentheses
+- ✅ Literal equation recognition and solving
+- ✅ Two-equation systems with two unknowns
+- ✅ Algebraic and geometric solution relationships</p>
+
+<p><strong>Affine Functions:</strong>
+- ✅ f(x) = ax + b recognition (linear as special case)
+- ✅ Multiple representation mastery
+- ✅ Parameter variation effects
+- ✅ Real situation modeling with affine functions</p>
+
+<h3 id="grade-9-advanced-algebra">Grade 9: Advanced Algebra</h3>
+
+<p><strong>Factorization and Notable Cases:</strong>
+- ✅ Distributive property applications
+- ✅ Notable cases from polynomial operations
+- ✅ Polynomial factorization techniques</p>
+
+<p><strong>2nd Degree Equations:</strong>
+- ✅ Quadratic equation recognition
+- ✅ Situation↔equation translation
+- ✅ Zero product law application
+- ✅ Complete quadratic solution using notable cases
+- ✅ Determinate/impossible equation recognition</p>
+
+<p><strong>Advanced Functions:</strong>
+- ✅ Quadratic functions f(x) = ax² analysis
+- ✅ Linear vs quadratic graph distinction
+- ✅ Inverse proportionality functions
+- ✅ Real-world function applications</p>
+
+<p><strong>1st Degree Inequalities:</strong>
+- ✅ Inequality recognition and translation
+- ✅ Inequality solution and problem applications</p>
+
+<h3 id="assessment-checkpoints-by-grade-2">Assessment Checkpoints by Grade</h3>
+
+<p><strong>Grade 5:</strong> Pattern recognition, basic algebraic expressions
+<strong>Grade 6:</strong> Proportional reasoning, sequence analysis
+<strong>Grade 7:</strong> Equation solving, function concepts
+<strong>Grade 8:</strong> Polynomial operations, system solving, affine functions
+<strong>Grade 9:</strong> Factorization, quadratic equations, multiple function types</p>
+
+<p><span class="emoji-icon">📊</span> <strong>Culminating Visual:</strong> "The Algebraic Landscape" - showing progression from patterns to complex functions</p>
+
+<hr />
+
+<h2 id="3-data-probability-data-probability">3. DATA &amp; PROBABILITY {#data-probability}</h2>
+
+<h3 id="the-statistical-investigation-journey">The Statistical Investigation Journey <span class="emoji-icon">📊</span></h3>
+
+<p><strong>Conceptual Progression:</strong></p>
+
+<pre class="code-block"><code>Grade 5: Basic Stats → Simple Probability
+Grade 6: Continuous Data → Equiprobable Events
+Grade 7: Advanced Analysis → Composite Events
+Grade 8: Complete Studies → Theoretical Probability
+Grade 9: Advanced Graphics → Event Operations
+</code></pre>
+
+<h3 id="grade-5-statistical-foundation">Grade 5: Statistical Foundation</h3>
+
+<p><strong>Statistical Questions and Data:</strong>
+- ✅ Question formulation (qualitative/discrete quantitative)
+- ✅ Data collection source decisions (primary/secondary)
+- ✅ Simple questionnaire construction
+- ✅ Frequency tables (absolute and relative percentages)</p>
+
+<p><strong>Graphic Representations:</strong>
+- ✅ Circular graphs (relative frequency)
+- ✅ Bar graphs with proper elements
+- ✅ Juxtaposed bar graphs
+- ✅ Critical media graph analysis</p>
+
+<p><strong>Data Analysis:</strong>
+- ✅ Mean as equilibrium point concept
+- ✅ Mean calculation and interpretation
+- ✅ Summary measure selection for data types
+- ✅ Critical distribution analysis
+- ✅ Evidence-based conclusion drawing</p>
+
+<p><strong>Probability Introduction:</strong>
+- ✅ Probability as conviction degree (0%-100%)
+- ✅ Relative frequency for probability estimation
+- ✅ Group characteristic conviction based on different groups</p>
+
+<p><span class="emoji-icon">📊</span> <strong>Visual Metaphor:</strong> "Statistics as Data Storytelling" - numbers tell stories about the world</p>
+
+<h3 id="grade-6-continuous-data-analysis">Grade 6: Continuous Data Analysis</h3>
+
+<p><strong>Advanced Data Organization:</strong>
+- ✅ Continuous quantitative variable questions
+- ✅ Class organization necessity for continuous data
+- ✅ Equal-amplitude class construction
+- ✅ Frequency tables with class organization</p>
+
+<p><strong>Advanced Graphics:</strong>
+- ✅ Line graphs for temporal evolution
+- ✅ Histograms for continuous data representation
+- ✅ Appropriate graphical representation decisions
+- ✅ Critical graph manipulation analysis</p>
+
+<p><strong>Enhanced Analysis:</strong>
+- ✅ Modal class identification (highest frequency)
+- ✅ Summary measure appropriateness analysis
+- ✅ New question formulation from conclusions</p>
+
+<p><strong>Communication Skills:</strong>
+- ✅ Statistical reports with data stories
+- ✅ Digital infographics (rigorous, non-misleading)</p>
+
+<p><strong>Equiprobable Events:</strong>
+- ✅ Equal probability outcome identification
+- ✅ Equiprobable vs non-equiprobable distinction</p>
+
+<h3 id="grade-7-advanced-statistical-analysis">Grade 7: Advanced Statistical Analysis</h3>
+
+<p><strong>Enhanced Data Collection:</strong>
+- ✅ Variable classification (qualitative: nominal/ordinal; quantitative: discrete/continuous)
+- ✅ Population vs sample distinction
+- ✅ Representative sample selection planning
+- ✅ Discrete data class grouping when necessary</p>
+
+<p><strong>Advanced Graphics:</strong>
+- ✅ Bivariate line graphs (with time variable)
+- ✅ Overlapping bar charts for two data sets
+- ✅ Appropriate representation decision-making</p>
+
+<p><strong>Statistical Measures:</strong>
+- ✅ Median as central location measure
+- ✅ Range as dispersion measure
+- ✅ Central vs dispersion measure differences
+- ✅ Ungrouped vs grouped data measure differences</p>
+
+<p><strong>Professional Communication:</strong>
+- ✅ Target audience-specific communication resources
+- ✅ Statistical study sharing with data stories
+- ✅ Critical media communication analysis</p>
+
+<p><strong>Composite Events:</strong>
+- ✅ Multiple outcome event probability as sum of constituent probabilities</p>
+
+<h3 id="grade-8-complete-statistical-studies">Grade 8: Complete Statistical Studies</h3>
+
+<p><strong>Comprehensive Data Handling:</strong>
+- ✅ Complete statistical study process
+- ✅ Discrete data grouping in classes
+- ✅ Credible internet data collection</p>
+
+<p><strong>Box Plot Analysis:</strong>
+- ✅ Box plot representation with proper elements
+- ✅ Data alteration influence on box plot interpretation
+- ✅ Comparative analysis capabilities</p>
+
+<p><strong>Advanced Statistical Measures:</strong>
+- ✅ Quartile meaning and calculation strategies
+- ✅ Interquartile range as dispersion measure
+- ✅ Appropriate summary measure critical analysis</p>
+
+<p><strong>Theoretical Probability:</strong>
+- ✅ Random experience characteristics
+- ✅ Sample space/results space concepts
+- ✅ Certain and impossible events
+- ✅ Events as sample space subsets
+- ✅ Elementary events and probability sum = 1
+- ✅ Probability table construction
+- ✅ Theoretical probability estimation</p>
+
+<h3 id="grade-9-advanced-probability-and-communication">Grade 9: Advanced Probability and Communication</h3>
+
+<p><strong>Advanced Data Representation:</strong>
+- ✅ Continuous data class construction/pre-grouped data work
+- ✅ Histogram representation capabilities
+- ✅ Parallel box-and-whisker plots
+- ✅ Same data/different histogram recognition</p>
+
+<p><strong>Sophisticated Analysis:</strong>
+- ✅ Location and dispersion measure interpretation related to graphics
+- ✅ Critical summary measure appropriateness analysis
+- ✅ Evidence-based decision justification</p>
+
+<p><strong>Professional Communication:</strong>
+- ✅ Audience-specific communication resource development
+- ✅ Emerging question formulation for future studies
+- ✅ Critical statistical communication analysis in media</p>
+
+<p><strong>Advanced Probability:</strong>
+- ✅ Event representation (Venn diagrams, tree diagrams, tables)
+- ✅ Union and intersection operations
+- ✅ Complementary and contrary events
+- ✅ Disjoint/mutually exclusive events
+- ✅ Laplace rule application
+- ✅ Disjoint event union probability calculation</p>
+
+<h3 id="assessment-checkpoints-by-grade-3">Assessment Checkpoints by Grade</h3>
+
+<p><strong>Grade 5:</strong> Basic statistical process, simple probability estimation
+<strong>Grade 6:</strong> Continuous data handling, equiprobable recognition
+<strong>Grade 7:</strong> Complete statistical studies, advanced measures
+<strong>Grade 8:</strong> Box plots, theoretical probability, professional communication
+<strong>Grade 9:</strong> Advanced probability operations, sophisticated analysis</p>
+
+<p><span class="emoji-icon">📊</span> <strong>Culminating Visual:</strong> "The Data Investigation Cycle" - complete statistical inquiry process</p>
+
+<hr />
+
+<h2 id="4-geometry-measurement-geometry-measurement">4. GEOMETRY &amp; MEASUREMENT {#geometry-measurement}</h2>
+
+<h3 id="the-geometric-understanding-journey">The Geometric Understanding Journey <span class="emoji-icon">📐</span></h3>
+
+<p><strong>Conceptual Progression:</strong></p>
+
+<pre class="code-block"><code>Grade 5: Basic Shapes → Plane Figures → 3D Introduction
+Grade 6: Polygons → Circles → Volume Concepts
+Grade 7: Angles → Similar Figures → Regular Polyhedra
+Grade 8: Pythagorean Theorem → Transformations → Surface Area
+Grade 9: Circle Properties → Trigonometry → Advanced Constructions
+</code></pre>
+
+<h3 id="grade-5-geometric-foundation">Grade 5: Geometric Foundation</h3>
+
+<p><strong>Plane Figures:</strong>
+- ✅ Lines, rays, line segments distinction
+- ✅ Parallel and concurrent line relationships
+- ✅ Angle measurement and classification
+- ✅ Angle construction with given measures
+- ✅ Triangle classification (sides and angles)
+- ✅ Triangle construction and possibility cases
+- ✅ Triangle congruence criteria
+- ✅ Equivalent figures concept
+- ✅ Parallelogram and triangle area formulas</p>
+
+<p><strong>Space Figures:</strong>
+- ✅ Parallel and perpendicular face identification in prisms
+- ✅ Hierarchical classification (prisms→rectangular parallelepipeds→cubes)
+- ✅ Polyhedra regularity conjecture formation
+- ✅ Net construction and polyhedron relationships
+- ✅ Multiple nets for same polyhedron</p>
+
+<p><span class="emoji-icon">📊</span> <strong>Visual Metaphor:</strong> "Geometry as Spatial Language" - shapes communicate spatial relationships</p>
+
+<h3 id="grade-6-polygon-and-circle-mastery">Grade 6: Polygon and Circle Mastery</h3>
+
+<p><strong>Advanced Plane Figures:</strong>
+- ✅ Concave vs convex polygon distinction
+- ✅ Regular vs irregular polygon distinction
+- ✅ Circle perimeter/diameter direct proportionality (π)
+- ✅ Circle area expression knowledge
+- ✅ Complementary and supplementary angle classification
+- ✅ Triangle internal and external angle sum conjectures</p>
+
+<p><strong>Volume Introduction:</strong>
+- ✅ Volume concept understanding
+- ✅ Volume measurement with appropriate units
+- ✅ Cubic decimeter/liter correspondence
+- ✅ Parallelepiped, cube, cylinder volume expressions
+- ✅ Volume calculation through structured counting</p>
+
+<p><strong>Geometric Operations:</strong>
+- ✅ Rotation image construction (points and polygons)
+- ✅ Rosette rotation and reflection symmetry analysis
+- ✅ Reflection axes/minimum rotation angle relationships
+- ✅ Rosette construction through successive rotations</p>
+
+<h3 id="grade-7-angles-and-similarity">Grade 7: Angles and Similarity</h3>
+
+<p><strong>Polygon Properties:</strong>
+- ✅ Internal/external angle identification in convex polygons
+- ✅ Internal/external angle sum formulas (generalization and justification)
+- ✅ Alternate internal angle equality (parallel lines with secant)
+- ✅ Vertically opposite angle equality recognition</p>
+
+<p><strong>Quadrilateral Mastery:</strong>
+- ✅ Quadrilateral diagonal identification
+- ✅ Diagonal property description and application
+- ✅ Hierarchical quadrilateral classification (including trapezoid and kite)
+- ✅ Trapezoid, rhombus, kite area formulas using other figures</p>
+
+<p><strong>Similar Figures:</strong>
+- ✅ Similar figures as same-shape figures (enlargement/reduction)
+- ✅ Similar polygon identification and similarity ratio
+- ✅ Homothety image construction
+- ✅ Map scale similarity with cross-curricular connections
+- ✅ Triangle similarity criteria identification
+- ✅ Perimeter and area ratios in similar figures</p>
+
+<p><strong>Regular Polyhedra:</strong>
+- ✅ Regular vs irregular polyhedra distinction
+- ✅ 3D model and net construction
+- ✅ Polyhedra visualization capabilities
+- ✅ Existing regular polyhedra identification and non-existence justification
+- ✅ Euler's formula inference (faces, edges, vertices)</p>
+
+<h3 id="grade-8-pythagorean-theorem-and-transformations">Grade 8: Pythagorean Theorem and Transformations</h3>
+
+<p><strong>Pythagorean Theorem:</strong>
+- ✅ Theorem explanation in own words
+- ✅ Theorem application in various contexts
+- ✅ Theorem demonstration understanding
+- ✅ Problem-solving requiring theorem use</p>
+
+<p><strong>Regular Polygon Areas:</strong>
+- ✅ Regular polygon area calculation</p>
+
+<p><strong>Vector Transformations:</strong>
+- ✅ Vector meaning and addition
+- ✅ Translation with vector association
+- ✅ Glide reflection construction
+- ✅ Translation composition with vector addition relationship
+- ✅ Simple frieze construction
+- ✅ Symmetry identification including translation and glide reflection
+- ✅ Real-world symmetry interpretation and modeling</p>
+
+<p><strong>Surface Area and Volume:</strong>
+- ✅ Cylinder and cone net construction (both directions)
+- ✅ Right prism, regular pyramid, cylinder, cone surface area
+- ✅ Right prism, regular pyramid, cone, sphere volume
+- ✅ Problem solving through composition/decomposition</p>
+
+<h3 id="grade-9-advanced-circle-geometry-and-trigonometry">Grade 9: Advanced Circle Geometry and Trigonometry</h3>
+
+<p><strong>Circle Properties:</strong>
+- ✅ Central and inscribed angle recognition
+- ✅ Central angle/arc/chord relationships
+- ✅ Inscribed angle/associated arc relationships
+- ✅ Inscribed and central angle relationships (same arc)
+- ✅ Circumference tangent perpendicular to radius
+- ✅ Circumference problem solving with studied relations
+- ✅ Quadrilateral classification and inscribed quadrilateral reasoning</p>
+
+<p><strong>Geometric Constructions:</strong>
+- ✅ Geometric loci identification (circumference, circle, angle bisector, perpendicular bisector)
+- ✅ Regular polygon construction inscribed in circumference
+- ✅ Dynamic geometry environment constructions
+- ✅ Complex constructions using geometric loci, polygons, angles, isometries</p>
+
+<p><strong>Trigonometry:</strong>
+- ✅ Sine, cosine, tangent identification for acute angles
+- ✅ Trigonometric ratio distinction through simple situations
+- ✅ Problem solving using trigonometric ratios</p>
+
+<h3 id="assessment-checkpoints-by-grade-4">Assessment Checkpoints by Grade</h3>
+
+<p><strong>Grade 5:</strong> Basic constructions, triangle properties, area calculations, polyhedra nets
+<strong>Grade 6:</strong> Polygon classification, circle properties, volume concepts, symmetries
+<strong>Grade 7:</strong> Angle relationships, similarity concepts, regular polyhedra, Euler's formula
+<strong>Grade 8:</strong> Pythagorean theorem, transformations, surface area/volume calculations
+<strong>Grade 9:</strong> Circle geometry, trigonometric ratios, advanced constructions</p>
+
+<p><span class="emoji-icon">📊</span> <strong>Culminating Visual:</strong> "The Geometric Universe" - from basic shapes to advanced spatial relationships</p>
+
+<hr />
+
+<h2 id="assessment-framework-assessment-framework">ASSESSMENT FRAMEWORK {#assessment-framework}</h2>
+
+<h3 id="formative-assessment-strategies">Formative Assessment Strategies</h3>
+
+<p><strong>Continuous Learning Integration:</strong>
+- Error as learning opportunity
+- Student self-regulation development
+- Criteria negotiation and appropriation
+- Process-focused evaluation</p>
+
+<p><strong>Daily Assessment Tools:</strong>
+- Mathematical discussion participation
+- Problem-solving process observation
+- Representation creation and interpretation
+- Peer explanation quality</p>
+
+<h3 id="summative-assessment-design">Summative Assessment Design</h3>
+
+<p><strong>Assessment Principle: Coherence with Curriculum Components</strong></p>
+
+<table>
+<thead>
+<tr>
+  <th><strong>Assessment Type</strong></th>
+  <th><strong>Mathematical Knowledge</strong></th>
+  <th><strong>Mathematical Capacities</strong></th>
+  <th><strong>Real-World Application</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>Problem Sets</strong></td>
+  <td>Procedural fluency</td>
+  <td>Problem-solving strategies</td>
+  <td>Context-rich problems</td>
+</tr>
+<tr>
+  <td><strong>Projects</strong></td>
+  <td>Concept integration</td>
+  <td>Communication, connections</td>
+  <td>Authentic applications</td>
+</tr>
+<tr>
+  <td><strong>Presentations</strong></td>
+  <td>Content mastery</td>
+  <td>Reasoning, representations</td>
+  <td>Mathematical modeling</td>
+</tr>
+<tr>
+  <td><strong>Portfolio</strong></td>
+  <td>Learning progression</td>
+  <td>Reflection, growth</td>
+  <td>Personal connections</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="grade-specific-assessment-focus">Grade-Specific Assessment Focus</h3>
+
+<p><strong>Grades 5-6: Foundation Building</strong>
+- Procedural fluency with basic operations
+- Pattern recognition and simple reasoning
+- Basic communication of mathematical thinking
+- Concrete representation usage</p>
+
+<p><strong>Grades 7-8: Concept Integration</strong>
+- Multi-step problem solving
+- Algebraic thinking and symbol manipulation
+- Statistical investigation completion
+- Geometric reasoning with proofs</p>
+
+<p><strong>Grade 9: Advanced Applications</strong>
+- Complex problem solving across themes
+- Abstract reasoning and justification
+- Independent mathematical investigation
+- Sophisticated mathematical communication</p>
+
+<h3 id="assessment-rubrics-by-mathematical-capacity">Assessment Rubrics by Mathematical Capacity</h3>
+
+<p><strong>Problem Solving Assessment:</strong>
+- <strong>Emerging:</strong> Identifies problem requirements with support
+- <strong>Developing:</strong> Applies familiar strategies systematically
+- <strong>Proficient:</strong> Selects appropriate strategies independently
+- <strong>Advanced:</strong> Adapts and combines strategies creatively</p>
+
+<p><strong>Mathematical Reasoning Assessment:</strong>
+- <strong>Emerging:</strong> Makes observations with prompting
+- <strong>Developing:</strong> Forms simple conjectures with examples
+- <strong>Proficient:</strong> Justifies conclusions with logical arguments
+- <strong>Advanced:</strong> Creates sophisticated proofs and generalizations</p>
+
+<p><strong>Communication Assessment:</strong>
+- <strong>Emerging:</strong> Uses basic mathematical vocabulary
+- <strong>Developing:</strong> Explains thinking with some clarity
+- <strong>Proficient:</strong> Communicates ideas precisely using appropriate representations
+- <strong>Advanced:</strong> Teaches others and engages in mathematical discourse</p>
+
+<hr />
+
+<h2 id="quick-reference-guides-quick-reference">QUICK REFERENCE GUIDES {#quick-reference}</h2>
+
+<h3 id="for-teachers-concept-coverage-checklist">For Teachers: Concept Coverage Checklist</h3>
+
+<h4 id="grade-5-essential-coverage">Grade 5 Essential Coverage ✅</h4>
+
+<ul>
+<li><input type="checkbox" onclick="this.disabled=true" class="task-list-item-checkbox" disabled> Natural numbers (multiples, divisors, primes, powers)</li>
+<li><input type="checkbox" onclick="this.disabled=true" class="task-list-item-checkbox" disabled> Fractions and decimals (operations, equivalence)</li>
+<li><input type="checkbox" onclick="this.disabled=true" class="task-list-item-checkbox" disabled> Basic sequences and algebraic expressions</li>
+<li><input type="checkbox" onclick="this.disabled=true" class="task-list-item-checkbox" disabled> Statistical investigations with mean</li>
+<li><input type="checkbox" onclick="this.disabled=true" class="task-list-item-checkbox" disabled> Basic geometry (triangles, area, polyhedra nets)</li>
+</ul>
+
+<h4 id="grade-6-essential-coverage">Grade 6 Essential Coverage ✅</h4>
+
+<ul>
+<li><input type="checkbox" onclick="this.disabled=true" class="task-list-item-checkbox" disabled> LCM/GCD and fraction mastery</li>
+<li><input type="checkbox" onclick="this.disabled=true" class="task-list-item-checkbox" disabled> Proportional relationships</li>
+<li><input type="checkbox" onclick="this.disabled=true" class="task-list-item-checkbox" disabled> Continuous data and histograms</li>
+<li><input type="checkbox" onclick="this.disabled=true" class="task-list-item-checkbox" disabled> Polygon classification and volume</li>
+<li><input type="checkbox" onclick="this.disabled=true" class="task-list-item-checkbox" disabled> Geometric transformations (rotation)</li>
+</ul>
+
+<h4 id="grade-7-essential-coverage">Grade 7 Essential Coverage ✅</h4>
+
+<ul>
+<li><input type="checkbox" onclick="this.disabled=true" class="task-list-item-checkbox" disabled> Integer and rational number systems</li>
+<li><input type="checkbox" onclick="this.disabled=true" class="task-list-item-checkbox" disabled> First degree equations and functions</li>
+<li><input type="checkbox" onclick="this.disabled=true" class="task-list-item-checkbox" disabled> Advanced statistical analysis</li>
+<li><input type="checkbox" onclick="this.disabled=true" class="task-list-item-checkbox" disabled> Angle relationships and similarity</li>
+<li><input type="checkbox" onclick="this.disabled=true" class="task-list-item-checkbox" disabled> Regular polyhedra and Euler's formula</li>
+</ul>
+
+<h4 id="grade-8-essential-coverage">Grade 8 Essential Coverage ✅</h4>
+
+<ul>
+<li><input type="checkbox" onclick="this.disabled=true" class="task-list-item-checkbox" disabled> Rational operations and roots</li>
+<li><input type="checkbox" onclick="this.disabled=true" class="task-list-item-checkbox" disabled> Polynomials and equation systems</li>
+<li><input type="checkbox" onclick="this.disabled=true" class="task-list-item-checkbox" disabled> Box plots and theoretical probability</li>
+<li><input type="checkbox" onclick="this.disabled=true" class="task-list-item-checkbox" disabled> Pythagorean theorem and transformations</li>
+<li><input type="checkbox" onclick="this.disabled=true" class="task-list-item-checkbox" disabled> Surface area and volume calculations</li>
+</ul>
+
+<h4 id="grade-9-essential-coverage">Grade 9 Essential Coverage ✅</h4>
+
+<ul>
+<li><input type="checkbox" onclick="this.disabled=true" class="task-list-item-checkbox" disabled> Real number system</li>
+<li><input type="checkbox" onclick="this.disabled=true" class="task-list-item-checkbox" disabled> Quadratic equations and functions</li>
+<li><input type="checkbox" onclick="this.disabled=true" class="task-list-item-checkbox" disabled> Advanced probability and statistics</li>
+<li><input type="checkbox" onclick="this.disabled=true" class="task-list-item-checkbox" disabled> Circle geometry and trigonometry</li>
+<li><input type="checkbox" onclick="this.disabled=true" class="task-list-item-checkbox" disabled> Complex geometric constructions</li>
+</ul>
+
+<h3 id="for-students-topic-location-guide">For Students: Topic Location Guide</h3>
+
+<p><strong>Numbers Questions:</strong>
+- Natural numbers → Grade 5
+- Fractions/Decimals → Grades 5-6
+- Integers → Grade 7
+- Rational Operations → Grade 8
+- Real Numbers → Grade 9</p>
+
+<p><strong>Algebra Questions:</strong>
+- Patterns → Grade 5
+- Proportions → Grade 6
+- Equations → Grade 7
+- Systems → Grade 8
+- Quadratics → Grade 9</p>
+
+<p><strong>Data Questions:</strong>
+- Basic stats → Grade 5
+- Continuous data → Grade 6
+- Advanced analysis → Grade 7
+- Box plots → Grade 8
+- Advanced probability → Grade 9</p>
+
+<p><strong>Geometry Questions:</strong>
+- Basic shapes → Grade 5
+- Polygons/circles → Grade 6
+- Angles/similarity → Grade 7
+- Pythagorean/transformations → Grade 8
+- Circles/trigonometry → Grade 9</p>
+
+<h3 id="essential-formulas-by-grade">Essential Formulas by Grade</h3>
+
+<p><strong>Grade 5-6:</strong>
+- Area: Rectangle = l×w, Triangle = ½bh, Circle = πr²
+- Volume: Rectangular prism = l×w×h, Cylinder = πr²h</p>
+
+<p><strong>Grade 7-8:</strong>
+- Pythagorean Theorem: a² + b² = c²
+- Surface Area: Prism = 2B + Ph, Cylinder = 2πr² + 2πrh</p>
+
+<p><strong>Grade 9:</strong>
+- Quadratic: ax² + bx + c = 0
+- Trigonometry: sin θ = opposite/hypotenuse, cos θ = adjacent/hypotenuse, tan θ = opposite/adjacent</p>
+
+<h3 id="visual-teaching-resources">Visual Teaching Resources</h3>
+
+<p><span class="emoji-icon">📊</span> <strong>Ready-to-Use Poster Concepts:</strong></p>
+
+<ol>
+<li><strong>"The Problem Solver's Toolkit"</strong> - Problem-solving strategies visual</li>
+<li><strong>"From Pattern to Proof"</strong> - Mathematical reasoning development</li>
+<li><strong>"Number as Language"</strong> - Multiple representations of same number</li>
+<li><strong>"The Mathematical Universe"</strong> - Number system relationships</li>
+<li><strong>"Functions as Machines"</strong> - Input-process-output visualization</li>
+<li><strong>"Statistics as Storytelling"</strong> - Data investigation cycle</li>
+<li><strong>"Geometry as Spatial Language"</strong> - Shape relationship communication</li>
+</ol>
+
+<h3 id="cross-curricular-connections">Cross-Curricular Connections <span class="emoji-icon">🔗</span></h3>
+
+<p><strong>Science Integration:</strong>
+- Scientific notation in chemistry/physics
+- Statistical analysis in biology experiments
+- Geometric properties in physics (optics, mechanics)
+- Mathematical modeling in all sciences</p>
+
+<p><strong>Art Integration:</strong>
+- Geometric patterns and symmetries
+- Proportional relationships in design
+- Data visualization as artistic expression
+- Mathematical beauty and aesthetic principles</p>
+
+<p><strong>Technology Integration:</strong>
+- Computational thinking across programming
+- Data analysis in digital projects
+- Geometric construction in design software
+- Mathematical modeling in simulations</p>
+
+<hr />
+
+<h2 id="conclusion">CONCLUSION</h2>
+
+<p>This unified manual transforms five separate grade curricula into an integrated mathematical journey. By organizing content thematically rather than by grade levels, it reveals the beautiful coherence of mathematical learning—how each concept builds naturally into the next, creating a spiral of understanding that deepens with each encounter.</p>
+
+<p>For teachers, this manual provides the "big picture" view essential for spiral curriculum planning, while offering practical tools for visual, engaging mathematics instruction. For students, it serves as a comprehensive reference and roadmap, showing not just what they're learning, but where they're going and why it matters.</p>
+
+<p>Mathematics is not a collection of isolated skills, but a unified language for understanding patterns, relationships, and structures in our world. This manual honors that unity while providing the practical support needed to guide students on their mathematical journey from Grade 5 through Grade 9.</p>
+
+<hr />
+
+<p><em>Created for OMSN Teaching Manual Project</em>
+<em>Supporting visual, creative, and integrated mathematics education</em></p>
+
+        </main>
+    </div>
+
+    <script>
+        // Theme Toggle
+        function toggleTheme() {
+            const body = document.body;
+            const currentTheme = body.dataset.theme;
+            const newTheme = currentTheme === 'dark' ? '' : 'dark';
+            body.dataset.theme = newTheme;
+            localStorage.setItem('theme', newTheme);
+        }
+
+        // Load saved theme
+        window.addEventListener('DOMContentLoaded', () => {
+            const savedTheme = localStorage.getItem('theme');
+            if (savedTheme) {
+                document.body.dataset.theme = savedTheme;
+            }
+        });
+
+        // Progress Bar
+        function updateProgressBar() {
+            const scrollTop = window.scrollY;
+            const documentHeight = document.documentElement.scrollHeight - window.innerHeight;
+            const progress = (scrollTop / documentHeight) * 100;
+            document.getElementById('progress-bar').style.width = progress + '%';
+        }
+
+        window.addEventListener('scroll', updateProgressBar);
+
+        // Active Navigation Highlighting
+        function updateActiveNavigation() {
+            const headers = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
+            const navLinks = document.querySelectorAll('.nav-toc a');
+            let activeLink = null;
+            let topMostVisibleHeader = null;
+
+            // Find the topmost header that's currently visible (within viewport)
+            headers.forEach((header) => {
+                const rect = header.getBoundingClientRect();
+                // Header is visible if it's above the fold but not too far up
+                if (rect.top <= 150 && rect.bottom >= 0) {
+                    if (!topMostVisibleHeader || rect.top > topMostVisibleHeader.getBoundingClientRect().top) {
+                        topMostVisibleHeader = header;
+                    }
+                }
+            });
+
+            // If we found a visible header, find the corresponding nav link
+            if (topMostVisibleHeader) {
+                const headerId = topMostVisibleHeader.id ||
+                    topMostVisibleHeader.textContent.toLowerCase()
+                        .replace(/[^a-zA-Z0-9_-]/g, '-')
+                        .replace(/-+/g, '-')
+                        .replace(/^-|-$/g, '');
+
+                navLinks.forEach(link => {
+                    if (link.getAttribute('href') === `#${headerId}`) {
+                        activeLink = link;
+                    }
+                });
+            }
+
+            navLinks.forEach(link => link.classList.remove('active'));
+            if (activeLink) {
+                activeLink.classList.add('active');
+            }
+        }
+
+        window.addEventListener('scroll', updateActiveNavigation);
+
+        // Search Functionality
+        function searchContent(query) {
+            const content = document.getElementById('main-content');
+            const originalContent = content.dataset.originalContent || content.innerHTML;
+            content.dataset.originalContent = originalContent;
+
+            if (!query.trim()) {
+                content.innerHTML = originalContent;
+                return;
+            }
+
+            const regex = new RegExp(`(${query})`, 'gi');
+            const highlightedContent = originalContent.replace(regex, '<mark style="background: var(--accent-color); color: white; padding: 2px 4px; border-radius: 3px;">$1</mark>');
+            content.innerHTML = highlightedContent;
+        }
+
+        // Smooth Scrolling for Navigation Links
+        document.addEventListener('DOMContentLoaded', () => {
+            const navLinks = document.querySelectorAll('.nav-toc a');
+            navLinks.forEach(link => {
+                link.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    const targetId = link.getAttribute('href').substring(1);
+                    const targetElement = document.getElementById(targetId);
+                    if (targetElement) {
+                        targetElement.scrollIntoView({ behavior: 'smooth' });
+                    }
+                });
+            });
+
+            // Add copy functionality to code blocks
+            addCopyButtonsToCodeBlocks();
+
+            // Make large sections collapsible
+            makeCollapsibleSections();
+        });
+
+        // Copy Button for Code Blocks
+        function addCopyButtonsToCodeBlocks() {
+            const codeBlocks = document.querySelectorAll('pre');
+            codeBlocks.forEach(block => {
+                block.classList.add('code-block');
+                const button = document.createElement('button');
+                button.className = 'copy-button';
+                button.textContent = 'Copy';
+                button.onclick = () => {
+                    navigator.clipboard.writeText(block.textContent);
+                    button.textContent = 'Copied!';
+                    setTimeout(() => button.textContent = 'Copy', 2000);
+                };
+                block.appendChild(button);
+            });
+        }
+
+        // Collapsible Sections
+        function makeCollapsibleSections() {
+            const headers = document.querySelectorAll('h2, h3');
+            headers.forEach(header => {
+                if (header.nextElementSibling &&
+                    (header.nextElementSibling.tagName === 'DIV' ||
+                     header.nextElementSibling.tagName === 'UL' ||
+                     header.nextElementSibling.tagName === 'TABLE')) {
+
+                    header.classList.add('collapsible-header');
+                    const content = header.nextElementSibling;
+                    content.classList.add('collapsible-content');
+
+                    header.addEventListener('click', () => {
+                        header.classList.toggle('collapsed');
+                        content.classList.toggle('collapsed');
+                    });
+                }
+            });
+        }
+
+        // Initialize on load
+        window.addEventListener('DOMContentLoaded', () => {
+            updateProgressBar();
+            updateActiveNavigation();
+        });
+    </script>
+</body>
+</html>

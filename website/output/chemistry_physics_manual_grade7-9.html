@@ -1,0 +1,1630 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CHEMISTRY &amp; PHYSICS TEACHING MANUAL - OMSN Teaching Manual</title>
+    <style>
+        :root {
+            --primary-color: #2563eb;
+            --secondary-color: #1e40af;
+            --accent-color: #f59e0b;
+            --background-color: #ffffff;
+            --surface-color: #f8fafc;
+            --text-color: #1f2937;
+            --text-secondary: #6b7280;
+            --border-color: #e5e7eb;
+            --success-color: #059669;
+            --warning-color: #d97706;
+            --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        [data-theme="dark"] {
+            --background-color: #1a202c;
+            --surface-color: #2d3748;
+            --text-color: #f7fafc;
+            --text-secondary: #a0aec0;
+            --border-color: #4a5568;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: var(--background-color);
+            margin: 0;
+            padding: 0;
+            transition: var(--transition);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 300px 1fr;
+            gap: 2rem;
+            padding: 1rem;
+            min-height: 100vh;
+        }
+
+        /* Navigation Sidebar */
+        .nav-sidebar {
+            position: sticky;
+            top: 1rem;
+            height: fit-content;
+            background: var(--surface-color);
+            border-radius: 12px;
+            padding: 1.5rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            border: 1px solid var(--border-color);
+        }
+
+        .nav-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1.5rem;
+            padding-bottom: 1rem;
+            border-bottom: 2px solid var(--border-color);
+        }
+
+        .nav-title {
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: var(--primary-color);
+            margin: 0;
+        }
+
+        .theme-toggle {
+            background: none;
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 0.5rem;
+            cursor: pointer;
+            font-size: 1.2rem;
+            transition: var(--transition);
+        }
+
+        .theme-toggle:hover {
+            background: var(--primary-color);
+            color: white;
+        }
+
+        .search-box {
+            width: 100%;
+            padding: 0.75rem;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            background: var(--background-color);
+            color: var(--text-color);
+            font-size: 0.9rem;
+            margin-bottom: 1rem;
+            transition: var(--transition);
+        }
+
+        .search-box:focus {
+            outline: none;
+            border-color: var(--primary-color);
+            box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+        }
+
+        .nav-toc {
+            max-height: 70vh;
+            overflow-y: auto;
+        }
+
+        .nav-toc ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .nav-toc li {
+            margin: 0.25rem 0;
+        }
+
+        .nav-toc a {
+            display: block;
+            padding: 0.5rem 0.75rem;
+            color: var(--text-secondary);
+            text-decoration: none;
+            border-radius: 6px;
+            font-size: 0.9rem;
+            transition: var(--transition);
+            border-left: 3px solid transparent;
+        }
+
+        .nav-toc a:hover {
+            background: var(--primary-color);
+            color: white;
+            transform: translateX(4px);
+        }
+
+        .nav-toc a.active {
+            background: var(--primary-color);
+            color: white;
+            border-left-color: var(--accent-color);
+        }
+
+        .nav-toc .level-1 { padding-left: 0.75rem; font-weight: 600; }
+        .nav-toc .level-2 { padding-left: 1.5rem; }
+        .nav-toc .level-3 { padding-left: 2.25rem; font-size: 0.85rem; }
+        .nav-toc .level-4 { padding-left: 3rem; font-size: 0.8rem; }
+
+        .progress-bar {
+            height: 3px;
+            background: var(--border-color);
+            border-radius: 3px;
+            margin-bottom: 1rem;
+            overflow: hidden;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, var(--primary-color), var(--accent-color));
+            width: 0%;
+            transition: width 0.1s ease-out;
+        }
+
+        /* Main Content */
+        .main-content {
+            background: var(--surface-color);
+            border-radius: 12px;
+            padding: 2rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            border: 1px solid var(--border-color);
+            min-height: 90vh;
+        }
+
+        /* Typography */
+        h1, h2, h3, h4, h5, h6 {
+            color: var(--text-color);
+            margin: 2rem 0 1rem 0;
+            line-height: 1.3;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 800;
+            color: var(--primary-color);
+            margin-bottom: 2rem;
+            padding-bottom: 1rem;
+            border-bottom: 3px solid var(--accent-color);
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: var(--secondary-color);
+            margin-top: 3rem;
+            padding: 1rem 0 0.5rem 0;
+            border-bottom: 2px solid var(--border-color);
+        }
+
+        h3 {
+            font-size: 1.4rem;
+            font-weight: 600;
+            color: var(--primary-color);
+        }
+
+        h4 {
+            font-size: 1.2rem;
+            font-weight: 600;
+        }
+
+        /* Content Elements */
+        p {
+            margin: 1rem 0;
+            text-align: justify;
+        }
+
+        /* Lists */
+        ul, ol {
+            margin: 1rem 0;
+            padding-left: 2rem;
+        }
+
+        li {
+            margin: 0.5rem 0;
+            display: list-item;
+            list-style-position: outside;
+        }
+
+        /* Force list items to stack vertically, not horizontally */
+        li {
+            display: list-item !important;
+            width: 100%;
+            clear: both;
+        }
+
+        /* Special List Styling */
+        ul li::marker {
+            content: "▶ ";
+            color: var(--primary-color);
+        }
+
+        /* Handle inline content within list items */
+        li > * {
+            display: inline;
+        }
+
+        /* But allow block elements to be block */
+        li > p, li > div, li > ul, li > ol {
+            display: block;
+        }
+
+        /* Fix for checkboxes mixed with regular bullets */
+        ul li {
+            list-style-type: none;
+            position: relative;
+            padding-left: 1.5rem;
+        }
+
+        ul li::before {
+            content: "▶";
+            color: var(--primary-color);
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+
+        /* Override for checkbox items */
+        ul li:has(input[type="checkbox"])::before {
+            content: none;
+        }
+
+        /* Checkboxes */
+        li:has(input[type="checkbox"]) {
+            list-style: none;
+            margin-left: -2rem;
+            padding-left: 2rem;
+        }
+
+        input[type="checkbox"] {
+            margin-right: 0.5rem;
+            transform: scale(1.2);
+            accent-color: var(--success-color);
+        }
+
+        /* Tables */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.5rem 0;
+            background: var(--background-color);
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        th, td {
+            padding: 1rem;
+            text-align: left;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        th {
+            background: var(--primary-color);
+            color: white;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            font-size: 0.9rem;
+        }
+
+        tr:nth-child(even) {
+            background: var(--surface-color);
+        }
+
+        tr:hover {
+            background: rgba(37, 99, 235, 0.05);
+        }
+
+        /* Code and Pre */
+        code {
+            background: var(--surface-color);
+            color: var(--accent-color);
+            padding: 0.2rem 0.4rem;
+            border-radius: 4px;
+            font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+            font-size: 0.9em;
+            font-weight: 600;
+        }
+
+        pre {
+            background: var(--surface-color);
+            padding: 1.5rem;
+            border-radius: 8px;
+            overflow-x: auto;
+            border-left: 4px solid var(--primary-color);
+            margin: 1.5rem 0;
+        }
+
+        pre code {
+            background: none;
+            color: var(--text-color);
+            padding: 0;
+        }
+
+        /* Blockquotes */
+        blockquote {
+            margin: 1.5rem 0;
+            padding: 1rem 1.5rem;
+            background: rgba(37, 99, 235, 0.05);
+            border-left: 4px solid var(--primary-color);
+            border-radius: 0 8px 8px 0;
+            font-style: italic;
+        }
+
+        /* Links */
+        a {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: 500;
+            transition: var(--transition);
+        }
+
+        a:hover {
+            color: var(--secondary-color);
+            text-decoration: underline;
+        }
+
+        /* Emoji and Icons */
+        .emoji-icon {
+            font-size: 1.2em;
+            margin-right: 0.5rem;
+        }
+
+        /* Special Content Markers */
+        .visual-marker {
+            display: inline-block;
+            background: linear-gradient(135deg, var(--accent-color), #f97316);
+            color: white;
+            padding: 0.3rem 0.6rem;
+            border-radius: 6px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            margin-right: 0.5rem;
+        }
+
+        .connection-marker {
+            display: inline-block;
+            background: linear-gradient(135deg, var(--success-color), #10b981);
+            color: white;
+            padding: 0.3rem 0.6rem;
+            border-radius: 6px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            margin-right: 0.5rem;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 1024px) {
+            .container {
+                grid-template-columns: 250px 1fr;
+                gap: 1rem;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                grid-template-columns: 1fr;
+                gap: 1rem;
+            }
+
+            .nav-sidebar {
+                position: static;
+                margin-bottom: 1rem;
+            }
+
+            .nav-toc {
+                max-height: 300px;
+            }
+
+            h1 {
+                font-size: 2rem;
+            }
+
+            h2 {
+                font-size: 1.5rem;
+            }
+
+            .main-content {
+                padding: 1.5rem;
+            }
+        }
+
+        /* Print Styles */
+        @media print {
+            .nav-sidebar {
+                display: none;
+            }
+
+            .container {
+                grid-template-columns: 1fr;
+            }
+
+            .main-content {
+                box-shadow: none;
+                border: none;
+                padding: 0;
+            }
+
+            h1, h2, h3, h4, h5, h6 {
+                page-break-after: avoid;
+            }
+
+            table {
+                page-break-inside: avoid;
+            }
+        }
+
+        /* Smooth Scrolling */
+        html {
+            scroll-behavior: smooth;
+        }
+
+        /* Loading Animation */
+        .loading {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 3px solid var(--border-color);
+            border-radius: 50%;
+            border-top-color: var(--primary-color);
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        /* Collapsible Sections */
+        .collapsible-header {
+            cursor: pointer;
+            user-select: none;
+            display: flex;
+            align-items: center;
+            transition: var(--transition);
+        }
+
+        .collapsible-header:hover {
+            color: var(--primary-color);
+        }
+
+        .collapsible-header::before {
+            content: "▼";
+            margin-right: 0.5rem;
+            transition: transform 0.3s;
+        }
+
+        .collapsible-header.collapsed::before {
+            transform: rotate(-90deg);
+        }
+
+        .collapsible-content {
+            overflow: hidden;
+            transition: max-height 0.3s ease-out;
+        }
+
+        .collapsible-content.collapsed {
+            max-height: 0;
+        }
+
+        /* Copy Button for Code */
+        .code-block {
+            position: relative;
+        }
+
+        .copy-button {
+            position: absolute;
+            top: 0.5rem;
+            right: 0.5rem;
+            background: var(--primary-color);
+            color: white;
+            border: none;
+            border-radius: 4px;
+            padding: 0.3rem 0.6rem;
+            font-size: 0.8rem;
+            cursor: pointer;
+            opacity: 0;
+            transition: var(--transition);
+        }
+
+        .code-block:hover .copy-button {
+            opacity: 1;
+        }
+
+        .copy-button:hover {
+            background: var(--secondary-color);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Navigation Sidebar -->
+        <nav class="nav-sidebar">
+            <div class="nav-header">
+                <h3 class="nav-title">Navigation</h3>
+                <div style="display: flex; gap: 0.5rem;">
+                    <button class="theme-toggle" onclick="window.location.href='index.html'" title="Return to manual collection" style="background: var(--success-color); color: white;">🏠</button>
+                    <button class="theme-toggle" onclick="toggleTheme()" title="Toggle dark/light theme">🌓</button>
+                </div>
+            </div>
+
+            <input type="text" class="search-box" placeholder="Search in document..." onkeyup="searchContent(this.value)">
+
+            <div class="progress-bar">
+                <div class="progress-fill" id="progress-bar"></div>
+            </div>
+
+            <div class="nav-toc" id="table-of-contents">
+                <ul>
+<li><a href="#portuguese-curriculum-grades-7-9" class="level-2">Portuguese Curriculum Grades 7-9</a></li>
+<li><a href="#table-of-contents" class="level-2">TABLE OF CONTENTS</a></li>
+<li><a href="#how-to-use-this-manual-how-to-use" class="level-2">HOW TO USE THIS MANUAL {#how-to-use}</a></li>
+<li><a href="#for-teachers" class="level-3">For Teachers 👩‍🔬</a></li>
+<li><a href="#for-students" class="level-3">For Students 📚</a></li>
+<li><a href="#scientific-competencies-transversal-scientific-competencies" class="level-2">SCIENTIFIC COMPETENCIES (TRANSVERSAL) {#scientific-competencies}</a></li>
+<li><a href="#experimental-investigation" class="level-3">Experimental Investigation 🧪</a></li>
+<li><a href="#scientific-reasoning" class="level-3">Scientific Reasoning 🔍</a></li>
+<li><a href="#scientific-communication" class="level-3">Scientific Communication 💬</a></li>
+<li><a href="#mathematical-applications-in-science" class="level-3">Mathematical Applications in Science 📊</a></li>
+<li><a href="#scientific-models-and-representations" class="level-3">Scientific Models and Representations 🎯</a></li>
+<li><a href="#scientific-themes-by-progression-scientific-themes" class="level-2">SCIENTIFIC THEMES BY PROGRESSION {#scientific-themes}</a></li>
+<li><a href="#1-matter-materials-matter-materials" class="level-2">1. MATTER &amp; MATERIALS {#matter-materials}</a></li>
+<li><a href="#the-matter-understanding-journey" class="level-3">The Matter Understanding Journey ⚛️</a></li>
+<li><a href="#grade-7-material-foundation" class="level-3">Grade 7: Material Foundation</a></li>
+<li><a href="#grade-8-chemical-reactions" class="level-3">Grade 8: Chemical Reactions</a></li>
+<li><a href="#grade-9-advanced-chemical-concepts" class="level-3">Grade 9: Advanced Chemical Concepts</a></li>
+<li><a href="#assessment-checkpoints-by-grade" class="level-3">Assessment Checkpoints by Grade</a></li>
+<li><a href="#2-energy-transformations-energy-transformations" class="level-2">2. ENERGY &amp; TRANSFORMATIONS {#energy-transformations}</a></li>
+<li><a href="#the-energy-understanding-journey" class="level-3">The Energy Understanding Journey ⚡</a></li>
+<li><a href="#grade-7-energy-foundation" class="level-3">Grade 7: Energy Foundation</a></li>
+<li><a href="#grade-8-advanced-energy-concepts" class="level-3">Grade 8: Advanced Energy Concepts</a></li>
+<li><a href="#grade-9-energy-systems" class="level-3">Grade 9: Energy Systems</a></li>
+<li><a href="#3-waves-information-waves-information" class="level-2">3. WAVES &amp; INFORMATION {#waves-information}</a></li>
+<li><a href="#the-wave-understanding-journey" class="level-3">The Wave Understanding Journey 🌊</a></li>
+<li><a href="#grade-8-sound-and-acoustics" class="level-3">Grade 8: Sound and Acoustics</a></li>
+<li><a href="#grade-8-light-and-optics" class="level-3">Grade 8: Light and Optics</a></li>
+<li><a href="#grade-9-advanced-wave-applications" class="level-3">Grade 9: Advanced Wave Applications</a></li>
+<li><a href="#4-forces-motion-forces-motion" class="level-2">4. FORCES &amp; MOTION {#forces-motion}</a></li>
+<li><a href="#the-mechanics-understanding-journey" class="level-3">The Mechanics Understanding Journey 🚀</a></li>
+<li><a href="#grade-7-gravitational-systems" class="level-3">Grade 7: Gravitational Systems</a></li>
+<li><a href="#grade-9-motion-and-forces" class="level-3">Grade 9: Motion and Forces</a></li>
+<li><a href="#assessment-checkpoints-by-grade" class="level-3">Assessment Checkpoints by Grade</a></li>
+<li><a href="#5-atomic-structure-chemical-bonding-atomic-structure" class="level-2">5. ATOMIC STRUCTURE &amp; CHEMICAL BONDING {#atomic-structure}</a></li>
+<li><a href="#the-atomic-understanding-journey" class="level-3">The Atomic Understanding Journey ⚛️</a></li>
+<li><a href="#grade-8-atomic-foundation" class="level-3">Grade 8: Atomic Foundation</a></li>
+<li><a href="#grade-9-advanced-atomic-theory" class="level-3">Grade 9: Advanced Atomic Theory</a></li>
+<li><a href="#assessment-checkpoints" class="level-3">Assessment Checkpoints</a></li>
+<li><a href="#assessment-framework-assessment-framework" class="level-2">ASSESSMENT FRAMEWORK {#assessment-framework}</a></li>
+<li><a href="#laboratory-assessment-integration" class="level-3">Laboratory Assessment Integration</a></li>
+<li><a href="#grade-specific-assessment-focus" class="level-3">Grade-Specific Assessment Focus</a></li>
+<li><a href="#cross-curricular-assessment" class="level-3">Cross-Curricular Assessment</a></li>
+<li><a href="#quick-reference-guides-quick-reference" class="level-2">QUICK REFERENCE GUIDES {#quick-reference}</a></li>
+<li><a href="#laboratory-safety-checklist" class="level-3">Laboratory Safety Checklist 🛡️</a></li>
+<li><a href="#essential-formulas-by-grade" class="level-3">Essential Formulas by Grade</a></li>
+<li><a href="#experimental-techniques-reference" class="level-3">Experimental Techniques Reference</a></li>
+<li><a href="#scientific-vocabulary-by-theme" class="level-3">Scientific Vocabulary by Theme</a></li>
+<li><a href="#cross-curricular-connections" class="level-3">Cross-Curricular Connections 🔗</a></li>
+<li><a href="#conclusion" class="level-2">CONCLUSION</a></li>
+</ul>
+            </div>
+        </nav>
+
+        <!-- Main Content -->
+        <main class="main-content" id="main-content">
+            <h1 id="chemistry-physics-teaching-manual">CHEMISTRY &amp; PHYSICS TEACHING MANUAL</h1>
+
+<h2 id="portuguese-curriculum-grades-7-9">Portuguese Curriculum Grades 7-9</h2>
+
+<p><em>A Thematically-Organized Guide for Teachers and Students</em></p>
+
+<hr />
+
+<h2 id="table-of-contents">TABLE OF CONTENTS</h2>
+
+<p><strong><a href="#how-to-use">PART A: HOW TO USE THIS MANUAL</a></strong>
+- For Teachers
+- For Students
+- Visual Teaching Support</p>
+
+<p><strong><a href="#scientific-competencies">PART B: SCIENTIFIC COMPETENCIES (TRANSVERSAL)</a></strong>
+- Experimental Investigation
+- Scientific Reasoning
+- Scientific Communication
+- Mathematical Applications in Science
+- Scientific Models and Representations</p>
+
+<p><strong><a href="#scientific-themes">PART C: SCIENTIFIC THEMES BY PROGRESSION</a></strong>
+1. <a href="#matter-materials">Matter &amp; Materials</a>
+2. <a href="#energy-transformations">Energy &amp; Transformations</a>
+3. <a href="#waves-information">Waves &amp; Information</a>
+4. <a href="#forces-motion">Forces &amp; Motion</a>
+5. <a href="#atomic-structure">Atomic Structure &amp; Chemical Bonding</a></p>
+
+<p><strong><a href="#assessment-framework">PART D: ASSESSMENT FRAMEWORK</a></strong></p>
+
+<p><strong><a href="#quick-reference">PART E: QUICK REFERENCE GUIDES</a></strong></p>
+
+<hr />
+
+<h2 id="how-to-use-this-manual-how-to-use">HOW TO USE THIS MANUAL {#how-to-use}</h2>
+
+<h3 id="for-teachers">For Teachers 👩‍🔬</h3>
+
+<p><strong>Integrated Science Planning:</strong>
+- Use progression matrices to see how concepts build across grades
+- Track experimental skills development with laboratory checklists
+- Plan investigations using the "Prior Knowledge" connections</p>
+
+<p><strong>Visual Teaching Support:</strong>
+- Each theme includes suggestions for visual demonstrations
+- Laboratory-ready experiments marked with 🧪
+- Cross-curricular connections highlighted with <span class="emoji-icon">🔗</span></p>
+
+<p><strong>Safety and Methodology:</strong>
+- Start with Scientific Competencies to frame learning objectives
+- Choose appropriate grade-level content from theme progressions
+- Always follow laboratory safety protocols and guidelines</p>
+
+<h3 id="for-students">For Students <span class="emoji-icon">📚</span></h3>
+
+<p><strong>Quick Reference:</strong>
+- Find topics you've learned using the grade-level indicators
+- Use concept maps to see how scientific ideas connect
+- Check your understanding with the milestone markers</p>
+
+<p><strong>Study Support:</strong>
+- Each theme shows what you'll learn next
+- Visual summaries help remember key concepts
+- Real-world applications show why science matters</p>
+
+<p><strong>Laboratory Guide:</strong>
+- Index of all experiments with grade references
+- Essential procedures and safety guidelines
+- Scientific method application reminders</p>
+
+<hr />
+
+<h2 id="scientific-competencies-transversal-scientific-competencies">SCIENTIFIC COMPETENCIES (TRANSVERSAL) {#scientific-competencies}</h2>
+
+<p><em>These skills develop across all grades and all scientific themes</em></p>
+
+<h3 id="experimental-investigation">Experimental Investigation 🧪</h3>
+
+<p><strong>Grade 7-9 Progression:</strong></p>
+
+<table>
+<thead>
+<tr>
+  <th><strong>Competency</strong></th>
+  <th><strong>Grade 7</strong></th>
+  <th><strong>Grade 8</strong></th>
+  <th><strong>Grade 9</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>Hypothesis Formation</strong></td>
+  <td>Simple predictions</td>
+  <td>Testable hypotheses</td>
+  <td>Complex variable relationships</td>
+</tr>
+<tr>
+  <td><strong>Experimental Design</strong></td>
+  <td>Guided procedures</td>
+  <td>Independent planning</td>
+  <td>Control variables identification</td>
+</tr>
+<tr>
+  <td><strong>Data Collection</strong></td>
+  <td>Basic measurements</td>
+  <td>Systematic recording</td>
+  <td>Precision and accuracy</td>
+</tr>
+<tr>
+  <td><strong>Analysis &amp; Conclusion</strong></td>
+  <td>Observation description</td>
+  <td>Pattern identification</td>
+  <td>Evidence-based reasoning</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Key Teaching Strategies:</strong>
+- <strong>Visual Metaphor:</strong> Investigation as "Scientific Detective Work"
+- Use the scientific method: Question → Hypothesis → Experiment → Analysis → Conclusion
+- Build laboratory skills progressively
+- Emphasize evidence-based conclusions, not just observations</p>
+
+<p><span class="emoji-icon">📊</span> <strong>Poster Concept:</strong> "The Scientific Method" - visual guide to investigation process</p>
+
+<h3 id="scientific-reasoning">Scientific Reasoning <span class="emoji-icon">🔍</span></h3>
+
+<p><strong>Core Development Arc:</strong></p>
+
+<table>
+<thead>
+<tr>
+  <th><strong>Skill</strong></th>
+  <th><strong>Grade 7</strong></th>
+  <th><strong>Grade 8</strong></th>
+  <th><strong>Grade 9</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>Cause-Effect Relationships</strong></td>
+  <td>Simple connections</td>
+  <td>Multiple factors</td>
+  <td>Complex systems</td>
+</tr>
+<tr>
+  <td><strong>Model Development</strong></td>
+  <td>Concrete models</td>
+  <td>Abstract representations</td>
+  <td>Mathematical models</td>
+</tr>
+<tr>
+  <td><strong>Theory Application</strong></td>
+  <td>Basic concepts</td>
+  <td>Law applications</td>
+  <td>Predictive reasoning</td>
+</tr>
+<tr>
+  <td><strong>Critical Analysis</strong></td>
+  <td>Observation evaluation</td>
+  <td>Method critique</td>
+  <td>Theory assessment</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Teaching Focus:</strong>
+- Move from observation to explanation to prediction
+- Use models to represent scientific phenomena
+- Build from concrete experiences to abstract theories
+- Connect reasoning across scientific disciplines</p>
+
+<p><span class="emoji-icon">📊</span> <strong>Poster Concept:</strong> "From Observation to Theory" - scientific reasoning pathway</p>
+
+<h3 id="scientific-communication">Scientific Communication <span class="emoji-icon">💬</span></h3>
+
+<p><strong>Communication Skills Development:</strong></p>
+
+<table>
+<thead>
+<tr>
+  <th><strong>Grade Band</strong></th>
+  <th><strong>Oral Expression</strong></th>
+  <th><strong>Written Expression</strong></th>
+  <th><strong>Representation Use</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><strong>7</strong></td>
+  <td>Basic scientific vocabulary</td>
+  <td>Simple lab reports</td>
+  <td>Diagrams and charts</td>
+</tr>
+<tr>
+  <td><strong>8</strong></td>
+  <td>Structured explanations</td>
+  <td>Formal reports</td>
+  <td>Data visualization</td>
+</tr>
+<tr>
+  <td><strong>9</strong></td>
+  <td>Scientific presentations</td>
+  <td>Research-style writing</td>
+  <td>Multiple representation integration</td>
+</tr>
+</tbody>
+</table>
+
+<p><strong>Teaching Strategies:</strong>
+- Scientific discussions and debates
+- Laboratory report writing
+- Peer explanation and teaching
+- Scientific journal reading and critique</p>
+
+<h3 id="mathematical-applications-in-science">Mathematical Applications in Science <span class="emoji-icon">📊</span></h3>
+
+<p><strong>Mathematical Integration:</strong></p>
+
+<p><strong>Grade 7:</strong> Basic calculations, unit conversions, simple graphs
+<strong>Grade 8:</strong> Proportional relationships, scientific notation, data analysis
+<strong>Grade 9:</strong> Complex calculations, statistical analysis, modeling</p>
+
+<p><strong>Key Applications:</strong>
+- Physics: Motion calculations, force analysis, energy transformations
+- Chemistry: Concentration calculations, stoichiometry, reaction rates
+- General: Measurement, graphing, statistical analysis</p>
+
+<h3 id="scientific-models-and-representations">Scientific Models and Representations 🎯</h3>
+
+<p><strong>Model Development Progression:</strong></p>
+
+<p><strong>Grade 7:</strong> Physical models (atomic structure, molecular representations)
+<strong>Grade 8:</strong> Mathematical models (equations, relationships)
+<strong>Grade 9:</strong> Predictive models (theoretical frameworks, applications)</p>
+
+<p><strong>Key Representations by Theme:</strong>
+- Matter: Atomic models, molecular diagrams, state representations
+- Energy: Energy diagrams, transformation chains, conservation models
+- Waves: Wave diagrams, frequency-wavelength relationships
+- Forces: Force diagrams, motion graphs, vector representations</p>
+
+<hr />
+
+<h2 id="scientific-themes-by-progression-scientific-themes">SCIENTIFIC THEMES BY PROGRESSION {#scientific-themes}</h2>
+
+<h2 id="1-matter-materials-matter-materials">1. MATTER &amp; MATERIALS {#matter-materials}</h2>
+
+<h3 id="the-matter-understanding-journey">The Matter Understanding Journey ⚛️</h3>
+
+<p><strong>Conceptual Progression:</strong></p>
+
+<pre class="code-block"><code>Grade 7: Material Diversity → Substances &amp; Mixtures → Physical/Chemical Changes
+Grade 8: Atomic Structure → Chemical Reactions → Reaction Types
+Grade 9: Periodic Properties → Chemical Bonding → Molecular Structure
+</code></pre>
+
+<h3 id="grade-7-material-foundation">Grade 7: Material Foundation</h3>
+
+<p><strong>Material Diversity and Classification:</strong>
+- ✅ Material identification and classification criteria
+- ✅ Natural vs synthetic materials recognition
+- ✅ Material properties and applications
+- ✅ Chemistry as the science studying material properties and transformations</p>
+
+<p><strong>Substances and Mixtures:</strong>
+- ✅ Pure substances vs mixtures distinction
+- ✅ Homogeneous and heterogeneous mixture classification
+- ✅ Mixture separation techniques (decantation, filtration, distillation)
+- ✅ Solution concept and concentration (mass percentage)</p>
+
+<p><strong>Physical and Chemical Properties:</strong>
+- ✅ Melting and boiling points as characteristic properties
+- ✅ Density determination and applications
+- ✅ Physical vs chemical transformations distinction
+- ✅ State changes and water cycle explanation</p>
+
+<p>🧪 <strong>Key Experiments:</strong>
+- Mixture separation techniques
+- Density measurement of solids and liquids
+- Solution preparation with specific concentration</p>
+
+<p><span class="emoji-icon">📊</span> <strong>Visual Metaphor:</strong> "Matter as Building Blocks" - different arrangements create different materials</p>
+
+<h3 id="grade-8-chemical-reactions">Grade 8: Chemical Reactions</h3>
+
+<p><strong>Atomic Structure and Chemical Symbols:</strong>
+- ✅ Matter's corpuscular nature (atoms, molecules, ions)
+- ✅ Atomic structure: nucleus (protons, neutrons) and electrons
+- ✅ Element identification by chemical symbols
+- ✅ Molecule and ion definition and representation</p>
+
+<p><strong>Chemical Reactions:</strong>
+- ✅ Chemical reaction identification and representation
+- ✅ Lavoisier's contribution and mass conservation law
+- ✅ Chemical equation writing and balancing
+- ✅ Reactant and product identification</p>
+
+<p><strong>Reaction Types:</strong>
+- ✅ Combustion reactions and pollution implications
+- ✅ Acid-base reactions and pH scale
+- ✅ Precipitation reactions
+- ✅ Reaction rate factors and applications</p>
+
+<p>🧪 <strong>Key Experiments:</strong>
+- Mass conservation verification in closed systems
+- Acid-base indicator tests
+- Combustion reactions and products
+- Factors affecting reaction rates</p>
+
+<h3 id="grade-9-advanced-chemical-concepts">Grade 9: Advanced Chemical Concepts</h3>
+
+<p><strong>Atomic Structure Details:</strong>
+- ✅ Atomic number and mass number
+- ✅ Isotope concept and mass contributions
+- ✅ Electron distribution in energy levels
+- ✅ Valence electrons and chemical behavior</p>
+
+<p><strong>Periodic Table Organization:</strong>
+- ✅ Periodic table structure and organization
+- ✅ Element groups and period relationships
+- ✅ Metal and non-metal properties distinction
+- ✅ Periodic trends in atomic properties</p>
+
+<p><strong>Chemical Bonding:</strong>
+- ✅ Ionic bonding in salt formation
+- ✅ Covalent bonding in molecular substances
+- ✅ Metallic bonding properties
+- ✅ Molecular structure and properties relationships</p>
+
+<p>🧪 <strong>Key Experiments:</strong>
+- Periodic property investigation
+- Ionic compound synthesis
+- Molecular model construction
+- Bonding type prediction activities</p>
+
+<h3 id="assessment-checkpoints-by-grade">Assessment Checkpoints by Grade</h3>
+
+<p><strong>Grade 7:</strong> Material classification, mixture separation, solution preparation
+<strong>Grade 8:</strong> Chemical equation balancing, reaction type identification, experimental design
+<strong>Grade 9:</strong> Periodic trends, bonding predictions, molecular structure analysis</p>
+
+<hr />
+
+<h2 id="2-energy-transformations-energy-transformations">2. ENERGY &amp; TRANSFORMATIONS {#energy-transformations}</h2>
+
+<h3 id="the-energy-understanding-journey">The Energy Understanding Journey ⚡</h3>
+
+<p><strong>Conceptual Progression:</strong></p>
+
+<pre class="code-block"><code>Grade 7: Energy Forms → Energy Transfer → Temperature &amp; Heat
+Grade 8: Energy Conservation → Thermal Phenomena → Energy Applications
+Grade 9: Energy Systems → Efficiency → Sustainable Energy
+</code></pre>
+
+<h3 id="grade-7-energy-foundation">Grade 7: Energy Foundation</h3>
+
+<p><strong>Energy Sources and Forms:</strong>
+- ✅ Energy system definition and internal energy concept
+- ✅ Renewable vs non-renewable energy source identification
+- ✅ Energy transfer and global conservation
+- ✅ Energy unit (joule) and conversions</p>
+
+<p><strong>Temperature and Heat:</strong>
+- ✅ Temperature measurement and scale understanding
+- ✅ Heat as energy transfer between different temperatures
+- ✅ Thermal equilibrium concept
+- ✅ Particle motion and temperature relationship</p>
+
+<p><strong>Heat Transfer Mechanisms:</strong>
+- ✅ Conduction in solids and material conductivity
+- ✅ Convection in liquids and gases
+- ✅ Radiation as light propagation energy transfer
+- ✅ Heat transfer applications in construction and daily life</p>
+
+<p>🧪 <strong>Key Experiments:</strong>
+- Temperature measurement with thermometers
+- Heat transfer mechanism demonstrations
+- Thermal conductivity testing
+- Energy transfer observations</p>
+
+<p><span class="emoji-icon">📊</span> <strong>Visual Metaphor:</strong> "Energy as Universal Currency" - can be exchanged but never destroyed</p>
+
+<h3 id="grade-8-advanced-energy-concepts">Grade 8: Advanced Energy Concepts</h3>
+
+<p><strong>Energy Conservation and Efficiency:</strong>
+- ✅ Energy conservation principle applications
+- ✅ Energy efficiency calculations and improvements
+- ✅ Energy loss identification and minimization
+- ✅ Sustainable energy practices</p>
+
+<p><strong>Thermal Applications:</strong>
+- ✅ Heat engine principles and applications
+- ✅ Refrigeration and cooling systems
+- ✅ Insulation properties and applications
+- ✅ Energy optimization in buildings</p>
+
+<p>🧪 <strong>Key Experiments:</strong>
+- Energy efficiency measurements
+- Heat engine demonstrations
+- Insulation effectiveness testing
+- Solar energy applications</p>
+
+<h3 id="grade-9-energy-systems">Grade 9: Energy Systems</h3>
+
+<p><strong>Complex Energy Analysis:</strong>
+- ✅ Energy system analysis and optimization
+- ✅ Energy transformation chains
+- ✅ Environmental impact assessment
+- ✅ Future energy technologies</p>
+
+<p>🧪 <strong>Key Experiments:</strong>
+- Comprehensive energy audits
+- Alternative energy source investigation
+- Energy transformation efficiency studies</p>
+
+<hr />
+
+<h2 id="3-waves-information-waves-information">3. WAVES &amp; INFORMATION {#waves-information}</h2>
+
+<h3 id="the-wave-understanding-journey">The Wave Understanding Journey 🌊</h3>
+
+<p><strong>Conceptual Progression:</strong></p>
+
+<pre class="code-block"><code>Grade 8: Sound Production → Wave Properties → Sound Perception → Acoustic Phenomena
+Grade 8: Light as Wave → Optical Phenomena → Vision and Optics
+Grade 9: Wave Applications → Information Transfer → Communication Technologies
+</code></pre>
+
+<h3 id="grade-8-sound-and-acoustics">Grade 8: Sound and Acoustics</h3>
+
+<p><strong>Sound Production and Propagation:</strong>
+- ✅ Vibration as repetitive motion around equilibrium
+- ✅ Sound production through material vibrations
+- ✅ Sound frequency definition and measurement (Hz)
+- ✅ Sound propagation in different media (not in vacuum)</p>
+
+<p><strong>Wave Properties:</strong>
+- ✅ Wave as vibration propagation result
+- ✅ Amplitude identification in water, string, and spring waves
+- ✅ Wave frequency and period relationships
+- ✅ Sound as pressure wave in air</p>
+
+<p><strong>Sound Attributes and Detection:</strong>
+- ✅ Intensity, pitch, and timbre as distinguishing attributes
+- ✅ Sound intensity and pressure amplitude relationship
+- ✅ Pitch-frequency association (high-acute, low-grave)
+- ✅ Pure vs complex sound distinction through oscilloscope</p>
+
+<p><strong>Human Hearing:</strong>
+- ✅ Ear anatomy and sound reception function
+- ✅ Audible frequency range and infrasound/ultrasound
+- ✅ Sound intensity level measurement (decibels, sonometer)
+- ✅ Hearing thresholds and audiogram interpretation</p>
+
+<p><strong>Acoustic Phenomena:</strong>
+- ✅ Sound reflection and echo formation
+- ✅ Sound absorption and reverberation
+- ✅ Sound refraction in different media
+- ✅ Noise pollution prevention and acoustic isolation</p>
+
+<p>🧪 <strong>Key Experiments:</strong>
+- Sound wave visualization with oscilloscope
+- Sound speed measurement in different materials
+- Acoustic phenomenon demonstrations
+- Hearing threshold testing</p>
+
+<h3 id="grade-8-light-and-optics">Grade 8: Light and Optics</h3>
+
+<p><strong>Light as Electromagnetic Wave:</strong>
+- ✅ Visible vs invisible light distinction in electromagnetic spectrum
+- ✅ Light and shadow formation principles
+- ✅ Luminous vs illuminated object distinction
+- ✅ Light speed as maximum information/energy transmission speed</p>
+
+<p><strong>Optical Phenomena:</strong>
+- ✅ Light reflection laws and verification
+- ✅ Specular vs diffuse reflection distinction
+- ✅ Light refraction and direction change
+- ✅ Monochromatic vs polychromatic light and dispersion</p>
+
+<p><strong>Vision and Optical Instruments:</strong>
+- ✅ Human eye as light receptor with lens system
+- ✅ Image formation on retina characteristics
+- ✅ Common vision defects (myopia, hypermetropia) and corrections
+- ✅ Lens types (convergent/divergent) and image characteristics</p>
+
+<p>🧪 <strong>Key Experiments:</strong>
+- Light reflection and refraction laws
+- Lens image formation studies
+- Optical instrument construction
+- Vision defect simulation and correction</p>
+
+<h3 id="grade-9-advanced-wave-applications">Grade 9: Advanced Wave Applications</h3>
+
+<p><strong>Wave Technology Applications:</strong>
+- ✅ Wave-based communication systems
+- ✅ Medical applications (ultrasound, X-rays)
+- ✅ Navigation and detection systems (sonar, radar)
+- ✅ Information encoding and transmission</p>
+
+<p><strong>Modern Communication:</strong>
+- ✅ Electromagnetic wave spectrum applications
+- ✅ Digital vs analog signal processing
+- ✅ Fiber optic communication principles
+- ✅ Wireless communication technologies</p>
+
+<p>🧪 <strong>Key Experiments:</strong>
+- Wave communication system construction
+- Signal transmission and reception
+- Optical fiber light transmission
+- Electromagnetic spectrum investigation</p>
+
+<hr />
+
+<h2 id="4-forces-motion-forces-motion">4. FORCES &amp; MOTION {#forces-motion}</h2>
+
+<h3 id="the-mechanics-understanding-journey">The Mechanics Understanding Journey 🚀</h3>
+
+<p><strong>Conceptual Progression:</strong></p>
+
+<pre class="code-block"><code>Grade 7: Earth-Moon System → Gravitational Forces → Planetary Motion
+Grade 9: Motion Description → Newton's Laws → Energy and Motion → Fluid Forces
+</code></pre>
+
+<h3 id="grade-7-gravitational-systems">Grade 7: Gravitational Systems</h3>
+
+<p><strong>Earth-Moon-Sun System:</strong>
+- ✅ Earth rotation period and consequences (day-night cycle)
+- ✅ Earth translation period and season formation
+- ✅ Moon phases and eclipse interpretation
+- ✅ Gravitational force as attractive, distance-acting force</p>
+
+<p><strong>Force and Gravity:</strong>
+- ✅ Force characterization by effects and vector representation
+- ✅ Force measurement with dynamometers
+- ✅ Gravitational force representation on Earth's surface
+- ✅ Weight vs mass distinction and proportionality</p>
+
+<p>🧪 <strong>Key Experiments:</strong>
+- Shadow length measurement throughout day
+- Force measurement with dynamometers
+- Weight-mass relationship investigation
+- Planetary motion simulation</p>
+
+<p><span class="emoji-icon">📊</span> <strong>Visual Metaphor:</strong> "Gravity as Universal Glue" - holds cosmic and earthly systems together</p>
+
+<h3 id="grade-9-motion-and-forces">Grade 9: Motion and Forces</h3>
+
+<p><strong>Motion Description:</strong>
+- ✅ Position indication requiring reference frame
+- ✅ Motion vs rest as relative concepts
+- ✅ Trajectory classification (rectilinear, curvilinear)
+- ✅ Distance traveled vs position distinction</p>
+
+<p><strong>Velocity and Acceleration:</strong>
+- ✅ Average speed definition and unit conversions
+- ✅ Velocity as vector with direction and magnitude
+- ✅ Motion classification (uniform, accelerated, decelerated)
+- ✅ Average acceleration definition and representation</p>
+
+<p><strong>Newton's Laws:</strong>
+- ✅ Force as interaction result between bodies (action-reaction)
+- ✅ Net force determination in force systems
+- ✅ Newton's fundamental law (F = ma) interpretation
+- ✅ Inertia association with mass</p>
+
+<p><strong>Motion Applications:</strong>
+- ✅ Vehicle collision analysis using dynamics laws
+- ✅ Safety equipment justification (seatbelts, airbags, helmets)
+- ✅ Pressure definition and safety applications
+- ✅ Friction force as motion opposition</p>
+
+<p><strong>Energy and Motion:</strong>
+- ✅ Kinetic and gravitational potential energy identification
+- ✅ Energy factor dependencies and relationships
+- ✅ Energy transformation during motion (potential ↔ kinetic)
+- ✅ Work as energy transfer through force action</p>
+
+<p><strong>Forces in Fluids:</strong>
+- ✅ Fluid definition (liquids and gases)
+- ✅ Buoyant force on floating objects
+- ✅ Archimedes' law verification and applications
+- ✅ Floating vs sinking factor analysis</p>
+
+<p>🧪 <strong>Key Experiments:</strong>
+- Motion analysis with position-time graphs
+- Force measurement and net force calculation
+- Energy transformation demonstrations
+- Buoyancy and floating experiments</p>
+
+<h3 id="assessment-checkpoints-by-grade-2">Assessment Checkpoints by Grade</h3>
+
+<p><strong>Grade 7:</strong> Gravitational concepts, force measurement, planetary motion understanding
+<strong>Grade 9:</strong> Motion description, Newton's laws application, energy calculations, fluid forces</p>
+
+<hr />
+
+<h2 id="5-atomic-structure-chemical-bonding-atomic-structure">5. ATOMIC STRUCTURE &amp; CHEMICAL BONDING {#atomic-structure}</h2>
+
+<h3 id="the-atomic-understanding-journey">The Atomic Understanding Journey ⚛️</h3>
+
+<p><strong>Conceptual Progression:</strong></p>
+
+<pre class="code-block"><code>Grade 8: Corpuscular Matter → Atomic Model → Chemical Symbols
+Grade 9: Electronic Structure → Periodic Organization → Bonding Types → Molecular Properties
+</code></pre>
+
+<h3 id="grade-8-atomic-foundation">Grade 8: Atomic Foundation</h3>
+
+<p><strong>Matter's Atomic Nature:</strong>
+- ✅ Matter composed of submicroscopic particles (atoms, molecules, ions)
+- ✅ Particle constant motion with space between them
+- ✅ Solid, liquid, gas differences based on particle freedom and proximity
+- ✅ Gas pressure as particle force per unit area</p>
+
+<p><strong>Basic Atomic Structure:</strong>
+- ✅ Atom composition: nucleus (protons, neutrons) and electrons
+- ✅ Atomic electrical neutrality
+- ✅ Different atom types as different chemical elements
+- ✅ Chemical symbol universality for elements</p>
+
+<p><strong>Ions and Molecules:</strong>
+- ✅ Ion definition as charged particle from electron gain/loss
+- ✅ Molecule as bonded atom group
+- ✅ Chemical formula interpretation for composition
+- ✅ Substance classification as elemental or compound</p>
+
+<p>🧪 <strong>Key Experiments:</strong>
+- Particle model demonstrations
+- Ion formation simulations
+- Molecular model construction
+- Chemical formula interpretation activities</p>
+
+<h3 id="grade-9-advanced-atomic-theory">Grade 9: Advanced Atomic Theory</h3>
+
+<p><strong>Detailed Atomic Structure:</strong>
+- ✅ Atomic model evolution recognition
+- ✅ Electron cloud as probability distribution around nucleus
+- ✅ Atomic size relationship to electron cloud limits
+- ✅ Electron energy levels and distribution principles</p>
+
+<p><strong>Periodic Table Mastery:</strong>
+- ✅ Periodic table organization by atomic number
+- ✅ Group and period definitions and relationships
+- ✅ Element property trends across periods and groups
+- ✅ Valence electron role in chemical behavior</p>
+
+<p><strong>Chemical Bonding Theory:</strong>
+- ✅ Ionic bonding through electron transfer
+- ✅ Covalent bonding through electron sharing
+- ✅ Metallic bonding in metal structures
+- ✅ Bonding type prediction from element properties</p>
+
+<p><strong>Molecular Structure and Properties:</strong>
+- ✅ Lewis structure representation for molecules
+- ✅ Molecular geometry and property relationships
+- ✅ Hydrocarbon identification and classification
+- ✅ Biological molecule importance (carbon-based)</p>
+
+<p>🧪 <strong>Key Experiments:</strong>
+- Electron configuration modeling
+- Periodic trend investigation
+- Ionic compound synthesis
+- Molecular geometry construction</p>
+
+<h3 id="assessment-checkpoints">Assessment Checkpoints</h3>
+
+<p><strong>Grade 8:</strong> Atomic structure basics, ion/molecule identification, formula interpretation
+<strong>Grade 9:</strong> Electron configuration, periodic trends, bonding predictions, molecular structure</p>
+
+<hr />
+
+<h2 id="assessment-framework-assessment-framework">ASSESSMENT FRAMEWORK {#assessment-framework}</h2>
+
+<h3 id="laboratory-assessment-integration">Laboratory Assessment Integration</h3>
+
+<p><strong>Experimental Skills Assessment:</strong>
+- Hypothesis formation and testing
+- Procedure design and safety implementation
+- Data collection accuracy and precision
+- Analysis and conclusion quality</p>
+
+<p><strong>Scientific Communication Assessment:</strong>
+- Laboratory report writing
+- Oral presentation of results
+- Scientific drawing and diagram quality
+- Data visualization and interpretation</p>
+
+<h3 id="grade-specific-assessment-focus">Grade-Specific Assessment Focus</h3>
+
+<p><strong>Grade 7: Foundation Building</strong>
+- Basic experimental procedures
+- Simple data collection and analysis
+- Fundamental concept identification
+- Safety protocol understanding</p>
+
+<p><strong>Grade 8: Skill Integration</strong>
+- Complex experimental design
+- Quantitative analysis and calculations
+- Multiple representation use
+- Scientific reasoning development</p>
+
+<p><strong>Grade 9: Advanced Applications</strong>
+- Independent investigation design
+- Sophisticated data analysis
+- Theoretical application to new situations
+- Scientific argumentation and critique</p>
+
+<h3 id="cross-curricular-assessment">Cross-Curricular Assessment</h3>
+
+<p><strong>Mathematics Integration:</strong>
+- Graph construction and interpretation
+- Statistical analysis of experimental data
+- Unit conversion and dimensional analysis
+- Proportional relationship identification</p>
+
+<p><strong>Language Arts Integration:</strong>
+- Scientific writing and communication
+- Technical vocabulary development
+- Research and information evaluation
+- Presentation and argumentation skills</p>
+
+<hr />
+
+<h2 id="quick-reference-guides-quick-reference">QUICK REFERENCE GUIDES {#quick-reference}</h2>
+
+<h3 id="laboratory-safety-checklist">Laboratory Safety Checklist 🛡️</h3>
+
+<p><strong>Before Experiment:</strong>
+- [ ] Read all procedures completely
+- [ ] Identify safety equipment locations
+- [ ] Check chemical hazard symbols
+- [ ] Prepare workspace organization</p>
+
+<p><strong>During Experiment:</strong>
+- [ ] Wear appropriate protective equipment
+- [ ] Follow procedures exactly as written
+- [ ] Report accidents immediately
+- [ ] Keep workspace clean and organized</p>
+
+<p><strong>After Experiment:</strong>
+- [ ] Dispose of materials properly
+- [ ] Clean equipment thoroughly
+- [ ] Wash hands before leaving laboratory
+- [ ] Complete safety documentation</p>
+
+<h3 id="essential-formulas-by-grade">Essential Formulas by Grade</h3>
+
+<p><strong>Grade 7:</strong>
+- Density = mass/volume
+- Concentration (%) = (solute mass/solution mass) × 100
+- Heat transfer: conduction, convection, radiation</p>
+
+<p><strong>Grade 8:</strong>
+- Wave speed = frequency × wavelength
+- Mass conservation in chemical reactions
+- Pressure = force/area</p>
+
+<p><strong>Grade 9:</strong>
+- F = ma (Newton's second law)
+- Kinetic energy ∝ mass × velocity²
+- Gravitational potential energy ∝ mass × height</p>
+
+<h3 id="experimental-techniques-reference">Experimental Techniques Reference</h3>
+
+<p><strong>Grade 7 Techniques:</strong>
+- Mixture separation methods
+- Density measurement
+- Temperature and heat measurement
+- Basic chemical testing</p>
+
+<p><strong>Grade 8 Techniques:</strong>
+- Chemical reaction observation
+- pH measurement and indicator use
+- Wave property measurement
+- Light and sound experiments</p>
+
+<p><strong>Grade 9 Techniques:</strong>
+- Motion analysis and graphing
+- Force measurement and analysis
+- Advanced chemical synthesis
+- Quantitative analysis methods</p>
+
+<h3 id="scientific-vocabulary-by-theme">Scientific Vocabulary by Theme</h3>
+
+<p><strong>Matter &amp; Materials:</strong>
+- Atom, molecule, ion, element, compound
+- Homogeneous, heterogeneous, solution, mixture
+- Physical properties, chemical properties
+- Melting point, boiling point, density</p>
+
+<p><strong>Energy &amp; Transformations:</strong>
+- Kinetic energy, potential energy, heat, temperature
+- Conduction, convection, radiation
+- Energy conservation, energy transfer
+- Renewable, non-renewable energy sources</p>
+
+<p><strong>Waves &amp; Information:</strong>
+- Frequency, wavelength, amplitude, period
+- Reflection, refraction, diffraction
+- Sound intensity, pitch, timbre
+- Electromagnetic spectrum, visible light</p>
+
+<p><strong>Forces &amp; Motion:</strong>
+- Reference frame, velocity, acceleration
+- Force, mass, weight, pressure
+- Newton's laws, inertia, momentum
+- Buoyancy, friction, gravitational force</p>
+
+<p><strong>Atomic Structure &amp; Bonding:</strong>
+- Proton, neutron, electron, nucleus
+- Atomic number, mass number, isotope
+- Ionic bonding, covalent bonding, metallic bonding
+- Periodic table, group, period, valence electrons</p>
+
+<h3 id="cross-curricular-connections">Cross-Curricular Connections <span class="emoji-icon">🔗</span></h3>
+
+<p><strong>Mathematics Integration:</strong>
+- Scientific notation and significant figures
+- Graphing and data analysis
+- Proportional relationships
+- Geometric applications in optics</p>
+
+<p><strong>Technology Integration:</strong>
+- Data collection with sensors
+- Computer modeling and simulation
+- Digital measurement tools
+- Scientific software applications</p>
+
+<p><strong>Environmental Science:</strong>
+- Climate change and energy
+- Pollution and chemical reactions
+- Sustainable technology development
+- Natural resource conservation</p>
+
+<hr />
+
+<h2 id="conclusion">CONCLUSION</h2>
+
+<p>This unified Chemistry &amp; Physics manual transforms the traditional subject separation into an integrated scientific understanding journey. By organizing content thematically rather than by strict disciplinary boundaries, it reveals the fundamental unity of physical science—how matter, energy, forces, and atomic structure work together to explain our natural world.</p>
+
+<p>For teachers, this manual provides the conceptual framework essential for integrated science instruction, while offering practical tools for safe, engaging laboratory experiences. For students, it serves as a comprehensive reference showing not just what they're learning, but how scientific concepts connect and apply to real-world situations.</p>
+
+<p>Science is not a collection of isolated facts, but a unified approach to understanding the natural world through observation, experimentation, and reasoning. This manual honors that unity while providing the practical support needed to guide students through their scientific journey from Grade 7 through Grade 9.</p>
+
+<p>The progression from basic material properties through atomic theory, from simple observations to complex scientific models, mirrors the historical development of scientific understanding while building the foundation for advanced study in chemistry, physics, and related fields.</p>
+
+<hr />
+
+<p><em>Created for OMSN Teaching Manual Project</em>
+<em>Supporting visual, experimental, and integrated science education</em></p>
+
+        </main>
+    </div>
+
+    <script>
+        // Theme Toggle
+        function toggleTheme() {
+            const body = document.body;
+            const currentTheme = body.dataset.theme;
+            const newTheme = currentTheme === 'dark' ? '' : 'dark';
+            body.dataset.theme = newTheme;
+            localStorage.setItem('theme', newTheme);
+        }
+
+        // Load saved theme
+        window.addEventListener('DOMContentLoaded', () => {
+            const savedTheme = localStorage.getItem('theme');
+            if (savedTheme) {
+                document.body.dataset.theme = savedTheme;
+            }
+        });
+
+        // Progress Bar
+        function updateProgressBar() {
+            const scrollTop = window.scrollY;
+            const documentHeight = document.documentElement.scrollHeight - window.innerHeight;
+            const progress = (scrollTop / documentHeight) * 100;
+            document.getElementById('progress-bar').style.width = progress + '%';
+        }
+
+        window.addEventListener('scroll', updateProgressBar);
+
+        // Active Navigation Highlighting
+        function updateActiveNavigation() {
+            const headers = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
+            const navLinks = document.querySelectorAll('.nav-toc a');
+            let activeLink = null;
+            let topMostVisibleHeader = null;
+
+            // Find the topmost header that's currently visible (within viewport)
+            headers.forEach((header) => {
+                const rect = header.getBoundingClientRect();
+                // Header is visible if it's above the fold but not too far up
+                if (rect.top <= 150 && rect.bottom >= 0) {
+                    if (!topMostVisibleHeader || rect.top > topMostVisibleHeader.getBoundingClientRect().top) {
+                        topMostVisibleHeader = header;
+                    }
+                }
+            });
+
+            // If we found a visible header, find the corresponding nav link
+            if (topMostVisibleHeader) {
+                const headerId = topMostVisibleHeader.id ||
+                    topMostVisibleHeader.textContent.toLowerCase()
+                        .replace(/[^a-zA-Z0-9_-]/g, '-')
+                        .replace(/-+/g, '-')
+                        .replace(/^-|-$/g, '');
+
+                navLinks.forEach(link => {
+                    if (link.getAttribute('href') === `#${headerId}`) {
+                        activeLink = link;
+                    }
+                });
+            }
+
+            navLinks.forEach(link => link.classList.remove('active'));
+            if (activeLink) {
+                activeLink.classList.add('active');
+            }
+        }
+
+        window.addEventListener('scroll', updateActiveNavigation);
+
+        // Search Functionality
+        function searchContent(query) {
+            const content = document.getElementById('main-content');
+            const originalContent = content.dataset.originalContent || content.innerHTML;
+            content.dataset.originalContent = originalContent;
+
+            if (!query.trim()) {
+                content.innerHTML = originalContent;
+                return;
+            }
+
+            const regex = new RegExp(`(${query})`, 'gi');
+            const highlightedContent = originalContent.replace(regex, '<mark style="background: var(--accent-color); color: white; padding: 2px 4px; border-radius: 3px;">$1</mark>');
+            content.innerHTML = highlightedContent;
+        }
+
+        // Smooth Scrolling for Navigation Links
+        document.addEventListener('DOMContentLoaded', () => {
+            const navLinks = document.querySelectorAll('.nav-toc a');
+            navLinks.forEach(link => {
+                link.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    const targetId = link.getAttribute('href').substring(1);
+                    const targetElement = document.getElementById(targetId);
+                    if (targetElement) {
+                        targetElement.scrollIntoView({ behavior: 'smooth' });
+                    }
+                });
+            });
+
+            // Add copy functionality to code blocks
+            addCopyButtonsToCodeBlocks();
+
+            // Make large sections collapsible
+            makeCollapsibleSections();
+        });
+
+        // Copy Button for Code Blocks
+        function addCopyButtonsToCodeBlocks() {
+            const codeBlocks = document.querySelectorAll('pre');
+            codeBlocks.forEach(block => {
+                block.classList.add('code-block');
+                const button = document.createElement('button');
+                button.className = 'copy-button';
+                button.textContent = 'Copy';
+                button.onclick = () => {
+                    navigator.clipboard.writeText(block.textContent);
+                    button.textContent = 'Copied!';
+                    setTimeout(() => button.textContent = 'Copy', 2000);
+                };
+                block.appendChild(button);
+            });
+        }
+
+        // Collapsible Sections
+        function makeCollapsibleSections() {
+            const headers = document.querySelectorAll('h2, h3');
+            headers.forEach(header => {
+                if (header.nextElementSibling &&
+                    (header.nextElementSibling.tagName === 'DIV' ||
+                     header.nextElementSibling.tagName === 'UL' ||
+                     header.nextElementSibling.tagName === 'TABLE')) {
+
+                    header.classList.add('collapsible-header');
+                    const content = header.nextElementSibling;
+                    content.classList.add('collapsible-content');
+
+                    header.addEventListener('click', () => {
+                        header.classList.toggle('collapsed');
+                        content.classList.toggle('collapsed');
+                    });
+                }
+            });
+        }
+
+        // Initialize on load
+        window.addEventListener('DOMContentLoaded', () => {
+            updateProgressBar();
+            updateActiveNavigation();
+        });
+    </script>
+</body>
+</html>
