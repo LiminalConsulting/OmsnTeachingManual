@@ -4,16 +4,19 @@
 
 We've successfully created an agent-based pipeline to refactor the Portuguese mathematics curriculum (grades 5-9) from grade-organized PDFs into a thematically-organized teaching manual. The infrastructure is complete and tested.
 
-**IMPORTANT**: All agents are defined in **English** but explicitly instructed to **preserve the original language** of source documents (Portuguese). Do NOT translate content - only reorganize it.
+**IMPORTANT**: All agents are defined in **English** but explicitly instructed to **preserve the original language** of source documents (Portuguese) during the reorganization process. Translation only happens in the final step.
 
 ## Your Task
 
-Process the remaining mathematics topics using our established 4-stage pipeline:
+Process the remaining mathematics topics using our established 5-stage pipeline:
 
 1. **EXTRACT**: Invoke topic-extractor sub-agent for each grade (5-9)
 2. **CONSOLIDATE**: Invoke topic-consolidator sub-agent to merge grades
 3. **DEDUPLICATE**: Invoke duplicate-remover sub-agent for final cleanup
 4. **REVIEW**: Invoke quality-reviewer sub-agent to validate output
+5. **TRANSLATE**: Invoke translator sub-agent to create English version
+
+**NOTE**: "Números primos" has already been completed as a proof-of-concept. Skip this topic and start with the remaining ~39 topics.
 
 ## How to Invoke Sub-Agents
 
@@ -52,13 +55,15 @@ text_versions/grade9_math.txt (132KB)
 .claude/agents/topic-consolidator.md   # Merges extractions from all 5 grades
 .claude/agents/duplicate-remover.md    # Removes marked duplicates conservatively
 .claude/agents/quality-reviewer.md     # Reviews final output for quality issues
+.claude/agents/translator.md           # Translates Portuguese final to English
 ```
 
 **Agent Features:**
 - All agents written in English for clarity
-- Explicit "PRESERVE ORIGINAL LANGUAGE" instructions
+- First 4 agents: Explicit "PRESERVE ORIGINAL LANGUAGE" instructions
 - topic-extractor uses table of contents + offset/limit for efficient reading
 - quality-reviewer checks language consistency, completeness, and alignment
+- translator creates English version as final step
 
 ### Progress Tracker
 ```
@@ -67,15 +72,16 @@ topic_index.md  # Contains ~40 topics to process
 
 ### Output Structure
 ```
-topics/raw/[topic]_g[5-9].md       # Extraction outputs
-topics/consolidated/[topic].md     # Consolidated outputs
-topics/clean/[topic]_final.md      # Final deduplicated versions
+topics/raw/[topic]_g[5-9].md       # Extraction outputs (Portuguese)
+topics/consolidated/[topic].md     # Consolidated outputs (Portuguese)
+topics/clean/[topic]_final.md      # Final deduplicated versions (Portuguese)
+topics/clean/[topic]_final_EN.md   # English translations
 ```
 
 ## Topic List (From topic_index.md)
 
 ### NÚMEROS (Numbers) - ~12 topics
-- [✅] Números primos (COMPLETE - proof of concept)
+- [✅] Números primos (COMPLETE - skip this one)
 - [ ] Múltiplos e divisores
 - [ ] Potências
 - [ ] Frações equivalentes
@@ -161,7 +167,14 @@ Use the quality-reviewer sub-agent to review topics/clean/fractions_equiv_final.
 and check for language consistency, completeness, and alignment with objectives
 ```
 
-**Step 5: Update Progress**
+**Step 5: Translate to English**
+
+```
+Use the translator sub-agent to translate topics/clean/fractions_equiv_final.md
+to English and save as topics/clean/fractions_equiv_final_EN.md
+```
+
+**Step 6: Update Progress**
 
 Mark "Frações equivalentes" with [✅] in topic_index.md
 
@@ -171,9 +184,11 @@ Mark "Frações equivalentes" with [✅] in topic_index.md
 
 **Missing Topics**: Like "Números primos", some topics may not appear in all grades. Agents should handle this gracefully (already tested).
 
-**Quality Preservation**: Agents are configured to preserve ALL detail from source PDFs. Only exact duplicates are removed. All content remains in original Portuguese - no translation occurs.
+**Quality Preservation**: Agents are configured to preserve ALL detail from source PDFs. Only exact duplicates are removed. Portuguese content is preserved through steps 1-4, then translated to English in step 5.
 
 **Table of Contents Strategy**: The topic-extractor uses the table of contents in each text file to identify exact line numbers, then uses Read with offset/limit to extract only the necessary lines. This avoids context limit issues.
+
+**Translation**: The final step creates an English translation of the deduplicated content. This gives you both versions side-by-side: `[topic]_final.md` (Portuguese) and `[topic]_final_EN.md` (English).
 
 **Progress Tracking**: Update topic_index.md after each batch completion.
 
@@ -195,9 +210,10 @@ Then await approval before proceeding to next batch.
 
 ## Success Criteria
 
-When all ~40 topics are processed:
+When all ~39 remaining topics are processed (remember: Números primos is already done):
 1. All topic_index.md items marked [✅]
-2. All topics have files in `topics/clean/`
-3. Ready to assemble into `Final_Mathematics_Manual.md`
+2. All topics have both Portuguese and English files in `topics/clean/`
+3. Each topic has: `[topic]_final.md` (Portuguese) and `[topic]_final_EN.md` (English)
+4. Ready to assemble into final manuals (Portuguese and English versions)
 
 Let me know when you're ready to begin!
