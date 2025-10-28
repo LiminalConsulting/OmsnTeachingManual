@@ -1,0 +1,1605 @@
+APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS
+
+
+
+
+8.º ANO | 3.º CICLO DO ENSINO BÁSICO
+
+MATEMÁTICA
+INTRODUÇÃO
+
+Este documento curricular apresenta as aprendizagens matemáticas a que os alunos do Ensino Básico devem ter acesso e o racional que
+as justifica. Foi elaborado por uma equipa pluridisciplinar, composta por especialistas em Didática da Matemática e em Matemática
+(Álgebra, Geometria e Estatística e Probabilidades) e por professores experientes dos diversos níveis de ensino: Ana Paula Canavarro
+(coordenadora), Célia Mestre, Dulce Gomes, Elvira Santos, Leonor Santos, Lina Brunheira, Manuela Vicente, Maria João Gouveia, Paulo
+Correia, Pedro Macias Marques e Rui Gonçalo Espadeiro.
+A Introdução do documento é composta por duas secções distintas. A primeira secção é comum a todo o Ensino Básico e define ideias-
+chave que abrangem todo este nível de ensino. A segunda secção diz respeito ao 3.º Ciclo e explicita os principais focos dos conteúdos de
+aprendizagem, organizados pelos diferentes temas, fazendo referência à articulação vertical com o ciclo anterior.
+Por simplificação do texto, este documento não adota linguagem sensível ao género mas assume, naturalmente, uma perspetiva
+inclusiva.
+APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+ 1. Matemática na Educação Básica
+
+ Porque devem todos aprender Matemática?
+  A Matemática tem um lugar privilegiado no currículo de inúmeros países, que se justifica por dois argumentos diferentes:
+
+   • Nenhum ser humano pode ficar privado de conhecer e tirar partido do património ímpar, científico e cultural, que a Matemática
+ constitui. Uma experiência matemática adequada proporciona às crianças e jovens a possibilidade de desenvolvimento pessoal cognitivo
+ e dota-os de ferramentas intelectuais relevantes para melhor conhecer, compreender e atuar no mundo em que vivem, prosseguir
+ estudos, aceder a uma profissão e exercer uma cidadania democrática.
+   • Nenhuma sociedade pode dispensar a preparação dos seus futuros cidadãos para os desafios que enfrenta, nomeadamente
+ científicos e tecnológicos, num mundo em que é preciso mobilizar múltiplas literacias para responder às exigências destes tempos de
+ imprevisibilidade e de mudanças aceleradas. A ideia de “literacia matemática”, em que a OCDE (https://www.oecd.org/pisa/) destaca a
+ capacidade de raciocinar matematicamente e interpretar e usar a Matemática na resolução de problemas de contextos diversos do
+ mundo real, é crucial para que cada pessoa possa viver e atuar socialmente de modo informado, contributivo, autónomo e responsável.
+ Neste contexto, “Matemática para todos” é um princípio essencial que este documento curricular assume. Dirige-se a todos os alunos,
+ afirmando inequivocamente que ninguém pode ficar excluído da Matemática e que cada um deve ter oportunidade de ser sujeito de
+ experiências de aprendizagem matematicamente ricas e desafiantes.
+ Outro princípio que se assume é “A Matemática é única, mas não é a única”, que perspetiva a Matemática no quadro de uma educação
+ global e integral do indivíduo, na qual a Matemática contribui, a par com as outras áreas curriculares e em diálogo com elas, para o
+ desenvolvimento das áreas de competências transversais indicadas no Perfil dos Alunos à Saída da Escolaridade Obrigatória.
+
+ O terceiro princípio assumido é “Matemática para o século XXI”, que corresponde à focagem das aprendizagens matemáticas dos alunos
+ no que é efetivamente relevante nos tempos atuais, com desafios claramente distintos dos do século passado, acompanhando as
+ tendências internacionais no que diz respeito a uma seleção criteriosa do que os alunos devem aprender e como.
+ A consideração destes três princípios teve implicações que se refletem na definição dos objetivos e conteúdos de aprendizagem, das
+ orientações metodológicas e das orientações para a avaliação.
+
+
+  Para quê aprender Matemática no século XXI?
+ Este documento curricular define um conjunto de objetivos gerais para a aprendizagem da Matemática, valorizando uma perspetiva de
+ literacia matemática. Define oito objetivos que todos os alunos devem conseguir atingir e que envolvem, de forma integrada,
+ conhecimentos, capacidades e atitudes relativas a esta área do saber:
+
+
+
+
+                                                                                                                                       PÁG. 2
+APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                  8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+ 1. Desenvolver uma predisposição positiva para aprender Matemática e relacionar-se de forma produtiva com esta disciplina nos
+ diversos contextos em que surge como necessária. Isto pressupõe a possibilidade de crianças e jovens aprenderem Matemática usufruindo
+ dela com gosto e acompanhadas de um sentimento crescente de autoconfiança na sua capacidade de lidar de modo autónomo com a
+ Matemática. O gosto e a autoconfiança são ambos fatores essenciais que interferem positivamente com a predisposição para a
+ aprendizagem, pelo que o seu desenvolvimento deve ser estrategicamente cuidado, de forma continuada, no desenrolar do processo de
+ ensino da Matemática.
+ 2. Compreender e usar, de forma fluente e rigorosa, com significado e em situações diversas, conhecimentos matemáticos (conceitos,
+ procedimentos e métodos) relativos aos temas Números, Álgebra, Dados e Probabilidades, e Geometria. Os conhecimentos
+ matemáticos constituem ferramentas fundamentais a mobilizar no trabalho em Matemática e na sua interação com outras áreas do saber
+ ou da realidade. Os alunos devem ter oportunidade de aceder a estes conhecimentos e de reconhecer o seu valor, compreendendo o que
+ significam, como se relacionam, que potencialidades oferecem para interpretar e modelar o mundo e resolver problemas.
+ 3. Desenvolver a capacidade de resolver problemas recorrendo aos seus conhecimentos matemáticos, de diversos tipos e em diversos
+ contextos, confiando na sua capacidade de desenvolver estratégias apropriadas e obter soluções válidas. A resolução de problemas é uma
+ atividade central da Matemática, na qual todos os alunos devem poder tornar-se, progressivamente, mais eficazes.
+ 4. Desenvolver a capacidade de raciocinar matematicamente, de forma a compreender o porquê de relações estabelecidas serem
+ matematicamente válidas. O raciocínio matemático é uma atividade central da Matemática que inclui a formulação de conjeturas, a
+ justificação da sua validade ou refutação e a análise crítica de raciocínios produzidos por outros. Todos os alunos devem ter oportunidade
+ de desenvolver progressivamente raciocínios abstratos, usando linguagem matemática com a sofisticação adequada.
+ 5. Desenvolver e mobilizar o pensamento computacional, capacidade que tem vindo a assumir relevância nos currículos de Matemática
+ de diversos países. O pensamento computacional pressupõe o desenvolvimento, de forma integrada, de práticas como a abstração, a
+ decomposição, o reconhecimento de padrões, a análise e definição de algoritmos, e o desenvolvimento de hábitos de depuração e
+ otimização dos processos. Estas práticas são imprescindíveis na atividade matemática e dotam os alunos de ferramentas que lhes
+ permitem resolver problemas, em especial relacionados com a programação.
+ 6. Desenvolver a capacidade de comunicar matematicamente, de modo a partilhar e discutir ideias matemáticas, formulando e
+ respondendo a questões diferenciadas, ouvindo os outros e fazendo-se ouvir, negociando a construção de ideias coletivas em
+ colaboração. Comunicar de forma clara aos outros requer a organização e consolidação prévia das ideias e processos matemáticos, o que
+ potencia a compreensão matemática e proporciona oportunidade para o uso progressivo de linguagem matemática como estratégia de
+ comunicar com maior precisão.
+ 7. Desenvolver a capacidade de usar representações múltiplas, como ferramentas de apoio ao raciocínio e à comunicação matemática,
+ e como possibilidade de apropriação da informação veiculada nos diversos meios de comunicação, nomeadamente digitais, onde surge em
+ formatos em constante evolução. As ideias matemáticas são especialmente clarificadas pela conjugação de diferentes tipos de
+ representação, e a compreensão plena depende da familiaridade e fluência que os alunos têm com as várias formas de representação. A
+
+
+
+
+                                                                                                                                         PÁG. 3
+APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+ tecnologia desempenha um papel especialmente relevante por facilitar a transição entre diferentes tipos de representação e análises
+ com maior detalhe ou magnitude, inacessíveis sem os recursos tecnológicos.
+ 8. Desenvolver a capacidade de estabelecer conexões matemáticas, internas e externas, que lhes permitam entender esta disciplina
+ como coerente, articulada, útil e poderosa. As conexões internas ampliam a compreensão das ideias e dos conceitos matemáticos que
+ nelas estão envolvidos, e estabelece relações entre os diversos temas da Matemática. As conexões externas da Matemática com distintas
+ áreas do conhecimento, como as Artes, as Ciências ou as Humanidades, ou com situações diversas dos contextos da realidade,
+ possibilitam que os conhecimentos matemáticos sejam usados para compreender, modelar e atuar em várias áreas ou disciplinas. A
+ exploração de conexões matemáticas pelos alunos é uma condição indispensável para o reconhecimento da relevância da Matemática.
+
+
+  O que aprender em Matemática?
+ Neste documento curricular assumem centralidade enquanto conteúdos de aprendizagem na área curricular de Matemática, tanto
+ capacidades matemáticas transversais, como conhecimentos matemáticos, de acordo com o esquema (Figura 1), que relaciona os diversos
+ conteúdos a serem contemplados nas aprendizagens dos alunos.
+
+
+
+
+                                                                                                                                       PÁG. 4
+APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                 8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+                                        Figura 1: Conteúdos de aprendizagem em Matemática no Ensino Básico.
+
+
+ As capacidades matemáticas transversais consideradas em todo o Ensino Básico são seis. Às capacidades de resolução de problemas,
+ raciocínio matemático, comunicação matemática, representações matemáticas e conexões matemáticas (internas e externas), junta-se
+ agora o pensamento computacional, ampliando-se assim o conjunto das que eram valorizadas em anteriores documentos curriculares.
+ Pela sua importância, estas capacidades são valorizadas como objetivos de aprendizagem e surgem contempladas como um tema de
+ aprendizagem em todos os anos de escolaridade, salientando-se que este destaque enquanto tema não sugere o seu tratamento isolado,
+ mas sim a sua presença permanente e integrada em todos os temas matemáticos.
+ Os conhecimentos matemáticos contemplados em todo o Ensino Básico inscrevem-se nos quatro temas expectáveis, adotando-se tópicos e
+ abordagens adequadas às necessidades da atual sociedade para lidar com questões que envolvem quantidade, relações e variação, dados
+ e incerteza, espaço e forma, em contextos diversos. Valorizando-se uma abordagem em espiral, os conhecimentos dos diferentes temas
+ são abordados em todos os anos de escolaridade, com graus sucessivos de aprofundamento e completamento e com progressivos níveis de
+ formalismo. A segunda secção desta Introdução explicita o entendimento a dar a cada um dos temas matemáticos neste ciclo de
+ escolaridade.
+ Este documento curricular valoriza ainda algumas capacidades e atitudes gerais transversais, decorrentes das áreas de competências
+ previstas no Perfil dos Alunos à Saída da Escolaridade Obrigatória. Estas contribuem para uma educação matemática mais articulada com
+ uma educação global e, no sentido inverso, para que a Matemática ofereça contexto ao desenvolvimento integral dos alunos. A seleção
+ recai, sem prejuízo de que todas sejam contempladas quando pertinente, naquelas que mais diretamente se relacionam com a
+ Matemática, considerando-se as capacidades de pensamento crítico, criatividade, colaboração e autorregulação, e as atitudes de
+ autoconfiança, perseverança, iniciativa e autonomia e valorização do papel do conhecimento, aqui concretizado na Matemática. Estas
+ capacidades e atitudes gerais devem ser alvo de desenvolvimento continuado ao longo dos anos de escolaridade, aplicando-se
+ transversalmente em todos os temas de aprendizagem.
+
+
+ Como promover a aprendizagem da Matemática?
+ Este documento curricular considera um conjunto de orientações metodológicas que refletem os princípios orientadores adotados, em
+ especial no que diz respeito ao princípio do direito à aprendizagem da Matemática por todos os alunos. Valorizam-se por isso práticas de
+ ensino promotoras das aprendizagens matemáticas dos alunos que simultaneamente potenciam o alcançar dos objetivos de aprendizagem
+ definidos. Estas orientações metodológicas aplicam-se a todos os anos de escolaridade e temas de aprendizagem, destacando-se as
+ seguintes ideias-chave:
+ •   Abordagem em espiral — É importante que os alunos tenham múltiplas oportunidades de contactar com os diversos conteúdos
+     matemáticos, em diferentes tempos, proporcionando-se o amadurecimento da compreensão e a consolidação progressiva das diversas
+
+
+
+
+                                                                                                                                        PÁG. 5
+APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                 8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+     aprendizagens. Esta opção permite aprofundar as aprendizagens de acordo com a maturidade intelectual dos alunos, bem como criar
+     novas possibilidades de aprendizagem aos alunos que ainda não a tenham realizado.
+ •   Articulação de conteúdos — É importante que os alunos trabalhem de forma intencionalmente explícita com conhecimentos de
+     diferentes temas na abordagem de uma mesma situação/tarefa, mobilizando conexões internas da Matemática. Só assim o aluno
+     pode desenvolver uma visão coerente e integrada, não compartimentada, desta área do saber, o que releva para a qualidade das
+     aprendizagens e está em relação com a abordagem em espiral.
+ •   Papel do aluno — É da maior importância implicar os alunos no processo de aprendizagem, numa perspetiva de abordagem dialógica
+     na construção de conhecimento. Proporcionar aos alunos o exercício da sua agência (iniciativa e autonomia) é essencial para a
+     autorregulação da sua capacidade de aprender. O desenvolvimento do sentimento de pertença ou integração na comunidade de
+     aprendizagem que é a turma cria condições favoráveis à aprendizagem de todos.
+ •   Dinâmica da aula — É essencial proporcionar oportunidade e tempo para que os alunos pensem, partilhem e discutam entre si as
+     produções matemáticas que realizam durante a exploração de uma tarefa, e para que sistematizem coletivamente as aprendizagens
+     matemáticas que emergem. Estas práticas contribuem decisivamente para a aquisição de conhecimentos e o desenvolvimento das
+     capacidades matemáticas transversais consideradas, como o raciocínio ou a comunicação matemática, bem como para o
+     desenvolvimento das capacidades e atitudes gerais transversais, a estar presentes na abordagem e exploração das tarefas, qualquer
+     que seja o tema.
+ •   Tarefas — A experiência matemática dos alunos desenrola-se a partir de tarefas, sendo essencial que estas sejam poderosas e
+     desafiantes, com vista a cativar os alunos e impulsionar as suas aprendizagens. Importa considerar tarefas de natureza distinta,
+     selecionadas/adaptadas ou criadas de acordo com os objetivos a atingir, destacando-se as propostas que possibilitam que os alunos
+     reconheçam a relevância da Matemática, focando-se na articulação com outras áreas de conhecimento ou com a realidade, usando a
+     Matemática para compreender e modelar situações de diversos contextos, e tomar decisões informadas e fundamentadas.
+ •   Modos de trabalho — As modalidades de trabalho a adotar com os alunos devem ser diversificadas e escolhidas em função do objetivo
+     de aprendizagem e da tarefa a realizar. Atendendo à necessidade de promover a colaboração, o documento curricular valoriza os
+     modos de trabalho em que os alunos interagem uns com os outros, e também formas de organização em que os alunos trabalham de
+     forma independente do professor (embora com a sua monitorização), individualmente ou em pequenos grupos, seguidos de uma
+     discussão coletiva, o que potencia o desenvolvimento da autonomia dos alunos.
+ •   Recursos/tecnologia — A aprendizagem da Matemática beneficia do uso de recursos diversos que possibilitem, entre outros, o uso e
+     exploração de representações múltiplas de forma eficiente. Os materiais manipuláveis devem ser utilizados sempre que favoreçam a
+     compreensão de conhecimentos matemáticos e a conexão entre diferentes representações matemáticas. As ferramentas
+     tecnológicas devem ser consideradas como recursos incontornáveis e potentes para o ensino e a aprendizagem da Matemática. A
+     literacia digital dos alunos deve incluir a realização de cálculos, a construção de gráficos, a realização de simulações, a recolha,
+     organização e análise de dados, a experimentação matemática, a investigação e a modelação, a partilha de ideias. Todos os alunos
+     devem poder aceder livremente a calculadoras, robôs, aplicações disponíveis na Internet e software para tratamento estatístico,
+     geometria, funções, modelação, e ambientes de programação visual. A Internet deve constituir-se como fonte importante de acesso
+
+
+
+
+                                                                                                                                        PÁG. 6
+APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                  8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+     à informação ao serviço do ensino e da aprendizagem da Matemática. A utilização da calculadora contempla tanto o objeto
+     tradicional como as aplicações instaladas em dispositivos móveis com funcionalidades semelhantes ou ampliadas e aplicações
+     disponíveis na Internet. A integração da tecnologia na atividade matemática deve ser entendida com um caráter instrumental, não
+     como um fim em si mesmo, para promover aprendizagens mais significativas e ampliar os contextos em que se desenvolve a ação do
+     aluno e a diversidade de perspetivas sobre objetos matemáticos estudados, com influência determinante na natureza das propostas
+     apresentadas pelo professor.
+
+
+ Como avaliar as aprendizagens em Matemática?
+ A avaliação é uma dimensão incontornável em qualquer documento curricular pela importância com que se reveste na aprendizagem dos
+ alunos. Duas razões principais são de destacar:
+ •   Uma prática de avaliação formativa continuada contribui de forma muito expressiva para as aprendizagens dos alunos, pelo que é
+     imperioso o seu desenvolvimento na aula de Matemática;
+ •   O foco da avaliação sumativa, o que é testado em cada momento formal, transmite o que é realmente importante saber, pelo que a
+     sua prática deve respeitar e estar em consonância com as restantes componentes curriculares.
+ Este documento curricular assume a importância da avaliação formativa. De forma a garantir a coerência com o propósito fundamental
+ da avaliação formativa, o de regular as aprendizagens matemáticas dos alunos (e o ensino do professor), devem ser criados ambientes de
+ aprendizagem matemática onde errar seja visto como fazendo parte do processo de aprendizagem. Acresce que, para que a avaliação,
+ enquanto atividade de comunicação, realmente aconteça, é imprescindível discutir e negociar com os alunos os critérios de avaliação, as
+ lentes que vão ser usadas para decidir se houve aprendizagem e o que falta melhorar, desenvolver, para que esta atinja o nível esperado.
+ Se é certo que todo o professor tem critérios de avaliação, não é tão certo que estes sejam claros para os alunos. Assim, há que trabalhar
+ com os alunos os critérios de avaliação para cada tipologia de aprendizagens ou de tarefas a realizar (por exemplo, o que é importante na
+ resolução de problemas? O que os alunos têm de evidenciar para revelarem ter capacidade de resolver problemas?). A apropriação dos
+ critérios de avaliação por parte dos alunos constitui um importante contributo para o desenvolvimento da sua capacidade de
+ autorregulação, fim último da avaliação formativa. A forma como a avaliação formativa se concretiza no trabalho quotidiano com os
+ alunos é muito variada, podendo ter uma natureza formal ou informal. Contudo, dificilmente se conseguem encontrar estratégias de
+ avaliação formativa eficazes que não incluam o feedback, seja ele oral ou escrito. Mas para que o feedback possa realmente contribuir
+ para a aprendizagem, para além de deve ser dado em tempo útil (depois do aluno ter tido oportunidade de trabalhar a tarefa e poder
+ continuar a desenvolvê-la após receber os comentários do professor ou dos seus pares), deverá ainda ser compreensível, promover a sua
+ reflexão sobre o que já fez, e apontar pistas que o oriente a prosseguir o seu trabalho.
+ No que respeita à avaliação sumativa, é imperioso que esta se operacionalize de forma coerente com as restantes componentes
+ curriculares, isto é, tenha em conta os conhecimentos e as capacidades constantes na aprendizagem matemática. Uma vez que não
+ existe um único instrumento que seja simultaneamente adequado a todo o tipo de aprendizagens matemáticas que se espera que os
+ alunos desenvolvam, há que diversificar os instrumentos de avaliação para recolha de informação. Por exemplo, se o foco for a aquisição
+ de conhecimentos de factos ou procedimentos matemáticos, um instrumento a ser respondido na forma escrita, individual e em tempo
+
+
+
+
+                                                                                                                                         PÁG. 7
+APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                  8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+ limitado, como sejam uma questão de aula ou um teste, pode ser adequado. Mas se o objeto de avaliação for a capacidade de resolução
+ de problemas ou de raciocínio matemático, a realização de uma tarefa, em tempo alargado, que faça apelo a uma destas capacidades,
+ poderá ser mais adequado. A apresentação e discussão oral desta resolução poderá ser uma forma de avaliar a capacidade de
+ comunicação matemática dos alunos. Já a realização de um pequeno projeto, a pares ou em grupo, poderá fornecer ao professor e aos
+ alunos evidências da sua capacidade de estabelecer conexões matemáticas com outras disciplinas ou da sua literacia estatística. Ao não
+ respeitar esta orientação corre-se o risco de reduzir o currículo às aprendizagens de nível cognitivo mais baixo, por serem estas as que
+ são vistas como sendo mais fáceis de mensurar.
+
+
+ Como é que este documento apoia a gestão curricular em Matemática?
+ O professor é um elemento-chave mediador das aprendizagens matemáticas dos alunos, sendo fundamentais as suas escolhas
+ relativamente à abordagem dos conteúdos de aprendizagem e às orientações metodológicas que integram o documento curricular.
+ Expresso no formato de Aprendizagens Essenciais, este documento curricular apresenta-se organizado em quatro colunas, que importa
+ distinguir:
+ •   Temas e tópicos matemáticos [Coluna 1] — Identifica os conceitos matemáticos a abordar ao longo do ano de escolaridade, sem
+     pretender estabelecer uma ordem sequencial. Por incidir num ano de escolaridade específico, detalha os conteúdos a introduzir
+     nesse ano, pressupondo necessariamente que o que foi abordado nos anos anteriores precisa de ser retomado. A explicitação por
+     ciclo, incluída na segunda secção desta Introdução, indica os principais focos dos conteúdos de aprendizagem, organizados pelos
+     diferentes temas, fazendo igualmente referência à articulação vertical com o ciclo anterior
+ •   Objetivos de aprendizagem [Coluna 2] — Explicita as aprendizagens que o aluno deve revelar relativamente a cada tópico e
+     subtópico em cada um dos cinco temas de aprendizagem (Capacidades matemáticas transversais, Números, Álgebra, Dados e
+     Probabilidades, Geometria);
+ •   Ações estratégicas de ensino do professor [Coluna 3] — Fornece indicações metodológicas que se consideram adequadas para a
+     promoção dos objetivos de aprendizagem definidos, relativos aos conhecimentos e capacidades matemáticas e também às
+     capacidades e atitudes gerais ancoradas no Perfil dos Alunos à Saída da Escolaridade Obrigatória. Inclui também exemplos de
+     abordagens aos conhecimentos, tarefas a propor aos alunos e o modo de as explorar, para clarificação e ilustração das orientações
+     metodológicas. Destaca-se a inclusão de exemplos que sublinham a intenção de, através da mesma tarefa, serem trabalhados
+     objetivos de diversos subtópicos matemáticos e/ou capacidades matemáticas, numa lógica de articulação de aprendizagens e de
+     racionalização do tempo;
+ •   Áreas de competências do Perfil dos Alunos [Coluna 4] — Indica as áreas de competências definidas no Perfil dos Alunos à Saída da
+     Escolaridade Obrigatória cujo desenvolvimento é promovido, de forma explícita, pelas ações estratégicas do professor que são
+     indicadas.
+ Assim, este documento curricular estabelece uma ligação entre as aprendizagens matemáticas visadas, as indicações metodológicas e as
+ áreas de competências, conhecimentos, capacidades e atitudes, definidas no Perfil dos Alunos à Saída da Escolaridade Obrigatória.
+
+
+
+
+                                                                                                                                         PÁG. 8
+APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+ O professor encontra neste documento um recurso de trabalho que lhe permitirá delinear o seu ensino, que necessariamente terá de
+ adequar aos contextos e às características das suas turmas. Reconhecer que aprender Matemática é um direito universal de todos os
+ alunos implica desenvolver práticas que promovam a inclusão, querendo isto dizer que a diferenciação é uma ideia-chave a estar
+ presente nas preocupações do professor relativamente ao quotidiano da sala de aula. Caberá ao professor promover a diferenciação
+ pedagógica por diferentes estratégias. Poderá abordar de diversos modos um mesmo conceito matemático (por exemplo, recorrendo ao
+ uso de diferentes tipos de representações); propor diversos níveis de desenvolvimento de uma mesma tarefa (por exemplo, desafiando
+ alguns alunos a resolver uma extensão da tarefa em exploração na aula); estabelecer conexões externas da Matemática com outras áreas,
+ conquistando a mobilização para a Matemática de alunos que se sintam mais familiarizados ou confiantes nessas outras áreas.
+
+
+ 2. Matemática no 3.º Ciclo
+ Que conteúdos importam neste ciclo de escolaridade?
+ Nesta secção indicam-se os principais focos dos conteúdos de aprendizagem, organizados pelos diferentes temas, e faz-se referência à
+ articulação vertical com o ciclo anterior.
+
+
+ Capacidades matemáticas
+ No 3.º Ciclo, continua-se a trabalhar as seis capacidades matemáticas, alargando a sua abrangência e profundidade. Em particular,
+ recorre-se à abstração e ao formalismo a níveis progressivamente mais elevados. Alargam-se as estratégias de resolução de problemas,
+ valoriza-se o raciocínio indutivo e dedutivo, reforçando-se este último e acrescentando novas formas ao processo de justificação.
+ Propõem-se ainda situações mais complexas para os alunos desenvolverem o seu pensamento computacional, nomeadamente
+ desenvolvendo procedimentos passo a passo e refinando e otimizando as suas soluções. Promove-se o uso de múltiplas representações,
+ com reforço das simbólicas, e a conversão entre elas, enriquecendo a comunicação matemática, e valoriza-se o estabelecimento de
+ relações externas e internas da Matemática.
+ No 2.º Ciclo, os alunos trabalharam as seis capacidades matemáticas, usando estratégias de resolução de problemas, processos de
+ raciocínio matemático, onde a justificação usa ainda representações sobretudo verbais, ativas, e icónicas, e com menor expressão as
+ simbólicas. Os ambientes de programação são usados para resolver problemas simples, e as conexões, quer internas, quer externas, são
+ consideradas em diversos objetivos dos objetivos e ações do professor.
+
+
+ Números
+ Ao longo do 3.º Ciclo estende-se o sentido do número a conjuntos numéricos progressivamente mais complexos. São introduzidos
+ progressivamente os conjuntos dos números inteiros, dos números racionais e dos números reais. A valorização do cálculo mental
+
+
+
+
+                                                                                                                                       PÁG. 9
+APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+ envolvendo progressivamente os números inteiros, os números racionais e os números reais e o saber lidar criticamente com estimativas e
+ valores aproximados é mantida em estreita relação com as propriedades das operações, cabendo ao professor valorizar a utilização
+ crítica da tecnologia. O formalismo e o recurso à simbologia associados aos números e às operações (incluindo operações com conjuntos)
+ devem também ser progressivamente valorizados como elementos facilitadores da comunicação matemática e não como um fim em si
+ mesmo.
+ No 2.º Ciclo, os alunos desenvolveram o sentido do número com números racionais não negativos e aprenderam a operar com estes
+ números. O cálculo mental envolvendo números racionais não negativos em estreita relação com as propriedades das operações foi
+ igualmente valorizado.
+
+ Álgebra
+ Na sequência do trabalho desenvolvido nos ciclos anteriores, os alunos devem, durante este ciclo, fazer recurso à Álgebra de forma
+ sistemática. O estabelecimento de relações algébricas entre quantidades desconhecidas, o expressar a generalidade por representações
+ adequadas e usar o processo de modelar para descrever e fazer previsões, devem ser trabalhados com o objetivo de permitir determinar
+ valores desconhecidos e como uma importante forma de representar relações entre grandezas ou quantidades do dia-a-dia. A
+ compreensão da variação em situações diversas faz-se através do estudo de funções e de sucessões que deve privilegiar a
+ complementaridade de abordagens por recorrência (associadas a procedimentos iterativos) e algébricas (essenciais em processos de
+ generalização).
+ No 2.º Ciclo, os alunos desenvolveram o pensamento algébrico com recurso a representações simbólicas, nomeadamente, a escrita de
+ expressões algébricas, no contexto de situações que procuram promover a atribuição de significado às letras, sejam variáveis ou
+ parâmetros. Surgiu ainda a primeira abordagem à proporcionalidade direta, um contexto promotor da ideia de variação e do pensamento
+ funcional.
+
+ Dados e Probabilidades
+ Pretende-se que o estudo dos Dados crie oportunidades para que os alunos continuem a desenvolver uma sólida literacia estatística.
+ Assim, procura-se que os alunos sejam capazes de usar dados para produzir informação para conhecer o que os rodeia, fundamentar
+ decisões e colocar novas questões. Em cada ano devem ser trabalhadas todas as fases de um estudo estatístico, desde a identificação de
+ questões com relevância, até à comunicação do trabalho desenvolvido, podendo este trabalho traduzir-se pelo desenvolvimento de um
+ estudo estatístico ou pela análise de estudos, ou suas componentes, realizadas por outros e divulgados nos media. Devem ainda ser
+ acrescentados elementos de complexidade crescente, ampliando as possibilidades de tratamento e representação dos dados trabalhados,
+ enriquecendo o conjunto de representações gráficas disponíveis para os alunos. O desenvolvimento do raciocínio probabilístico dá
+ seguimento ao trabalho iniciado nos ciclos anteriores e permite a formalização de duas definições de probabilidade, assentes em
+ vertentes experimentais e teóricas.
+
+
+
+
+                                                                                                                                      PÁG. 10
+                APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                                                                                   8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+                 No 2.º Ciclo, os alunos recolheram e trataram dados quantitativos contínuos, trabalharam a média e a classe modal, e ampliaram o
+                 conjunto de representações gráficas. Foi valorizado o desenvolvimento da literacia estatística através do desenvolvimento do sentido
+                 crítico dos alunos, e da interpretação e comunicação de resultados. A quantificação da probabilidade em relação com a frequência
+                 relativa foi igualmente trabalhada.
+
+                 Geometria
+                 Neste ciclo pretende-se continuar a desenvolver o raciocínio espacial dos alunos, ampliando a sua compreensão do espaço e a sua
+                 capacidade de operarem com figuras no plano e no espaço. O estabelecimento de relações algébricas a partir do estudo de objetos
+                 geométricos deve ser acompanhado pela experiência (onde a tecnologia desempenha um papel fundamental) reforçando a relação entre
+                 a Geometria e a Álgebra. O estudo das transformações geométricas ganha relevância e cria um contexto favorável para o aumento
+                 gradual e progressivo da abstração e do formalismo matemáticos adequados ao raciocínio e à comunicação matemáticos.
+                 No tema Geometria e Medida, no 2.º Ciclo, os alunos trabalharam as propriedades dos polígonos, realizaram construções geométricas,
+                 nomeadamente de triângulos, e estudaram a classificação e congruência de triângulos. Foi ainda feito o estudo da área do triângulo,
+                 paralelogramo e círculo. No espaço, estudaram-se alguns sólidos e medidas dos seus volumes.
+
+
+
+ÁREAS DE
+
+
+
+
+                                                                                                                                                                                                                                            do corpo
+                                            comunicação
+
+
+
+
+                                                                                                                                                                                   e artística
+
+
+
+
+                                                                                                                                                                                                                               Consciência e domínio
+                                                                                     pensamento criativo
+                                            Informação e
+
+
+
+
+                                                                                                                            pessoal e autonomia
+                                                                                                                               Desenvolvimento
+                                                                                    Pensamento crítico e
+
+
+
+
+                                                                                                                                                                       Sensibilidade estética
+COMPETÊNCIAS           A                                         C                                             E                                       G                                                       I
+DO PERFIL DOS
+ALUNOS
+(ACPA)
+                                                           Raciocínio e resolução
+
+
+
+
+                                                                                                                                                                                                       técnico e tecnológico
+                      Linguagens e textos
+
+
+
+
+                                                                                                                                                  Bem-estar, saúde e
+
+
+
+
+                                                                                                                                                                                                       Saber científico,
+                                                                                                           Relacionamento
+                                                           de problemas
+
+
+
+
+                                                                                                           interpessoal
+
+
+
+
+                                                                                                                                                  ambiente
+                                               B                                         D                                        F                                          H                                                        J
+
+
+
+
+                                                                                                                                                                                                                                      PÁG. 11
+                  APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                  8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+                    OPERACIONALIZAÇÃO DAS APRENDIZAGENS ESSENCIAIS (AE)
+TEMAS, Tópicos   OBJETIVOS DE                  AÇÕES ESTRATÉGICAS DE ENSINO DO PROFESSOR                                                   Áreas de
+e Subtópicos     APRENDIZAGEM:                                                                                                             Competência do
+                 Conhecimentos,                                                                                                            Perfil dos Alunos
+                 Capacidades e Atitudes
+
+CAPACIDADES
+MATEMÁTICAS
+
+
+Resolução de                                                                                                                               C, D, E, F, I
+problemas
+
+
+
+Processo         Reconhecer e aplicar as       Solicitar, de forma sistemática, que os alunos percorram e reconheçam as diferentes
+                 etapas do processo de         etapas de resolução de um problema (interpretar o problema, selecionar e executar uma
+                 resolução de problemas.       estratégia, e avaliar o resultado no contexto da situação problemática), incentivando a
+                                               sua perseverança no trabalho em Matemática.
+                 Formular problemas a
+                 partir de uma situação        Propor problemas com excesso de dados ou com dados insuficientes [Exemplo: A
+                 dada, em contextos            propósito da resolução de sistemas de duas equações a duas incógnitas, propor a análise
+                 diversos (matemáticos e       de enunciados de problemas que resultem na formulação de apenas uma equação com
+                 não matemáticos).             duas incógnitas. Discutir a existência de soluções múltiplas e as implicações de
+                                               acrescentar uma nova condição no contexto do problema].
+                                               Solicitar a formulação de problemas a partir de uma situação dada, incentivando novas
+                                               ideias individuais ou resultantes da interação com os outros.
+
+Estratégias      Aplicar e adaptar             Acolher resoluções criativas propostas pelos alunos, valorizando o seu espírito de
+                 estratégias diversas de       iniciativa e autonomia, e analisar, de forma sistemática, com toda a turma, a diversidade
+                 resolução de problemas,       de resoluções relativas aos problemas resolvidos, de modo a proporcionar o conhecimento
+                 em diversos contextos,        coletivo de estratégias que podem ser mobilizadas em outras situações: fazer uma
+                 nomeadamente com              simulação, começar do fim para o princípio, por tentativa e erro, começar por um
+                 recurso à tecnologia.         problema mais simples, usar casos particulares, criar um diagrama.
+
+
+
+
+                                                                                                                                                           PÁG. 12
+                 APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                    8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+               Reconhecer a correção, a       Orquestrar discussões com toda a turma que envolvam não só a discussão das diferentes
+               diferença e a eficácia de      estratégias da resolução de problemas e representações usadas, mas também a
+               diferentes estratégias da      comparação entre a sua eficácia, valorizando o espírito crítico dos alunos e promovendo a
+               resolução de um problema.      apresentação de argumentos e a tomada de posições fundamentadas e a capacidade de
+                                              negociar e aceitar diferentes pontos de vista.
+
+Raciocínio                                                                                                                                 A, C, D, E, F, I
+matemático
+
+Conjeturar e   Formular e testar              Proporcionar o desenvolvimento do raciocínio matemático dos alunos solicitando, de
+generalizar    conjeturas/generaliza-         forma explícita, processos como conjeturar, generalizar e justificar [Exemplo:
+               ções, a partir da
+                                                       Considera a seguinte afirmação: “A expressão n(n+1)+17, com n ∈ ℕ,
+               identificação de
+                                                       representa um número primo”. Escolha uma das seguintes opções,
+               regularidades comuns a
+                                                       justificando-a:
+               objetos em estudo,
+               nomeadamente recorrendo                     • Verdadeiro
+               à tecnologia.                               • Falso
+                                                           • Algumas vezes verdadeiro].
+
+                                              Apoiar os alunos na procura e reconhecimento de regularidades em objetos em
+                                              estudo, proporcionando tempo suficiente de trabalho para que os alunos não
+                                              desistam prematuramente, e valorizando a sua criatividade.
+
+Classificar    Classificar objetos
+               atendendo às suas              Incentivar a identificação de semelhanças e diferenças entre objetos
+               características.               matemáticos agrupando-os com base em características matemáticas [Exemplo:
+                                              Incentivar os alunos a estabelecer a relação entre os conjuntos numéricos ℕ, ℤ,
+                                              ℚ, e ℝ].
+
+
+
+
+                                                                                                                                                           PÁG. 13
+                  APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                  8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+Justificar      Distinguir entre testar e      Promover a comparação pelos alunos, a partir da análise das suas resoluções, entre testar
+                validar uma conjetura.         e validar uma conjetura, destacando a diferença entre os dois processos, e desenvolvendo
+                                               o seu sentido crítico.
+                Justificar que uma
+                conjetura/generalização é      Favorecer, através da resolução de diversas tarefas, o conhecimento de diferentes formas
+                verdadeira ou falsa, usando    de justificar, como seja, por coerência lógica, pelo uso de exemplos genéricos ou de
+                progressivamente a             contraexemplos, por exaustão e por redução ao absurdo. Após familiarização com estas
+                linguagem simbólica.           diferentes formas, orquestrar uma discussão com toda a turma sobre as suas diferenças e
+                                               sua adequação, promovendo o sentido crítico dos alunos.
+                Reconhecer a correção,
+                diferença e adequação de       Proporcionar a análise, a pares ou em grupo, de justificações feitas por outros,
+                diversas formas de             incentivando o fornecimento de feedback aos colegas, valorizando a aceitação de
+                justificar uma                 diferentes pontos de vista e promovendo a autorregulação pelos alunos.
+                conjetura/generalização.
+
+
+Pensamento                                                                                                                                 C, D, E, F, I
+computacional
+
+Abstração       Extrair a informação           Criar oportunidades para que os alunos representem problemas de forma simplificada,
+                essencial de um problema.      concentrando-se na informação mais importante. Realçar processos relevantes e
+                                               secundarizar detalhes e especificidades particulares.
+
+Decomposição    Estruturar a resolução de      Incentivar a identificação de elementos importantes e estabelecer ordens entre eles na
+                problemas por etapas de        execução de uma tarefa, criando oportunidades para os alunos decomporem a tarefa em
+                menor complexidade de          partes mais simples, diminuindo desta forma a sua complexidade.
+                modo a reduzir a
+                dificuldade do problema.
+
+Reconhecimento Reconhecer ou identificar       Incentivar a procura de semelhanças e a identificação de padrões comuns a outros
+de padrões     padrões e regularidades no      problemas já resolvidos de modo a aplicar, a um problema em resolução, os processos
+               processo de resolução de        que anteriormente se tenham revelado úteis. [Exemplo: Em qualquer equação da forma
+               problemas e aplicá-los em       ax^2+bx=0, incentivar o reconhecimento de que as soluções são x=0 e x=-b/a].
+               outros problemas
+               semelhantes.
+
+
+
+
+                                                                                                                                                           PÁG. 14
+                 APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                   8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+Algoritmia     Desenvolver um                 Promover o desenvolvimento de práticas que visem estruturar, passo a passo, o processo
+               procedimento (algoritmo)       de resolução de um problema, incentivando os alunos a criarem algoritmos que possam
+               passo a passo para             descrever essas etapas, nomeadamente com recurso à tecnologia, promovendo a
+               solucionar o problema,         criatividade e valorizando uma diversidade de resoluções e representações que favoreçam
+               nomeadamente recorrendo        a inclusão de todos.[Exemplo: Incentivar os alunos a escrever um algoritmo que permita
+               à tecnologia.                  verificar se um dado valor é termo de uma sequência dada].
+
+Depuração      Procurar e corrigir erros,     Incentivar os alunos a raciocinarem por si mesmos e a definirem estratégias de testagem
+               testar, refinar e otimizar     e "depuração" (ou correção), quando algo não funciona da forma esperada ou planeada ou
+               uma dada resolução.            tem alguma imprecisão, com o intuito de encontrar erros e melhorarem as suas
+                                              construções, incentivando a sua perseverança no trabalho em Matemática e promovendo
+                                              progressivamente a construção da sua autoconfiança [Exemplo: Encontrar todos os
+                                              poliedros regulares, garantindo que não falta nenhum e que não existem repetições entre
+                                              os encontrados].
+
+Comunicação                                                                                                                               A, C, E, F
+matemática
+
+Expressão de   Descrever a sua forma de       Reconhecer e valorizar os alunos como agentes da comunicação matemática, usando
+ideias         pensar acerca de ideias e      expressões dos alunos e criando intencionalmente oportunidades para falarem,
+               processos matemáticos,         questionarem, esclarecerem os seus colegas, promovendo progressivamente a construção
+               oralmente e por escrito.       da sua autoconfiança.
+                                              Criar oportunidades para aperfeiçoamento da comunicação escrita, propondo a
+                                              construção, em colaboração, de frases que sistematizem o conhecimento matemático
+                                              institucionalizado sobre ideias matemáticas relevantes, ou a produção de relatórios sobre
+                                              investigações matemáticas realizadas.
+                                              Colocar questões com diferentes propósitos, para incentivar a comunicação matemática
+                                              pelos alunos: obter informação sobre o que aluno já sabe; apoiar o desenvolvimento do
+                                              raciocínio do aluno, focando-o no que é relevante; encorajar a explicação e reflexão
+                                              sobre raciocínios produzidos, favorecendo a autorregulação dos alunos [Exemplos:
+                                              Questão para obter informação: Que informação tiras do gráfico?; Questão para apoiar o
+                                              raciocínio: Porque é que é sempre mais 4?; Questão para encorajar a reflexão: O que
+                                              existe de diferente entre estas duas resoluções?].
+
+
+
+
+                                                                                                                                                          PÁG. 15
+                   APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                      8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+Discussão de     Ouvir os outros, questionar    Incentivar a partilha e a discussão de ideias (conceitos e propriedades) e de processos
+ideias           e discutir as ideias de        matemáticos (resolver problemas, raciocinar, investigar, …), oralmente, entre os alunos e
+                 forma fundamentada, e          entre o aluno e o professor, solicitando que fundamentem o que afirmam, valorizando a
+                 contrapor argumentos.          apresentação de argumentos e tomada de posições fundamentadas e capacidade de
+                                                negociar e aceitar diferentes pontos de vista.
+
+Representações                                                                                                                                 A, C, D, E, F, I
+matemáticas
+
+
+Representações   Ler e interpretar ideias e     Adotar representações físicas diversas para simular situações matemáticas, especialmente
+múltiplas        processos matemáticos          com alunos mais novos, não só com recurso a materiais manipuláveis, mas também com a
+                 expressos por                  dramatização de processos durante a resolução de problemas.
+                 representações diversas.
+                                                Solicitar aos alunos que façam representações visuais (desenho, diagramas, esquemas...)
+                 Usar representações            para explicar aos outros a forma como pensam na resolução de um problema. Valorizar
+                 múltiplas para demonstrar      novas ideias criativas individuais ou resultantes da interação com os outros e a
+                 compreensão, raciocinar e      consideração de uma diversidade de resoluções e representações que favoreçam a
+                 exprimir ideias e processos    inclusão dos alunos.
+                 matemáticos, em especial
+                                                Orquestrar a discussão, com toda a turma, de diferentes resoluções de uma dada tarefa
+                 linguagem verbal e
+                                                que mobilizem representações distintas, comparar coletivamente a sua eficácia e concluir
+                 diagramas.
+                                                sobre o papel que podem ter na resolução de tarefas com características semelhantes,
+                                                valorizando uma diversidade de resoluções e representações que favoreçam a inclusão
+                                                dos alunos e reconhecendo o seu espírito de iniciativa e autonomia [Exemplos: Valorizar o
+                                                papel das tabelas, dos diagramas em árvore e dos diagramas de Venn, para fazer
+                                                contagens e operações com acontecimentos no contexto das probabilidades].
+                                                Proporcionar recursos que agilizem a partilha das diferentes representações feitas pelos
+                                                alunos na resolução das tarefas [Exemplo: Fornecer a cada grupo folhas A3 e canetas
+                                                grossas de cor, para registar a resolução de um problema; fotografar a resolução de um
+                                                grupo e partilhá-la digitalmente, projetada para toda a turma].
+
+Conexões entre   Estabelecer relações e         Promover a análise de diferentes representações sobre a mesma situação, considerando
+representações   conversões entre               as representações verbal, visual, física, contextual e simbólica, e explicitar as relações
+                 diferentes representações      entre elas, evidenciando o papel das conexões entre representações para promover a
+                 relativas às mesmas            compreensão matemática [Exemplo: A representação visual da sequência dos números
+                 ideias/processos               quadrados permite compreender porque resultam de adições dos números ímpares
+
+
+
+
+                                                                                                                                                               PÁG. 16
+               APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                    8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+              matemáticos,                  consecutivos, valorizando o sentido crítico dos alunos e o trabalho de alunos que ainda
+              nomeadamente recorrendo       não revelem um nível suficiente de autoconfiança].
+              à tecnologia.
+
+
+
+
+Linguagem     Usar a linguagem simbólica    Incentivar o uso progressivo de linguagem simbólica matemática e a compreensão da
+simbólica     matemática e reconhecer o     vantagem da sua utilização [Exemplo: O recurso à escrita na forma de intervalos de
+matemática    seu valor para comunicar      números reais como forma de representar conjuntos numéricos].
+              sinteticamente e com
+                                            Confrontar os alunos com descrições de uma mesma situação através de representações
+              precisão.
+                                            múltiplas e identificar as vantagens da linguagem simbólica [Exemplo: No estudo das
+                                            funções, conduzir os alunos a reconhecer vantagens e limitações das diferentes
+                                            representações (tabela, gráfico ou expressão algébrica)].
+
+
+Conexões                                                                                                                                 C, D, E, F, H, I
+matemáticas
+
+Conexões      Reconhecer e usar             Explorar as conexões matemáticas em tarefas que façam uso de conhecimentos
+internas      conexões entre ideias         matemáticos de diferentes temas e explicitar essas relações de modo a que os alunos as
+              matemáticas de diferentes     conexões [Exemplo: Propor a resolução do problema “O comprimento de um retângulo foi
+              temas, e compreender esta     aumentado 10% e a sua largura foi reduzida 10%. O que podes dizer sobre a área do novo
+              ciência como coerente e       retângulo quando a comparas com a do retângulo inicial? Justifica a tua resposta”, que
+              articulada.                   permite valorizar a conexão entre a Geometria, os Números e a Álgebra. Possíveis
+                                            extensões do problema, com a variação da percentagem e a determinação da relação
+                                            entre as medidas das áreas em função da percentagem, permitirão também estabelecer
+                                            outras conexões com a Álgebra. Para além disso, este problema permite desenvolver o
+                                            raciocínio matemático, nomeadamente a justificação].
+
+Conexões      Aplicar ideias matemáticas    Mobilizar situações da vida dos alunos para serem alvo de estudo matemático na turma,
+externas      na resolução de problemas     ouvindo os seus interesses e ideias, e cruzando-as com outras áreas do saber,
+              de contextos diversos         encorajando, para exploração matemática, ideias propostas pelos alunos e reconhecendo
+
+
+
+
+                                                                                                                                                         PÁG. 17
+                APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                     8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+              (outras áreas do saber,        a utilidade e o poder da Matemática na previsão e intervenção na realidade [Exemplo:
+              realidade, profissões).        Tirar partido da articulação horizontal explorando a possibilidade de trabalhar com
+                                             docentes de outras áreas disciplinares para desenvolver atividades integradas,
+                                             nomeadamente no domínio das STEAM].
+                                             Convidar profissionais que usem a Matemática na sua profissão para que os alunos os
+                                             possam entrevistar a esse propósito, promovendo a concretização do trabalho com
+                                             sentido de responsabilidade e autonomia.
+
+Modelos       Interpretar                    Selecionar, em conjunto com os alunos, situações da realidade que permitam
+matemáticos   matematicamente                compreender melhor o mundo em redor [Exemplo: A exploração de contextos que
+              situações do mundo real,       impliquem a recolha e tratamento de dados com o objetivo de estabelecer um modelo
+              construir modelos              matemático, como seja a variação da porção de vela queimada ao longo do tempo,
+              matemáticos adequados, e       proposta no estudo da função afim].
+              reconhecer a utilidade e
+                                             Realizar visitas de estudo, reais ou virtuais, para observar a presença da Matemática no
+              poder da Matemática na
+                                             mundo que nos rodeia e sonhar com a sua transformação, reconhecendo o papel da
+              previsão e intervenção
+                                             Matemática na criação e construção da realidade, e incentivando novas ideias criativas
+              nessas situações.
+                                             individuais ou resultantes da interação com os outros [Exemplo: Convidar os alunos a
+              Identificar a presença da      identificar parábolas em jatos de água e em construções arquitetónicas, como as de
+              Matemática em contextos        Calatrava].
+              externos e compreender o
+              seu papel na criação e
+              construção da realidade.
+
+
+
+
+                                                                                                                                                           PÁG. 18
+                     APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                     8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+TEMAS, Tópicos e       OBJETIVOS DE APRENDIZAGEM:                        AÇÕES ESTRATÉGICAS DE ENSINO DO PROFESSOR                              Áreas de
+Subtópicos             Conhecimentos, Capacidades e Atitudes                                                                                    Competências do
+                                                                                                                                                Perfil dos Alunos
+
+NÚMEROS
+
+Números racionais                                                                                                                               A, B, C, D, E, I
+
+Representações de      Reconhecer que um número racional se pode         Propor aos alunos que representem dízimas infinitas periódicas (de
+um número racional     representar como uma dízima finita ou             período 3 ou 6) por frações com denominador igual a 3.
+                       infinita periódica.
+                                                                         Proporcionar o reconhecimento de que os números racionais da
+                       Reconhecer a diferença entre valores              forma a/9, com a número natural entre 1 e 8, não admitem uma
+                       aproximados e valores exatos e a sua              representação decimal finita [Exemplo: criar grupos de trabalho,
+                       adequação a diferentes contextos.                 atribuir a cada grupo um algarismo diferente entre 1 e 8 e propor
+                                                                         que averiguem o que sucede à divisão desse número por 9;
+                                                                         comparar resultados e tirar conclusões].
+                                                                          Propor a resolução de problemas, individual ou a pares, cujas
+                                                                         soluções têm de ser expressas por números inteiros, mas que
+                                                                         envolvam a realização de operações com racionais não negativos e
+                                                                         cujo resultado, não sendo um inteiro, imponha arredondamentos,
+                                                                         promovendo o sentido crítico dos alunos [Exemplo: Dividir a conta
+                                                                         do restaurante por 3 pessoas, verificando em que situações a
+                                                                         divisão é exata e como proceder quando não o é].
+
+Multiplicação e        Reconhecer um número racional negativo            Iniciar o estudo da multiplicação e divisão de números racionais
+divisão                como o produto do seu simétrico por -1.           apenas com números inteiros.
+                       Multiplicar e dividir números racionais.          Propor a discussão de situações que levem os alunos a concluir que
+                                                                         o produto de dois números inteiros é um número inteiro, mas tal
+                       Reconhecer as propriedades da
+                                                                         nem sempre acontece com o quociente, e identificar em que casos
+                       multiplicação e da divisão de números
+                                                                         isso acontece.
+                       racionais.
+                                                                         Conduzir ao reconhecimento de um número racional negativo como
+                       Interpretar situações que envolvam as
+                                                                         o produto do seu simétrico por -1 e usar esta propriedade no
+                       operações com números racionais, quer as
+                                                                         contexto da multiplicação de dois racionais, promovendo a sua
+                       respostas a dar sejam valores exatos, quer
+                                                                         compreensão.
+
+
+
+
+                                                                                                                                                                PÁG. 19
+                      APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                       8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+                        sejam valores aproximados, e resolver             Propor situações que conduzam ao uso da calculadora para analisar
+                        problemas associados.                             de forma crítica o sinal de produtos e quocientes de racionais
+                                                                          [Exemplo: Propor aos alunos que calculem mentalmente (-7)/(-5) e
+                                                                          que usem a calculadora (ou outro instrumento tecnológico) para
+                                                                          efetuar o mesmo cálculo, de modo a comparar os resultados obtidos
+                                                                          e pedir que expliquem eventuais diferenças; solicitar que prevejam
+                                                                          os resultados a obter para o cálculo de (-7)/(-2-3) e de (-2-5)/(-5),
+                                                                          usando o mesmo instrumento e omitindo ou não algum dos
+                                                                          parênteses].
+                                                                          Propor situações que permitam o reconhecimento de que a
+                                                                          multiplicação de números racionais é a operação que estende a
+                                                                          multiplicação com números racionais não negativos, mantendo as
+                                                                          suas propriedades.
+
+Potências de base       Compreender o significado de potência de          Promover a identificação das regras das potências de base -1 e
+racional e expoente     base racional e expoente inteiro.                 expoente natural e conduzir os alunos na generalização às
+inteiro                                                                   potências de base racional e expoente natural.
+                        Reconhecer e aplicar as regras operatórias
+                        de potências de base racional e expoente          Propor a exploração, em grupo, e consequente discussão com toda
+                        inteiro.                                          a turma, de divisões de potências com igual base, contribuindo para
+                                                                          a compreensão do significado de potência de expoente negativo ou
+                        Simplificar e calcular expressões numéricas
+                                                                          nulo, incentivando a colaboração entre os alunos.
+                        envolvendo potências.
+                                                                          Propor a comparação e ordenação de potências sem necessidade de
+                        Comparar e ordenar potências de base
+                                                                                                      2 3   2 −3            2 3     2 −3
+                        racional e expoente inteiro.                      efetuar cálculos [Exemplo: ( ) , ( ) , (−1)3 , (− ) , (− ) , 23 ,
+                                                                                                      5     5              5      5
+                        Conjeturar ou generalizar regularidades na        2−3 , (−2)3 , (−2)−3 ].
+                        multiplicação e divisão de potências e            Providenciar problemas, por exemplo de sequências, em que as
+                        justificar.                                       potências sejam usadas para modelar com vantagem situações
+                        Interpretar situações matemáticas que             matemáticas.
+                        envolvam potências de base racional e
+                        expoente inteiro e resolver problemas
+                        associados.
+                        Operar com potências de base racional e
+                        expoente inteiro, apresentando e explicando
+                        ideias e raciocínios.
+
+
+
+
+                                                                                                                                                                   PÁG. 20
+                 APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                      8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+Expressões         Escrever, simplificar e calcular expressões       Apresentar uma expressão numérica e solicitar aos alunos um
+numéricas          numéricas que envolvam as operações com           contexto que possa ser traduzido pela expressão dada.
+                   números racionais, fazendo uso das
+                                                                     Apresentar aos alunos uma situação e solicitar a sua tradução por
+                   propriedades.
+                                                                     uma expressão numérica envolvendo números racionais e efetuar o
+                   Imaginar e descrever uma situação que             seu cálculo [Exemplo: Em 2018, um jogador de futebol foi
+                   possa ser traduzida por uma expressão             transferido para o atual clube por 32,7 milhões de euros. A
+                   numérica dada.                                    transferência implicou ainda o pagamento adicional de 12% em
+                                                                     comissões. No final da época deverá deixar o clube por um valor
+                                                                     aproximado de 49 milhões de euros. Quanto irá ganhar o clube com
+                                                                     esta nova transferência?].
+
+Cálculo mental     Compreender e usar com fluência                   Promover a valorização das propriedades da multiplicação,
+                   estratégias de cálculo mental para operar         nomeadamente pela sua aplicação no cálculo mental com apoio em
+                   com números racionais, mobilizando as             registos escritos
+                   propriedades das operações.                                        5     4      5             5    1
+                                                                     [Exemplo: − (− ) × 3 + × (− ) = (−3) × (− ) + × (− ) =
+                                                                                                                             5
+                                                                                      2       7        8                 2   7   2
+                                                                                  1       5       20       5   50
+                                                                     = (−3 + ) × (− ) = (− ) × (− ) =               ].
+                                                                                  7       2       7        2   7
+
+
+Raiz quadrada      Conhecer os quadrados perfeitos até 144 e         Solicitar a resolução de problemas envolvendo o conceito de raiz
+                   relacioná-los com a respetiva representação       quadrada de quadrados perfeitos [Exemplo A: Qual é a medida do
+                   pictórica.                                        lado de um quadrado com 81cm2 de área? Exemplo B: Sabendo que
+                                                                     a área de um retângulo é 50cm2 e que pode ser dividido em dois
+                   Estimar e enquadrar raízes quadradas, com
+                                                                     quadrados, quais são as medidas dos comprimentos dos seus
+                   recurso à tecnologia.
+                                                                     lados?].
+                   Calcular raízes quadradas de quadrados
+                                                                     Estimar raízes quadradas a partir da comparação dos radicandos e
+                   perfeitos e valores aproximados de outras
+                                                                     sua comparação com números racionais positivos a partir do
+                   raízes quadradas, com recurso à tecnologia.
+                                                                     enquadramento ou estimativa das raízes quadradas com recurso à
+                                                                     calculadora, promovendo a perseverança na atividade matemática
+                                                                     [Exemplo: Estimar o valor de √70. Incentivar a justificação que
+                                                                     como 82 = 64 e 92 = 81, então 8 < √70 < 9].
+                                                                     Mobilizar o conhecimento dos alunos, sobre o efeito que o aumento
+                                                                     da medida do lado do quadrado produz na medida da sua área, para
+                                                                     a comparação e ordenação de raízes quadradas de números
+                                                                     racionais positivos.
+
+
+
+
+                                                                                                                                                             PÁG. 21
+                     APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                       8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+Raiz cúbica            Conhecer os cubos perfeitos até 125.              Solicitar a resolução de problemas envolvendo o conceito de raiz
+                                                                         cúbica [Exemplo A: Qual é a medida da aresta de um cubo com
+                       Resolver problemas que envolvam o cálculo
+                                                                         64cm3 de volume? Exemplo B: Sabendo que uma esfera tem 80cm3
+                       de raízes cúbicas de cubos perfeitos e
+                                                                         de volume, qual é o valor aproximado da medida do raio?].
+                       valores aproximados de outras raízes
+                       cúbicas, com recurso à tecnologia.
+
+Notação científica     Analisar situações da vida real que envolvam      Propor a recolha individual de notícias que envolvam números
+                       números muito próximos de zero,                   muito próximos de zero e que permitam o cálculo envolvendo
+                       reconhecendo as vantagens da escrita em           percentagens e sua análise a pares, na aula, para introduzir a
+                       notação científica.                               notação científica no caso em que o expoente é um inteiro
+                                                                         negativo.
+                       Representar e comparar números racionais
+                       positivos em notação científica (com              Solicitar cálculos que envolvam números escritos em notação
+                       potência de base 10 e expoente inteiro).          científica, em casos simples [Exemplos: Qual é a metade de 1x10 -5?;
+                                                                         A maioria das bactérias tem uma dimensão de 1x10-3 milímetro e os
+                       Operar com números em notação científica
+                                                                         vírus chegam a ter no máximo um centésimo dessa medida. Qual é
+                       em casos simples (percentagens, dobro,
+                                                                         a dimensão máxima de um vírus?].
+                       triplo, metade).
+
+
+
+
+                                                                                                                                                                  PÁG. 22
+                   APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                    8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+TEMAS, Tópicos e     OBJETIVOS DE APRENDIZAGEM:                        AÇÕES ESTRATÉGICAS DE ENSINO DO PROFESSOR                              Áreas de
+Subtópicos           Conhecimentos, Capacidades e Atitudes                                                                                    Competência do
+                                                                                                                                              Perfil dos Alunos
+
+ÁLGEBRA
+
+Expressões                                                                                                                                    A, B, C, D, E, F, I
+algébricas e
+equações
+
+Polinómios           Identificar monómios e polinómios.                Apresentar exemplos diversos que permitam clarificar a diferença
+                                                                       entre variável e parâmetro, em contexto diverso [Exemplo: Todas
+                     Descrever propriedades de números ou suas
+                                                                       as funções afins são definidas por expressões da forma 𝑎𝑥 + 𝑏 e
+                     relações, bem como propriedades de
+                                                                       para cada função 𝑎 e 𝑏 assumem um valor concreto e 𝑥 varia].
+                     operações, com recurso a polinómios e vice-
+                     versa.                                            Identificar polinómios entre expressões algébricas dadas [Exemplo:
+                                                                                                3
+                                                                       2 − 3𝑥 + 6; 𝑥 2 + 2;            ].
+                                                                                              𝑥 2 +1
+
+                                                                       Calcular o valor de um polinómio para uma atribuição de valores às
+                                                                       suas variáveis.
+                                                                       Proporcionar oportunidades diversas, quer para evidenciar a
+                                                                       vantagem do uso de linguagem simbólica, nomeadamente com
+                                                                       recurso a polinómios, quer para interpretar em contexto as
+                                                                       operações com polinómios [Exemplo: a soma de um número b e o
+                                                                       dobro do seu simétrico é traduzido por b+2(−b); a comutatividade
+                                                                       da adição é traduzida por x + y = y + x; ab(a+b) representa o volume
+                                                                       de um paralelepípedo cuja altura é igual à soma dos lados da base].
+
+Operações com        Adicionar e multiplicar polinómios.               Promover o uso das propriedades das operações com polinómios
+polinómios                                                             [Exemplo: Dado um retângulo cujos lados medem 2m e 3m
+                                                                       respetivamente, determina a área dos retângulos que se obtêm
+                                                                       deste prolongando pelo mesmo valor cada um dos seus lados.
+                                                                       Simplifica a tua resposta].
+
+
+
+
+                                                                                                                                                             PÁG. 23
+                    APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                      8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+Resolução de           Reconhecer equações do 1.º grau a uma            Conduzir os alunos na ampliação dos princípios de equivalência da
+equações do 1.º grau   incógnita com denominadores e parênteses.        resolução de equações [Exemplo: 2𝑥 − 3 + 𝑥 = 5 − 𝑥
+a uma incógnita
+                       Resolver equações do 1.º grau a uma              é equivalente a 2𝑥 − 3 + 𝑥 + 𝑥 = 5 e esta equação, por sua vez, é
+                       incógnita com denominadores e parênteses.        equivalente a 4𝑥 − 3 = 5;
+                       Representar, por meio de uma equação,            3+𝑥
+                                                                              = 5 + 𝑥 ⇔ 3 + 𝑥 = 2(5 + 𝑥) ⇔ 3 + 𝑥 = 10 + 2𝑥].
+                       situações em contextos matemáticos e não           2
+
+                       matemáticos, e vice-versa.                       Solicitar a representação, por meio de equações, de situações em
+                                                                        diversos contextos, e vice-versa, promovendo a criatividade e o
+                       Analisar, comparar e ajuizar a adequação de
+                                                                        sentido crítico dos alunos.
+                       resoluções realizadas por si e por outros.
+                                                                        Dar aos alunos, agrupados em pares, resoluções de equações com
+                                                                        erros mais comuns e pedir que concluam, justificando, se estão
+                                                                        corretas, proporcionando-lhes feedback de modo a favorecer a sua
+                                                                        autorregulação.
+
+Equações literais      Reconhecer fórmulas de outras áreas              Promover a identificação de fórmulas ou de equações literais
+                       científicas e do contexto da Matemática,         estudadas em Físico-Química, possivelmente em trabalho
+                       como equações literais, estabelecendo            coordenado com o docente dessa disciplina [Exemplos: A propósito
+                       conexões com outras áreas do saber.              da velocidade do som v=d/t e da massa volúmica ρ=m/v].
+                       Resolver equações do 1.º grau, com duas
+                       incógnitas, em ordem a uma delas.
+
+Sistemas de duas       Reconhecer sistemas de duas equações do          Propor a recolha individual de desafios que frequentemente se
+equações do 1.º grau   1.º grau a duas incógnitas.                      encontram em redes sociais e a sua tradução por sistemas de
+a duas incógnitas                                                       equações, promovendo a iniciativa e autonomia dos alunos.
+                       Averiguar, algébrica ou geometricamente,
+                       se um determinado par ordenado é solução         Propor aos alunos que averiguem algébricamente se entre pares
+                       de um dado sistema de equações.                  ordenados de números apresentados existem soluções de um dado
+                                                                        sistema de equações.
+                       Resolver sistemas de duas equações do 1.º
+                       grau a duas incógnitas, recorrendo a             Promover o uso, a pares, de tecnologia (AGD, calculadora gráfica,
+                       diferentes representações, relacionando a        applets) para a resolução gráfica de sistemas de equações, e
+                       resolução algébrica e a geométrica.              estabelecer relações com a resolução algébrica, promovendo a
+                                                                        compreensão do significado de sistema de duas equações.
+                       Resolver problemas que envolvam sistemas
+                       de equações, em diversos contextos,              Propor situações que levem a estabelecer, a pares ou em grupo,
+                       descrevendo as estratégias de resolução          relações entre os declives das retas não verticais definidas pelas
+
+
+
+
+                                                                                                                                                                PÁG. 24
+                APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                    8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+                  seguidas e fundamentando a sua adequação.         equações de um sistema dado e o número de soluções desse
+                                                                    sistema, incluindo a relevância da ordenada na origem no caso em
+                  Descrever e explicitar a adequação das
+                                                                    que os declives são iguais.
+                  estratégias de resolução de problemas que
+                  envolvem sistemas de equações.                    Incentivar a apresentação e orquestrar a discussão, com toda a
+                                                                    turma, de diferentes estratégias de resolução de problemas, de
+                                                                    modo a concluir a eficácia e vantagens das diferentes estratégias e
+                                                                    representações, desenvolvendo o sentido crítico.
+
+Funções                                                                                                                                    A, B, C, D, E, I
+
+Funções afins     Reconhecer função afim como uma função            Partindo de uma situação concreta, apoiar os alunos na
+                  do tipo 𝑓(𝑥) = 𝑎𝑥 + 𝑏 e função linear como        identificação da função que a representa, usando diversas
+                  um caso particular de função afim.                representações e relacionando-as [Exemplo: “O João vai com os
+                                                                    seus pais visitar uma prima que vive em Londres. Decidiu verificar a
+                  Representar uma função afim usando
+                                                                    taxa de câmbio de euros para libras. Pesquisa a taxa em vigor e
+                  representações múltiplas (gráfico, expressão
+                                                                    ajuda o João a converter diferentes valores de euros para libras.
+                  algébrica e tabela) e estabelecendo
+                                                                    Representa as diferentes conversões na forma de tabela, gráfico e
+                  conexões entre as mesmas.
+                                                                    expressão algébrica”. Explorar a situação considerando ou não a
+                  Reconhecer o efeito da variação de cada           cobrança de uma comissão fixa por transação].
+                  parâmetro numa função afim.
+                                                                    Propor a modelação de fenómenos pela determinação de modelos
+                  Interpretar e modelar situações da realidade      lineares adequados, a partir de recolha de dados, realizada em
+                  com função afim e fazer previsões.                grupo, evidenciando a relevância da Matemática para a
+                                                                    compreensão de situações da realidade [Exemplo: Propor o estudo
+                  Identificar uma função de proporcionalidade
+                                                                    da variação da altura de uma vela em função do tempo, durante a
+                  direta com uma função linear.
+                                                                    sua combustão. Este estudo pode ser realizado em grupo com velas
+                  Ouvir os outros, discutir, e contrapor            de aniversário iguais ou com alturas e densidades diferentes (uma
+                  argumentos, de forma fundamentada, sobre          por grupo). Neste segundo caso, incentivar a análise e comparação
+                  se as funções afins são funções de                dos resultados obtidos e concluir sobre o modo como a altura da
+                  proporcionalidade direta.                         vela ou a sua densidade se reflete no respetivo modelo linear].
+                  Modelar situações da realidade através de         Confrontar os alunos com diferentes situações da realidade,
+                  funções afins.                                    levando-os a verificar que existem outras cuja modelação não se
+                                                                    faz por uma função afim [Exemplo: Regista a temperatura de uma
+                                                                    bebida quente, deixada a arrefecer, ao longo do tempo. Representa
+                                                                    os dados obtidos num gráfico e discute se podem ser aproximados
+                                                                    por uma função afim].
+
+
+
+
+                                                                                                                                                          PÁG. 25
+APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                   8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+                                                    Estabelecer relações entre a representação algébrica e geométrica
+                                                    de uma função afim, nomeadamente a identificação do declive da
+                                                    reta e da ordenada na origem nas duas representações.
+                                                    Promover a representação gráfica de funções, a pares, com recurso
+                                                    a ambientes de geometria dinâmica (AGD [Exemplo: GeoGebra]) e
+                                                    investigar os efeitos da variação de parâmetros, desenvolvendo o
+                                                    sentido crítico dos alunos.
+                                                    Propor a análise, a pares, com consequente discussão com toda a
+                                                    turma, de situações que permitam aos alunos constatar e explicar a
+                                                    ausência de proporcionalidade direta em variações afins [Exemplo:
+                                                    Custos relacionados com uma compra online que inclua o custo na
+                                                    loja física acrescido de uma taxa fixa de entrega ao domicílio].
+
+
+
+
+                                                                                                                                         PÁG. 26
+                     APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                     8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+TEMAS, Tópicos e        OBJETIVOS DE APRENDIZAGEM:                         AÇÕES ESTRATÉGICAS DE ENSINO DO PROFESSOR                            Áreas de
+Subtópicos              Conhecimentos, Capacidades e Atitudes                                                                                   Competências do
+                                                                                                                                                Perfil dos Alunos
+
+DADOS
+
+Questões                                                                                                                                        A, B, C, D, E, F
+estatísticas, recolha
+e organização de
+dados
+
+Questões estatísticas   Formular questões estatísticas sobre variáveis     Suscitar questionamentos concretos por parte dos alunos que
+                        qualitativas e quantitativas.                      façam emergir questões estatísticas sobre variáveis qualitativas e
+                                                                           quantitativas, discutindo a adequabilidade das questões a estudar.
+                                                                           Valorizar questões sobre assuntos relacionados com temas
+                                                                           familiares aos alunos ou que possam ser integrados com domínios
+                                                                           do currículo do 8.º ano. No caso de se optar por um estudo que
+                                                                           envolva outra(s) disciplina(s) do plano de estudos dos alunos,
+                                                                           poder-se-á considerar um trabalho de projeto.
+                                                                           Favorecer que diferentes grupos se dediquem a diferentes
+                                                                           questões que se complementem na produção de conclusões sobre
+                                                                           o assunto a estudar, incentivando a colaboração entre os alunos.
+                                                                           Discutir, com toda a turma, a formulação das questões com o
+                                                                           objetivo de antecipar dificuldades de tratamento dos dados a
+                                                                           recolher decorrentes de um grau de precisão pouco adequado,
+                                                                           desenvolvendo o espírito crítico dos alunos [Exemplo: Analisar os
+                                                                           tempos da final da prova de atletismo de 100 metros dos Jogos
+                                                                           Olímpicos com o objetivo de verificar que apenas o
+                                                                           arredondamento usado, ou outro mais preciso, permite a
+                                                                           diferenciação dos dados].
+
+Fonte e métodos de      Definir quais os dados a recolher, selecionar a    Apoiar os alunos na procura de soluções adequadas para uma
+recolha de dados        fonte e o método de recolha dos dados, e           recolha de dados, no que diz respeito ao processo de obter os
+                        proceder à sua recolha e limpeza.                  dados.
+
+
+
+
+                                                                                                                                                                   PÁG. 27
+                     APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                     8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+                       Recolher dados através de um método de              Avaliar eventuais consequências de optar por métodos públicos ou
+                       recolha, nomeadamente recorrendo a sítios           privados na obtenção dados, promovendo o sentido crítico dos
+                       credíveis na internet.                              alunos.
+                                                                           Valorizar propostas idiossincráticas imaginadas por alunos para a
+                                                                           recolha de dados, e discutir com toda a turma a sua adequação e
+                                                                           eficácia, valorizando o espírito de iniciativa e autonomia.
+                                                                           Solicitar a recolha de dados com recurso umas vezes a fontes
+                                                                           primárias e outras a fontes secundárias [Exemplos: Pordata, INE,
+                                                                           ALEA].
+                                                                           Observar o conjunto de dados recolhidos e ordenados e verificar
+                                                                           se existem dados inesperados que possam ser gralhas, criando a
+                                                                           necessidade da sua limpeza.
+
+Organização de         Agrupar dados discretos em classes caso tal         Conduzir os alunos no sentido de escolherem o modo mais
+dados (Tabela de       seja necessário para os organizar e visualizar.     adequado de organizar os dados, por forma a terem uma leitura
+frequências com                                                            fácil, incentivando o sentido crítico dos alunos e a tomada de
+                       Usar tabelas de frequências para organizar os
+dados discretos                                                            decisões fundamentadas por argumentos próprios.
+                       dados (incluindo legenda na tabela).
+agrupados em
+                                                                           Promover a elaboração de tabelas de frequências relativas a
+classes e não
+                                                                           dados discretos agrupados em classes e compará-las com as
+agrupados em
+                                                                           tabelas construídas anteriormente relativas a dados discretos não
+classes)
+                                                                           agrupados.
+
+Representações                                                                                                                                  A, B, C, D, E, F, I
+gráficas
+
+Diagrama de            Representar dados através de um diagrama de         Sensibilizar os alunos para a simplicidade da representação dos
+extremos e quartis     extremos e quartis, incluindo fonte, título e       dados através do diagrama de extremos e quartis por requerer
+                       legenda.                                            apenas a identificação de 5 números.
+                       Interpretar a influência da alteração de dados      Propor a exploração visual de um diagrama de extremos e quartis
+                       na configuração do diagrama de extremos e           pela alteração de um dado, usando tecnologia [Exemplos: AGD ou
+                       quartis correspondente.                             folha de cálculo], a pares ou em grupo, e promover a
+                                                                           interpretação da influência dessa alteração.
+
+
+
+
+                                                                                                                                                                PÁG. 28
+                     APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                       8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+Análise crítica de     Decidir sobre qual(is) a(s) representação(ões)      Propor a cada grupo de alunos que apresente uma representação
+gráficos               gráfica(s) a adotar para representar conjuntos      gráfica, apropriada à natureza das variáveis, à informação contida
+                       de dados, incluindo fonte, título, legenda e        nos dados e ao que se pretende transmitir, com o objetivo de a
+                       escalas e justificar a(s) escolha(s) feita(s).      turma distinguir várias representações gráficas, incluindo as
+                                                                           trabalhadas anteriormente, e as suas especificidades,
+                       Analisar e comparar diferentes representações
+                                                                           incentivando o sentido crítico dos alunos.
+                       gráficas provenientes de fontes secundárias,
+                       discutir a sua adequabilidade e concluir            Promover a seleção da(s) representação(ões) gráficas a usar no
+                       criticamente sobre eventuais efeitos de             estudo estatístico.
+                       manipulações gráficas, desenvolvendo a
+                                                                           Incentivar a pesquisa de representações gráficas em jornais,
+                       literacia estatística.
+                                                                           revistas ou outras publicações e seleção de exemplos que os
+                                                                           alunos considerem interessantes para discussão com toda a turma,
+                                                                           encorajando, para exploração matemática, ideias propostas pelos
+                                                                           alunos.
+                                                                           Propor a análise de gráficos selecionados que contenham
+                                                                           manipulações e incentivar a sua identificação e os efeitos obtidos,
+                                                                           promovendo o sentido crítico dos alunos [Exemplo:
+                                                                                       Crescimento Económico do 1.º trimestre de 2016
+
+
+
+
+                                                                                 Fonte: Telejornal RTP].
+
+                                                                           Explorar, caso surjam, outras representações gráficas inovadoras
+                                                                           que melhor consigam “contar”, de forma honesta, a história por
+                                                                           detrás dos dados, incluindo sempre a fonte, o título e a legenda,
+                                                                           valorizando a criatividade dos alunos e o seu espírito de iniciativa
+                                                                           e autonomia.
+
+
+
+
+                                                                                                                                                                  PÁG. 29
+                      APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                      8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+Análise de dados                                                                                                                                  A, C, D, E, F
+
+Resumo dos dados        Relacionar o 2.º quartil com a mediana.             Conduzir os alunos a reconhecer que os quartis localizam pontos
+(Quartis, Amplitude                                                         importantes de uma distribuição para além do centro da
+                        Interpretar o significado dos quartis e calcular
+interquartil)                                                               distribuição dos dados.
+                        o seu valor por diferentes estratégias.
+                                                                            Explicitar a opção de considerar, no cálculo dos quartis, a
+                        Compreender o significado de amplitude
+                                                                            mediana nas duas partes, quando o número de dados for ímpar.
+                        interquartil.
+                                                                            Discutir a relevância desta opção para o caso de um número
+                        Reconhecer que a amplitude interquartil é           elevado de dados.
+                        uma medida de dispersão dos dados e calculá-
+                                                                            Incentivar a exploração das propriedades das medidas de
+                        la.
+                                                                            localização (moda, média e mediana) e de dispersão (amplitude e
+                        Identificar qual(ais) a(s) medida(s) resumo         amplitude interquartil), em particular sobre a maior ou menor
+                        apropriada(s) para resumir os dados em              resistência de cada uma destas medidas a valores muito grandes
+                        função não só da sua natureza, mas também           ou muito pequenos.
+                        de qual a diferença entre estas quando
+                                                                            Discutir o significado da amplitude interquartil, identificando que
+                        obtidas através de dados não agrupados e
+                                                                            o valor zero para esta medida não equivale à inexistência de
+                        dados agrupados. Compreender a vantagem
+                                                                            dispersão.
+                        do uso da amplitude interquartil em vez da
+                        amplitude para caracterizar a dispersão dos         Explorar a situação de os dados se apresentarem agrupados para
+                        dados.                                              obter, através da tabela de frequências relativas acumuladas, a
+                                                                            mediana e os quartis.
+
+Interpretação e         Analisar criticamente qual(ais) a(s) medida(s)      Confrontar diversos diagramas de extremos e quartis com as
+conclusão               resumo apropriadas para resumir os dados, em        respetivas amplitudes interquartis e retirar conclusões. Gerir a
+                        função da sua natureza.                             discussão com toda a turma e incentivar a forma de comunicação
+                                                                            dos alunos, incentivando progressivamente a construção da
+                        Ler, interpretar e discutir distribuições de
+                                                                            autoconfiança dos alunos.
+                        dados, salientando criticamente os aspetos
+                        mais relevantes, ouvindo os outros,                 Explorar as potencialidades do diagrama de extremos e quartis,
+                        discutindo, contrapondo argumentos, de              que permite visualizar aspetos relevantes da distribuição dos
+                        forma fundamentada.                                 dados [Exemplo: incentivar a construção de diagramas de
+                                                                            extremos e quartis, em grupo, a partir de dados recolhidos na
+                        Retirar conclusões, fundamentar decisões e
+                                                                            turma, para identificar aspetos como a simetria, localização do
+                        colocar novas questões suscitadas pelas
+                                                                            centro e a dispersão].
+                        conclusões obtidas, a perseguir em eventuais
+                        futuros estudos.
+
+
+
+
+                                                                                                                                                                  PÁG. 30
+                   APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                     8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+                                                                         Estabelecer nos alunos a ideia de que uma análise de dados nunca
+                                                                         está completa se tudo o que foi realizado anteriormente não for
+                                                                         interpretado e discutido.
+                                                                         Apoiar os alunos na formulação de novas questões que as
+                                                                         conclusões do estudo possam suscitar.
+
+Comunicação e                                                                                                                                 A, B, E, F, H, I
+divulgação do
+estudo
+
+Público-alvo e         Decidir a quem divulgar o estudo realizado e      Apoiar e acompanhar o desenvolvimento, em grupo, do estudo
+recursos para a        elaborar diferentes recursos de comunicação       estatístico, nomeadamente a sua divulgação, reservando
+divulgação do estudo   de modo a divulgá-lo de forma rigorosa,           momentos de trabalho na sala de aula para este fim.
+                       eficaz e não enganadora.
+                                                                         Promover a discussão com toda a turma sobre a quem divulgar as
+                       Divulgar o estudo, contando a história que        conclusões e novas questões que emergem do estudo,
+                       está por detrás dos dados e levantando            incentivando a curiosidade.
+                       questões emergentes para estudos futuros.
+                                                                         Dar autonomia aos alunos para escolherem o modo de
+                                                                         comunicação/divulgação dos seus resultados apoiando-os na
+                                                                         preparação dessa comunicação que incluirá a realização de um
+                                                                         documento de apoio [Exemplos: Escrita de um relatório,
+                                                                         elaboração de um poster, criação de um infográfico]. Sensibilizar
+                                                                         para aspetos centrais, como a relevância da informação
+                                                                         selecionada.
+                                                                         Promover a discussão coletiva sobre os elementos indispensáveis a
+                                                                         considerar na comunicação, ouvindo as ideias dos alunos e
+                                                                         valorizando o espírito de síntese e o rigor para uma boa
+                                                                         comunicação.
+                                                                         Promover a divulgação, em grupo, destes trabalhos, a acontecer
+                                                                         na sala de aula ou em outros espaços da escola/agrupamento,
+                                                                         incentivando o gosto e autoconfiança na atividade matemática e
+                                                                         promovendo a capacidade de trabalhar em equipa.
+
+
+
+
+                                                                                                                                                              PÁG. 31
+                     APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                    8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+Análise crítica da     Analisar criticamente a comunicação de              Propor a análise, em grupo, de notícias relativas a estudos
+comunicação            estudos estatísticos realizados nos media,          estatísticos acessíveis que surjam nos media, incentivando a
+                       desenvolvendo a literacia estatística.              autonomia dos alunos, e suscitar a discussão da história que
+                                                                           contam, a identificação de elementos omissos, o levantamento do
+                                                                           que deixam por contar.
+
+Probabilidades                                                                                                                                 D, E F, I
+
+
+Experiência            Reconhecer as características de uma                Identificar os elementos que caracterizam uma experiência, a
+aleatória              experiência aleatória.                              partir de ideias que os alunos trazem sobre o entendimento que
+                                                                           dão a uma experiência aleatória, promovendo a sua compreensão.
+
+Espaço de resultados   Reconhecer o conjunto dos resultados                Propor a análise de uma experiência aleatória que conduza à
+ou espaço amostral     possíveis, quando se realiza uma experiência        identificação de todos os resultados possíveis, identificando o
+                       aleatória, como o espaço de resultados ou           acontecimento impossível, o acontecimento certo,
+                       espaço amostral.                                    acontecimentos elementares e acontecimentos compostos,
+                                                                           desenvolvendo o sentido crítico [Exemplos: Extrair uma bola de
+                                                                           um saco que contém três bolas numeradas de 1 a 3 ou lançamento
+                                                                           de um dado tetraédrico].
+
+Acontecimentos         Reconhecer e dar exemplos de                        Explorar ideias que os alunos trazem sobre acontecimentos certo
+                       acontecimentos certo e impossível.                  e impossível.
+                       Designar os elementos de um acontecimento           Promover a identificação de experiências aleatórias em que
+                       como “resultados favoráveis” à realização           existam vários resultados favoráveis a um mesmo acontecimento
+                       desse acontecimento.                                [Exemplo: Num lançamento de um dado cúbico com faces com um
+                                                                           número de pintas de 1 a 6, identificar que a ocorrência das faces
+                                                                           com 2, 4, e 6 pintas são resultados favoráveis ao acontecimento
+                                                                           “sair face par”].
+                       Interpretar acontecimentos como conjuntos,          Propor a identificação individual do tipo de acontecimento num
+                       utilizando a terminologia correta.                  conjunto de situações apresentadas [Exemplo: Num lançamento
+                                                                           de um dado cúbico com faces com um número de pintas de 1 a 6:
+                       Identificar acontecimentos associados a uma
+                                                                           “Sair uma face com 7 pintas”; “Sair uma face com um número de
+                       experiência aleatória como subconjuntos do
+                                                                           pintas inferior a 7”; “Sair uma face com um número de pintas
+                       espaço amostral.
+                                                                           igual 1” e “Sair uma face com mais do que uma pinta”].
+
+
+
+
+                                                                                                                                                               PÁG. 32
+                APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                    8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+Tabelas de        Identificar resultados possíveis como               Orientar a construção da tabela de probabilidades associadas a
+probabilidade     acontecimentos elementares e compreender            uma experiência aleatória [Exemplo: Se tiver uma caixa com 5
+                  que a soma das suas probabilidades é 1.             papelinhos, aparentemente iguais, mas 3 com nomes de rapazes e
+                                                                      2 com nomes de raparigas, quais os resultados possíveis e
+                  Construir tabelas de probabilidade associadas
+                                                                      respetivas probabilidades, associados com a experiência que
+                  a experiências aleatórias, com conjuntos de
+                                                                      consiste em:
+                  resultados possíveis finitos.
+                                                                          a) selecionar um papelinho e ver se é rapaz ou rapariga;
+                                                                          b) selecionar dois papelinhos e ver quantos nomes de rapaz
+                                                                              aparecem.
+                                                                      Para responder à questão b), propor a utilização de tabelas de
+                                                                      dupla entrada].
+
+Probabilidade     Estimar a probabilidade de acontecimentos           Recorrer a ambientes de programação visual ou a folha de cálculo
+frequencista      utilizando a frequência relativa.                   para, por simulação, ilustrar que, quando se repete uma
+                                                                      experiência (nas mesmas condições) um número suficientemente
+                  Estimar a probabilidade de acontecimentos
+                                                                      grande de vezes, a frequência relativa de um acontecimento
+                  (teórica).
+                                                                      ocorrer tende a estabilizar à volta da verdadeira probabilidade
+                                                                      desse acontecimento ocorrer, desenvolvendo o pensamento
+                                                                      computacional.
+                                                                      Em situações em que não seja possível admitir a simetria, levar os
+                                                                      alunos, a pares ou em grupo, a utilizar a frequência relativa para
+                                                                      atribuir probabilidades a acontecimentos, recorrendo a diversos
+                                                                      processos, como seja o recurso a uma base de dados e construindo
+                                                                      a tabela de probabilidade [Exemplo: Se se pretende saber qual a
+                                                                      probabilidade do tipo de sangue de uma pessoa selecionada ao
+                                                                      acaso na população portuguesa podemos ter em consideração que
+                                                                      a distribuição dos grupos sanguíneos na população portuguesa se
+                                                                      faz de acordo com a seguinte tabela de probabilidade
+
+
+
+
+                                                                             Fonte: INE].
+
+
+
+
+                                                                                                                                                          PÁG. 33
+                    APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                     8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+TEMAS, Tópicos e      OBJETIVOS DE APRENDIZAGEM:                        AÇÕES ESTRATÉGICAS DE ENSINO DO PROFESSOR                              Áreas de
+Subtópicos            Conhecimentos, Capacidades e Atitudes                                                                                    Competências do
+                                                                                                                                               Perfil dos Alunos
+
+GEOMETRIA
+
+Figuras planas                                                                                                                                 C, E, I
+
+
+Teorema de            Explicar, por palavras próprias, o Teorema        Conduzir a turma à formulação e justificação do Teorema de
+Pitágoras             de Pitágoras.                                     Pitágoras recorrendo à decomposição de quadrados, com material
+                                                                        manipulável ou com tecnologia.
+                      Aplicar o Teorema de Pitágoras.
+                                                                        Propor a identificação e exploração, a pares, de situações
+                      Compreender uma demonstração do
+                                                                        problemáticas diversas, no contexto matemático e da vida real, que
+                      Teorema de Pitágoras.
+                                                                        necessitem do Teorema de Pitágoras [Exemplos: Marcação de
+                      Interpretar situações com o Teorema de            perpendiculares num terreno com recurso à corda dos 12 nós ou a
+                      Pitágoras e resolver problemas que                posição de um móvel durante a passagem numa porta],
+                      requeiram o seu uso.                              evidenciando a intervenção da Matemática em situações da
+                                                                        realidade. O estudo de situações no espaço é uma possibilidade a
+                                                                        considerar enquanto extensão de tarefas a propor.
+                                                                        Propor a resolução do seguinte problema, usando um ambiente de
+                                                                        programação visual [Exemplo: Scratch]: “Verificar se um triângulo,
+                                                                        conhecidas as medidas dos seus lados, é ou não retângulo”,
+                                                                        promovendo o desenvolvimento do pensamento computacional.
+                                                                        Propor a identificação de ternos pitagóricos reconhecendo-os como
+                                                                        medidas dos lados de triângulos retângulos e investigar a existência
+                                                                        de semelhança entre alguns destes triângulos.
+
+Área de polígonos     Calcular a medida da área de um polígono          Propor aos alunos que, em pares ou em grupo, determinem as
+regulares             regular.                                          medidas das áreas de polígonos regulares com diferentes números
+                                                                        de lados, a partir da sua decomposição em triângulos isósceles.
+                                                                        Desafiar os alunos a estabelecerem uma relação entre a altura dos
+                                                                        triângulos (apótema do polígono regular), o número de lados, e a
+                                                                        medida do lado do polígono com a medida da sua área. Numa fase
+                                                                        posterior, incentivar os alunos a simplificar a expressão encontrada
+
+
+
+
+                                                                                                                                                               PÁG. 34
+                      APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                      8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+                                                                          com recurso à medida do perímetro.
+
+
+Operações com                                                                                                                                     D, E, I
+figuras
+
+
+Vetores e adição de     Compreender o significado de vetor.               Incentivar a análise de objetos decorativos para identificar
+vetores                                                                   simetrias de translação, rotação, reflexão e reflexão deslizante
+                        Adicionar vetores.
+                                                                          [Exemplos: Análise de frisos de azulejos em várias culturas; visita a
+Translação associada    Construir a imagem de uma figura por              museus ou fábricas que tenham azulejos].
+a um vetor              translação e por reflexão deslizante.
+                                                                          Solicitar a construção de frisos diferentes a partir do mesmo motivo
+                        Relacionar a composição de translações com        com recurso a AGD, applets ou software específico (GECLA),
+Reflexão deslizante
+                        a adição de vetores.                              estimulando a criatividade dos alunos.
+Simetria de uma         Construir frisos simples.                         Estabelecer conexões que envolvam frisos ou padrões, evidenciando
+figura                                                                    a relevância da Matemática na criação e construção do mundo que
+                        Identificar simetrias, incluindo as simetrias
+                                                                          nos rodeia [Exemplo: Em parceria com a disciplina de Educação
+                        de translação e de reflexão deslizante.
+                                                                          Visual desenvolver um trabalho de projeto].
+                        Interpretar e modelar situações do mundo
+                        real que envolvam simetria.
+
+Figuras no espaço                                                                                                                                 B, C, E, F, I
+
+
+Planificação do         Construir a planificação de um cilindro dado      Sugerir a construção da planificação de um cilindro dado, de modo
+cilindro e do cone      e vice-versa.                                     a estabelecer a relação entre as medidas das figuras obtidas
+                                                                          [Exemplo: Propor a construção de cilindros (sem bases) por
+                        Construir a planificação de um cone dado e
+                                                                          enrolamento de uma folha de papel A4 e incentivar a verificação de
+                        vice-versa.
+                                                                          que o mesmo retângulo pertence às planificações de dois cilindros
+                                                                          diferentes].
+                                                                          Disponibilizar a cada aluno uma planificação de um cone e sugerir o
+                                                                          recorte e a sua montagem. As planificações fornecidas pelo
+                                                                          professor podem ter dimensões diferentes com o objetivo de
+                                                                          analisar o impacto da diferença nos cones obtidos. Devem também
+                                                                          ser fornecidas figuras compostas por setores circulares e círculos
+                                                                          que não correspondam a planificações de cones. Solicitar o
+
+
+
+
+                                                                                                                                                                  PÁG. 35
+                     APRENDIZAGENS ESSENCIAIS | ARTICULAÇÃO COM O PERFIL DOS ALUNOS                                                   8.º ANO | 3.º CICLO | MATEMÁTICA
+
+
+
+
+                                                                         estabelecimento da relação entre a medida do comprimento do
+                                                                         arco e a do perímetro do círculo.
+
+Área da superfície de   Resolver problemas de área da superfície,        Fomentar o uso de materiais manipuláveis ou de AGD para resolver
+prismas retos,          por composição ou decomposição.                  problemas que envolvam áreas de superfície e volumes de sólidos,
+pirâmides regulares,                                                     individualmente, a pares, ou em grupo [Exemplo: Comparar os
+                        Resolver problemas de volume de sólidos,
+cilindros, cones                                                         volumes de dois cilindros obtidos a partir do enrolamento de uma
+                        por composição ou decomposição.
+                                                                         folha A4, um pelo comprimento da folha e outro pela sua altura].
+Volume de prismas
+                                                                         Evidenciar a analogia entre a expressão do volume da pirâmide e a
+retos, pirâmides
+                                                                         expressão do volume do cone.
+regulares, cones e
+esferas
+
+
+
+
+                                                                                                                                                              PÁG. 36

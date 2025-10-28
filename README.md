@@ -43,26 +43,142 @@ This DreamNode serves as the development space for a teaching manual designed to
 - **Portfolio Requirements**: Balancing bureaucratic needs with engaging content
 - **Trust-Based Approach**: Honest communication about necessary but boring tasks
 
-## Development Phases
+## Manual Creation Approach
 
-### Phase 1: Foundation (Current)
-- Extract and organize math curriculum requirements from official programs
-- Create subject checklist for systematic coverage tracking
-- Develop initial visual teaching materials and presentations
+### Core Objective: Simple Thematic Refactoring
 
-### Phase 2: Implementation
-- Begin teaching sessions with integrated visual approach
-- Test project-based learning connections with mathematical concepts
-- Refine teaching methods based on student engagement and feedback
+**What the school actually needs:**
+- NOT a condensed/synthesized manual with abstractions
+- NOT frameworks, progression matrices, or meta-structures
+- **YES:** A straightforward reorganization of official curriculum content by topic
 
-### Phase 3: Expansion
-- Create comprehensive consultation manual for student reference
+**Process:** Take all curriculum content from grades 5-9 and reorganize it **thematically** (by topic) instead of **chronologically** (by grade), while preserving ALL detail.
+
+### The Problem We're Solving
+
+Official curriculum PDFs organize content by grade:
+```
+Grade 5 PDF: All Grade 5 topics
+Grade 6 PDF: All Grade 6 topics
+...
+Grade 9 PDF: All Grade 9 topics
+```
+
+Teachers and students need content organized by topic:
+```
+Fractions Manual: All fractions content from grades 5-9
+Geometry Manual: All geometry content from grades 5-9
+...
+```
+
+### What to Preserve (Everything!)
+
+**Keep intact from official PDFs:**
+- ✅ Complete learning objectives (word-for-word)
+- ✅ All teaching strategies and methodologies
+- ✅ All example problems and scenarios
+- ✅ Assessment guidance
+- ✅ All tables, detailed instructions, and pedagogical notes
+- ✅ Cross-references and connections
+
+**Only remove:**
+- ❌ Exact word-for-word duplicates (when same content appears in multiple grades)
+
+**Result:** A comprehensive manual (likely 150+ pages) that's simply reordered, not condensed.
+
+## Technical Implementation
+
+### Automated Agent-Based Pipeline
+
+**Architecture:**
+- **Main thread**: Orchestrates workflow, tracks progress
+- **Sub-agents**: Process individual topics in forked context windows
+- **File-based**: All content lives in files (minimal main-thread context usage)
+
+**Pipeline Stages:**
+
+```
+1. EXTRACT (5 agents per topic, run in parallel)
+   ├─ Agent: Extract topic from Grade 5 text → topics/raw/[topic]_g5.md
+   ├─ Agent: Extract topic from Grade 6 text → topics/raw/[topic]_g6.md
+   ├─ Agent: Extract topic from Grade 7 text → topics/raw/[topic]_g7.md
+   ├─ Agent: Extract topic from Grade 8 text → topics/raw/[topic]_g8.md
+   └─ Agent: Extract topic from Grade 9 text → topics/raw/[topic]_g9.md
+
+2. CONSOLIDATE (1 agent per topic)
+   └─ Agent: Merge 5 files → topics/consolidated/[topic].md
+      (Marks duplicates with <!-- DUPLICATE --> comments)
+
+3. DEDUPLICATE (1 agent per topic)
+   └─ Agent: Remove marked duplicates → topics/clean/[topic]_final.md
+
+4. ASSEMBLE (Main thread)
+   └─ Concatenate all clean topics → Final_Mathematics_Manual.md
+```
+
+### Directory Structure
+
+```
+text_versions/              # PDFs converted to searchable text
+  grade5_math.txt          # 140KB
+  grade6_math.txt          # 128KB
+  grade7_math.txt          # 154KB
+  grade8_math.txt          # 134KB
+  grade9_math.txt          # 132KB
+
+topics/
+  raw/                     # Individual grade extractions
+    [topic]_g5.md
+    [topic]_g6.md
+    ...
+  consolidated/            # Combined across grades
+    [topic].md
+  clean/                   # Final deduplicated versions
+    [topic]_final.md
+
+.claude/agents/            # Sub-agent definitions
+  topic-extractor.md       # Extracts specific topic from grade text
+  topic-consolidator.md    # Combines topic across all grades
+  duplicate-remover.md     # Removes marked duplicates
+
+topic_index.md             # Progress tracker (~40 topics total)
+```
+
+### Proof of Concept: Complete ✅
+
+**Topic Tested:** "Números primos" (Prime Numbers)
+
+**Results:**
+- ✅ Extracted from grades 5, 6, 9 (not taught in 7, 8)
+- ✅ Consolidated into organized 324-line document
+- ✅ Deduplicated conservatively (no data loss)
+- ✅ Output: `/topics/clean/prime_numbers_final.md` (14KB, ready for teaching)
+
+**Quality:** Preserves ALL original content (objectives, strategies, examples, tables) while eliminating exact duplicates.
+
+### Development Phases
+
+**Phase 1: Manual Creation (In Progress)**
+- ✅ Convert PDFs to searchable text (preserving page layout)
+- ✅ Create specialized sub-agents for extraction pipeline
+- ✅ Validate proof-of-concept with one complete topic
+- ⏳ Process remaining ~40 topics using agent pipeline
+- ⏳ Assemble final thematically-organized manual
+
+**Phase 2: Teaching Implementation**
+- Begin using manual for actual teaching sessions
+- Test visual metaphor integration alongside official content
+- Gather student feedback on manual usability
+- Refine organization based on real-world usage
+
+**Phase 3: Expansion**
+- Apply same pipeline to Chemistry/Physics curriculum
+- Integrate exercise collections from O Bichinho do Saber
 - Develop video content for fundraising and documentation
-- Integrate physics/chemistry concepts for advanced students
 
-### Phase 4: Documentation & Sharing
-- Document successful teaching approaches and materials
-- Create replicable framework for alternative mathematics education
+**Phase 4: Documentation & Sharing**
+- Document the agent-based curriculum refactoring approach
+- Create replicable framework for alternative education contexts
 - Contribute to broader educational innovation community
 
 ## Official Curriculum References
