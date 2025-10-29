@@ -40,11 +40,11 @@ This pipeline extracts content from **O Bichinho do Saber website**, NOT from of
 - ✅ Teaching tips and strategies from website included
 
 ### 3. Organization and Structure
-- ✅ Content is clearly organized by grade (5-9)
+- ✅ Content is clearly organized by grade (only grades where topic exists)
 - ✅ Headers and sections are well formatted
 - ✅ Each grade section includes source URL
 - ✅ Metadata (extraction dates, sources, grade info) is present
-- ✅ Empty grades (topic not covered) are noted appropriately
+- ✅ **ACCEPTABLE**: Grades where topic is not covered are OMITTED from final manual (no need to document absence)
 
 ### 4. Conservative Deduplication
 - ✅ Only exact word-for-word duplicates were removed
@@ -141,6 +141,19 @@ Examples:
 - ✅ Expect website-style explanations and teaching tips
 - ✅ Verify source URLs are from obichinhodosaber.com
 
+**GRADE COVERAGE POLICY:**
+
+**CORRECT BEHAVIOR - DO NOT FLAG AS ISSUE:**
+- Final manual includes ONLY grades where topic has actual content on website
+- Grades where topic is not covered are OMITTED entirely (no placeholder sections)
+- This is intentional design: manual shows what IS available, not what ISN'T
+
+**Example:** If "Números primos" appears only in grades 5, 6, and 7 on website, the final manual should have ONLY those three grade sections. Do NOT request that grades 8 and 9 be added with "not covered" notes.
+
+**WHEN TO FLAG GRADE COVERAGE ISSUE:**
+- A grade section exists on website but is missing from final manual → FLAG THIS
+- A grade that doesn't cover the topic is missing from manual → THIS IS CORRECT, DON'T FLAG
+
 **EVALUATION APPROACH:**
 
 1. **Check Source Attribution:**
@@ -162,8 +175,8 @@ Examples:
 
 4. **Check Grade Coverage:**
    - Which grades (5-9) have this topic on website?
-   - Are all relevant grades represented?
-   - Empty grades should note "topic not covered on website"
+   - Are all relevant grades with content represented?
+   - **IMPORTANT**: Grades where topic is not covered should be OMITTED from final manual (this is correct behavior, not a flaw)
 
 5. **Validate Deduplication:**
    - Only exact duplicates removed?
