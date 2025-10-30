@@ -7,40 +7,40 @@ Este manual apresenta os conteúdos essenciais de matemática para os anos escol
 
 ## Índice
 
-### 1. NÚMEROS
-- 1.1 Números Naturais
-- 1.2 Números Inteiros
-- 1.3 Números Racionais
-- 1.4 Números Reais
-- 1.5 Potências e Notação Científica
+### NÚMEROS
+- Números Naturais
+- Números Inteiros
+- Números Racionais
+- Números Reais
+- Potências e Notação Científica
 
-### 2. ÁLGEBRA
-- 2.1 Expressões Algébricas
-- 2.2 Sequências e Padrões
-- 2.3 Equações e Inequações
-- 2.4 Funções
+### ÁLGEBRA
+- Expressões Algébricas
+- Sequências e Padrões
+- Equações e Inequações
+- Funções
 
-### 3. GEOMETRIA
-- 3.1 Elementos Básicos
-- 3.2 Figuras Planas
-- 3.3 Transformações Geométricas
-- 3.4 Sólidos Geométricos
-- 3.5 Trigonometria
+### GEOMETRIA
+- Elementos Básicos
+- Figuras Planas
+- Transformações Geométricas
+- Sólidos Geométricos
+- Trigonometria
 
-### 4. MEDIDA
-- 4.1 Área
-- 4.2 Volume
+### MEDIDA
+- Área
+- Volume
 
-### 5. ORGANIZAÇÃO E TRATAMENTO DE DADOS
-- 5.1 Representação de Dados
-- 5.2 Estatística
-- 5.3 Probabilidades
+### ORGANIZAÇÃO E TRATAMENTO DE DADOS
+- Representação de Dados
+- Estatística
+- Probabilidades
 
 ---
 
-# 1. NÚMEROS
+# NÚMEROS
 
-## 1.1 Números Naturais
+## Números Naturais
 
 ### Conjunto dos Números Naturais
 
@@ -313,7 +313,7 @@ Dois números são **primos entre si** se seu m.d.c. é igual a $1$.
 
 ---
 
-## 1.2 Números Inteiros
+## Números Inteiros
 
 ### Conjuntos de Números Inteiros
 
@@ -358,6 +358,7 @@ O resultado tem o mesmo sinal; somam-se os valores absolutos.
 O resultado tem o sinal da parcela de maior valor absoluto; subtraem-se os valores absolutos.
 
 **Exemplo:**
+
 - $(-6) + (+4) = (-2)$
 
 ---
@@ -365,15 +366,19 @@ O resultado tem o sinal da parcela de maior valor absoluto; subtraem-se os valor
 ### Propriedades da Adição
 
 **Propriedade Comutativa:**
+
 - $4 + 2 = 2 + 4$
 
 **Propriedade Associativa:**
+
 - $(4 + 2) + 5 = 2 + (4 + 5)$
 
 **Elemento Neutro:**
+
 - $4 + 0 = 4$
 
 **Elemento Simétrico:**
+
 - $(+4) + (-4) = 0$
 
 ---
@@ -389,13 +394,14 @@ Para subtrair números inteiros, adiciona-se ao primeiro número o simétrico do
 
 ---
 
-## 1.3 Números Racionais
+## Números Racionais
 
 ### Conjunto dos Números Racionais
 
 O conjunto dos números racionais representa-se pelo símbolo $\mathbb{Q}$. Um número é racional se conseguir ser expresso como fração.
 
 **Notação:**
+
 - $\mathbb{Q}$ = números racionais
 - $\mathbb{Q}^+$ = números racionais positivos
 - $\mathbb{Q}^-$ = números racionais negativos
@@ -530,7 +536,7 @@ $37000 = 3,7 \times 10^4$
 
 ---
 
-## 1.4 Números Reais
+## Números Reais
 
 ### Quadrados Perfeitos e Raiz Quadrada
 
@@ -634,17 +640,19 @@ Os intervalos podem ser representados de várias formas:
 
 ---
 
-## 1.5 Potências e Notação Científica
+## Potências e Notação Científica
 
 ### Potências de Expoente Inteiro
 
 #### Potências de Base Negativa
 
 **Expoente par:**
+
 - $(-a)^n = a^n$ (quando $n$ é par)
 - Exemplo: $(-3)^2 = 9$
 
 **Expoente ímpar:**
+
 - $(-a)^n = -a^n$ (quando $n$ é ímpar)
 - Exemplo: $(-3)^3 = -27$
 
@@ -725,9 +733,9 @@ $(a_1 \times 10^{n_1}) \div (a_2 \times 10^{n_2}) = (a_1 \div a_2) \times 10^{n_
 
 ---
 
-# 2. ÁLGEBRA
+# ÁLGEBRA
 
-## 2.1 Expressões Algébricas
+## Expressões Algébricas
 
 ### Conceitos Fundamentais
 
@@ -737,6 +745,7 @@ Expressão com letras e números relacionados por operações.
 **Exemplo:** $2n + 1$
 
 **Termos de uma expressão algébrica:**
+
 - Estão separados pelos sinais $+$ e $-$
 - São constituídos por um coeficiente e podem ter uma parte literal
 - Exemplo: em $2n + 1$:
@@ -760,30 +769,36 @@ $3b + 2b + 5 + 4m - 3 + 4n - 3m = 5b + 2 + m + 4n$
 #### Propriedades da Adição e Multiplicação
 
 **Propriedade Comutativa:**
+
 - Adição: $a + b = b + a$
 - Multiplicação: $a \times b = b \times a$
 
 **Propriedade Associativa:**
+
 - Adição: $(a + b) + c = a + (b + c)$
 - Multiplicação: $(a \times b) \times c = a \times (b \times c)$
 
 **Elemento Neutro:**
+
 - Adição: $a + 0 = a$
 - Multiplicação: $a \times 1 = a$
 
 **Elemento Absorvente:**
+
 - Multiplicação: $a \times 0 = 0$
 
 **Elemento Inverso:**
+
 - Multiplicação: $a \times \frac{1}{a} = 1$
 
 **Propriedade Distributiva:**
+
 - $a \times (b + c) = a \times b + a \times c$
 - $a \times (b - c) = a \times b - a \times c$
 
 ---
 
-## 2.2 Sequências e Padrões
+## Sequências e Padrões
 
 ### Conceitos Básicos
 
@@ -842,7 +857,7 @@ Quando a diferença entre termos consecutivos é constante:
 
 ---
 
-## 2.3 Equações e Inequações
+## Equações e Inequações
 
 ### Equações do 1º Grau
 
@@ -940,12 +955,13 @@ Desigualdade entre duas expressões numéricas em que existe pelo menos uma inc�
 Aplica-se processo semelhante às equações, mas com atenção ao sentido da desigualdade quando se multiplica ou divide por número negativo.
 
 **Conjunção e disjunção de inequações:**
+
 - Conjunção: interseção de soluções
 - Disjunção: reunião de soluções
 
 ---
 
-## 2.4 Funções
+## Funções
 
 ### Conceito de Função
 
@@ -953,6 +969,7 @@ Aplica-se processo semelhante às equações, mas com atenção ao sentido da de
 Correspondência entre dois conjuntos em que a cada elemento do conjunto de partida corresponde um e só um elemento do conjunto de chegada.
 
 **Terminologia:**
+
 - **Objetos:** elementos do conjunto de partida
 - **Imagens:** elementos do conjunto de chegada com correspondência
 - **Domínio ($D$):** conjunto dos objetos
@@ -988,6 +1005,7 @@ As funções podem ser representadas através de:
 **Forma:** $f(x) = kx$, onde $k$ é a constante de proporcionalidade direta.
 
 **A constante $k$:**
+
 - É igual a $f(1)$
 - Calcula-se como $k = f(x) \div x$
 - Se $k > 0$: a função é crescente
@@ -1003,10 +1021,12 @@ Reta que passa na origem do referencial.
 **Forma:** $f(x) = ax + b$
 
 **Casos especiais:**
+
 - Função linear: $b = 0$, ou seja, $f(x) = ax$
 - Função constante: $a = 0$, ou seja, $f(x) = b$
 
 **Elementos:**
+
 - **Declive ($a$):** coeficiente angular
 - **Ordenada na origem ($b$):** coeficiente linear
 
@@ -1020,6 +1040,7 @@ Reta não vertical.
 **Forma:** $f(x) = \frac{k}{x}$, onde $k$ é a constante de proporcionalidade inversa.
 
 **Características:**
+
 - Gráfico: hipérbole
 - Domínio: $\mathbb{R} \setminus \{0\}$
 
@@ -1030,15 +1051,16 @@ Reta não vertical.
 **Forma:** $f(x) = ax^2$, onde $a \neq 0$
 
 **Características:**
+
 - Gráfico: parábola
 - Se $a > 0$: parábola com concavidade voltada para cima
 - Se $a < 0$: parábola com concavidade voltada para baixo
 
 ---
 
-# 3. GEOMETRIA
+# GEOMETRIA
 
-## 3.1 Elementos Básicos
+## Elementos Básicos
 
 ### Ângulos
 
@@ -1069,6 +1091,7 @@ Reta não vertical.
 #### Medida de Amplitude
 
 **Unidade de medida:**
+
 - Grau $(°)$
 - O ângulo giro tem amplitude igual a $360$ graus
 
@@ -1094,7 +1117,7 @@ Retas que formam ângulos retos.
 
 ---
 
-## 3.2 Figuras Planas
+## Figuras Planas
 
 ### Triângulos
 
@@ -1232,7 +1255,7 @@ Lugar geométrico dos pontos equidistantes de dois lados de um ângulo.
 
 ---
 
-## 3.3 Transformações Geométricas
+## Transformações Geométricas
 
 ### Isometrias
 
@@ -1346,7 +1369,7 @@ Dois lados diretamente proporcionais e o ângulo correspondente igual determinam
 
 ---
 
-## 3.4 Sólidos Geométricos
+## Sólidos Geométricos
 
 ### Poliedros
 
@@ -1467,7 +1490,7 @@ Conjunto de pontos do espaço que estão a uma distância igual ao raio do centr
 
 ---
 
-## 3.5 Trigonometria
+## Trigonometria
 
 ### Teorema de Pitágoras
 
@@ -1562,9 +1585,9 @@ $$\tan \alpha = \frac{\sin \alpha}{\cos \alpha}$$
 
 ---
 
-# 4. MEDIDA
+# MEDIDA
 
-## 4.1 Área
+## Área
 
 ### Conceitos Fundamentais
 
@@ -1634,7 +1657,7 @@ Reconhecer que um triângulo com base $b$ e altura $a$ tem área $= \frac{b \tim
 
 ---
 
-## 4.2 Volume
+## Volume
 
 ### Conceitos Fundamentais
 
@@ -1722,9 +1745,9 @@ $$A = 4 \times \pi \times \text{raio}^2$$
 
 ---
 
-# 5. ORGANIZAÇÃO E TRATAMENTO DE DADOS
+# ORGANIZAÇÃO E TRATAMENTO DE DADOS
 
-## 5.1 Representação de Dados
+## Representação de Dados
 
 ### Conceitos Básicos
 
@@ -1786,7 +1809,7 @@ Quando existe grande variabilidade de valores, agrupam-se em classes com determi
 
 ---
 
-## 5.2 Estatística
+## Estatística
 
 ### Medidas de Localização Central
 
@@ -1835,7 +1858,7 @@ Classe com maior frequência absoluta.
 
 ---
 
-## 5.3 Probabilidades
+## Probabilidades
 
 ### Experiências Aleatórias
 
