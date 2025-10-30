@@ -1,0 +1,62 @@
+---
+# Document metadata
+title: "Manual de Matemática"
+subtitle: "5º ao 9º Ano - Organização Temática"
+author: "Conteúdo adaptado de O Bichinho do Saber"
+date: "2025"
+
+# PDF settings
+documentclass: book
+papersize: a4
+fontsize: 11pt
+geometry:
+  - margin=2.5cm
+  - top=3cm
+  - bottom=3cm
+
+# Typography
+mainfont: "Libertinus Serif"
+sansfont: "Libertinus Sans"
+monofont: "Libertinus Mono"
+mathfont: "Libertinus Math"
+mainfontoptions:
+  - Numbers=Proportional
+  - Numbers=OldStyle
+
+# Language
+lang: pt-PT
+babel-lang: portuguese
+
+# Table of contents
+toc: true
+toc-depth: 3
+toc-title: "Índice"
+numbersections: true
+
+# Formatting
+linkcolor: blue
+urlcolor: blue
+indent: true
+linestretch: 1.15
+
+# Headers and footers
+header-includes: |
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhead[LE,RO]{\thepage}
+  \fancyhead[LO]{\nouppercase{\rightmark}}
+  \fancyhead[RE]{\nouppercase{\leftmark}}
+  \fancyfoot[C]{}
+
+  \usepackage{titlesec}
+  \titleformat{\chapter}[display]
+    {\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+  \titlespacing*{\chapter}{0pt}{-20pt}{40pt}
+
+  \usepackage{amsmath}
+  \usepackage{amssymb}
+  \usepackage{unicode-math}
+
+  \setlength{\parskip}{0.5em}
+  \setlength{\parindent}{1.5em}
+---

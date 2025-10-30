@@ -32,12 +32,20 @@ You will receive:
 
 For each grade number, fetch the index and find the topic:
 
+**Mathematics:**
 ```
 Grade 5 index: https://www.obichinhodosaber.com/matematica-5o-materia-de-matematica-5o-ano/
 Grade 6 index: https://www.obichinhodosaber.com/matematica-6o-materia-de-matematica-6o-ano/
 Grade 7 index: https://www.obichinhodosaber.com/matematica-7o-materia-de-matematica-7o-ano/
 Grade 8 index: https://www.obichinhodosaber.com/resumos-e-exercicios-de-matematica-8o-ano/
 Grade 9 index: https://www.obichinhodosaber.com/matematica-9o-materia-de-matematica-9o-ano/
+```
+
+**Natural Sciences:**
+```
+Grade 7 index: https://www.obichinhodosaber.com/ciencias-naturais-7o-materia-de-ciencias-naturais-7o-ano/
+Grade 8 index: https://www.obichinhodosaber.com/ciencias-naturais-8o-materia-de-ciencias-naturais-8o-ano/
+Grade 9 index: https://www.obichinhodosaber.com/ciencias-naturais-9o-materia-de-ciencias-naturais-9o-ano/
 ```
 
 Use WebFetch with prompt: "List all topic links with titles and URLs"
@@ -97,9 +105,13 @@ Convert topic name to snake_case:
 - Lowercase: "Area" → "area"
 - Replace spaces: "Números inteiros" → "numeros_inteiros"
 
-**Output file:** `topics/[topic_slug].md`
+**Output file:**
+- Mathematics: `topics/[topic_slug].md`
+- Natural Sciences: `topics_sciences/[topic_slug].md`
 
-Example: `topics/area.md`, `topics/numeros_inteiros.md`
+Example:
+- `topics/area.md`, `topics/numeros_inteiros.md` (math)
+- `topics_sciences/sistema_digestivo.md`, `topics_sciences/vulcanismo.md` (sciences)
 
 ## Handling Edge Cases
 
