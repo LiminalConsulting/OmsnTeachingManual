@@ -1,314 +1,194 @@
-# DreamNode: OMSN Teaching Manual
+# OMSN Teaching Manuals
 
-A comprehensive teaching manual and resource collection for creative mathematics education in alternative learning environments.
+Portuguese curriculum teaching manuals for **Mathematics** and **Natural Sciences** (Grades 5-9).
 
-## Project Overview
+Content extracted and adapted from [O Bichinho do Saber](https://www.obichinhodosaber.com/), organized thematically for coherent learning progression.
 
-This DreamNode serves as the development space for a teaching manual designed to guide David's role as a teaching assistant at an alternative school. The focus is on transforming traditional mathematics education (grades 5-9) through visual metaphors, creative projects, and integrated learning approaches.
+---
 
-### Core Mission
-- **Visual Mathematics**: Creating visual metaphors and intuitive explanations for mathematical concepts
-- **Project Integration**: Connecting mathematical learning to hands-on creative projects
-- **Spiral Curriculum**: Touching on all subjects quickly, then deepening through repeated exposure
-- **Bilingual Support**: Operating in Portuguese/English environment with universal mathematical language
+## 📚 Final Products
 
-### Teaching Philosophy
-- Start with core intuitions and visual understanding
-- Show real-world applications and future possibilities
-- Balance engaging creativity with necessary academic requirements
-- Emphasize problem-solving and dynamic thinking over rote memorization
+### Mathematics Manual (5º ao 9º Ano)
+**📕 [manuals/math/MANUAL_FINAL.pdf](manuals/math/MANUAL_FINAL.pdf)**
+- 19 topics across 5 thematic sections
+- 48 pages, professionally formatted
+- Complete number systems, algebra, geometry, measurement, and statistics
 
-## Structure & Approach
+### Natural Sciences Manual (7º ao 9º Ano)
+**📗 [manuals/sciences/MANUAL_FINAL_SCIENCES.pdf](manuals/sciences/MANUAL_FINAL_SCIENCES.pdf)**
+- 46 topics across 4 thematic sections
+- ~80 pages, professionally formatted
+- Geology, ecology, sustainability, and human biology
 
-### Teaching Schedule
-- **Primary Days**: Tuesday and Wednesday (2 hours each)
-- **Preparation**: Flexible scheduling for lesson planning and material creation
-- **Support Tasks**: Additional time for 3D printing, technical fixes, and video creation
+Both manuals feature:
+- ✅ Table of contents with 3 levels
+- ✅ Hierarchical section numbering
+- ✅ Professional book-style layout
+- ✅ Print-ready A4 format
+- ✅ Portuguese language throughout
 
-### Curriculum Coverage (Grades 5-9)
-- **Mathematics Core**: Algebra, geometry, fractions, equations, problem-solving
-- **Future Integration**: Physics and chemistry concepts for grade 7+
-- **Visual Materials**: Posters, presentations, and interactive demonstrations
-- **Project Resources**: Hands-on activities connecting math to real-world applications
+---
 
-### Collaboration Framework
-- **Primary Teacher**: Danielle (handles main instruction and exercises)
-- **David's Role**: Visual presentations, conceptual explanations, specialized math support
-- **Student Consultation**: Available for project-specific mathematical questions
-- **Manual Development**: Creating organized reference materials for student consultation
+## 🔄 How These Were Created
 
-### Student-Centered Design
-- **Current Students**: Maria, Pietro, Victor, Julia, Suri (mixed experience levels)
-- **Learning Styles**: Accommodating both creative and traditional learning preferences
-- **Portfolio Requirements**: Balancing bureaucratic needs with engaging content
-- **Trust-Based Approach**: Honest communication about necessary but boring tasks
+### The Extraction Pipeline
 
-## Manual Creation Approach
+After several iterations, we developed a streamlined process:
 
-### Core Objective: Simple Thematic Refactoring
+1. **Source**: Web content from O Bichinho do Saber (not PDFs)
+2. **Extraction**: Single `topic-copier` agent fetches all topics in parallel
+3. **Organization**: Topics organized thematically (not by grade)
+4. **Assembly**: Combined following thematic structure, metadata removed
+5. **PDF Generation**: Pandoc + XeLaTeX for professional output
 
-**What the school actually needs:**
-- NOT a condensed/synthesized manual with abstractions
-- NOT frameworks, progression matrices, or meta-structures
-- **YES:** A straightforward reorganization of official curriculum content by topic
+**Key insight**: The web is the source of truth. One simple agent, parallel execution, clean assembly.
 
-**Process:** Take all curriculum content from grades 5-9 and reorganize it **thematically** (by topic) instead of **chronologically** (by grade), while preserving ALL detail.
+See [`extraction_pipeline/README.md`](extraction_pipeline/README.md) for detailed documentation.
 
-### The Problem We're Solving
+---
 
-Official curriculum PDFs organize content by grade:
-```
-Grade 5 PDF: All Grade 5 topics
-Grade 6 PDF: All Grade 6 topics
-...
-Grade 9 PDF: All Grade 9 topics
-```
-
-Teachers and students need content organized by topic:
-```
-Fractions Manual: All fractions content from grades 5-9
-Geometry Manual: All geometry content from grades 5-9
-...
-```
-
-### What to Preserve (Everything!)
-
-**Keep intact from official PDFs:**
-- ✅ Complete learning objectives (word-for-word)
-- ✅ All teaching strategies and methodologies
-- ✅ All example problems and scenarios
-- ✅ Assessment guidance
-- ✅ All tables, detailed instructions, and pedagogical notes
-- ✅ Cross-references and connections
-
-**Only remove:**
-- ❌ Exact word-for-word duplicates (when same content appears in multiple grades)
-
-**Result:** A comprehensive manual (likely 150+ pages) that's simply reordered, not condensed.
-
-## Technical Implementation
-
-### Automated Agent-Based Pipeline
-
-**Architecture:**
-- **Main thread**: Orchestrates workflow, tracks progress
-- **Sub-agents**: Process individual topics in forked context windows
-- **File-based**: All content lives in files (minimal main-thread context usage)
-
-**Pipeline Stages:**
+## 📁 Repository Structure
 
 ```
-1. EXTRACT (5 agents per topic, run in parallel)
-   ├─ Agent: Extract topic from Grade 5 text → topics/raw/[topic]_g5.md
-   ├─ Agent: Extract topic from Grade 6 text → topics/raw/[topic]_g6.md
-   ├─ Agent: Extract topic from Grade 7 text → topics/raw/[topic]_g7.md
-   ├─ Agent: Extract topic from Grade 8 text → topics/raw/[topic]_g8.md
-   └─ Agent: Extract topic from Grade 9 text → topics/raw/[topic]_g9.md
-
-2. CONSOLIDATE (1 agent per topic)
-   └─ Agent: Merge 5 files → topics/consolidated/[topic].md
-      (Marks duplicates with <!-- DUPLICATE --> comments)
-
-3. DEDUPLICATE (1 agent per topic)
-   └─ Agent: Remove marked duplicates → topics/clean/[topic]_final.md
-
-4. ASSEMBLE (Main thread)
-   └─ Concatenate all clean topics → Final_Mathematics_Manual.md
+OmsnTeachingManual/
+├── manuals/                    # 🎯 Final outputs (PDFs + sources)
+│   ├── math/                   # Mathematics manual
+│   │   ├── MANUAL_FINAL.pdf
+│   │   ├── MANUAL_FINAL_PRINT.md
+│   │   └── generate_pdf.sh
+│   └── sciences/               # Natural Sciences manual
+│       ├── MANUAL_FINAL_SCIENCES.pdf
+│       ├── MANUAL_FINAL_SCIENCES_PRINT.md
+│       └── generate_sciences_pdf.sh
+│
+├── extraction_pipeline/        # 🔧 The process that created them
+│   ├── topic-copier-agent.md  # The ONE agent that worked
+│   ├── pandoc-template.yaml   # PDF styling
+│   └── README.md              # Pipeline documentation
+│
+├── extracted_topics/           # 📝 Raw topic files (ingredients)
+│   ├── math/                   # 19 math topics + structure docs
+│   │   ├── grade_urls.md
+│   │   ├── MANUAL_STRUCTURE_THEMATIC.md
+│   │   ├── ASSEMBLY_INSTRUCTIONS.md
+│   │   └── [19 topic .md files]
+│   └── sciences/               # 46 science topics + structure docs
+│       ├── GRADE_URLS_SCIENCES.md
+│       ├── MANUAL_STRUCTURE_THEMATIC_SCIENCES.md
+│       ├── ASSEMBLY_INSTRUCTIONS_SCIENCES.md
+│       └── [46 topic .md files]
+│
+├── source_documents/           # 📄 Original curriculum PDFs
+│   ├── math_curriculum/        # Grades 5-9 math PDFs
+│   └── sciences_curriculum/    # Chemistry/Physics curriculum PDF
+│
+└── reference_materials/        # 📚 Converted docs (not used in final)
+    ├── Grade summaries (PDF→MD conversions)
+    ├── Early unified manual attempts
+    └── Teaching phrase references
 ```
 
-### Directory Structure
+---
 
-```
-text_versions/              # PDFs converted to searchable text
-  grade5_math.txt          # 140KB
-  grade6_math.txt          # 128KB
-  grade7_math.txt          # 154KB
-  grade8_math.txt          # 134KB
-  grade9_math.txt          # 132KB
+## 🛠️ Regenerating PDFs
 
-topics/
-  raw/                     # Individual grade extractions
-    [topic]_g5.md
-    [topic]_g6.md
-    ...
-  consolidated/            # Combined across grades
-    [topic].md
-  clean/                   # Final deduplicated versions
-    [topic]_final.md
+Each manual directory has its own `generate_pdf.sh` script:
 
-.claude/agents/            # Sub-agent definitions
-  topic-extractor.md       # Extracts specific topic from grade text
-  topic-consolidator.md    # Combines topic across all grades
-  duplicate-remover.md     # Removes marked duplicates
-
-topic_index.md             # Progress tracker (~40 topics total)
-```
-
-### Proof of Concept: Complete ✅
-
-**Topic Tested:** "Números primos" (Prime Numbers)
-
-**Results:**
-- ✅ Extracted from grades 5, 6, 9 (not taught in 7, 8)
-- ✅ Consolidated into organized 324-line document
-- ✅ Deduplicated conservatively (no data loss)
-- ✅ Output: `/topics/clean/prime_numbers_final.md` (14KB, ready for teaching)
-
-**Quality:** Preserves ALL original content (objectives, strategies, examples, tables) while eliminating exact duplicates.
-
-### Development Phases
-
-**Phase 1: Manual Creation (In Progress)**
-- ✅ Convert PDFs to searchable text (preserving page layout)
-- ✅ Create specialized sub-agents for extraction pipeline
-- ✅ Validate proof-of-concept with one complete topic
-- ⏳ Process remaining ~40 topics using agent pipeline
-- ⏳ Assemble final thematically-organized manual
-
-**Phase 2: Teaching Implementation**
-- Begin using manual for actual teaching sessions
-- Test visual metaphor integration alongside official content
-- Gather student feedback on manual usability
-- Refine organization based on real-world usage
-
-**Phase 3: Expansion**
-- Apply same pipeline to Chemistry/Physics curriculum
-- Integrate exercise collections from O Bichinho do Saber
-- Develop video content for fundraising and documentation
-
-**Phase 4: Documentation & Sharing**
-- Document the agent-based curriculum refactoring approach
-- Create replicable framework for alternative education contexts
-- Contribute to broader educational innovation community
-
-## Official Curriculum References
-
-### Portuguese Education System Requirements (Grades 5-9)
-
-**Mathematics Curriculum**
-- **Source**: [Aprendizagens Essenciais de Matemática](https://www.dge.mec.pt/noticias/aprendizagens-essenciais-de-matematica)
-- **Coverage**: Complete mathematics requirements for 5th-9th grade
-- **Purpose**: Ensures alignment with official Portuguese mathematics education standards
-
-**Natural Sciences (Chemistry & Physics)**
-- **Source**: [Metas Curriculares - Ciências Físico-Químicas](https://www.dge.mec.pt/sites/default/files/ficheiros/eb_cfq_metas_curriculares_3c_0.pdf)
-- **Coverage**: Chemistry and physics topics for grades 5-9 (clustered as "natural sciences" in Portuguese system)
-- **Purpose**: Official curriculum goals for physical and chemical sciences education
-
-**Exercise Resources**
-- **Source**: [O Bichinho do Saber](https://www.obichinhodosaber.com/)
-- **Purpose**: Official exam preparation exercises across all topics
-- **Strategy**: Use proven exercises rather than creating from scratch to ensure students can pass required exams
-
-## 📖 Available Manuals
-
-This repository contains comprehensive teaching manuals organized thematically:
-
-### Mathematics Manual (Grades 5-9)
-- **File**: `Unified_Mathematics_Manual_Grade5-9.md`
-- **Content**: Complete Portuguese mathematics curriculum organized by themes
-- **Features**: Progression matrices, visual teaching suggestions, assessment frameworks
-- **Format**: Thematic organization (Numbers & Operations, Algebra & Patterns, Data & Probability, Geometry & Measurement)
-
-### Individual Grade Summaries
-- `Grade_5_Math_Curriculum_Summary.md` through `Grade_9_Math_Curriculum_Summary.md`
-- **Purpose**: Detailed grade-specific learning objectives and key skills
-- **Source**: Official Portuguese mathematics curriculum (Aprendizagens Essenciais)
-
-## 🌐 Website Presentation System
-
-### **Dynamic Manual Presentation**
-
-This repository includes a **zero-maintenance website generator** that automatically converts any markdown manual into a beautiful, interactive website.
-
-### Quick Start
 ```bash
-# Generate beautiful website from all manuals
-cd website
-./build.sh
+# Regenerate Math manual
+cd manuals/math
+./generate_pdf.sh
 
-# Generate and serve locally at http://localhost:8000
-./build.sh serve
-
-# Clean all generated files
-./build.sh clean
+# Regenerate Sciences manual
+cd manuals/sciences
+./generate_sciences_pdf.sh
 ```
 
-### Features
-- **🔄 Fully Automatic**: Discovers any `*Manual*.md` files and converts them
-- **📱 Responsive Design**: Works perfectly on desktop, tablet, and mobile
-- **🎨 Modern Interface**: Clean, educational aesthetic with dark/light themes
-- **🧭 Smart Navigation**: Auto-generated table of contents with progress tracking
-- **🔍 Search**: Real-time search within documents
-- **📊 Interactive Elements**: Collapsible sections, copy buttons, visual markers
-- **📄 Print-Ready**: Optimized CSS for physical handouts
-- **⚡ Zero Dependencies**: Pure HTML/CSS/JavaScript output
+### Requirements
 
-### How It Works
-1. **Automatic Discovery**: Scans for markdown files containing "Manual" in the name
-2. **Content Processing**: Converts markdown to enhanced HTML with navigation
-3. **Theme Enhancement**: Adds visual markers for teaching elements (📊 📚 🔗)
-4. **Website Generation**: Creates index page + individual manual pages
-5. **Serve Locally**: Optional local web server for immediate viewing
+- **Pandoc** (version 3.6+)
+- **XeLaTeX** (comes with BasicTeX or MacTeX)
 
-### Future-Proof Design
-- ✅ **Content Agnostic**: Works with any markdown manual structure
-- ✅ **No Maintenance**: Add new manuals, run `./build.sh` - done!
-- ✅ **Scalable**: Handles unlimited number of manuals
-- ✅ **Portable**: Static HTML works anywhere (GitHub Pages, local server, etc.)
-
-### Directory Structure
-```
-website/
-├── generator.py      # Main conversion script
-├── template.html     # Beautiful HTML template
-├── build.sh         # One-click build script
-└── output/          # Generated website files
-    ├── index.html   # Manual collection page
-    └── *.html       # Individual manual pages
-```
-
-### Adding New Manuals
-
-The system automatically works with any new manual you create:
-
-1. **Create your manual**: Write your content in markdown format
-2. **Use "Manual" in filename**: e.g., `Chemistry_Teaching_Manual.md`, `Physics_Manual_Grade7-8.md`
-3. **Build website**: Run `./build.sh` and your new manual appears automatically
-4. **No configuration needed**: The system discovers and processes all manuals
-
-**Example for Chemistry/Physics:**
+Install on macOS:
 ```bash
-# Create your new manual
-echo "# Chemistry Teaching Manual\nYour content here..." > Chemistry_Teaching_Manual.md
-
-# Generate website (automatically includes new manual)
-cd website
-./build.sh
-
-# Your chemistry manual is now available at:
-# website/output/chemistry_teaching_manual.html
+brew install pandoc basictex
 ```
 
-### Customization
+See individual README files in each manual directory for more details.
 
-The system is designed to work out-of-the-box, but you can customize:
-- **Template styling**: Edit `website/template.html` to modify appearance
-- **Processing logic**: Edit `website/generator.py` to change conversion behavior
-- **File discovery**: System looks for `*Manual*.md` and `*manual*.md` patterns
+---
 
-## Resources & Tools
+## 📖 Content Coverage
 
-- **Visual Creation**: 3D printing, animations, interactive demonstrations
-- **Curriculum References**: Official Portuguese education programs (grades 5-9) - see links above
-- **Project Integration**: Hands-on activities connecting math to real applications
-- **Assessment**: Portfolio-based evaluation balancing creativity with requirements
-- **Website System**: Dynamic presentation pipeline for beautiful manual display
+### Mathematics (19 Topics)
 
-## License
+**1. NÚMEROS** - Natural, Integer, Rational, Real numbers; Powers & Scientific Notation
 
-This DreamNode is shared under the **GNU Affero General Public License v3.0** - a strong copyleft license ensuring this knowledge remains free and open for all.
+**2. ÁLGEBRA** - Algebraic Expressions, Sequences & Patterns, Equations & Inequalities, Functions
 
-## InterBrain Connection
+**3. GEOMETRIA** - Basic Elements, Plane Figures, Geometric Transformations, 3D Solids, Trigonometry
 
-Part of the **InterBrain** ecosystem: applying collective knowledge gardening principles to educational innovation and creative teaching methodologies.
+**4. MEDIDA** - Area, Volume
+
+**5. ORGANIZAÇÃO E TRATAMENTO DE DADOS** - Data Representation, Statistics, Probability
+
+### Natural Sciences (46 Topics)
+
+**1. GEOLOGIA** (15 topics)
+- Geological landscapes, rocks & minerals, plate tectonics, volcanism, earthquakes, fossils, Earth history
+
+**2. BIOLOGIA CELULAR E ECOLOGIA** (8 topics)
+- Cells, ecosystems, biotic/abiotic factors, food chains, ecological succession
+
+**3. SUSTENTABILIDADE** (8 topics)
+- Sustainable development, natural disasters, natural resources, conservation, waste management
+
+**4. BIOLOGIA HUMANA** (15 topics)
+- Health, all body systems (digestive, cardiovascular, respiratory, nervous, reproductive, etc.)
+
+---
+
+## 🎓 Educational Context
+
+These manuals support Portuguese curriculum standards for:
+- **Mathematics**: Aprendizagens Essenciais, Grades 5-9
+- **Natural Sciences**: Aprendizagens Essenciais, Grades 7-9
+
+Content is organized thematically rather than by grade level, allowing students to:
+- See progression within each mathematical or scientific domain
+- Understand connections between related concepts
+- Reference topics across multiple grade levels
+
+---
+
+## 📜 Source Attribution
+
+All content extracted and adapted from:
+
+**O Bichinho do Saber**
+https://www.obichinhodosaber.com/
+
+A comprehensive Portuguese educational website providing:
+- Curriculum-aligned content
+- Interactive exercises
+- Video lessons
+- Study materials
+
+We are grateful for their excellent educational resources.
+
+---
+
+## 📄 License
+
+This project is shared under the **GNU Affero General Public License v3.0** - a strong copyleft license ensuring this knowledge remains free and open for all.
+
+See [LICENSE](LICENSE) file for details.
+
+---
+
+## 🙏 Acknowledgments
+
+- **O Bichinho do Saber** for providing high-quality educational content
+- **Claude Code** for enabling the automated extraction pipeline
+- **Pandoc** and **XeLaTeX** for professional PDF generation
+
