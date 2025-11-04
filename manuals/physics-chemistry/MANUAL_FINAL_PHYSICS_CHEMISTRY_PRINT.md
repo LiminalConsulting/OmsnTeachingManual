@@ -555,7 +555,7 @@ onde:
 - v = velocidade
 - Δttravagem = tempo de travagem
 
-**Distância de Segurança (Total Safety Distance)**
+**Distância de Segurança (Safety Distance)**
 **Distância de Segurança Total = Distância de Reação + Distância de Travagem**
 
 **Fatores influenciadores do tempo de reação:**
@@ -591,13 +591,13 @@ A inclinação da linha revela a rapidez: maior inclinação significa maior rap
 
 **Força**: interação entre corpos, por contacto ou à distância, que lhes pode causar deformação, bem como alterar o estado de repouso ou de movimento
 
-Represented by: **F**
-Unit: **newton (N)**
-Measured with: **dinamómetro**
+Representada por: **F**
+Unidade: **newton (N)**
+Medida com: **dinamómetro**
 
-Characterized by: valor (or intensidade), direção, sentido and ponto de aplicação
+Caracterizada por: valor (ou intensidade), direção, sentido e ponto de aplicação
 
-As a vector quantity.
+Como grandeza vetorial.
 
 **Lei da ação-reação (3ª Lei de Newton)**
 
@@ -690,7 +690,7 @@ $$F_{colisão} = -m  \times  (v_{colisão} / Δt)$$
 
 $$P = F/A$$
 
-Unit: **pascal (Pa)**
+Unidade: **pascal (Pa)**
 
 **Elementos de segurança rodoviária**
 
