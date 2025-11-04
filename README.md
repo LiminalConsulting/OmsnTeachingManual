@@ -1,6 +1,6 @@
 # OMSN Teaching Manuals
 
-Portuguese curriculum teaching manuals for **Mathematics** and **Natural Sciences** (Grades 5-9).
+Portuguese curriculum teaching manuals for **Mathematics**, **Natural Sciences**, and **Physics-Chemistry** (Grades 5-9).
 
 Content extracted and adapted from [O Bichinho do Saber](https://www.obichinhodosaber.com/), organized thematically for coherent learning progression.
 
@@ -20,7 +20,13 @@ Content extracted and adapted from [O Bichinho do Saber](https://www.obichinhodo
 - ~80 pages, professionally formatted
 - Geology, ecology, sustainability, and human biology
 
-Both manuals feature:
+### Physics-Chemistry Manual (7º ao 9º Ano)
+**📘 [manuals/physics-chemistry/MANUAL_FINAL_PHYSICS_CHEMISTRY.pdf](manuals/physics-chemistry/MANUAL_FINAL_PHYSICS_CHEMISTRY.pdf)**
+- 30 topics across 8 thematic sections
+- 64 pages, professionally formatted
+- Complete physics and chemistry curriculum: astronomy, mechanics, waves, electricity, matter, reactions, atomic structure
+
+All manuals feature:
 - ✅ Table of contents with 3 levels
 - ✅ Hierarchical section numbering
 - ✅ Professional book-style layout
@@ -60,10 +66,14 @@ OmsnTeachingManual/
 │   │   ├── MANUAL_FINAL.pdf
 │   │   ├── MANUAL_FINAL_PRINT.md
 │   │   └── generate_pdf.sh
-│   └── sciences/               # Natural Sciences manual
-│       ├── MANUAL_FINAL_SCIENCES.pdf
-│       ├── MANUAL_FINAL_SCIENCES_PRINT.md
-│       └── generate_sciences_pdf.sh
+│   ├── sciences/               # Natural Sciences manual
+│   │   ├── MANUAL_FINAL_SCIENCES.pdf
+│   │   ├── MANUAL_FINAL_SCIENCES_PRINT.md
+│   │   └── generate_sciences_pdf.sh
+│   └── physics-chemistry/      # Physics-Chemistry manual
+│       ├── MANUAL_FINAL_PHYSICS_CHEMISTRY.pdf
+│       ├── MANUAL_FINAL_PHYSICS_CHEMISTRY_PRINT.md
+│       └── generate_physics_chemistry_pdf.sh
 │
 ├── extraction_pipeline/        # 🔧 The process that created them
 │   ├── topic-copier-agent.md  # The ONE agent that worked
@@ -76,11 +86,15 @@ OmsnTeachingManual/
 │   │   ├── MANUAL_STRUCTURE_THEMATIC.md
 │   │   ├── ASSEMBLY_INSTRUCTIONS.md
 │   │   └── [19 topic .md files]
-│   └── sciences/               # 46 science topics + structure docs
-│       ├── GRADE_URLS_SCIENCES.md
-│       ├── MANUAL_STRUCTURE_THEMATIC_SCIENCES.md
-│       ├── ASSEMBLY_INSTRUCTIONS_SCIENCES.md
-│       └── [46 topic .md files]
+│   ├── sciences/               # 46 science topics + structure docs
+│   │   ├── GRADE_URLS_SCIENCES.md
+│   │   ├── MANUAL_STRUCTURE_THEMATIC_SCIENCES.md
+│   │   ├── ASSEMBLY_INSTRUCTIONS_SCIENCES.md
+│   │   └── [46 topic .md files]
+│   └── physics-chemistry/      # 30 physics-chemistry topics + structure docs
+│       ├── GRADE_URLS_PHYSICS_CHEMISTRY.md
+│       ├── MANUAL_STRUCTURE_THEMATIC_PHYSICS_CHEMISTRY.md
+│       └── [30 topic .md files]
 │
 ├── source_documents/           # 📄 Original curriculum PDFs
 │   ├── math_curriculum/        # Grades 5-9 math PDFs
@@ -106,6 +120,10 @@ cd manuals/math
 # Regenerate Sciences manual
 cd manuals/sciences
 ./generate_sciences_pdf.sh
+
+# Regenerate Physics-Chemistry manual
+cd manuals/physics-chemistry
+./generate_physics_chemistry_pdf.sh
 ```
 
 ### Requirements
@@ -150,6 +168,28 @@ See individual README files in each manual directory for more details.
 **4. BIOLOGIA HUMANA** (15 topics)
 - Health, all body systems (digestive, cardiovascular, respiratory, nervous, reproductive, etc.)
 
+### Physics-Chemistry (30 Topics)
+
+**PARTE I - FÍSICA (17 topics)**
+
+**1. ASTRONOMIA E FORÇAS GRAVITACIONAIS** - Universe, solar system, Earth-Moon movements, forces, weight and mass
+
+**2. MECÂNICA: MOVIMENTO E FORÇAS** - Motion on Earth, forces and movement, energy and dynamics, forces and fluids
+
+**3. ONDAS: SOM E LUZ** - Wave characteristics, sound production and propagation, sound attributes, acoustic phenomena, light propagation, optical phenomena
+
+**4. ELETRICIDADE** - Electric current and circuits, effects of electric current and electrical energy
+
+**5. ENERGIA** - Energy sources and energy transfers
+
+**PARTE II - QUÍMICA (13 topics)**
+
+**6. CONSTITUIÇÃO E PROPRIEDADES DA MATÉRIA** - Laboratory materials, material world, physical and chemical properties, transformations, substance separation
+
+**7. REAÇÕES QUÍMICAS** - Explanation and representation of reactions, Lavoisier's Law, types of reactions (combustion, acid-base, precipitation), reaction speed
+
+**8. ESTRUTURA ATÓMICA E TABELA PERIÓDICA** - Atomic structure, periodic table and material properties, chemical bonding
+
 ---
 
 ## 🎓 Educational Context
@@ -157,6 +197,7 @@ See individual README files in each manual directory for more details.
 These manuals support Portuguese curriculum standards for:
 - **Mathematics**: Aprendizagens Essenciais, Grades 5-9
 - **Natural Sciences**: Aprendizagens Essenciais, Grades 7-9
+- **Physics-Chemistry**: Aprendizagens Essenciais, Grades 7-9
 
 Content is organized thematically rather than by grade level, allowing students to:
 - See progression within each mathematical or scientific domain
