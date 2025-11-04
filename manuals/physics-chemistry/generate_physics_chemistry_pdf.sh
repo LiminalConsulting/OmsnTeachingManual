@@ -3,7 +3,10 @@
 # Generate Physics-Chemistry Teaching Manual PDF
 # Uses Pandoc with XeLaTeX engine for professional book-style output
 
-echo "Generating Physics-Chemistry Manual PDF..."
+echo "🔄 Removing manual numbering from markdown..."
+python3 remove_manual_numbering.py
+
+echo "🔄 Generating Physics-Chemistry Manual PDF..."
 
 pandoc MANUAL_FINAL_PHYSICS_CHEMISTRY_PRINT.md \
   -o MANUAL_FINAL_PHYSICS_CHEMISTRY.pdf \
