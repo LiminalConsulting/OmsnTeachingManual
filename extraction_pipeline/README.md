@@ -48,15 +48,26 @@ This is a **completely automated pipeline** from start to finish.
    - Follow order defined in `MANUAL_STRUCTURE_THEMATIC_[SUBJECT].md`
    - Remove metadata per `ASSEMBLY_INSTRUCTIONS.md`
    - Preserve core educational content
-   - Create hierarchical numbering (1.1, 1.2, 2.1, etc.)
+   - **IMPORTANT:** Use plain headers WITHOUT manual numbering
+   - Fix formatting issues:
+     * Add blank lines before all lists
+     * Convert element lists to markdown bullets
+     * Translate English labels to Portuguese (keep parenthetical translations)
+     * Convert formulas to LaTeX notation for math rendering
    - Output: `MANUAL_FINAL_[SUBJECT].md`
 
 ### Phase 4: PDF Generation (Automated)
 
-6. **Generate Professional PDF**
-   - Use Pandoc + XeLaTeX
-   - Apply consistent styling
-   - Generate table of contents
+6. **Preprocessing and PDF Generation**
+   - **Step 1:** Run formatting fixes (Python script):
+     * Remove any manual numbering from headers
+     * Add blank lines before lists for proper rendering
+     * Convert element lists to markdown bullets
+     * Convert inline formulas to LaTeX notation (subscripts, math symbols)
+   - **Step 2:** Generate PDF using Pandoc + XeLaTeX:
+     * `--number-sections` for automatic hierarchical numbering
+     * `--toc` for table of contents
+     * Portuguese language support (`-V lang=pt-PT`)
    - Output: `MANUAL_FINAL_[SUBJECT].pdf`
 
 ---

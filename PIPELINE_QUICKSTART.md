@@ -90,11 +90,22 @@ This guide provides the complete execution flow for creating a teaching manual f
 2. For each topic file:
    - Remove metadata per `extraction_pipeline/ASSEMBLY_INSTRUCTIONS.md`
    - Keep core educational content
-   - Apply hierarchical numbering (1.1, 1.2, 2.1, etc.)
-3. Combine all cleaned topics in thematic order
-4. Create file: `extracted_topics/[subject]/MANUAL_FINAL_[SUBJECT].md`
+   - **Use plain headers WITHOUT manual numbering** (e.g., `# TITLE` not `# 1. TITLE`)
+   - Pandoc will add automatic numbering during PDF generation
+3. Apply formatting fixes:
+   - Add blank lines before all lists (bullets and numbered)
+   - Convert special lists (elements, etc.) to proper markdown bullets
+   - Translate English labels to Portuguese (keep helpful English in parentheses)
+   - Keep formulas in code blocks or as inline text (will be converted later)
+4. Combine all cleaned topics in thematic order
+5. Create file: `extracted_topics/[subject]/MANUAL_FINAL_[SUBJECT].md`
 
 **Reference:** See `extraction_pipeline/ASSEMBLY_INSTRUCTIONS.md` for what to remove/keep
+
+**CRITICAL FORMATTING RULES:**
+- ❌ NO manual numbering: `# 1. TITLE` → `# TITLE`
+- ✅ Blank line before lists: `**Header**\n\n- item` (not `**Header**\n- item`)
+- ✅ Portuguese primary, English parenthetical: `**Força (Force)**`
 
 ---
 
@@ -120,32 +131,57 @@ manuals/[subject]/
 ---
 
 ### Step 6: Generate PDF
-**Purpose:** Convert markdown to professional PDF
+**Purpose:** Convert markdown to professional PDF with preprocessing
 
 **Actions:**
-1. Create `generate_[subject]_pdf.sh` script in `manuals/[subject]/`:
+1. Create Python preprocessing script `fix_formatting.py`:
+   - Removes manual numbering from headers
+   - Adds blank lines before lists
+   - Converts element lists to bullets
+   - Converts formulas to LaTeX notation
+
+2. Create `generate_[subject]_pdf.sh` script in `manuals/[subject]/`:
 
 ```bash
 #!/bin/bash
+echo "🔄 Fixing formatting (numbering, lists, formulas)..."
+python3 fix_formatting.py
+
+echo "🔄 Generating PDF..."
 pandoc MANUAL_FINAL_[SUBJECT]_PRINT.md \
   -o MANUAL_FINAL_[SUBJECT].pdf \
   --pdf-engine=xelatex \
   --toc \
+  --toc-depth=3 \
   --number-sections \
-  -V geometry:margin=1in \
-  -V documentclass=report \
+  -V lang=pt-PT \
+  -V geometry:margin=2.5cm \
   -V fontsize=11pt \
-  -V mainfont="DejaVu Serif" \
-  -V monofont="DejaVu Sans Mono"
+  -V documentclass=book \
+  -V linestretch=1.15 \
+  -V linkcolor=blue \
+  -V urlcolor=blue \
+  2>&1 | grep -v "WARNING" | grep -v "Missing character"
 
-echo "PDF generated: MANUAL_FINAL_[SUBJECT].pdf"
+PDF_EXIT_CODE=${PIPESTATUS[0]}
+if [ $PDF_EXIT_CODE -eq 0 ]; then
+  echo "✅ PDF generated successfully"
+  pdfinfo MANUAL_FINAL_[SUBJECT].pdf | grep "Pages:"
+fi
 ```
 
-2. Make executable: `chmod +x generate_[subject]_pdf.sh`
-3. Run: `./generate_[subject]_pdf.sh`
-4. Verify PDF quality
+3. Make executable: `chmod +x generate_[subject]_pdf.sh`
+4. Run: `./generate_[subject]_pdf.sh`
+5. Verify PDF quality
 
-**Requirements:** Pandoc 3.6+, XeLaTeX (install via: `brew install pandoc basictex`)
+**Key differences from old approach:**
+- ✅ Python preprocessing before PDF generation
+- ✅ No manual font specification (uses system fonts)
+- ✅ Portuguese language support
+- ✅ Book documentclass (better for manuals)
+- ✅ Automatic section numbering via pandoc
+
+**Requirements:** Pandoc 3.6+, XeLaTeX, Python 3 (install via: `brew install pandoc basictex`)
 
 ---
 

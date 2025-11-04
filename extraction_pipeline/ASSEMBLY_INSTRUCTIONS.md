@@ -33,6 +33,12 @@ Create a clean, printable teaching manual organized thematically (not by grade).
 - "Estado do Conteúdo" (Coming soon notes)
 - Any references to "PowerPoints, Vídeos, Aulas #EstudoEmCasa" **unless** they contain actual video/resource links
 
+### CRITICAL: Manual Numbering
+- **Remove ALL manual numbering from headers** (e.g., `# 1. TITLE`, `## 1.1 Subtitle`)
+- Pandoc's `--number-sections` will add automatic numbering
+- Manual numbering creates double numbering (1. 1. Title)
+- Headers should be plain: `# TITLE`, `## Subtitle`
+
 ### Keep only if they have actual links:
 - Video lesson tables with RTP links
 - PDF worksheet links
@@ -124,13 +130,34 @@ Most science topics appear in only one grade:
 
 ## Formatting Rules
 
-1. **Hierarchical numbering:** `1.1`, `1.2`, `2.1`, `2.2`, etc.
+1. **NO manual numbering:** Headers should be plain (`# TITLE`, not `# 1. TITLE`)
+   - Pandoc's `--number-sections` provides automatic numbering
+   - Manual numbering causes double-numbering problems
+
 2. **Clean headers:** No metadata, just concept names
+
 3. **Preserve examples:** Keep all worked examples exactly as written
+
 4. **Preserve Portuguese:** No translation, all content in original language
-5. **Preserve tables:** Keep classification tables, comparison charts, data tables
-6. **Remove redundancy:** If same definition appears in multiple grades, keep the most complete version
-7. **Footnote attribution:** Optional footer: `"Conteúdo adaptado de O Bichinho do Saber (www.obichinhodosaber.com)"`
+   - **EXCEPTION:** Main teaching labels must be in Portuguese
+   - English labels like "Represented by:", "Unit:", "Measured with:" → Translate to Portuguese
+   - Keep English in parentheses as helpful translations: "(Movement Types)", "(increasing)"
+   - Primary content = Portuguese, Supplementary translations = English in parentheses
+
+5. **Blank lines before lists:** CRITICAL for proper markdown rendering
+   - Always add blank line before bullet lists (`-`, `*`, `+`)
+   - Always add blank line before numbered lists (`1.`, `2.`, `3.`)
+   - Without blank line, lists render as inline text with dashes
+
+6. **List formatting for special content:**
+   - Element lists (e.g., `1H – 1`, `2He – 2`) should be converted to markdown lists
+   - Add `-` bullet before each element: `- 1H – 1`
+
+7. **Preserve tables:** Keep classification tables, comparison charts, data tables
+
+8. **Remove redundancy:** If same definition appears in multiple grades, keep the most complete version
+
+9. **Footnote attribution:** Optional footer: `"Conteúdo adaptado de O Bichinho do Saber (www.obichinhodosaber.com)"`
 
 ---
 
