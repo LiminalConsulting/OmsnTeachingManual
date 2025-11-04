@@ -1,92 +1,193 @@
 # Extraction Pipeline
 
-This directory documents the process used to create both teaching manuals.
+This directory documents the **fully automated** process for creating teaching manuals from O Bichinho do Saber content.
 
-## The Process That Worked
+## 🎯 Links In → Manual Out
 
-After several iterations, we landed on a simple, effective pipeline:
+**Input:** Grade-level URLs from O Bichinho do Saber
+**Output:** Professional PDF teaching manual, thematically organized
 
-### 1. Web Extraction (Source of Truth)
+This is a **completely automated pipeline** from start to finish.
 
-Instead of extracting from PDFs, we extracted directly from **O Bichinho do Saber** website, which provides:
-- Clean, structured content
-- Complete topic coverage
-- Portuguese curriculum alignment
-- Up-to-date educational materials
+---
 
-### 2. Single Agent: topic-copier
+## The Complete Automated Workflow
 
-The entire extraction uses ONE agent (`topic-copier-agent.md`) that:
-- Fetches content from specified grade/topic URLs
-- Copies all content into markdown files
-- Preserves Portuguese language exactly as published
-- Outputs to `extracted_topics/math/` or `extracted_topics/sciences/`
+### Phase 1: Planning Documents (Automated)
 
-### 3. Manual Assembly
+1. **`GRADE_URLS_[SUBJECT].md`** - Created first
+   - Research and document all available topic URLs by grade
+   - Maps the source material landscape from O Bichinho do Saber
+   - Lists every topic URL that will be extracted
 
-For each manual (Math and Sciences):
-1. **Grade URLs** - Document all topic URLs by grade
-2. **Thematic Structure** - Organize topics by theme (not by grade)
-3. **Assembly Instructions** - Define what to keep/remove from extracted topics
-4. **Parallel Extraction** - Run topic-copier on all topics simultaneously
-5. **Manual Assembly** - Combine all topics following thematic structure
-6. **PDF Generation** - Convert markdown to professional PDF using pandoc
+2. **`MANUAL_STRUCTURE_THEMATIC_[SUBJECT].md`** - Created second
+   - Analyze all available topics
+   - Group topics thematically (NOT by grade)
+   - Define hierarchical organization (sections, subsections)
+   - Map which extracted topics go where in final manual
+   - **This becomes the assembly blueprint**
+
+3. **`ASSEMBLY_INSTRUCTIONS.md`** - Generic guide
+   - Universal instructions for cleaning/assembling any subject
+   - Defines what metadata to remove from extracted topics
+   - Specifies formatting standards
+   - Located in `extraction_pipeline/` (applies to all subjects)
+
+### Phase 2: Content Extraction (Automated)
+
+4. **Parallel Topic Extraction**
+   - Use `topic-copier` agent for ALL topics simultaneously
+   - Agent fetches content from each URL
+   - Preserves Portuguese content exactly as published
+   - Creates individual `.md` files in `extracted_topics/[subject]/`
+   - **Critical:** Run all extractions in parallel for speed
+
+### Phase 3: Manual Assembly (Automated)
+
+5. **Combine Topics Following Structure**
+   - Follow order defined in `MANUAL_STRUCTURE_THEMATIC_[SUBJECT].md`
+   - Remove metadata per `ASSEMBLY_INSTRUCTIONS.md`
+   - Preserve core educational content
+   - Create hierarchical numbering (1.1, 1.2, 2.1, etc.)
+   - Output: `MANUAL_FINAL_[SUBJECT].md`
+
+### Phase 4: PDF Generation (Automated)
+
+6. **Generate Professional PDF**
+   - Use Pandoc + XeLaTeX
+   - Apply consistent styling
+   - Generate table of contents
+   - Output: `MANUAL_FINAL_[SUBJECT].pdf`
+
+---
+
+## 📋 Execution Checklist
+
+When you receive grade-level URLs for a new subject, execute these steps **in order**:
+
+### ✅ Step 1: Create GRADE_URLS_[SUBJECT].md
+- Visit each provided grade URL
+- Document all available topic URLs
+- Organize by grade level
+- Save in `extracted_topics/[subject]/GRADE_URLS_[SUBJECT].md`
+
+### ✅ Step 2: Create MANUAL_STRUCTURE_THEMATIC_[SUBJECT].md
+- Analyze all topics from Step 1
+- Group topics into thematic sections (NOT by grade)
+- Define hierarchical organization
+- Map which topics belong in each section/subsection
+- Save in `extracted_topics/[subject]/MANUAL_STRUCTURE_THEMATIC_[SUBJECT].md`
+
+### ✅ Step 3: Extract All Topics (Parallel)
+- Launch `topic-copier` agent for EVERY topic URL
+- Run all extractions in parallel (critical for speed)
+- Output individual topic `.md` files to `extracted_topics/[subject]/`
+
+### ✅ Step 4: Assemble Manual
+- Follow structure defined in Step 2
+- Combine all topic files in thematic order
+- Remove metadata per `ASSEMBLY_INSTRUCTIONS.md`
+- Apply hierarchical numbering
+- Create `extracted_topics/[subject]/MANUAL_FINAL_[SUBJECT].md`
+
+### ✅ Step 5: Create Manual Directory Structure
+```bash
+manuals/[subject]/
+├── MANUAL_FINAL_[SUBJECT].md (copy from extracted_topics)
+├── MANUAL_FINAL_[SUBJECT]_PRINT.md (same content, for PDF)
+├── generate_[subject]_pdf.sh (pandoc script)
+└── MANUAL_FINAL_[SUBJECT].pdf (generated output)
+```
+
+### ✅ Step 6: Generate PDF
+- Create `generate_[subject]_pdf.sh` script
+- Run: `pandoc MANUAL_FINAL_[SUBJECT]_PRINT.md -o MANUAL_FINAL_[SUBJECT].pdf --pdf-engine=xelatex --toc --number-sections`
+- Verify PDF quality and formatting
+
+### ✅ Step 7: Update Repository Documentation
+- Update main README.md with new manual info
+- Add content coverage summary
+- Update repository structure diagram
+- Commit all work with clear message
+
+---
 
 ## Files in This Directory
 
-- **topic-copier-agent.md** - The agent configuration that powers the extraction
-- **pandoc-template.yaml** - Advanced PDF styling template (optional)
-- **README.md** - This file
+- **`topic-copier-agent.md`** - The agent that extracts web content
+- **`ASSEMBLY_INSTRUCTIONS.md`** - Universal guide for cleaning and assembling topics
+- **`pandoc-template.yaml`** - Advanced PDF styling template (optional)
+- **`README.md`** - This file
 
-## Example: Math Manual Extraction
+---
 
-```bash
-# Step 1: Document URLs
-grade_urls.md (5 grades, 49 topics total)
+## Example: Complete Math Manual Creation
 
-# Step 2: Define structure
-MANUAL_STRUCTURE_THEMATIC.md (5 main sections, 19 consolidated topics)
-
-# Step 3: Extract all topics in parallel
-# (Using topic-copier agent for each topic)
-math_topics/area.md
-math_topics/numeros_naturais.md
-... (19 topic files)
-
-# Step 4: Assemble following structure
-MANUAL_FINAL.md (assembled, metadata removed)
-
-# Step 5: Generate PDF
-./generate_pdf.sh → MANUAL_FINAL.pdf
 ```
+INPUT: 5 grade URLs from O Bichinho do Saber
+
+↓ Step 1: Document URLs
+extracted_topics/math/GRADE_URLS.md (5 grades, 49 topic URLs documented)
+
+↓ Step 2: Define thematic structure
+extracted_topics/math/MANUAL_STRUCTURE_THEMATIC.md (5 sections, 19 consolidated topics)
+
+↓ Step 3: Parallel extraction
+extracted_topics/math/area.md
+extracted_topics/math/numeros_naturais.md
+... (19 topic files extracted simultaneously)
+
+↓ Step 4: Assemble following structure
+extracted_topics/math/MANUAL_FINAL.md (clean, thematically organized)
+
+↓ Step 5: Prepare for PDF
+manuals/math/MANUAL_FINAL_PRINT.md (copy)
+manuals/math/generate_pdf.sh (created)
+
+↓ Step 6: Generate PDF
+manuals/math/MANUAL_FINAL.pdf (48 pages, professional formatting)
+
+OUTPUT: Professional teaching manual PDF ✅
+```
+
+---
 
 ## Why This Approach Won
 
-✅ **Simple** - One agent, clear process
+✅ **Fully Automated** - Links in, manual out with zero interruption
+✅ **Simple** - One agent, clear linear process
 ✅ **Reliable** - Web content is authoritative source
 ✅ **Scalable** - Parallel extraction of all topics
 ✅ **Maintainable** - Clear separation of concerns
-✅ **Reproducible** - Well-documented steps
+✅ **Reproducible** - Step-by-step checklist ensures consistency
 
 ## What Didn't Work (and was removed)
 
 - ❌ PDF extraction pipelines (complex, unreliable)
-- ❌ Multiple specialized agents (consolidator, reviewer, translator, etc.)
+- ❌ Multiple specialized agents (consolidator, reviewer, translator)
 - ❌ Text file intermediates
 - ❌ Complex consolidation workflows
 - ❌ Manual topic-by-topic processing
+- ❌ Semi-automated assembly requiring human intervention
 
-The final solution is elegant: **Web → topic-copier → Assembly → PDF**
+The final solution: **Web → Planning Docs → Parallel Extraction → Assembly → PDF** (completely automated)
+
+---
 
 ## Tools Used
 
 - **Claude Code** with Task tool for parallel agent execution
-- **WebFetch** for content extraction
-- **Pandoc** + **XeLaTeX** for PDF generation
-- **Git** for version control
+- **WebFetch** for content extraction from O Bichinho do Saber
+- **Pandoc** + **XeLaTeX** for professional PDF generation
+- **Git** for version control and documentation
+
+---
 
 ## Source Website
 
 All content extracted from **O Bichinho do Saber**: https://www.obichinhodosaber.com/
-- Mathematics: Grades 5-9
-- Natural Sciences: Grades 7-9
+
+Subjects covered:
+- **Mathematics:** Grades 5-9 ✅
+- **Natural Sciences:** Grades 7-9 ✅
+- **Physics-Chemistry:** Grades 7-9 (next)

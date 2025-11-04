@@ -31,19 +31,23 @@ Both manuals feature:
 
 ## 🔄 How These Were Created
 
-### The Extraction Pipeline
+### The Fully Automated Extraction Pipeline
 
-After several iterations, we developed a streamlined process:
+**Links In → Manual Out** - A completely automated 7-step process:
 
-1. **Source**: Web content from O Bichinho do Saber (not PDFs)
-2. **Extraction**: Single `topic-copier` agent fetches all topics in parallel
-3. **Organization**: Topics organized thematically (not by grade)
-4. **Assembly**: Combined following thematic structure, metadata removed
-5. **PDF Generation**: Pandoc + XeLaTeX for professional output
+1. **Document URLs** - Map all available topics by grade
+2. **Define Structure** - Group topics thematically (not by grade)
+3. **Extract Content** - Parallel web extraction using `topic-copier` agent
+4. **Assemble Manual** - Combine topics following thematic structure
+5. **Prepare Directory** - Organize files for PDF generation
+6. **Generate PDF** - Pandoc + XeLaTeX for professional output
+7. **Update Docs** - Maintain repository documentation
 
-**Key insight**: The web is the source of truth. One simple agent, parallel execution, clean assembly.
+**Key insight**: The web is the source of truth. Fully automated from URLs to PDF with zero manual intervention.
 
-See [`extraction_pipeline/README.md`](extraction_pipeline/README.md) for detailed documentation.
+**📖 Documentation:**
+- **Quick Start:** [`PIPELINE_QUICKSTART.md`](PIPELINE_QUICKSTART.md) - Step-by-step execution guide
+- **Detailed Process:** [`extraction_pipeline/README.md`](extraction_pipeline/README.md) - Complete pipeline documentation
 
 ---
 
