@@ -7,6 +7,49 @@ Fix formatting issues in Physics-Chemistry manual:
 
 import re
 
+def fix_element_lists(content):
+    """
+    Convert element electron configuration lists to proper markdown lists.
+
+    Converts:
+        **Exemplos (Z≤20):**
+
+        1H – 1
+        2He – 2
+        3Li – 2,1
+    To:
+        **Exemplos (Z≤20):**
+
+        - 1H – 1
+        - 2He – 2
+        - 3Li – 2,1
+    """
+    lines = content.split('\n')
+    fixed_lines = []
+
+    in_element_list = False
+
+    for i, line in enumerate(lines):
+        # Check if we're entering an element list section
+        if 'Exemplos' in line and 'Z' in line:
+            in_element_list = True
+            fixed_lines.append(line)
+            continue
+
+        # Check if line matches element pattern: starts with digit, element symbol, dash
+        # Pattern: 1H – 1  or  11Na – 2,8,1
+        if in_element_list and re.match(r'^\d+[A-Z][a-z]?\s*–\s*', line.strip()):
+            fixed_lines.append(f'- {line.strip()}')
+            continue
+
+        # Exit element list if we hit a non-element line that's not blank
+        if in_element_list and line.strip() != '' and not re.match(r'^-?\s*\d+[A-Z][a-z]?\s*–', line.strip()):
+            in_element_list = False
+
+        fixed_lines.append(line)
+
+    return '\n'.join(fixed_lines)
+
 def fix_list_formatting(content):
     """
     Add blank line before lists that don't have one.
@@ -76,16 +119,32 @@ def convert_formulas_to_latex(content):
             # Replace × with \times, ÷ with \div for LaTeX
             formula = formula.replace('×', r' \times ')
             formula = formula.replace('÷', r' \div ')
+            # Check if already wrapped in $$, if so just return it
+            if formula.startswith('$$') and formula.endswith('$$'):
+                return formula
             return f'$${formula}$$'
         else:
             # Keep as code block if it doesn't look like a formula
             return match.group(0)
 
-    content = re.sub(pattern1, replace_code_block, content)
+    # Disabled - causes $$$$
+    # content = re.sub(pattern1, replace_code_block, content)
 
-    # Pattern 2: Inline formulas with special characters
-    # Find patterns like: P = F/A or Fr=m×a⃗
-    # But be careful not to match regular text
+    # Pattern 2: Inline formulas after "Fórmula:" that aren't in code blocks
+    # Matches: **Fórmula:** formula_with_math_symbols
+    pattern2 = r'(\*\*Fórmula[^:]*:\*\*)\s+([^\n]+[=×÷±∆Δ][^\n]+)'
+
+    def replace_inline_formula(match):
+        label = match.group(1)
+        formula = match.group(2).strip()
+        # Convert to LaTeX
+        formula = formula.replace('×', r' \times ')
+        formula = formula.replace('÷', r' \div ')
+        # Convert underscores to subscripts for variables like F_colisão
+        formula = re.sub(r'([A-Za-z]+)_([A-Za-zção]+)', r'\1_{\2}', formula)
+        return f'{label}\n\n$${formula}$$'
+
+    content = re.sub(pattern2, replace_inline_formula, content)
 
     return content
 
@@ -115,6 +174,9 @@ def main():
     print("🔧 Removing manual numbering from headers...")
     content = remove_manual_numbering(content)
 
+    print("🔧 Converting element lists to markdown lists...")
+    content = fix_element_lists(content)
+
     print("🔧 Fixing list formatting (adding blank lines)...")
     content = fix_list_formatting(content)
 
@@ -127,6 +189,7 @@ def main():
 
     print("✅ Done! All formatting fixes applied:")
     print("   ✓ Manual numbering removed")
+    print("   ✓ Element lists converted to markdown lists")
     print("   ✓ List formatting fixed (blank lines added)")
     print("   ✓ Formulas converted to LaTeX notation")
     print(f"\n   Input:  {input_file}")

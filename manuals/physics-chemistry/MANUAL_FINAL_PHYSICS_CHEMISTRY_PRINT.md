@@ -459,7 +459,9 @@ A **trajetória** é o conjunto de posições ocupadas por um corpo num dado int
 A **distância percorrida** é representada por *s* e é medida em metros (m).
 
 **Fórmula:**
-$$s = |xf - xi|$$
+```
+s = |xf - xi|
+```
 onde:
 
 - xf = posição final
@@ -478,7 +480,9 @@ Ambos são medidos em segundos (s).
 A **rapidez média** é uma grandeza escalar (sem componente de direção).
 
 **Fórmula:**
-$$rm = s/Δt$$
+```
+rm = s/Δt
+```
 onde:
 
 - rm = rapidez média
@@ -497,7 +501,9 @@ A **velocidade** é uma grandeza vetorial com direção tangente à trajetória,
 
 **Aceleração Média (Average Acceleration)**
 **Fórmula:**
-$$am = (vf - vi)/Δt$$
+```
+am = (vf - vi)/Δt
+```
 onde:
 
 - am = aceleração média
@@ -527,7 +533,9 @@ A aceleração média é medida em metros por segundo ao quadrado (m/s²).
 O **tempo de reação** é o intervalo de tempo desde a observação do obstáculo até ao início da travagem.
 
 **Fórmula da Distância de Reação:**
-$$dreação = v  \times  Δtreação$$
+```
+dreação = v × Δtreação
+```
 onde:
 
 - dreação = distância de reação
@@ -538,7 +546,9 @@ onde:
 O **tempo de travagem** é a duração do processo de travagem.
 
 **Fórmula da Distância de Travagem:**
-$$dtravagem = (v  \times  Δttravagem)/2$$
+```
+dtravagem = (v × Δttravagem)/2
+```
 onde:
 
 - dtravagem = distância de travagem
@@ -649,7 +659,9 @@ Resultados do movimento:
 
 Para uma força resultante determinada, a aceleração é maior quando a massa é menor. Aceleração e massa são inversamente proporcionais.
 
-**Fórmula:** Fr=m×a⃗
+**Fórmula:**
+
+$$Fr=m \times a⃗$$
 
 **Quando a força resultante é o peso:**
 P=m×g⃗
@@ -666,13 +678,17 @@ Onde: g⃗ – aceleração gravítica
 - quanto maior a velocidade
 - quanto menor o tempo de colisão
 
-**Fórmula:** F_colisão = -m × (v_colisão / Δt)
+**Fórmula:**
+
+$$F_{colisão} = -m  \times  (v_{colisão} / Δt)$$
 
 **Pressão**
 
 **Pressão**: traduz-se na força exercida por unidade de área. É tanto maior quanto menor a área
 
-**Fórmula:** P = F/A
+**Fórmula:**
+
+$$P = F/A$$
 
 Unit: **pascal (Pa)**
 
@@ -733,7 +749,9 @@ A energia cinética de um corpo é a energia associada ao **movimento** desse co
 
 Representa a energia associada ao movimento. Depende de massa e velocidade, aumentando com ambas.
 
-**Fórmula:** Energia cinética = (massa ÷ 2) × (velocidade)²
+**Fórmula:**
+
+$$Energia cinética = (massa  \div  2)  \times  (velocidade)²$$
 
 **Energia potencial**
 
@@ -750,7 +768,9 @@ Pode ser de vários tipos:
 
 Resulta da interação corpo-planeta. Depende da massa, aceleração gravítica e altura.
 
-**Fórmula:** Energia potencial gravítica = massa × aceleração gravítica × altura
+**Fórmula:**
+
+$$Energia potencial gravítica = massa  \times  aceleração gravítica  \times  altura$$
 
 **Transformações de energia**
 
@@ -762,7 +782,9 @@ Durante quedas, energia potencial converte-se em energia cinética, mantendo-se 
 
 Corresponde à **soma de energia cinética e potencial**. Permanece constante sem resistência do ar.
 
-**Fórmula:** Energia mecânica = Energia cinética + Energia potencial
+**Fórmula:**
+
+$$Energia mecânica = Energia cinética + Energia potencial$$
 
 **Energia mecânica em pontos específicos**
 
@@ -926,10 +948,14 @@ O som propaga-se através do ar como ondas longitudinais. Estas ondas são repre
 ### Relações Matemáticas
 
 **Relação entre frequência e período:**
-$$f = 1/T$$
+```
+f = 1/T
+```
 
 **Cálculo da velocidade da onda:**
-$$v = λ/T$$
+```
+v = λ/T
+```
 
 Onde:
 
@@ -958,7 +984,9 @@ Uma fonte sonora é um corpo vibratório que produz som. Exemplos incluem:
 A frequência é o número de vibrações por segundo, medida em hertz (Hz).
 
 **Fórmula da frequência:**
-$$f = número de vibrações / Δt$$
+```
+f = número de vibrações / Δt
+```
 Onde:
 
 - f = frequência
@@ -991,7 +1019,9 @@ Durante a propagação:
 **Velocidade do Som**
 
 **Fórmula da velocidade:**
-$$v = d / Δt$$
+```
+v = d / Δt
+```
 Onde:
 
 - v = velocidade
@@ -2146,7 +2176,7 @@ A velocidade das reações químicas depende do número de colisões eficazes en
 
 **Fórmulas de Cálculo:**
 
-- v = quantidade de reagente consumido / tempo de transformação
+$$- v = quantidade de reagente consumido / tempo de transformação$$
 - v = quantidade de produto formado / tempo de transformação
 
 **Fatores que Influenciam a Velocidade das Reações**
@@ -2325,26 +2355,26 @@ O último nível (excepto o primeiro) máximo 8 eletrões.
 
 **Exemplos (Z≤20):**
 
-1H – 1
-2He – 2
-3Li – 2,1
-4Be – 2,2
-5B – 2,3
-6C – 2,4
-7N – 2,5
-8O – 2,6
-9F – 2,7
-10Ne – 2,8
-11Na – 2,8,1
-12Mg – 2,8,2
-13Al – 2,8,3
-14Si – 2,8,4
-15P – 2,8,5
-16S – 2,8,6
-17Cl – 2,8,7
-18Ar – 2,8,8
-19K – 2,8,8,1
-20Ca – 2,8,8,2
+- 1H – 1
+- 2He – 2
+- 3Li – 2,1
+- 4Be – 2,2
+- 5B – 2,3
+- 6C – 2,4
+- 7N – 2,5
+- 8O – 2,6
+- 9F – 2,7
+- 10Ne – 2,8
+- 11Na – 2,8,1
+- 12Mg – 2,8,2
+- 13Al – 2,8,3
+- 14Si – 2,8,4
+- 15P – 2,8,5
+- 16S – 2,8,6
+- 17Cl – 2,8,7
+- 18Ar – 2,8,8
+- 19K – 2,8,8,1
+- 20Ca – 2,8,8,2
 
 K e Ca iniciam preenchimento do nível 4 com 8 eletrões no nível 3 (último nível máximo 8).
 
