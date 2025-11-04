@@ -14,6 +14,7 @@ Este manual apresenta os conteúdos de Físico-Química para os 7º, 8º e 9º a
 ### Constituição do Universo
 
 **Planetas**
+
 - corpos celestes sem luz própria
 - orbitam em torno de uma estrela
 - têm massa suficiente para serem aproximadamente esféricos e não terem outros corpos na sua órbita
@@ -21,6 +22,7 @@ Este manual apresenta os conteúdos de Físico-Química para os 7º, 8º e 9º a
 - a Terra é um planeta
 
 **Estrelas**
+
 - corpos celestes com luz própria
 - quanto maior a massa da estrela: mais quente, maior o seu brilho, mais azulada
 - no seu núcleo ocorre uma reação química em que o hidrogénio é transformado em hélio e é libertada muita energia
@@ -29,23 +31,28 @@ Este manual apresenta os conteúdos de Físico-Química para os 7º, 8º e 9º a
 - as outras estrelas só são visíveis no céu durante a noite e sem poluição luminosa
 
 **Sistemas planetários**
+
 - conjuntos formados por uma estrela e pelos astros que orbitam em seu redor (planetas, planetas-anões, cometas, asteroides, meteoroides)
 - o Sol é a estrela do Sistema Solar
 
 **Enxames de estrelas**
+
 - grupos de estrelas (que se movem em torno de um ponto)
 
 **Galáxias**
+
 - conjuntos de estrelas, gases e poeiras (que se movem em torno de um ponto)
 - podem ser em espiral, elípticas ou irregulares
 - o Sistema Solar encontra-se na galáxia (em espiral) Via Láctea, no Braço de Orion, a dois terços do raio da galáxia ao seu centro
 
 **Grupos e enxames de galáxias**
+
 - grupos de galáxias → até 50 galáxias
 - enxames de galáxias → mais de 50 galáxias
 - a Via Láctea encontra-se no Grupo Local
 
 **Superenxames de galáxias**
+
 - conjuntos de grupos e enxames de galáxias (que se movem em torno de um ponto)
 - o Grupo Local encontra-se no Superenxame Local (ou Superenxame da Virgem)
 
@@ -63,38 +70,46 @@ Este manual apresenta os conteúdos de Físico-Química para os 7º, 8º e 9º a
 **Geocentrismo e heliocentrismo**
 
 **Modelo geocêntrico**
+
 - apresentado por Ptolomeu, na Idade Média
 - defendia que a Terra era o centro do Universo e que todos os outros astros se moviam à sua volta e eram imutáveis (com superfície inalterável)
 
 **Modelo heliocêntrico**
+
 - apresentado por Copérnico, no Renascimento
 - defendia que era o Sol o centro do Universo e que todos os outros astros se moviam à sua volta
 
 **Descobertas de Galileu**
 
 **Primeiro a utilizar um telescópio (luneta)**
+
 - Galileu
 
 **Observações de Galileu**
+
 - a Lua não é lisa (tem crateras, vales e montanhas)
 - Júpiter é orbitado por satélites
 - Vénus era visto com formas e tamanhos diferentes
 
 **Como estas observações colocaram em causa o modelo geocêntrico**
+
 - mostraram que os astros não eram imutáveis
 - mostraram que nem todos os astros giram em torno da Terra
 
 **Reação da Igreja Católica**
+
 - acusou Galileu de heresia, foi julgado e condenado, pois colocava em causa as suas ideias (que tinha sido Deus a criar o Homem e o Mundo, logo seria o centro de tudo)
 
 **Modelo atualmente aceite**
 
 **Modelo atual**
+
 - o Sol é o centro do Sistema Solar, que é apenas um dos sistemas planetários existentes na Via Láctea, que é, por sua vez, apenas uma das galáxias que existem no Universo
 
 **Observação do Espaço**
 
 **Telescópios**
+
 - instrumentos de ampliação para observar os astros
 - detetam luz visível (telescópio ótico) e luz não visível (radiotelescópio)
 - podem ser colocados em terra ou em órbita
@@ -102,12 +117,15 @@ Este manual apresenta os conteúdos de Físico-Química para os 7º, 8º e 9º a
   - em órbita: Hubble, James Webb
 
 **Porque são colocados telescópios em órbita**
+
 - para não sofrerem interferência da atmosfera da Terra e assim formarem imagens mais nítidas
 
 **Observatório Europeu do Sul (ESO)**
+
 - responsável pela construção e utilização de telescópios
 
 **Porque foi construído o ESO no deserto?**
+
 - maior número de noites de céu limpo
 - menor humidade
 - menos poluição luminosa
@@ -115,20 +133,24 @@ Este manual apresenta os conteúdos de Físico-Química para os 7º, 8º e 9º a
 **A origem do Universo**
 
 **Teoria do Big Bang**
+
 - toda a matéria do Universo encontrava-se concentrada num espaço pequeno, a uma temperatura elevada, e uma explosão fez com que a matéria se expandisse e ao arrefecer surgiram as galáxias
 
 **Suportes para a formulação desta teoria**
+
 - em 1929, Edwin Hubble conseguiu comprovar que as galáxias estavam a afastar-se umas das outras, o que significa que já estiveram juntas
 - em 1964, foi captada uma radiação, por um radiotelescópio, que se considerou ser da fase inicial do Universo
 
 **Exploração espacial**
 
 **Agências espaciais**
+
 - têm como objetivo pesquisar, usar tecnologia e desenvolver missões de exploração espacial
 - NASA (Agência Espacial dos Estados Unidos)
 - ESA (Agência Espacial Europeia)
 
 **Missões**
+
 - tripuladas: Vostok → levou para o Espaço o primeiro cosmonauta, Yuri Gagarin – 1961; Apollo 11 → levou para a Lua 3 homens – 1969; Estação Espacial Internacional → desde 2000
 - não tripuladas: Sputnik 1 → primeiro satélite artificial; Sondas Voyager 1 e 2; Sonda ExoMars; Sonda Orbiter
 
@@ -137,25 +159,30 @@ Este manual apresenta os conteúdos de Físico-Química para os 7º, 8º e 9º a
 **Medidas de distância e de tempo**
 
 **Unidades de distância**
+
 - unidade SI → metro (m)
 
 **Unidades de tempo**
+
 - unidade SI → segundo (s)
 
 **Notação científica**
 
 **Representação de números em notação científica**
+
 - colocar na forma Y × 10x (1 ≤ Y < 10 ; x ∈ Z)
 - 45500000000 = 4,5 × 10¹⁰
 
 **Unidades para medir distâncias no Universo**
 
 **Unidade de distância dentro do Sistema Solar**
+
 - unidade astronómica (ua)
 - corresponde à distância média da Terra ao Sol
 - 1 ua = 150 milhões de km = 1,5 × 10¹¹ m
 
 **Unidade de distância fora do Sistema Solar**
+
 - ano-luz (a.l.)
 - corresponde à distância percorrida pela luz num ano
 - 1 a.l. = 9,5 biliões de km = 9,5 × 10¹⁵ m
@@ -166,6 +193,7 @@ Este manual apresenta os conteúdos de Físico-Química para os 7º, 8º e 9º a
 O Sistema Solar formou-se há cerca de 4,5 mil milhões de anos.
 
 **Constituição do Sistema Solar:**
+
 - **Sistema Solar Interno:** planetas rochosos (Mercúrio, Vénus, Terra, Marte)
 - **Cintura de Asteroides:** contém a maioria dos asteroides
 - **Sistema Solar Externo:** planetas gasosos (Júpiter, Saturno, Úrano, Neptuno)
@@ -174,23 +202,28 @@ O Sistema Solar formou-se há cerca de 4,5 mil milhões de anos.
 **Astros principais:**
 
 **Sol:**
+
 - Única estrela do Sistema Solar
 - Astro de maior tamanho e massa do Sistema Solar
 
 **Planetas:**
+
 - Possuem movimento de translação à volta do Sol
 - Órbitas com forma de elipse
 - Têm órbitas bem definidas e livres de detritos
 
 **Planetas-anões:**
+
 - Plutão, Ceres, Haumea, Makemake, Éris
 - Não têm dominância orbital
 
 **Satélites:**
+
 - Orbitam exclusivamente planetas
 - Só Mercúrio e Vénus não têm satélites
 
 **Asteroides, Cometas, Meteoroides:**
+
 - Asteroides: corpos rochosos
 - Cometas: corpos gelados
 - Meteoroides: fragmentos que podem formar meteoros (quando entram na atmosfera) ou meteoritos (quando atingem a superfície)
@@ -198,19 +231,23 @@ O Sistema Solar formou-se há cerca de 4,5 mil milhões de anos.
 ### Características dos Planetas
 
 **Períodos de Translação:**
+
 - Aumentam com a distância ao Sol
 - Mercúrio: 88 dias terrestres (menor período)
 - Neptuno: 163,72 anos (maior período)
 
 **Períodos de Rotação:**
+
 - Variam independentemente da distância ao Sol
 - Júpiter: 9,9 horas (menor período)
 - Vénus: 243,02 dias (maior período)
 
 **Satélites:**
+
 - Saturno é o planeta que tem mais satélites descobertos → 82 satélites
 
 **Planetas Rochosos (Terrestres):**
+
 - Mais pequenos
 - Mais densos
 - Mais quentes
@@ -218,6 +255,7 @@ O Sistema Solar formou-se há cerca de 4,5 mil milhões de anos.
 - Incluem: Mercúrio, Vénus, Terra, Marte
 
 **Planetas Gasosos (Jovianos):**
+
 - Maiores
 - Menos densos
 - Mais frios
@@ -226,6 +264,7 @@ O Sistema Solar formou-se há cerca de 4,5 mil milhões de anos.
 - Incluem: Júpiter, Saturno, Úrano, Neptuno
 
 **A Terra:**
+
 - Tem uma lua (satélite natural)
 - Tem atmosfera
 - Temperaturas moderadas
@@ -242,6 +281,7 @@ O Sistema Solar formou-se há cerca de 4,5 mil milhões de anos.
 **Período de rotação da Terra:** 24 horas
 
 **Consequências do movimento de rotação da Terra:**
+
 - sucessão dos dias e das noites
 - movimento aparente do Sol e das estrelas
 - variação da sombra ao longo do dia
@@ -257,11 +297,13 @@ O Sistema Solar formou-se há cerca de 4,5 mil milhões de anos.
 **Orientação no hemisfério norte**
 
 **Durante o dia:**
+
 - no nascer do Sol → sombra aponta para oeste
 - ao meio dia solar → sombra aponta para norte
 - ao pôr do Sol → sombra aponta para este
 
 **Durante a noite:**
+
 - a Estrela Polar indica o norte, pois permanece imóvel no céu
 
 **Movimento de translação da Terra**
@@ -281,6 +323,7 @@ O Sistema Solar formou-se há cerca de 4,5 mil milhões de anos.
 **Solstício de verão:** dia mais longo do ano
 
 Os raios solares incidem perpendicularmente nos trópicos:
+
 - no hemisfério norte → trópico de câncer (20 ou 21 de junho)
 - no hemisfério sul → trópico de capricórnio (21 ou 22 de dezembro)
 
@@ -329,6 +372,7 @@ A Terra não está sempre à mesma distância do Sol, mas esta diferença é rel
 **Eclipse da Lua:** ocorre na fase de Lua Cheia, com alinhamento Sol-Terra-Lua
 
 Tipos de eclipse lunar:
+
 - **penumbral** → a Lua está na penumbra da Terra
 - **parcial** → parte da Lua na penumbra e outra na sombra
 - **total** → a Lua está na sombra da Terra
@@ -336,6 +380,7 @@ Tipos de eclipse lunar:
 **Eclipse do Sol:** ocorre na fase de Lua Nova, com alinhamento Sol-Lua-Terra
 
 Tipos de eclipse solar:
+
 - **parcial** → visível na zona da Terra que está na penumbra da Lua
 - **total (ou anular)** → visível na zona da Terra que está na sombra da Lua
 
@@ -352,6 +397,7 @@ Uma força é uma "grandeza vetorial (representa-se por vetores)" caracterizada 
 As forças atuam por contacto ou à distância (força magnética, elétrica ou gravítica).
 
 **Efeitos das Forças:**
+
 - Deformação de um corpo
 - Alteração do estado de repouso ou movimento
 
@@ -362,18 +408,21 @@ A força gravítica é "força atrativa, que atua à distância, exercida por um
 **Peso** corresponde à força gravítica que um planeta exerce sobre um corpo, com direção vertical, sentido de cima para baixo e ponto de aplicação no centro de gravidade.
 
 **Fatores influenciadores na Terra:**
+
 - Maior latitude → maior força gravítica (corpos mais próximos do centro nos polos)
 - Maior altitude → menor força gravítica
 
 **Peso e massa**
 
 **Peso:**
+
 - Grandeza vetorial
 - Medido com dinamómetro
 - Expresso em newtons (N)
 - Variável conforme localização
 
 **Massa:**
+
 - Grandeza escalar
 - Medida com balança
 - Expressa em quilogramas (kg)
@@ -396,11 +445,13 @@ Um **referencial** é um sistema de coordenadas associado a um corpo, ou corpos,
 A **posição** é representada por *x* e é medida em metros (m).
 
 **Repouso vs. Movimento**
+
 - **Repouso (Rest):** Um corpo está em repouso quando mantém a sua posição relativamente à origem ao longo do tempo.
 - **Movimento (Movement):** Um corpo está em movimento quando varia a sua posição relativamente à origem ao longo do tempo.
 
 **Trajetória (Trajectory)**
 A **trajetória** é o conjunto de posições ocupadas por um corpo num dado intervalo de tempo. Pode ser classificada como:
+
 - **Retilínea** (straight/rectilinear)
 - **Curvilínea** (curved)
 
@@ -408,14 +459,14 @@ A **trajetória** é o conjunto de posições ocupadas por um corpo num dado int
 A **distância percorrida** é representada por *s* e é medida em metros (m).
 
 **Fórmula:**
-```
-s = |xf - xi|
-```
+$$s = |xf - xi|$$
 onde:
+
 - xf = posição final
 - xi = posição inicial
 
 **Tempo (Time)**
+
 - **Instante:** representado por *t*
 - **Intervalo de tempo:** representado por *Δt*
 
@@ -427,10 +478,9 @@ Ambos são medidos em segundos (s).
 A **rapidez média** é uma grandeza escalar (sem componente de direção).
 
 **Fórmula:**
-```
-rm = s/Δt
-```
+$$rm = s/Δt$$
 onde:
+
 - rm = rapidez média
 - s = distância percorrida
 - Δt = intervalo de tempo
@@ -439,6 +489,7 @@ onde:
 A **velocidade** é uma grandeza vetorial com direção tangente à trajetória, medida em metros por segundo (m/s).
 
 **Distinção fundamental:**
+
 - **Rapidez:** grandeza escalar (apenas magnitude)
 - **Velocidade:** grandeza vetorial (inclui direção e sentido)
 
@@ -446,10 +497,9 @@ A **velocidade** é uma grandeza vetorial com direção tangente à trajetória,
 
 **Aceleração Média (Average Acceleration)**
 **Fórmula:**
-```
-am = (vf - vi)/Δt
-```
+$$am = (vf - vi)/Δt$$
 onde:
+
 - am = aceleração média
 - vf = velocidade final
 - vi = velocidade inicial
@@ -477,10 +527,9 @@ A aceleração média é medida em metros por segundo ao quadrado (m/s²).
 O **tempo de reação** é o intervalo de tempo desde a observação do obstáculo até ao início da travagem.
 
 **Fórmula da Distância de Reação:**
-```
-dreação = v × Δtreação
-```
+$$dreação = v  \times  Δtreação$$
 onde:
+
 - dreação = distância de reação
 - v = velocidade
 - Δtreação = tempo de reação
@@ -489,10 +538,9 @@ onde:
 O **tempo de travagem** é a duração do processo de travagem.
 
 **Fórmula da Distância de Travagem:**
-```
-dtravagem = (v × Δttravagem)/2
-```
+$$dtravagem = (v  \times  Δttravagem)/2$$
 onde:
+
 - dtravagem = distância de travagem
 - v = velocidade
 - Δttravagem = tempo de travagem
@@ -501,6 +549,7 @@ onde:
 **Distância de Segurança Total = Distância de Reação + Distância de Travagem**
 
 **Fatores influenciadores do tempo de reação:**
+
 - Fadiga
 - Álcool
 - Sonolência
@@ -508,6 +557,7 @@ onde:
 - Uso do telemóvel
 
 **Fatores influenciadores da travagem:**
+
 - Condições climatéricas (chuva, neve, gelo)
 - Estado do veículo (pneus, suspensão, travões)
 - Tipo de piso (terra, alcatrão)
@@ -515,6 +565,7 @@ onde:
 ### Gráficos posição-tempo
 
 Os gráficos posição-tempo são ferramentas fundamentais para:
+
 - Analisar o movimento de corpos
 - Determinar velocidades
 - Identificar tipos de movimento
@@ -575,6 +626,7 @@ Fr=√[(F₁)²+(F₂)²]
 **Lei da Inércia (1ª Lei de Newton)**
 
 **Quando a força resultante é nula:**
+
 - se o corpo está em repouso, continua em repouso
 - se o corpo está em movimento, continua em movimento retilíneo uniforme
 
@@ -587,9 +639,11 @@ Justificada pela **inércia** dos corpos.
 **Lei fundamental da dinâmica (2ª Lei de Newton)**
 
 **Quando a força resultante não é nula:**
+
 - o corpo adquire **aceleração**
 
 Resultados do movimento:
+
 - Se a aceleração tem a direção do movimento: **movimento retilíneo uniformemente acelerado**
 - Se a aceleração se opõe à direção do movimento: **movimento retilíneo uniformemente retardado**
 
@@ -607,6 +661,7 @@ Onde: g⃗ – aceleração gravítica
 **Força de colisão**
 
 **A força de colisão é maior:**
+
 - quanto maior a massa
 - quanto maior a velocidade
 - quanto menor o tempo de colisão
@@ -626,6 +681,7 @@ Unit: **pascal (Pa)**
 Os elementos de segurança aumentam o tempo de colisão e distribuem as forças sobre áreas maiores para diminuir a pressão e reduzir os efeitos da colisão.
 
 **Elementos de segurança:**
+
 - cinto de segurança
 - encosto de cabeça
 - airbag
@@ -643,12 +699,15 @@ Aumenta com: rugosidade da superfície
 **As forças de atrito podem ser:**
 
 **Úteis (useful) exemplos:**
+
 - força que resulta do contacto entre os dedos da nossa mão e a superfície de uma caneta para a conseguirmos segurar
 
 **Prejudiciais (harmful) exemplos:**
+
 - força que resulta do contacto ente as peças de um mecanismo de um relógio e que se opõe ao movimento entre estas
 
 **O atrito pode ser reduzido através de:**
+
 - lubrificantes
 - polindo as peças em contacto
 
@@ -681,6 +740,7 @@ Representa a energia associada ao movimento. Depende de massa e velocidade, aume
 Constitui energia **armazenada** resultante de interações entre corpos, que pode ser transformada em energia cinética.
 
 Pode ser de vários tipos:
+
 - Elástica
 - Elétrica
 - Química
@@ -725,14 +785,17 @@ O trabalho é uma grandeza escalar que mede a energia transferida por forças. �
 O trabalho pode ser classificado em três categorias:
 
 **W > 0 → trabalho positivo**
+
 - A força tem o mesmo sentido do movimento
 - A energia cinética aumenta
 
 **W < 0 → trabalho negativo**
+
 - A força tem sentido oposto ao movimento
 - A energia cinética diminui
 
 **W = 0 → trabalho nulo**
+
 - Não há movimento
 - A energia cinética mantém-se
 
@@ -825,47 +888,51 @@ Nota: "densidade (ou massa volúmica) = massa : volume ⇔ massa = densidade × 
 ### Tipos de Ondas
 
 **Ondas Transversais:**
+
 - A vibração das partículas é perpendicular à direção de propagação da onda
 
 **Ondas Longitudinais:**
+
 - A vibração das partículas é paralela à direção de propagação da onda
 
 ### Som e Propagação
 
 O som propaga-se através do ar como ondas longitudinais. Estas ondas são representadas como ondas de pressão:
+
 - **Cristas:** representam zonas de compressão
 - **Ventres:** representam zonas de rarefação
 
 ### Características das Ondas
 
 **Amplitude (A):**
+
 - Distância máxima em relação à posição de equilíbrio
 - Medida em metros
 
 **Comprimento de onda (λ - lambda):**
+
 - Distância mínima entre duas partículas na mesma fase de vibração
 - Distância entre pontos equivalentes de vibração
 
 **Frequência (f):**
+
 - Número de vibrações por segundo
 - Medida em Hertz (Hz)
 
 **Período (T):**
+
 - Tempo necessário para uma vibração completa
 
 ### Relações Matemáticas
 
 **Relação entre frequência e período:**
-```
-f = 1/T
-```
+$$f = 1/T$$
 
 **Cálculo da velocidade da onda:**
-```
-v = λ/T
-```
+$$v = λ/T$$
 
 Onde:
+
 - v = velocidade da onda
 - λ = comprimento de onda
 - T = período
@@ -880,6 +947,7 @@ Vibração é o movimento repetitivo de um corpo, ou parte dele, em torno de uma
 
 **Fonte sonora**
 Uma fonte sonora é um corpo vibratório que produz som. Exemplos incluem:
+
 - Cordas vocais
 - Instrumentos musicais:
   - Instrumentos de sopro
@@ -890,10 +958,9 @@ Uma fonte sonora é um corpo vibratório que produz som. Exemplos incluem:
 A frequência é o número de vibrações por segundo, medida em hertz (Hz).
 
 **Fórmula da frequência:**
-```
-f = número de vibrações / Δt
-```
+$$f = número de vibrações / Δt$$
 Onde:
+
 - f = frequência
 - Δt = intervalo de tempo
 
@@ -902,6 +969,7 @@ A acústica é a área da Física que estuda o som.
 
 **Meios de Propagação**
 O som propaga-se através de:
+
 - Sólidos
 - Líquidos
 - Gases
@@ -910,10 +978,12 @@ O som propaga-se através de:
 
 **Mecanismo de Transmissão**
 A transmissão do som ocorre através de ondas mecânicas que envolvem:
+
 - **Zonas de compressão**: regiões de maior densidade e pressão
 - **Zonas de rarefação**: regiões de menor densidade e pressão
 
 Durante a propagação:
+
 - As camadas de ar transferem energia sem se deslocarem
 - A frequência da fonte é mantida ao longo da propagação
 - As partículas do meio vibram, mas não se deslocam ao longo do meio
@@ -921,10 +991,9 @@ Durante a propagação:
 **Velocidade do Som**
 
 **Fórmula da velocidade:**
-```
-v = d / Δt
-```
+$$v = d / Δt$$
 Onde:
+
 - v = velocidade
 - d = distância
 - Δt = intervalo de tempo
@@ -971,6 +1040,7 @@ O espetro sonoro humano situa-se entre 20 Hz e 20.000 Hz. Sons abaixo disso são
 "A absorção do som ocorre quando as ondas sonoras encontram superfícies rugosas, dissipando-se energia"
 
 **Materiais com elevada capacidade de absorção:**
+
 - Tecidos
 - Esferovite
 - Cortiça
@@ -984,10 +1054,12 @@ O som refletido apresenta menor intensidade devido à absorção parcial de ener
 **A reflexão pode produzir dois efeitos:**
 
 **Eco:**
+
 - Ocorre quando a distância entre fonte sonora e obstáculo excede 17 metros
 - Resultado: repetição audível do som emitido
 
 **Reverberação:**
+
 - Ocorre quando a distância é inferior a 17 metros
 - Resultado: prolongamento do som emitido
 
@@ -1004,15 +1076,18 @@ A alteração de velocidade de propagação causa a mudança direcional. O som r
 **Na Medicina**
 
 **Estetoscópio:**
+
 - Permite ouvir sons internos do corpo
 - Baseado na maior velocidade de propagação sonora em sólidos e no fenómeno de ressonância
 
 **Ecografia:**
+
 - Cria imagens de tecidos internos através de reflexão de ultrassons
 
 **Na Navegação**
 
 **Sonar:**
+
 - Detecta corpos no fundo oceânico usando reflexão de ultrassons
 
 **O Eco na Natureza**
@@ -1043,6 +1118,7 @@ Uma onda eletromagnética resulta de uma "perturbação elétrica e magnética" 
 **Espetro Eletromagnético**
 
 O espetro inclui (por ordem crescente de energia):
+
 - Ondas de rádio (comunicações, televisão)
 - Micro-ondas (telemóveis, GPS, fornos)
 - Infravermelhos (aquecedores, comandos)
@@ -1060,12 +1136,14 @@ O espetro inclui (por ordem crescente de energia):
 **Interação Luz-Matéria**
 
 Quando luz interage com corpos ocorre:
+
 - Reflexão (reenvio)
 - Absorção
 - Transmissão
 - Dispersão (luz branca → cores do arco-íris)
 
 **Materiais:**
+
 - Transparentes (formam imagens nítidas)
 - Translúcidos (imagem difusa)
 - Opacos (sem transmissão)
@@ -1073,6 +1151,7 @@ Quando luz interage com corpos ocorre:
 **Sombra e Penumbra**
 
 Como "a luz propaga-se em linha reta," corpos opacos criam:
+
 - **Sombra:** ausência de luz visível
 - **Penumbra:** diminuição de intensidade luminosa
 
@@ -1085,11 +1164,13 @@ A visualização de raios luminosos requer partículas em suspensão que reflita
 **Reflexão da Luz**
 
 **Definição e Tipos:**
+
 - **Reflexão regular (especular)**: Ocorre em superfícies polidas. Um feixe paralelo de luz incidente origina um feixe paralelo de luz refletida.
 - **Reflexão irregular (difusa)**: Ocorre em superfícies rugosas.
 - Ambos os tipos de reflexão ocorrem simultaneamente, com um predominando sobre o outro.
 
 **Aplicações:**
+
 - Espelhos
 - Periscópios
 - Radar
@@ -1097,17 +1178,20 @@ A visualização de raios luminosos requer partículas em suspensão que reflita
 **Espelhos e Imagens**
 
 **Tipos de Imagens:**
+
 - **Imagens reais**: Podem ser projetadas em um ecrã
 - **Imagens virtuais**: Apenas visíveis aos olhos, não podem ser projetadas
 
 **Espelhos Planos:**
 Características das imagens formadas:
+
 - Imagem virtual
 - Mesmo tamanho do objeto
 - Direita (não invertida verticalmente)
 - Simétrica em relação ao espelho
 
 **Espelhos Curvos:**
+
 - **Espelhos convexos**: Produzem imagens virtuais e menores que o objeto
 - **Espelhos côncavos**: Podem produzir imagens reais ou virtuais dependendo da posição do objeto
 
@@ -1130,10 +1214,12 @@ Quando a luz passa de um meio para outro, ocorre alteração na sua velocidade, 
 **Tipos de Lentes:**
 
 **Lentes Convergentes (Convexas):**
+
 - Produzem imagens reais
 - Imagens invertidas
 
 **Lentes Divergentes (Côncavas):**
+
 - Produzem imagens virtuais
 - Imagens direitas (não invertidas)
 - Imagens menores que o objeto
@@ -1144,6 +1230,7 @@ Fórmula para cálculo:
 **P = 1/f**
 
 Onde:
+
 - P = potência focal (medida em dioptrias)
 - f = distância focal
 
@@ -1157,19 +1244,23 @@ O olho funciona como um recetor de luz. O cristalino (lente do olho) forma image
 **Defeitos de Visão:**
 
 **Miopia:**
+
 - Corrigida com lentes divergentes
 
 **Hipermetropia:**
+
 - Corrigida com lentes convergentes
 
 **Cor e Dispersão da Luz**
 
 **Luz Monocromática vs. Policromática:**
+
 - Luz monocromática: Uma única frequência/cor
 - Luz policromática: Múltiplas frequências/cores
 
 **Cores Primárias:**
 Três cores primárias:
+
 - Vermelho (Red)
 - Verde (Green)
 - Azul (Blue)
@@ -1380,12 +1471,14 @@ Um **reóstato** é um componente elétrico com resistência variável.
 **Potência a contratar para uma habitação**
 
 **Depende:**
+
 - da potência elétrica de cada aparelho
 - do número de aparelhos elétricos
 
 **Fase e neutro**
 
 "As tomadas elétricas onde se ligam os aparelhos têm dois terminais:"
+
 - a **fase**: que varia a tensão
 - o **neutro**: que não varia a tensão
 
@@ -1396,6 +1489,7 @@ Um **reóstato** é um componente elétrico com resistência variável.
 - **Curto-circuito:** aumento brusco da corrente elétrica, geralmente provocado pelo contacto direto entre os polos do gerador (fase e neutro)
 
 **Regras de segurança e prevenção do curto-circuito:**
+
 - utilizar fusíveis (têm um fio metálico que se funde facilmente quando existe uma corrente elétrica elevada, interrompendo assim o circuito)
 - utilizar disjuntores (interrompem o circuito elétrico por efeito magnético quando os valores da corrente elétrica são muito elevados)
 - proteger as tomadas elétricas
@@ -1560,28 +1654,34 @@ Uma solução saturada contém a quantidade máxima de soluto que o solvente pod
 ### Propriedades Físicas
 
 **Pontos de Fusão e Ebulição:**
+
 - "Ponto de fusão" é definido como "temperatura que uma substância passa do estado sólido para o estado líquido, a uma dada pressão"
 - "Ponto de ebulição" é "temperatura que uma substância passa do estado líquido para o estado gasoso, a uma dada pressão"
 - Para a água: ponto de fusão é 0°C e ponto de ebulição é 100°C (à pressão atmosférica normal)
 
 **Densidade/Massa Volúmica:**
+
 - Fórmula: "densidade (ρ) = massa (m)/volume (v)"
 - Unidades: Kg/m³ (SI) ou g/cm³ (laboratório)
 - Densidade da água: 1 g/cm³ (a 4°C)
 
 **Nota especial sobre o gelo:**
+
 - O gelo mantém a massa mas aumenta de volume quando a água congela
 - Esta é uma exceção importante no comportamento da água
 
 ### Propriedades Químicas
 
 **Teste para Água:**
+
 - A água torna azul o sulfato de cobre anidro
 
 **Teste para Amido:**
+
 - O amido torna azul-arroxeada a água de iodo
 
 **Teste para Dióxido de Carbono:**
+
 - O dióxido de carbono torna turva a água de cal
 
 ### Transformações físicas e químicas
@@ -1597,17 +1697,20 @@ Uma solução saturada contém a quantidade máxima de soluto que o solvente pod
 **Mudanças de estado físico**
 
 Com aumento da temperatura (absorção de energia):
+
 - Fusão: sólido → líquido
 - Vaporização: líquido → gasoso
 - Sublimação: sólido → gasoso
 
 Com diminuição da temperatura (libertação de energia):
+
 - Condensação: gasoso → líquido
 - Solidificação: líquido → sólido ou gasoso → sólido
 
 **Ciclo da água**
 
 Processos envolvidos no ciclo da água:
+
 - Evaporação da água dos rios, lagos, mares e oceanos
 - Transpiração dos seres vivos
 - Condensação (formação de nuvens), solidificação e fusão da água
@@ -1678,36 +1781,44 @@ Processos envolvidos no ciclo da água:
 **Separação dos componentes de misturas heterogéneas**
 
 • **Separação magnética (íman)**
+
   - ímanes separam sólidos com propriedades magnéticas
   - limalha de ferro + areia
 
 • **Peneiração (peneira)**
+
   - peneira retém partículas de menores dimensões
   - milho + farinha
 
 • **Filtração (filtro)**
+
   - filtro retém partículas suspensas de um líquido
   - farelo + água
 
 • **Centrifugação (centrifugadora)**
+
   - sólido em suspensão deposita-se no fundo do tubo de ensaio
   - cinza + água
 
 • **Decantação sólido-líquido (vareta)**
+
   - sólido depositado fica no fundo e o líquido é vertido para outro recipiente através da vareta
   - areia + água
 
 • **Decantação líquido-líquido (ampola de decantação)**
+
   - líquido mais denso é o primeiro a ser decantado
   - azeite + água
 
 **Separação dos componentes de misturas homogéneas**
 
 • **Cristalização**
+
   - a substância mais volátil evapora lentamente
   - cloreto de sódio + água
 
 • **Destilação (balão de destilação e condensador)**
+
   - separação de substâncias de acordo com a sua volatilidade
   - água + álcool
 
@@ -1716,12 +1827,15 @@ Processos envolvidos no ciclo da água:
 **Estações de tratamento de água**
 
 • **ETA (Estação de Tratamento de Água)**
+
   - torna a água adequada para consumo
 
 • **ETAR (Estação de Tratamento de Águas Residuais)**
+
   - trata as águas utilizadas pelo Homem (nas habitações, indústrias, etc.) antes de serem devolvidas à natureza
 
 • **Processos utilizados nas estações de tratamento de águas**
+
   - Processos físicos:
     - gradagem
     - decantação
@@ -1758,6 +1872,7 @@ Sólidos possuem forma e volume definidos. Líquidos adaptam forma do recipiente
 "A pressão de um gás corresponde à intensidade da força que os corpúsculos exercem, por unidade de área, na superfície do recipiente."
 
 **Variações:**
+
 - Mesma temperatura e maior volume = menor pressão
 - Mesmo volume e maior temperatura = maior pressão
 
@@ -1836,32 +1951,38 @@ Explicação: 2 moléculas de hidrogénio + 1 de oxigénio = 2 moléculas de ág
 **Tipos de reações de oxidação-redução**
 
 **Reações de combustão:**
+
 - Reações entre um combustível (substância que arde) e um comburente (substância que entra em combustão)
 - Libertação de grandes quantidades de energia
 - Envolvem geralmente aparecimento de chama e, se forem muito rápidas, podem ocorrer com explosão
 - Necessitam de uma energia de ativação (calor, chama ou descarga elétrica)
 
 **Respiração celular:**
+
 - Libertação de energia
 - Envolve os nutrientes que garantem o funcionamento das células
 
 **Oxidação de metais (corrosão):**
+
 - Libertação de alguma energia
 - Processo lento que transforma metais em óxidos metálicos
 
 **Emissão de gases poluentes**
 
 A utilização de combustíveis fósseis produz uma grande variedade de gases poluentes:
+
 - Dióxido de enxofre (SO2)
 - Óxidos de azoto (NO, NO2)
 - Dióxido de carbono (CO2)
 
 **Efeitos:**
+
 - Chuvas ácidas (SO2, NO, NO2)
 - Diminuição da camada de ozono (NO, NO2)
 - Efeito de estufa (CO2)
 
 **Soluções:**
+
 - Adição de substâncias durante a combustão
 - Uso de filtros de emissão
 
@@ -1870,6 +1991,7 @@ A utilização de combustíveis fósseis produz uma grande variedade de gases po
 **Soluções ácidas, básicas e neutras**
 
 **Soluções ácidas:**
+
 - Têm sabor azedo
 - Corroem alguns metais
 - Algumas podem ser agressivas para o tecido vivo
@@ -1880,6 +2002,7 @@ A utilização de combustíveis fósseis produz uma grande variedade de gases po
   - Ácido fosfórico (H3PO4)
 
 **Soluções básicas (alcalinas):**
+
 - Têm sabor amargo
 - São escorregadias ao tato
 - Algumas podem ser agressivas para o tecido vivo
@@ -1892,6 +2015,7 @@ A utilização de combustíveis fósseis produz uma grande variedade de gases po
   - Hidrogenocarbonato de sódio (HCl)
 
 **Soluções neutras:**
+
 - Exemplos:
   - Água destilada
   - Cloreto de sódio
@@ -1899,41 +2023,51 @@ A utilização de combustíveis fósseis produz uma grande variedade de gases po
 **Escala de pH (escala de Sorensen)**
 
 **Soluções ácidas:**
+
 - Têm pH entre 0 e 7
 - Quanto menor o valor de pH maior a acidez
 
 **Soluções básicas (alcalinas):**
+
 - Têm pH entre 7 e 14
 - Quanto maior o valor de pH maior a basicidade
 
 **Soluções neutras:**
+
 - Têm pH igual a 7
 
 **Indicadores do carácter químico de uma solução**
 
 **Solução alcoólica de fenolftaleína (incolor):**
+
 - Fica rosa carmim em soluções básicas
 
 **Solução azul de tornesol:**
+
 - Fica vermelha em soluções ácidas
 - Fica roxa em soluções neutras
 
 **Papel azul de tornesol:**
+
 - Fica vermelho em soluções ácidas
 
 **Papel vermelho de tornesol:**
+
 - Fica azul em soluções básicas
 
 **Indicador universal (em solução ou em papel):**
+
 - Indica o valor de pH conforme a cor que apresentar
 
 **Produtos de uma reação ácido-base**
 
 A reação entre um ácido e uma substância básica origina:
+
 - Sal
 - Água
 
 **Nome de sais:**
+
 - Ácido clorídrico dá origem a cloreto
 - Ácido sulfúrico dá origem a sulfato
 - Ácido nítrico dá origem a nitrato
@@ -1944,10 +2078,12 @@ A reação entre um ácido e uma substância básica origina:
 As reações entre ácidos e bases designam-se reações de neutralização pois o valor de pH tende para 7:
 
 **Quando adicionamos gotas de solução básica a uma solução ácida:**
+
 - A acidez diminui
 - O valor de pH aumenta
 
 **Quando adicionamos gotas de solução ácida a uma solução básica:**
+
 - A basicidade diminui
 - O valor do pH diminui
 
@@ -1956,11 +2092,13 @@ As reações entre ácidos e bases designam-se reações de neutralização pois
 **O que são?**
 
 **Reações de precipitação:**
+
 - Reações em que se forma um precipitado (sólido)
 
 **Solubilidade de sais:**
 
 **Sais pouco solúveis (formam precipitados):**
+
 - Hidróxidos
 - Carbonatos
 - Fosfatos
@@ -1978,19 +2116,23 @@ As reações entre ácidos e bases designam-se reações de neutralização pois
 Conforme a concentração de sais, as águas podem classificar-se da seguinte forma:
 
 **Água macia:**
+
 - Tem grande concentração de sais de cálcio e magnésio
 
 **Água dura:**
+
 - Tem pouca concentração de sais de cálcio e magnésio
 - Dificulta a ação dos sabões (forma espuma) e provoca a deposição de calcário nas canalizações, máquinas de lavar, ferros…
 
 **Tipos de dureza:**
 
 **Dureza temporária:**
+
 - Tem carbonatos e hidrogenocarbonatos de cálcio e magnésio
 - Trata-se fervendo a água (ebulição) pois precipita os sais
 
 **Dureza permanente:**
+
 - Tem cloretos, sulfatos e nitratos de cálcio e de magnésio
 - Trata-se através de anticalcários
 
@@ -2091,6 +2233,7 @@ Onde: Z = número atómico, A = número de massa, X = símbolo químico
 **Caracterização de um átomo:**
 
 Para caracterizar um átomo deve-se indicar:
+
 - Elemento químico
 - Número atómico (Z)
 - Número de massa (A)
@@ -2120,6 +2263,7 @@ Para caracterizar um átomo deve-se indicar:
 **Exemplo de oxigénio:**
 
 Abundância isotópica:
+
 - ₈¹⁶O: 99,76%
 - ₈¹⁷O: 0,04%
 - ₈¹⁸O: 0,20%
@@ -2224,6 +2368,7 @@ Reações químicas envolvem unicamente eletrões de valência:
 20Ca – 2,8,8,2
 
 Cálcio cede 2 eletrões de valência:
+
 - Distribuição resultante: 2,8,8 (igual ao Árgon)
 - Representação: ₂₀Ca²⁺
 - ₂₀Ca²⁺ e Ar = partículas isoeletrónicas
@@ -2247,6 +2392,7 @@ Reorganizou a tabela pelo número atómico em vez da massa atómica, estabelecen
 **Organização da Tabela Periódica atual**
 
 Os elementos distribuem-se por:
+
 - **18 Grupos (colunas verticais)**: elementos com propriedades químicas semelhantes e mesmo número de eletrões de valência
 - **7 Períodos (linhas horizontais)**: elementos com mesmo número de níveis de energia
 
@@ -2256,6 +2402,7 @@ Os elementos distribuem-se por:
 **Número de níveis de energia** → indica o **período**
 
 *Exemplo*: Oxigénio (8O = 2,6)
+
 - 6 eletrões de valência = Grupo 16
 - 2 níveis de energia = Período 2
 
@@ -2267,6 +2414,7 @@ Existem elementos encontrados naturalmente e outros produzidos artificialmente.
 **Elementos no Corpo Humano**
 
 **Maior proporção:**
+
 - Oxigénio
 - Carbono
 - Hidrogénio
@@ -2278,6 +2426,7 @@ Cálcio, fósforo, potássio, enxofre, sódio, cloro, magnésio
 **Propriedades de metais e não-metais**
 
 **Metais**
+
 - Bons condutores térmicos e elétricos
 - Maleáveis, duros, brilhantes
 - Pontos de fusão e ebulição elevados
@@ -2285,6 +2434,7 @@ Cálcio, fósforo, potássio, enxofre, sódio, cloro, magnésio
 - Formam óxidos básicos/alcalinos
 
 **Não-Metais**
+
 - Maus condutores térmicos e elétricos
 - Quebradiços (se sólidos)
 - Voláteis (se líquidos)
@@ -2295,6 +2445,7 @@ Cálcio, fósforo, potássio, enxofre, sódio, cloro, magnésio
 
 **Grupo 1: Metais Alcalinos**
 **Exemplos**: lítio, sódio, potássio
+
 - 1 eletrão de valência
 - Formam iões monopositivos
 - Muito reativos (reatividade aumenta com número atómico)
@@ -2303,6 +2454,7 @@ Cálcio, fósforo, potássio, enxofre, sódio, cloro, magnésio
 
 **Grupo 2: Metais Alcalino-Terrosos**
 **Exemplos**: magnésio, cálcio
+
 - 2 eletrões de valência
 - Formam iões dipositivos
 - Reativos (reatividade aumenta com número atómico)
@@ -2310,6 +2462,7 @@ Cálcio, fósforo, potássio, enxofre, sódio, cloro, magnésio
 
 **Grupo 17: Halogéneos**
 **Exemplos**: flúor, cloro
+
 - 7 eletrões de valência
 - Formam iões mononegativos
 - Muito reativos
@@ -2317,6 +2470,7 @@ Cálcio, fósforo, potássio, enxofre, sódio, cloro, magnésio
 
 **Grupo 18: Gases Nobres**
 **Exemplos**: hélio, néon, árgon
+
 - 8 eletrões de valência
 - Pouca tendência a estabelecer ligações
 - Pouco reativos
@@ -2331,6 +2485,7 @@ Cálcio, fósforo, potássio, enxofre, sódio, cloro, magnésio
 **Regra do Octeto:** Os elementos não metálicos têm tendência a estabelecer ligações covalentes de forma a atingir a distribuição eletrónica do gás nobre.
 
 **Tipos de Ligações Covalentes:**
+
 - Ligações simples (partilha de um par de eletrões)
 - Ligações duplas (partilha de dois pares de eletrões)
 - Ligações triplas (partilha de três pares de eletrões)
@@ -2342,6 +2497,7 @@ Cálcio, fósforo, potássio, enxofre, sódio, cloro, magnésio
 **Definição:** A ligação iónica ocorre entre metais e não metais, e resulta da força elétrica atrativa entre catiões e aniões.
 
 **Características:**
+
 - Forma redes iónicas com cargas opostas
 - Resulta em substâncias cristalinas e quebradiças
 - Os iões organizam-se em estruturas cristalinas
@@ -2351,6 +2507,7 @@ Cálcio, fósforo, potássio, enxofre, sódio, cloro, magnésio
 **Definição:** A ligação metálica ocorre entre metais, onde existe uma partilha de eletrões livres.
 
 **Características:**
+
 - Eletrões de valência deslocalizados e com movimento livre
 - Permite a condutividade elétrica
 - Os eletrões movem-se livremente através da estrutura metálica
@@ -2360,6 +2517,7 @@ Cálcio, fósforo, potássio, enxofre, sódio, cloro, magnésio
 **Definição:** Hidrocarbonetos são compostos constituídos apenas por carbono e hidrogénio.
 
 **Importância do Carbono:**
+
 - Elemento fundamental na química orgânica
 - Capacidade de formar ligações múltiplas
 - Base de inúmeros compostos
@@ -2383,16 +2541,19 @@ Cálcio, fósforo, potássio, enxofre, sódio, cloro, magnésio
    - Butino (C₄H₆)
 
 **Fontes de Hidrocarbonetos:**
+
 - Carvão
 - Petróleo
 - Gás natural
 
 **Aplicações:**
+
 - Produção de plásticos
 - Produção de combustíveis
 - Indústria química
 
 **Alótropos do Carbono:**
+
 - Diamante
 - Grafite
 - Grafeno
