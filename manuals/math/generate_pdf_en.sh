@@ -1,15 +1,15 @@
 #!/bin/bash
-# Script to generate the Manual de Matemática PDF from Markdown
+# Script to generate the English Mathematics Manual PDF from Markdown
 
-echo "🔄 Generating PDF with cover from MANUAL_FINAL_PRINT.md..."
+echo "🔄 Generating English PDF from MANUAL_FINAL_EN_PRINT.md..."
 
-pandoc COVER.md MANUAL_FINAL_PRINT.md \
-  -o MANUAL_FINAL.pdf \
+pandoc COVER_EN.md MANUAL_FINAL_EN_PRINT.md \
+  -o MANUAL_FINAL_EN.pdf \
   --pdf-engine=xelatex \
   --toc \
   --toc-depth=3 \
   --number-sections \
-  -V lang=pt-PT \
+  -V lang=en-US \
   -V geometry:margin=2.5cm \
   -V fontsize=11pt \
   -V documentclass=book \
@@ -23,11 +23,11 @@ pandoc COVER.md MANUAL_FINAL_PRINT.md \
 PDF_EXIT_CODE=${PIPESTATUS[0]}
 
 if [ $PDF_EXIT_CODE -eq 0 ]; then
-  echo "✅ PDF generated successfully: MANUAL_FINAL.pdf"
-  ls -lh MANUAL_FINAL.pdf
+  echo "✅ English PDF generated successfully: MANUAL_FINAL_EN.pdf"
+  ls -lh MANUAL_FINAL_EN.pdf
   echo ""
-  pdfinfo MANUAL_FINAL.pdf | grep "Pages:"
+  pdfinfo MANUAL_FINAL_EN.pdf | grep "Pages:"
 else
-  echo "❌ Error generating PDF"
+  echo "❌ Error generating English PDF"
   exit 1
 fi

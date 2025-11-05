@@ -1,0 +1,7 @@
+# Temporary build files
+*_PART*.md
+temp_*/
+*.tmp
+
+# macOS
+.DS_Store

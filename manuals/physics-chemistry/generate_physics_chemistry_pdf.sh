@@ -6,9 +6,9 @@
 echo "🔄 Fixing formatting (numbering, lists, formulas)..."
 python3 fix_formatting.py
 
-echo "🔄 Generating Physics-Chemistry Manual PDF..."
+echo "🔄 Generating Physics-Chemistry Manual PDF with cover..."
 
-pandoc MANUAL_FINAL_PHYSICS_CHEMISTRY_PRINT.md \
+pandoc COVER.md MANUAL_FINAL_PHYSICS_CHEMISTRY_PRINT.md \
   -o MANUAL_FINAL_PHYSICS_CHEMISTRY.pdf \
   --pdf-engine=xelatex \
   --toc \
@@ -21,6 +21,8 @@ pandoc MANUAL_FINAL_PHYSICS_CHEMISTRY_PRINT.md \
   -V linkcolor=blue \
   -V urlcolor=blue \
   -V lang=pt-PT \
+  -V classoption=openany \
+  --include-in-header=<(echo '\usepackage{graphicx}') \
   2>&1 | grep -v "WARNING" | grep -v "Missing character"
 
 PDF_EXIT_CODE=${PIPESTATUS[0]}

@@ -1,9 +1,9 @@
 #!/bin/bash
 # Script to generate the Manual de Ciências Naturais PDF from Markdown
 
-echo "🔄 Generating Sciences PDF from MANUAL_FINAL_SCIENCES_PRINT.md..."
+echo "🔄 Generating Sciences PDF with cover from MANUAL_FINAL_SCIENCES_PRINT.md..."
 
-pandoc MANUAL_FINAL_SCIENCES_PRINT.md \
+pandoc COVER.md MANUAL_FINAL_SCIENCES_PRINT.md \
   -o MANUAL_FINAL_SCIENCES.pdf \
   --pdf-engine=xelatex \
   --toc \
@@ -16,6 +16,8 @@ pandoc MANUAL_FINAL_SCIENCES_PRINT.md \
   -V linestretch=1.15 \
   -V linkcolor=blue \
   -V urlcolor=blue \
+  -V classoption=openany \
+  --include-in-header=<(echo '\usepackage{graphicx}') \
   2>&1 | grep -v "WARNING" | grep -v "Missing character"
 
 PDF_EXIT_CODE=${PIPESTATUS[0]}

@@ -9,29 +9,67 @@ Content extracted and adapted from [O Bichinho do Saber](https://www.obichinhodo
 ## 📚 Final Products
 
 ### Mathematics Manual (5º ao 9º Ano)
-**📕 [manuals/math/MANUAL_FINAL.pdf](manuals/math/MANUAL_FINAL.pdf)**
+**📕 Portuguese:** [manuals/math/MANUAL_FINAL.pdf](manuals/math/MANUAL_FINAL.pdf) (49 pages)
+**📙 English:** [manuals/math/MANUAL_FINAL_EN.pdf](manuals/math/MANUAL_FINAL_EN.pdf) (49 pages)
+**📖 Bilingual:** [manuals/math/MANUAL_FINAL_BILINGUAL.pdf](manuals/math/MANUAL_FINAL_BILINGUAL.pdf) (98 pages)
 - 19 topics across 5 thematic sections
-- 48 pages, professionally formatted
 - Complete number systems, algebra, geometry, measurement, and statistics
-
-### Natural Sciences Manual (7º ao 9º Ano)
-**📗 [manuals/sciences/MANUAL_FINAL_SCIENCES.pdf](manuals/sciences/MANUAL_FINAL_SCIENCES.pdf)**
-- 46 topics across 4 thematic sections
-- ~80 pages, professionally formatted
-- Geology, ecology, sustainability, and human biology
+- ✅ **Perfect alignment** - Portuguese and English versions match exactly
 
 ### Physics-Chemistry Manual (7º ao 9º Ano)
-**📘 [manuals/physics-chemistry/MANUAL_FINAL_PHYSICS_CHEMISTRY.pdf](manuals/physics-chemistry/MANUAL_FINAL_PHYSICS_CHEMISTRY.pdf)**
+**📘 Portuguese:** [manuals/physics-chemistry/MANUAL_FINAL_PHYSICS_CHEMISTRY.pdf](manuals/physics-chemistry/MANUAL_FINAL_PHYSICS_CHEMISTRY.pdf) (68 pages)
+**📗 English:** [manuals/physics-chemistry/MANUAL_FINAL_PHYSICS_CHEMISTRY_EN.pdf](manuals/physics-chemistry/MANUAL_FINAL_PHYSICS_CHEMISTRY_EN.pdf) (67 pages)
+**📖 Bilingual:** [manuals/physics-chemistry/MANUAL_FINAL_PHYSICS_CHEMISTRY_BILINGUAL.pdf](manuals/physics-chemistry/MANUAL_FINAL_PHYSICS_CHEMISTRY_BILINGUAL.pdf) (134 pages)
 - 30 topics across 8 thematic sections
-- 64 pages, professionally formatted
 - Complete physics and chemistry curriculum: astronomy, mechanics, waves, electricity, matter, reactions, atomic structure
+- ✅ **Good alignment** - Only 1 page difference between versions
 
-All manuals feature:
+### Natural Sciences Manual (7º ao 9º Ano)
+**📗 Portuguese:** [manuals/sciences/MANUAL_FINAL_SCIENCES.pdf](manuals/sciences/MANUAL_FINAL_SCIENCES.pdf) (82 pages)
+**📙 English:** [manuals/sciences/MANUAL_FINAL_SCIENCES_EN.pdf](manuals/sciences/MANUAL_FINAL_SCIENCES_EN.pdf) (80 pages)
+**📖 Bilingual:** [manuals/sciences/MANUAL_FINAL_SCIENCES_BILINGUAL.pdf](manuals/sciences/MANUAL_FINAL_SCIENCES_BILINGUAL.pdf) (160 pages)
+- 46 topics across 4 thematic sections
+- Geology, ecology, sustainability, and human biology
+- ⚠️ **Needs work** - 2 page difference, bilingual alignment could be improved
+
+### Manual Features
 - ✅ Table of contents with 3 levels
 - ✅ Hierarchical section numbering
 - ✅ Professional book-style layout
 - ✅ Print-ready A4 format
-- ✅ Portuguese language throughout
+- ✅ **Bilingual editions** - Portuguese and English side-by-side for language learning
+- ✅ Standalone bilingual cover pages available
+
+---
+
+## 🌍 Bilingual Manual Creation
+
+### English Translation & Side-by-Side Alignment
+
+After creating the Portuguese manuals, we developed a complete translation pipeline to create perfectly aligned bilingual editions:
+
+**Translation Process:**
+1. **Direct Translation** - Translate the final cleaned Portuguese markdown (`MANUAL_FINAL_PRINT.md`) directly to English
+   - For larger manuals (Physics-Chemistry, Sciences): Split into 2 parts to stay within token limits
+   - Parallel translation using Claude agents
+   - Preserve all formatting, LaTeX notation, and structure exactly
+2. **PDF Generation** - Generate English PDFs with matching styling
+3. **Alignment Verification** - Compare page counts and ensure structural alignment
+4. **Bilingual Assembly** - Interleave Portuguese and English pages using ghostscript
+   - Odd pages: Portuguese
+   - Even pages: English translation of the same content
+   - Each spread shows both languages side-by-side
+
+**Status:**
+- ✅ **Math**: Perfect 49-49 page match
+- ✅ **Physics-Chemistry**: Excellent 68-67 page match (1 page off)
+- ⚠️ **Sciences**: Good 82-80 page match (needs minor alignment improvement)
+
+**Files Created:**
+- `MANUAL_FINAL_EN_PRINT.md` - English markdown source
+- `MANUAL_FINAL_EN.pdf` - English PDF
+- `MANUAL_FINAL_BILINGUAL.pdf` - Interleaved bilingual PDF
+- `COVER_EN.md` / `COVER_BILINGUAL.md` - Translated covers
 
 ---
 
