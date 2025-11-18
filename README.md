@@ -1,6 +1,6 @@
 # OMSN Teaching Manuals
 
-Portuguese curriculum teaching manuals for **Mathematics**, **Natural Sciences**, and **Physics-Chemistry** (Grades 5-9).
+Portuguese curriculum teaching manuals for **Mathematics**, **Natural Sciences**, **Physics-Chemistry**, and **History and Geography** (Grades 5-9).
 
 Content extracted and adapted from [O Bichinho do Saber](https://www.obichinhodosaber.com/), organized thematically for coherent learning progression.
 
@@ -31,6 +31,16 @@ Content extracted and adapted from [O Bichinho do Saber](https://www.obichinhodo
 - 46 topics across 4 thematic sections
 - Geology, ecology, sustainability, and human biology
 - ⚠️ **Needs work** - 2 page difference, bilingual alignment could be improved
+
+### History and Geography Manual (5º ao 9º Ano)
+**Status:** 🚧 **In Progress** - Quality audit and content extraction phase
+- **Scope:**
+  - Years 5-6: Combined HGP (História e Geografia de Portugal)
+  - Years 7-9: Separate History and Geography subjects
+- **Known gaps:**
+  - Geography Year 8: Chapters 6-10 missing (starting page 172)
+  - Multiple sections with PowerPoint-embedded content need extraction
+- **Approach:** Hybrid - salvaging quality content from existing manual + fresh extraction for gaps
 
 ### Manual Features
 - ✅ Table of contents with 3 levels
