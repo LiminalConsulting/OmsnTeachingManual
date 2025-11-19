@@ -5261,7 +5261,7 @@ Natalidade:
 - número de nados-vivos ocorridos num determinado território, num determinado intervalo de tempo
 
 Taxa bruta de natalidade
-$TBN=\frac{natalidade}{população absoluta}\times 1000$
+$$TBN=\frac{natalidade}{população absoluta}\times 1000$$
 Fatores que explicam os valores baixos da taxas brutas de natalidade nos países desenvolvidos:
 
 - uso generalizado de métodos contracetivos
@@ -5295,7 +5295,7 @@ Mortalidade:
 - número de óbitos ocorridos num determinado território, num determinado intervalo de tempo.
 
 Taxa bruta de mortalidade
-$TBM=\frac{mortalidade}{população absoluta}\times 1000$
+$$TBM=\frac{mortalidade}{população absoluta}\times 1000$$
 Fatores que explicam os valores baixos das taxas brutas de mortalidade nos países desenvolvidos:
 
 - melhores condições de saúde, higiene, alimentação e habitação
@@ -5310,13 +5310,13 @@ Fatores que explicam os valores altos da taxas brutas de mortalidade nos países
 Como se explica a diminuição destas taxas nos países em desenvolvimento nos últimos anos?
 As taxas de mortalidade de alguns países em desenvolvimento têm vindo a diminuir devido às melhorias das condições de saúde, higiene, alimentação e habitação, muitas vezes suportada pela ajuda humanitária dos países desenvolvidos.
 Taxa de mortalidade infantil
-$TBM=\frac{nº óbitos crianças < 1 ano}{nados-vivos}\times 1000$
+$$TBM=\frac{nº óbitos crianças < 1 ano}{nados-vivos}\times 1000$$
 Porque é a taxa de mortalidade infantil um indicador de desenvolvimento?
 A taxa de mortalidade infantil está relacionada com o nível de desenvolvimento dos países pois os seus valores estão associados às condições de assistência médica pré e pós-parto e de um maior cuidado com a higiene e com a alimentação.
 Como estas condições são melhores nos países desenvolvidos, as taxas de mortalidade infantil são aí mais baixas, enquanto que os países em desenvolvimento têm piores condições de assistência médica, higiene e alimentação, logo as taxas de mortalidade infantil são mais elevadas.
 Crescimento da população
 Crescimento natural
-$CN = Natalidade – Mortalidade$
+$$CN = Natalidade – Mortalidade$$
 Os valores do crescimento natural permitem saber se a população aumentou, diminui, ou se manteve-se constante:
 
 - Se N > M,  a população aumentou
@@ -5325,16 +5325,16 @@ Os valores do crescimento natural permitem saber se a população aumentou, dimi
 
 No entanto, o crescimento natural não tem em conta a entrada e a saída de pessoas para dentro ou fora do país.
 Taxa de crescimento natural
-$TCN = TBN – TBM$
+$$TCN = TBN – TBM$$
 Saldo migratório
-$SM = Imigração – Emigração$
+$$SM = Imigração – Emigração$$
 Imigração: número de pessoas que entram no país (imigrantes)
 Emigração: número de pessoas que saem do país para o estrangeiro (emigrantes)
 Crescimento efetivo
-$CE = Crescimento Natural + Saldo Migratório$
+$$CE = Crescimento Natural + Saldo Migratório$$
 O crescimento efetivo é o crescimento real da população pois além do crescimento natural também tem em conta as pessoas que entram e saem do país.
 Taxa de crescimento efetivo
-$TBM=\frac{CN+SM}{população absoluta}\times 1000$
+$$TBM=\frac{CN+SM}{população absoluta}\times 1000$$
 Esperança de vida à nascença
 Esperança de vida à nascença
 
@@ -5362,7 +5362,7 @@ As mulheres, sobretudo dos países desenvolvidos, apresentam uma esperança de v
 - hábitos de vida, em geral, mais saudáveis
 
 Índice de envelhecimento
-$TBM=\frac{população\geq 65 anos }{população < 15 anos}\times 100$
+$$TBM=\frac{população\geq 65 anos }{população < 15 anos}\times 100$$
 ESTRUTURA ETÁRIA DA POPULAÇÃO
 Conceitos importantes
 Estrutura etária
