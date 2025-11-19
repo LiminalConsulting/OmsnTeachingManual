@@ -33,13 +33,14 @@ Content extracted and adapted from [O Bichinho do Saber](https://www.obichinhodo
 - ⚠️ **Needs work** - 2 page difference, bilingual alignment could be improved
 
 ### History and Geography Manual (5º ao 9º Ano)
-**📙 Portuguese:** [manuals/history-geography/MANUAL_FINAL_HISTORY_GEOGRAPHY.pdf](manuals/history-geography/MANUAL_FINAL_HISTORY_GEOGRAPHY.pdf) (138 pages)
+**📙 Portuguese:** [manuals/history-geography/MANUAL_FINAL_HISTORY_GEOGRAPHY.pdf](manuals/history-geography/MANUAL_FINAL_HISTORY_GEOGRAPHY.pdf) (188 pages)
 - 84 sections across all years (HGP, História, Geografia)
 - Complete curriculum from Years 5-9
 - **Scope:**
   - Years 5-6: Combined HGP (História e Geografia de Portugal) - 8 chapters
   - Years 7-9: História (History) - 23 chapters
   - Years 7-9: Geografia (Geography) - 30 chapters
+- ✅ **Professional formatting** - Matches Math manual standards with proper lists and equations
 - ✅ **Hybrid approach successful** - Salvaged existing manual + PowerPoint extractions
 - ✅ **Authentic SlideShare content** - Geografia 8º ano chapters 6-10 extracted from official presentations
 
