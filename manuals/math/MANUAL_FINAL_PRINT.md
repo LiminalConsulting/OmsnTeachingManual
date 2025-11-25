@@ -1142,6 +1142,8 @@ Retas que formam ângulos retos.
 **Soma dos ângulos internos:**
 A soma dos ângulos internos de um triângulo é igual a $180°$.
 
+![Soma dos ângulos internos de um triângulo](images/soma_angulos_triangulo.png){width=60%}
+
 **Elementos de um triângulo retângulo:**
 
 - **Hipotenusa:** lado oposto ao ângulo reto
@@ -1414,6 +1416,8 @@ Onde:
 
 **Prisma:**
 Poliedro com duas faces geometricamente iguais (bases) situadas em planos paralelos.
+
+![Prisma triangular com bases paralelas destacadas](images/prisma_triangular.png){width=50%}
 
 **Num prisma com base de $n$ lados:**
 
