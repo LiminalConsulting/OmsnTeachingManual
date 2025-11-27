@@ -1072,6 +1072,8 @@ Reta não vertical.
 - **Raso:** $180°$
 - **Giro:** $360°$
 
+![Classificação de ângulos quanto à amplitude](images/classificacao_angulos.png){width=70%}
+
 ---
 
 #### Pares de Ângulos
@@ -1084,6 +1086,9 @@ Reta não vertical.
 **Propriedades:**
 
 - Ângulos verticalmente opostos são iguais
+
+![Duas retas que se intersetam formam ângulos verticalmente opostos iguais](images/angulos_verticalmente_opostos.png){width=50%}
+
 - Ângulos alternos internos são iguais quando as retas são paralelas
 
 ---
@@ -1127,6 +1132,8 @@ Retas que formam ângulos retos.
 - **Isósceles:** dois lados iguais
 - **Escaleno:** três lados diferentes
 
+![Classificação de triângulos quanto aos lados: equilátero (três lados iguais), isósceles (dois lados iguais) e escaleno (três lados diferentes)](images/triangulos_classificacao_lados.png){width=70%}
+
 ---
 
 #### Classificação quanto aos Ângulos
@@ -1134,6 +1141,8 @@ Retas que formam ângulos retos.
 - **Acutângulo:** três ângulos agudos
 - **Retângulo:** um ângulo reto
 - **Obtusângulo:** um ângulo obtuso
+
+![Classificação de triângulos quanto aos ângulos](images/triangulos_classificacao_angulos.png){width=70%}
 
 ---
 
@@ -1184,6 +1193,8 @@ Dois pares de lados consecutivos iguais.
 **Trapézio:**
 Quadrilátero com pelo menos dois lados paralelos.
 
+![Tipos de quadriláteros](images/quadrilateros_tipos.png){width=80%}
+
 ---
 
 #### Propriedades das Diagonais
@@ -1219,6 +1230,8 @@ Quadrilátero com pelo menos dois lados paralelos.
 - **Diâmetro:** segmento que passa pelo centro e tem extremidades na circunferência
 - **Corda:** segmento com extremidades na circunferência
 - **Arco:** parte da circunferência entre dois pontos
+
+![Elementos da circunferência: centro, raio, diâmetro, corda e arco](images/circunferencia_elementos.png){width=50%}
 
 **Propriedades:**
 
@@ -1289,6 +1302,8 @@ Um ponto $M'$ é a imagem de $M$ numa reflexão axial de eixo $r$ quando $r$ é 
 **Eixo de simetria:**
 Linha que divide uma figura em duas partes que são imagens uma da outra por reflexão axial.
 
+![Reflexão axial de uma figura em relação ao eixo r, mostrando que r é a mediatriz do segmento [MM']](images/reflexao_axial.png){width=60%}
+
 ---
 
 #### Rotação
@@ -1302,6 +1317,8 @@ Um ponto $M'$ é a imagem de $M$ por uma rotação de centro $O$ e ângulo $\alp
 
 - Preserva comprimentos de segmentos
 - Preserva amplitudes de ângulos
+
+![Rotação de um triângulo em torno do centro O por um ângulo α](images/rotacao.png){width=50%}
 
 ---
 
@@ -1318,6 +1335,8 @@ Uma translação é definida por um vetor que indica:
 - Preserva comprimentos de segmentos
 - Preserva amplitudes de ângulos
 - Preserva paralelismo
+
+![Translação de um triângulo pelo vetor v](images/translacao.png){width=50%}
 
 ---
 
@@ -1438,6 +1457,8 @@ Prisma reto com bases em polígonos regulares.
 **Pirâmide:**
 Poliedro determinado por um polígono (base) e um ponto exterior ao plano da base (vértice).
 
+![Pirâmide com base quadrada e vértice](images/piramide.png){width=50%}
+
 **Numa pirâmide com base de $n$ lados:**
 
 - Número de vértices $= n + 1$
@@ -1461,6 +1482,8 @@ Sólido determinado por dois círculos com raio igual em planos paralelos.
 - **Geratrizes:** segmentos que unem pontos das circunferências das bases
 - **Superfície lateral:** união de todas as geratrizes
 
+![Cilindro com bases destacadas (vermelho e azul), eixo central e geratrizes](images/cilindro.png){width=50%}
+
 **Cilindro reto:**
 Eixo perpendicular aos raios das bases.
 
@@ -1479,6 +1502,8 @@ Sólido determinado por um círculo (base) e um ponto exterior ao plano da base 
 - **Geratrizes:** segmentos que unem o vértice a pontos da circunferência da base
 - **Superfície lateral:** união de todas as geratrizes
 
+![Cone com base circular (vermelho), vértice V (azul), eixo e geratrizes](images/cone.png){width=50%}
+
 **Cone reto:**
 Eixo perpendicular ao raio da base.
 
@@ -1488,6 +1513,8 @@ Eixo perpendicular ao raio da base.
 
 **Esfera:**
 Sólido constituído por todos os pontos do espaço que estão a uma distância menor ou igual a um valor fixo (raio) de um ponto (centro).
+
+![Esfera com centro O e raio r](images/esfera.png){width=50%}
 
 **Superfície esférica:**
 Conjunto de pontos do espaço que estão a uma distância igual ao raio do centro.
@@ -1508,6 +1535,8 @@ Onde:
 
 - $c =$ hipotenusa
 - $a, b =$ catetos
+
+![Triângulo retângulo com quadrados construídos sobre cada lado, ilustrando o Teorema de Pitágoras: a² + b² = c²](images/teorema_pitagoras.png){width=60%}
 
 ---
 
