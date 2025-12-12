@@ -35,6 +35,57 @@ conda activate manim
 
 ---
 
+## Tool Selection: Manim vs Image Generation AI
+
+**Use the right tool for each visualization type:**
+
+### Image Generation AI (e.g., GPT-4o, DALL-E, Midjourney)
+
+**Best for:**
+- ✅ **3D solids** (cones, pyramids, spheres, cylinders) - cleaner than manim's 3D
+- ✅ Aesthetic/conceptual illustrations
+- ✅ Diagrams where visual clarity matters more than geometric precision
+- ✅ Quick iterations on visual style
+
+**Limitations:**
+- ❌ Struggles with precise geometric relationships
+- ❌ Cannot reliably construct shapes that must align perfectly (e.g., squares on triangle sides)
+- ❌ Labels sometimes garbled or misplaced
+- ❌ May hallucinate extra elements
+
+**Prompt tips for Image AI:**
+- Keep prompts minimal - let the AI use its training knowledge
+- Specify style (white background, black strokes, accent colors)
+- Don't over-specify geometric construction steps
+- Always request "no title" since LaTeX handles captions
+
+### Manim (Programmatic)
+
+**Best for:**
+- ✅ **Precise 2D geometry** (Pythagorean theorem, angle relationships, constructions)
+- ✅ Diagrams requiring exact mathematical relationships
+- ✅ Consistent style across many figures
+- ✅ Animations (if needed later)
+- ✅ Reproducible outputs
+
+**Limitations:**
+- ❌ 3D rendering can be finicky (wireframes, camera angles)
+- ❌ More time to iterate
+- ❌ Text rendering sometimes has spacing issues
+
+### Decision Matrix
+
+| Concept Type | Recommended Tool |
+|--------------|------------------|
+| 3D solids (cone, pyramid, sphere, prism) | Image AI |
+| Precise 2D geometry (theorems, constructions) | Manim |
+| Transformations (rotation, reflection, translation) | Manim |
+| Angle classifications, simple shapes | Either |
+| Circle elements, labeled diagrams | Manim |
+| Conceptual/aesthetic illustrations | Image AI |
+
+---
+
 ## Automated Visualization Workflow
 
 ### Overview
