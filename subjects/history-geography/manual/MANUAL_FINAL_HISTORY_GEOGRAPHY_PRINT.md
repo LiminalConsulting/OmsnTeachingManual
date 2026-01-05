@@ -2273,59 +2273,59 @@ Sendo assim, tornou-se necessário tomar medidas para proteger certas zonas do p
 Quem são os hominíneos
 
 - •  Hominíneos (ou hominídeos)
-- ⤷ grupo que abrange o Homem atual e os seus antepassados
+  - grupo que abrange o Homem atual e os seus antepassados
 
 A origem da Humanidade
 Os hominíneos surgiram em África, há cerca de 8 a 7 milhões de anos, na era Cenozoica.
 Evolução do Homem
 
 - •  Hominização
-- ⤷ longo processo de evolução física e inteletual do Homem
+  - longo processo de evolução física e inteletual do Homem
 
 - •  Principais mudanças
-- ⤷ bipedia ⤷ verticalidade
-- ⤷ libertação das mãos ⤷ o corpo foi perdendo pelo
-- ⤷ diminuição do tamanho dos maxilares ⤷ aumento do crânio e do cérebro
-- ⤷ aumento da inteligência
-- ⤷ desenvolvimento da linguagem
+  - bipedia → verticalidade
+  - libertação das mãos → o corpo foi perdendo pelo
+  - diminuição do tamanho dos maxilares → aumento do crânio e do cérebro
+  - aumento da inteligência
+  - desenvolvimento da linguagem
 
 Características específicas de algumas espécies de hominíneos
 
 - •  Australopiteco
-- ⤷ viveu em África ⤷ primeiro primata semelhante ao Homem
-- ⤷ deslocava-se principalmente sobre as duas pernas (bípede), embora por vezes recorresse à ajuda das mãos
+  - viveu em África → primeiro primata semelhante ao Homem
+  - deslocava-se principalmente sobre as duas pernas (bípede), embora por vezes recorresse à ajuda das mãos
 - •  Homo habilis
-- ⤷ deslocava-se apenas sobre os pés ⤷ primeiro a fabricar instrumentos: seixos talhados, de pedra, talhados só numa das faces
+  - deslocava-se apenas sobre os pés → primeiro a fabricar instrumentos: seixos talhados, de pedra, talhados só numa das faces
 - •  Homo ergaster/erectus
-- ⤷ chegou à Ásia e à Europa ⤷ fabricou instrumentos mais aperfeiçoados: bifaces (permitiam caçar, amanhar as peças de caça, defender-se dos inimigos, etc…)
-- ⤷ primeiro a produzir fogo ⤷ desenvolveu uma linguagem articulada
+  - chegou à Ásia e à Europa → fabricou instrumentos mais aperfeiçoados: bifaces (permitiam caçar, amanhar as peças de caça, defender-se dos inimigos, etc…)
+  - primeiro a produzir fogo → desenvolveu uma linguagem articulada
 - •  Homo sapiens
-- ⤷ fabricou instrumentos mais aperfeiçoados em pedra, osso, chifre e marfim: ponta de lança, arcos, flechas, arpões, anzóis, agulhas e lâminas
-- ⤷ primeiro a enterrar os mortos
+  - fabricou instrumentos mais aperfeiçoados em pedra, osso, chifre e marfim: ponta de lança, arcos, flechas, arpões, anzóis, agulhas e lâminas
+  - primeiro a enterrar os mortos
 - •  Homo sapiens sapiens
-- ⤷ primeiro a desenvolver manifestações artísticas
-- ⤷ chegou à América e à Oceânia
+  - primeiro a desenvolver manifestações artísticas
+  - chegou à América e à Oceânia
 
 A importância da descoberta do fogo
 
 - •  O domínio do fogo permitiu ao Homem
-- ⤷ aquecer-se ⤷ defender-se de animais ferozes ⤷ iluminar as grutas ⤷ cozinhar os alimentos
+  - aquecer-se → defender-se de animais ferozes → iluminar as grutas → cozinhar os alimentos
 
 O convívio à volta da fogueira também contribuiu para o desenvolvimento da linguagem.
 Como se conhece o passado
 
 - •  Arqueologia
-- ⤷ ciência que estuda as culturas e os modos de vida do passado a partir de vestígios materiais ou imateriais
+  - ciência que estuda as culturas e os modos de vida do passado a partir de vestígios materiais ou imateriais
 - •  Fontes históricas
-- ⤷ documentos ou vestígios materiais ou imateriais produzidos pelos seres humanos ao longo do tempo e indispensáveis para o historiador estudar o passado
+  - documentos ou vestígios materiais ou imateriais produzidos pelos seres humanos ao longo do tempo e indispensáveis para o historiador estudar o passado
 - •  Periodização
-- ⤷ separação da história da humanidade em períodos cronológicos com características em comum
+  - separação da história da humanidade em períodos cronológicos com características em comum
 
 1.2 As sociedades recoletoras
 O Paleolítico
 
 - •  Paleolítico
-- ⤷ período da Pré-História em que surgiram os primeiros hominíneos (Idade da Pedra Lascada)
+  - período da Pré-História em que surgiram os primeiros hominíneos (Idade da Pedra Lascada)
 
 Vida recoletora e nomadismo
 Durante o Paleolítico, o Homem vivia da recoleção, ou seja, daquilo que recolhia da Natureza: apanhava frutos, raízes, ovos, mel, pescava e caçava.
@@ -2334,37 +2334,37 @@ Alargamento das áreas habitadas
 Os nossos antepassados surgiram em África e espalharam-se por todos os continentes.
 
 - •  Razões para o alargamento das áreas habitadas
-- ⤷ estavam constantemente a deslocar-se ⤷ verificou-se um aumento da população, devido à melhoria da alimentação
+- → estavam constantemente a deslocar-se → verificou-se um aumento da população, devido à melhoria da alimentação
 
 Ritos
 
 - •  Ritos mágicos
-- ⤷ para controlar a Natureza, o Homo Sapiens recorria a ritos mágicos como danças, cânticos, gestos e sacrifícios de animais
+  - para controlar a Natureza, o Homo Sapiens recorria a ritos mágicos como danças, cânticos, gestos e sacrifícios de animais
 - •  Ritos funerários
-- ⤷ o Homo Sapiens foi o primeiro a enterrar os seus mortos. ⤷ o corpo era pintado e colocado em posição fetal juntamente com alimentos e objetos pessoais. ⤷ isto sugere que já se acreditava na vida após a morte
+  - o Homo Sapiens foi o primeiro a enterrar os seus mortos. → o corpo era pintado e colocado em posição fetal juntamente com alimentos e objetos pessoais. → isto sugere que já se acreditava na vida após a morte
 
 A arte do Paleolítico
 
 - •  Arte móvel
-- ⤷ pequenas estatuetas de figuras femininas em pedra e osso (Vénus)
-- ⤷ tinham como propósito o culto à fertilidade
+  - pequenas estatuetas de figuras femininas em pedra e osso (Vénus)
+  - tinham como propósito o culto à fertilidade
 - •  Arte rupestre (ou parietal)
-- ⤷ pinturas e gravuras em rochas ao ar livre e nos tetos e paredes de grutas ⤷ representavam animais, figuras geométricas, mãos e, por vezes, figuras humanas ⤷ muitas destas pinturas serviam como forma de ritual para facilitar a caça, registo e decoração
+  - pinturas e gravuras em rochas ao ar livre e nos tetos e paredes de grutas → representavam animais, figuras geométricas, mãos e, por vezes, figuras humanas → muitas destas pinturas serviam como forma de ritual para facilitar a caça, registo e decoração
 
 1.3 As primeiras sociedades produtoras
 Neolítico
 
 - •  Neolítico:
-- ⤷ último período da Pré-História quando o Homem começa a produzir os seus alimentos e a utilizar instrumentos de pedra polida (Idade da Pedra Polida)
+  - último período da Pré-História quando o Homem começa a produzir os seus alimentos e a utilizar instrumentos de pedra polida (Idade da Pedra Polida)
 
 Novas atividades, instrumentos e técnicas
 
 - •  Novas atividades:
-- ⤷ agricultura e pecuária
+  - agricultura e pecuária
 - •  Novos instrumentos:
-- ⤷ foicinha, faca, arado, enxada
+  - foicinha, faca, arado, enxada
 - •  Novas técnicas:
-- ⤷ cestaria, cerâmica, moagem, tecelagem
+  - cestaria, cerâmica, moagem, tecelagem
 
 Economia produtora e sedentarização
 Ao produzir os seus alimentos, o Homem deixou de estar dependente do que a Natureza lhe dava. Deixou de ser recoletor e tornou-se produtor.
@@ -2383,20 +2383,20 @@ A mulher era relacionada com a terra, pois ambas permitiam a continuidade da vid
 Monumentos megalíticos
 
 - •  Menires
-- ⤷ pedras isoladas verticalmente no solo ⤷ serviam para fazer culto à Natureza
+  - pedras isoladas verticalmente no solo → serviam para fazer culto à Natureza
 - •  Alinhamentos
-- ⤷ conjunto de menires em linha ⤷ serviam para fazer culto à Natureza
+  - conjunto de menires em linha → serviam para fazer culto à Natureza
 - •  Cromeleques
-- ⤷ conjunto de menires em círculo ⤷ era um local de culto e reunião
+  - conjunto de menires em círculo → era um local de culto e reunião
 - •  Dólmenes (ou antas)
-- ⤷ pedras ao alto cobertas com uma horizontal (laje) ⤷ onde enterravam os mortos
+  - pedras ao alto cobertas com uma horizontal (laje) → onde enterravam os mortos
 
 2. Contributo das primeiras civilizações
 2.1 As civilizações dos grandes rios
 Definição de civilização
 
 - •  Civilização
-- ⤷ sociedade organizada com modos de vida, crenças religiosas e criações artísticas próprias
+  - sociedade organizada com modos de vida, crenças religiosas e criações artísticas próprias
 
 Como surgiram as primeiras civilizações
 A partir do 5º milénio a.C. , algumas comunidades deslocaram-se para junto dos grandes rios por causa do seu regime de cheias anuais que tornavam férteis os solos das suas margens. Desbravou-se o solo, drenaram-se os pântanos, construíram-se diques para suster as águas nos meses de cheias e construíram-se canais para irrigar os campos durante os meses de seca.
@@ -2404,10 +2404,10 @@ Grandes colheitas (sobretudo de cereais) permitiram a acumulação de excedente
 Com o surgimento das cidades surgiram as primeiras civilizações.
 
 - •  Primeiras civilizações
-- ⤷ Egito → junto ao Rio Nilo
-- ⤷ Mesopotâmia → junto ao Rio Tigre e Eufrates
-- ⤷ Civilização do Vale do Indo → junto ao Rio Indo
-- ⤷ Antiga China → junto ao Rio Amarelo
+  - Egito → junto ao Rio Nilo
+  - Mesopotâmia → junto ao Rio Tigre e Eufrates
+  - Civilização do Vale do Indo → junto ao Rio Indo
+  - Antiga China → junto ao Rio Amarelo
 
 2.2 O Egito
 Localização e condições naturais
@@ -2415,43 +2415,43 @@ O Egito situa-se no nordeste de África, entre desertos, e é atravessado por um
 Importância do rio Nilo para o desenvolvimento da civilização egípcia
 
 - •  Importância do Rio Nilo
-- ⤷ graças às suas cheias anuais, as suas margens eram bastante férteis (propícias para a agricultura) ⤷ rico em peixe e nas suas margens havia animais para caça
-- ⤷ dava água para animais e pessoas beberem
-- ⤷ servia como via de comunicação
+  - graças às suas cheias anuais, as suas margens eram bastante férteis (propícias para a agricultura) → rico em peixe e nas suas margens havia animais para caça
+  - dava água para animais e pessoas beberem
+  - servia como via de comunicação
 
 Atividades económicas
 
 - •  Principais atividades económicas
-- ⤷ agricultura ⤷ artesanato
-- ⤷ comércio
+  - agricultura → artesanato
+  - comércio
 
 Poder do faraó
 
 - •  Faraó
-- ⤷ tinha poder sacralizado (era considerado deus-vivo) ⤷ tinha poder absoluto (concentrava em si todos os poderes)
-- ⤷ supremo-sacerdote
-- ⤷ juiz supremo
-- ⤷ chefe do exército
-- ⤷ administrador do Egito
+  - tinha poder sacralizado (era considerado deus-vivo) → tinha poder absoluto (concentrava em si todos os poderes)
+  - supremo-sacerdote
+  - juiz supremo
+  - chefe do exército
+  - administrador do Egito
 
 Sociedade
 A sociedade egípcia era estratificada e hierarquizada, ou seja, estava dividida em vários estratos sociais, cada um com a sua importância a nível social.
 
 - •  Grupos privilegiados
-- ⤷ altos funcionários
-- ⤷ nobres
-- ⤷ sacerdotes
-- ⤷ escribas
-- ⤷ soldados
+  - altos funcionários
+  - nobres
+  - sacerdotes
+  - escribas
+  - soldados
 - •  Grupos não privilegiados
-- ⤷ artesãos
-- ⤷ camponeses
-- ⤷ servos
+  - artesãos
+  - camponeses
+  - servos
 
 Escribas
 
 - •  Funções dos escribas
-- ⤷ desempenhavam diversos cargos como magistrados, cobradores de impostos e contabilistas, graças aos seus conhecimentos de escrita e cálculo
+  - desempenhavam diversos cargos como magistrados, cobradores de impostos e contabilistas, graças aos seus conhecimentos de escrita e cálculo
 
 Religião
 O povo egípcio era politeísta, ou seja, acreditava em vários deuses.
@@ -2459,14 +2459,14 @@ Os deuses egípcios tinham várias formas: podiam ter forma humana, animal ou mi
 O culto a estes deuses era prestado em grandes e ricos templos.
 
 - •  Principais deuses
-- ⤷ Amon-Ré → deus-Sol
-- ⤷ Osíris → deus dos mortos
-- ⤷ Anúbis → deus dos embalsamentos
-- ⤷ Hórus → deus do Céu
-- ⤷ Tot → deus da sabedoria
-- ⤷ Ísis → deusa da saúde, do casamento e da maternidade ⤷ Hathor → deus da fertilidade
-- ⤷ Maet → deus da justiça
-- ⤷ Seth → deus do caos, das secas e das guerras
+  - Amon-Ré → deus-Sol
+  - Osíris → deus dos mortos
+  - Anúbis → deus dos embalsamentos
+  - Hórus → deus do Céu
+  - Tot → deus da sabedoria
+  - Ísis → deusa da saúde, do casamento e da maternidade → Hathor → deus da fertilidade
+  - Maet → deus da justiça
+  - Seth → deus do caos, das secas e das guerras
 
 Culto dos mortos
 Os Egípcios acreditavam na vida após a morte e na reencarnação. Por isso, procedia-se à mumificação dos corpos dos mortos de forma a preservá-los para a outra vida.
@@ -2474,10 +2474,10 @@ Depois de embalsamados, os corpos ficavam encerrados em sarcófagos que eram d
 Arte
 
 - •  Arquitetura
-- ⤷ pirâmides → enormes túmulos reservados aos faraós ⤷ mastabas →  túmulos reservados à família do faraó e a privilegiados ⤷ hipogeus → túmulos escavados nas rochas de forma a evitar roubos dos objetos lá deixados
-- ⤷ templos grandiosos de forma a engrandecer os deuses a que faziam culto
+  - pirâmides → enormes túmulos reservados aos faraós → mastabas →  túmulos reservados à família do faraó e a privilegiados → hipogeus → túmulos escavados nas rochas de forma a evitar roubos dos objetos lá deixados
+  - templos grandiosos de forma a engrandecer os deuses a que faziam culto
 - •  Escultura e pintura
-- ⤷ destinavam-se sobretudo à decoração de templos e túmulos ⤷ a figura humana era representada de acordo com a lei da frontalidade (cabeça e pés de perfil e o tronco de frente) ⤷ a dimensão das figuras era de acordo com a sua categoria social
+  - destinavam-se sobretudo à decoração de templos e túmulos → a figura humana era representada de acordo com a lei da frontalidade (cabeça e pés de perfil e o tronco de frente) → a dimensão das figuras era de acordo com a sua categoria social
 
 Escrita
 Os Egípcios inventaram uma escrita com base em centenas de símbolos a que chamamos hieróglifos.
@@ -2493,403 +2493,599 @@ Os Fenícios, como comerciantes, precisavam de uma escrita rápida e simples que
 Este novo sistema de escrita era composto por 22 sinais muito simples, em que cada um representava um único som.
 OS GREGOS NO SÉC. V A.C.: EXEMPLO DE ATENAS
 O mundo helénico no século V a.C.
-›  Condições geográficas
-¬ A Grécia fica situada na Península Balcânica, no Mediterrâneo Oriental. ¬ A Hélade – como os Gregos (ou Helenos) chamavam à sua terra – tinha um território superior ao de hoje. ¬ Para além da Península Balcânica, faziam parte da Grécia numerosas ilhas e uma faixa de território na Ásia Menor. ¬ A partir de meados do século VIII a. C., os Gregos expandiram-se também pelo Mediterrâneo e pelo Mar Negro.
-¬ O solo da Grécia é muito montanhoso e de difícil acesso. ¬ Existem poucos rios e os solos são pouco férteis. ¬ A costa é bastante recortada, onde predominam golfos e baías.
-›  Atividades económicas
-¬ Apesar das terras pobres para a agricultura, os Gregos conseguiram cultivar, com duro trabalho, cereais, vinha e oliveira. ¬ Dedicavam-se também à pastorícia (criavam cabras e ovelhas), mas foi no mar que procuraram melhores condições de vida. ¬ Entregaram-se então à pesca e ao comércio.
-›  Organização política
-¬ Devido às condições geográficas da Grécia, as populações viviam isoladas umas das outras. ¬ Localizadas em locais estratégicos, as aldeias cresceram e deram origem a cidades-estados. ¬ Apesar da divisão em cidades-estados independentes, os Gregos consideravam-se um só povo porque tinham a mesma religião, língua e costumes.
+### Condições geográficas
+A Grécia fica situada na Península Balcânica, no Mediterrâneo Oriental.
+
+A Hélade – como os Gregos (ou Helenos) chamavam à sua terra – tinha um território superior ao de hoje.
+
+Para além da Península Balcânica, faziam parte da Grécia numerosas ilhas e uma faixa de território na Ásia Menor.
+
+A partir de meados do século VIII a. C., os Gregos expandiram-se também pelo Mediterrâneo e pelo Mar Negro.
+O solo da Grécia é muito montanhoso e de difícil acesso.
+
+Existem poucos rios e os solos são pouco férteis.
+
+A costa é bastante recortada, onde predominam golfos e baías.
+### Atividades económicas
+Apesar das terras pobres para a agricultura, os Gregos conseguiram cultivar, com duro trabalho, cereais, vinha e oliveira.
+
+Dedicavam-se também à pastorícia (criavam cabras e ovelhas), mas foi no mar que procuraram melhores condições de vida.
+
+Entregaram-se então à pesca e ao comércio.
+### Organização política
+Devido às condições geográficas da Grécia, as populações viviam isoladas umas das outras.
+
+Localizadas em locais estratégicos, as aldeias cresceram e deram origem a cidades-estados.
+
+Apesar da divisão em cidades-estados independentes, os Gregos consideravam-se um só povo porque tinham a mesma religião, língua e costumes.
 
 - •  Cidade-estado (ou pólis):
-- ⤷ comunidade com território, governo, leis e moeda próprios, sendo por isso independente das outras cidades-estados
+- → comunidade com território, governo, leis e moeda próprios, sendo por isso independente das outras cidades-estados
 
 »  Partes de uma cidade-estado
 
-- ι Acrópole:
-- ⤷ parte alta da cidade, onde se situavam os templos e se prestava culto aos deuses
-- ι Zona urbana:
-- ⤷ parte baixa da cidade, onde vivia a população e onde se situava a ágora (praça pública onde se discutia política e onde os cidadãos conviviam)
-- ι Zona rural:
-- ⤷ constituída por terras de cultivo, de pastoreio ou bosques
+- **Acrópole:**
+- → parte alta da cidade, onde se situavam os templos e se prestava culto aos deuses
+- **Zona urbana:**
+- → parte baixa da cidade, onde vivia a população e onde se situava a ágora (praça pública onde se discutia política e onde os cidadãos conviviam)
+- **Zona rural:**
+- → constituída por terras de cultivo, de pastoreio ou bosques
 
 O exemplo de Atenas
-›  Localização
-¬ Atenas era uma pólis situada na Península Ática. 
-›  Economia
-¬ Atenas possuía uma economia comercial e monetária, devido à importância do comércio e por ser utilizada a moeda (o dracma) nas trocas comerciais. ¬ Graças à força da sua economia, Atenas era a cidade mais poderosa do mundo grego.
-›  Sociedade
+### Localização
+Atenas era uma pólis situada na Península Ática. 
+### Economia
+Atenas possuía uma economia comercial e monetária, devido à importância do comércio e por ser utilizada a moeda (o dracma) nas trocas comerciais.
 
-- ι Cidadãos:
-- ⤷ filhos de pai e mãe atenienses, maiores de 18 anos ⤷ eram os únicos a possuir terras e só eles podiam participar na vida política da pólis
-- ι Metecos:
-- ⤷ estrangeiros que viviam em Atenas ⤷ dedicavam-se sobretudo ao artesanato e ao comércio ⤷ estavam sujeitos ao serviço militar e ao pagamento de impostos
-- ι Escravos:
-- ⤷ prisioneiros de guerra ⤷ eram homens não livres ⤷ trabalhavam nas terras, no artesanato, nos serviços domésticos, …
+Graças à força da sua economia, Atenas era a cidade mais poderosa do mundo grego.
+### Sociedade
 
-›  Regime político
-¬ No século V a. C., estabeleceu-se uma forma de governo inovadora – a democracia.
+- **Cidadãos:**
+- → filhos de pai e mãe atenienses, maiores de 18 anos → eram os únicos a possuir terras e só eles podiam participar na vida política da pólis
+- **Metecos:**
+- → estrangeiros que viviam em Atenas → dedicavam-se sobretudo ao artesanato e ao comércio → estavam sujeitos ao serviço militar e ao pagamento de impostos
+- **Escravos:**
+- → prisioneiros de guerra → eram homens não livres → trabalhavam nas terras, no artesanato, nos serviços domésticos, …
+
+### Regime político
+No século V a. C., estabeleceu-se uma forma de governo inovadora – a democracia.
 
 - •  Democracia:
-- ⤷ regime político em que o poder pertence ao povo e que defende a igualdade
+- → regime político em que o poder pertence ao povo e que defende a igualdade
 
-¬ Como a cidade era governada pelos próprios cidadãos, diz-se que Atenas foi governada segundo uma democracia direta. ¬ Quando os cidadãos apenas têm a possibilidade de escolherem os seus governantes, chama-se a esse regime democracia indireta.
+Como a cidade era governada pelos próprios cidadãos, diz-se que Atenas foi governada segundo uma democracia direta.
+
+Quando os cidadãos apenas têm a possibilidade de escolherem os seus governantes, chama-se a esse regime democracia indireta.
 »  Órgãos de poder
 
-- ι Bulé (conselho dos quinhentos):
-- ⤷ prepara os projetos-lei ⤷ constituída por 500 membros escolhidos por sorteio
-- ι Eclésia (assembleia dos cidadãos):
-- ⤷ aprova as leis que foram preparadas anteriormente pela Bulé ⤷ constituída pelos cidadãos
-- ι Estrategos (magistrados):
-- ⤷ comandam o exército e a marinha e administram a cidade ⤷ 10 magistrados eleitos pelos cidadãos
-- ι Helileu (tribunal popular):
-- ⤷ julga os casos civis e criminais ⤷ constituído por 6000 juízes escolhidos por sorteio
+- **Bulé (conselho dos quinhentos):**
+- → prepara os projetos-lei → constituída por 500 membros escolhidos por sorteio
+- **Eclésia (assembleia dos cidadãos):**
+- → aprova as leis que foram preparadas anteriormente pela Bulé → constituída pelos cidadãos
+- **Estrategos (magistrados):**
+- → comandam o exército e a marinha e administram a cidade → 10 magistrados eleitos pelos cidadãos
+- **Helileu (tribunal popular):**
+- → julga os casos civis e criminais → constituído por 6000 juízes escolhidos por sorteio
 
 »  Ação de Péricles
-¬ Para a instauração da democracia ateniense, foram importantes as medidas de Sólon, Clístenes e Péricles. ¬ Este último concedeu subsídios a todos os cidadãos que possuíssem cargos políticos, de forma a possibilitar que qualquer cidadão pudesse participar na vida política, até os mais pobres.
+Para a instauração da democracia ateniense, foram importantes as medidas de Sólon, Clístenes e Péricles.
+
+Este último concedeu subsídios a todos os cidadãos que possuíssem cargos políticos, de forma a possibilitar que qualquer cidadão pudesse participar na vida política, até os mais pobres.
 »  Limitações da democracia ateniense
-¬ Apenas os cidadãos, cerca de 10% da população, podiam participar na vida política. ¬ Atenas servia-se de escravos, o que contradizia o princípio de igualdade. ¬ Tal como o facto de Atenas ser um povo dominador, possuindo um poderoso império marítimo.
-¬ Apesar destas imperfeições, o regime político ateniense serviu de inspiração às democracias dos dias de hoje.
-›  Vida quotidiana
+Apenas os cidadãos, cerca de 10% da população, podiam participar na vida política.
+
+Atenas servia-se de escravos, o que contradizia o princípio de igualdade.
+
+Tal como o facto de Atenas ser um povo dominador, possuindo um poderoso império marítimo.
+Apesar destas imperfeições, o regime político ateniense serviu de inspiração às democracias dos dias de hoje.
+### Vida quotidiana
 »  No meio rural
-¬ A maior parte dos atenienses vivia no campo, entregue aos trabalhos rurais, com a ajuda de dois ou três escravos. ¬ Estes pequenos proprietários levavam uma vida simples e apenas se descolocavam à zona urbana para vender os seus produtos e para participar, de vez em quando, nas sessões da Eclésia.
+A maior parte dos atenienses vivia no campo, entregue aos trabalhos rurais, com a ajuda de dois ou três escravos.
+
+Estes pequenos proprietários levavam uma vida simples e apenas se descolocavam à zona urbana para vender os seus produtos e para participar, de vez em quando, nas sessões da Eclésia.
 »  No meio urbano
-¬ Os atenienses que habitavam na cidade apreciavam a vida movimentada. ¬ Passavam a maior parte da vida ao ar livre. ¬ A ágora era o centro da vida de Atenas, onde se amontoavam lojas e barracas de feira, e onde os atenienses conviviam e discutiam questões relacionadas com a política da pólis. ¬ Frequentavam termas e ginásios, pois davam importância à saúde e ao aspeto físico.
+Os atenienses que habitavam na cidade apreciavam a vida movimentada.
+
+Passavam a maior parte da vida ao ar livre.
+
+A ágora era o centro da vida de Atenas, onde se amontoavam lojas e barracas de feira, e onde os atenienses conviviam e discutiam questões relacionadas com a política da pólis.
+
+Frequentavam termas e ginásios, pois davam importância à saúde e ao aspeto físico.
 »  As mulheres atenienses
-¬ As mulheres ficavam encarregues das tarefas domésticas e da educação das crianças. ¬ Habitavam numa parte da casa que lhes estava reservada, o gineceu, mantendo-se completamente afastadas da vida pública. ¬ Raramente saíam à rua, apenas para irem às compras, e quando o faziam iam acompanhadas de escravas. ¬ Nem sequer era hábito assistirem às festividades públicas, como jogos e peças de teatro.
-›  Educação e formação dos jovens
-¬ Existia uma grande preocupação na educação dos jovens, pois era necessário prepará-los para a defesa da pólis e para participarem na vida democrática de Atenas.
+As mulheres ficavam encarregues das tarefas domésticas e da educação das crianças.
 
-- ι Até aos 7 anos:
-- ⤷ viviam no gineceu e eram educados pelas suas mães
-- ι A partir dos 7 anos:
-- ⤷ os rapazes iam para a escola onde aprendiam a ler, a escrever, a recitar poemas antigos (sobre heróis gregos que lhes deveriam servir de exemplo moral), aritmética e música
-- ι A partir dos 12 anos:
-- ⤷ iniciavam os exercícios atléticos
-- ι A partir dos 15 anos:
-- ⤷ continuavam a sua educação em ginásios, onde praticavam desportos ⤷ aprendiam ainda ciências, artes e leis
-- ι Aos 18 anos:
-- ⤷ tornavam-se cidadãos, prestavam serviço militar e podiam começar a participar na vida política
-- ¬ As raparigas, por sua vez, continuavam a sua educação no gineceu, de forma a se prepararem para a vida doméstica.
+Habitavam numa parte da casa que lhes estava reservada, o gineceu, mantendo-se completamente afastadas da vida pública.
 
-›  Religião
-¬ Os Gregos adoravam vários deuses, sendo por isso um povo politeísta. ¬ Os deuses gregos eram representados sob a forma humana e, tal como os humanos, tinham as suas virtudes e defeitos. ¬ Distinguiam-se dos seres humanos pelos seus poderes e por serem imortais. ¬ Os deuses mais importantes viviam no Olimpo, o monte mais alto da Grécia. ¬ Além dos deuses, os Gregos veneravam os heróis, homens que se haviam distinguido pelos seus feitos extraordinários, num passado longínquo – eram considerados semideuses.
+Raramente saíam à rua, apenas para irem às compras, e quando o faziam iam acompanhadas de escravas.
+
+Nem sequer era hábito assistirem às festividades públicas, como jogos e peças de teatro.
+### Educação e formação dos jovens
+Existia uma grande preocupação na educação dos jovens, pois era necessário prepará-los para a defesa da pólis e para participarem na vida democrática de Atenas.
+
+- **Até aos 7 anos:**
+- → viviam no gineceu e eram educados pelas suas mães
+- **A partir dos 7 anos:**
+- → os rapazes iam para a escola onde aprendiam a ler, a escrever, a recitar poemas antigos (sobre heróis gregos que lhes deveriam servir de exemplo moral), aritmética e música
+- **A partir dos 12 anos:**
+- → iniciavam os exercícios atléticos
+- **A partir dos 15 anos:**
+- → continuavam a sua educação em ginásios, onde praticavam desportos → aprendiam ainda ciências, artes e leis
+- **Aos 18 anos:**
+- → tornavam-se cidadãos, prestavam serviço militar e podiam começar a participar na vida política
+-
+
+As raparigas, por sua vez, continuavam a sua educação no gineceu, de forma a se prepararem para a vida doméstica.
+
+### Religião
+Os Gregos adoravam vários deuses, sendo por isso um povo politeísta.
+
+Os deuses gregos eram representados sob a forma humana e, tal como os humanos, tinham as suas virtudes e defeitos.
+
+Distinguiam-se dos seres humanos pelos seus poderes e por serem imortais.
+
+Os deuses mais importantes viviam no Olimpo, o monte mais alto da Grécia.
+
+Além dos deuses, os Gregos veneravam os heróis, homens que se haviam distinguido pelos seus feitos extraordinários, num passado longínquo – eram considerados semideuses.
 »  Tipos de culto
 
-- ι Culto familiar:
-- ⤷ realizado em casa pelo chefe de família ⤷ pedia-se proteção aos deuses do lar
-- ι Culto cívico:
-- ⤷ realizado nos templos da cidade pelos sacerdotes ⤷ em honra dos deuses protetores da pólis
-- ι Culto pan-helénico:
-- ⤷ reunião de pessoas vindas de toda a Grécia em santuários onde se faziam jogos, concursos de música e de poesia ⤷ em honra dos deuses comuns a todo o mundo helénico ⤷ ex: os jogos Olímpicos no santuário de Olímpia, em honra a Zeus
+- **Culto familiar:**
+- → realizado em casa pelo chefe de família → pedia-se proteção aos deuses do lar
+- **Culto cívico:**
+- → realizado nos templos da cidade pelos sacerdotes → em honra dos deuses protetores da pólis
+- **Culto pan-helénico:**
+- → reunião de pessoas vindas de toda a Grécia em santuários onde se faziam jogos, concursos de música e de poesia → em honra dos deuses comuns a todo o mundo helénico → ex: os jogos Olímpicos no santuário de Olímpia, em honra a Zeus
 
-›  Cultura
+### Cultura
 
-- ι Teatro:
-- ⤷ nasceu com as festas em honra a Dionísio, deus do vinho ⤷ representações de tragédias e comédias ⤷ maiores autores: Ésquilo e Aristófanes
-- ι História:
-- ⤷ Hérodoto e Tucídides, narraram e relataram acontecimentos passados com os Gregos e com outros povos
-- ι Filosofia:
-- ⤷ Sócrates, Platão e Aristóteles, com as suas ideias, transmitiram reflexões sobre o Bem, a Verdade e as dúvidas e angústias do Homem
+- **Teatro:**
+- → nasceu com as festas em honra a Dionísio, deus do vinho → representações de tragédias e comédias → maiores autores: Ésquilo e Aristófanes
+- **História:**
+- → Hérodoto e Tucídides, narraram e relataram acontecimentos passados com os Gregos e com outros povos
+- **Filosofia:**
+- → Sócrates, Platão e Aristóteles, com as suas ideias, transmitiram reflexões sobre o Bem, a Verdade e as dúvidas e angústias do Homem
 
-›  Arte
+### Arte
 
-- ι Arquitetura:
-- ⤷ estádios ⤷ teatros ⤷ templos:
-- ⤷ seguiam três ordens arquitetónicas → ordem dórica, jónica e coríntia ⤷ principais elementos → frontão, friso, arquitrave, coluna, composta pelo capitel, fuste e base, e estilóbato ⤷ planta → retangular
-- ⤷ principais características → equilíbrio e proporcionalidade
-- ι Escultura:
-- ⤷ principal tema → o Homem ⤷ principais características → o naturalismo (perfeição na representação humana) e o idealismo (as figuras eram sempre jovens ou adultos e eram representadas segundo um ideal de beleza)
-- ι Pintura:
-- ⤷ é-nos dada a conhecer sobretudo pela cerâmica ⤷ principais temas → cenas da vida quotidiana e da mitologia grega ⤷ as figuras eram pintadas em preto sobre o fundo vermelho dos vasos e, mais tarde, passaram a ser pintadas em vermelho sobre um fundo preto.
+- **Arquitetura:**
+- → estádios → teatros → templos:
+- → seguiam três ordens arquitetónicas → ordem dórica, jónica e coríntia → principais elementos → frontão, friso, arquitrave, coluna, composta pelo capitel, fuste e base, e estilóbato → planta → retangular
+  - principais características → equilíbrio e proporcionalidade
+- **Escultura:**
+- → principal tema → o Homem → principais características → o naturalismo (perfeição na representação humana) e o idealismo (as figuras eram sempre jovens ou adultos e eram representadas segundo um ideal de beleza)
+- **Pintura:**
+- → é-nos dada a conhecer sobretudo pela cerâmica → principais temas → cenas da vida quotidiana e da mitologia grega → as figuras eram pintadas em preto sobre o fundo vermelho dos vasos e, mais tarde, passaram a ser pintadas em vermelho sobre um fundo preto.
 
 O MUNDO ROMANO NO APOGEU DO IMPÉRIO
 O Império Romano
-›  Fundação de Roma
-¬ A cidade de Roma situa-se na Península Itálica e foi fundada em meados do século VIII a. C..
-›  Expansão de Roma
-¬ Inicialmente, era um pobre povoado de pastores e camponeses, mas, entre os séculos IV a. C. e II d. C., impôs o seu domínio em toda a península. ¬ Mais tarde, após vitória sobre os Cartagineses, dominou a todo o Mediterrâneo e algumas regiões da Europa formando um grande império.
+### Fundação de Roma
+A cidade de Roma situa-se na Península Itálica e foi fundada em meados do século VIII a. C..
+### Expansão de Roma
+Inicialmente, era um pobre povoado de pastores e camponeses, mas, entre os séculos IV a. C. e II d. C., impôs o seu domínio em toda a península.
 
-- ι Mare Nostrum:
-- ⤷ os Romanos chamavam ao Mar Mediterrâneo de “Mare Nostrum” (Mar Nosso) pois tinham conquistado todos os territórios à sua volta.
+Mais tarde, após vitória sobre os Cartagineses, dominou a todo o Mediterrâneo e algumas regiões da Europa formando um grande império.
+
+- **Mare Nostrum:**
+- → os Romanos chamavam ao Mar Mediterrâneo de “Mare Nostrum” (Mar Nosso) pois tinham conquistado todos os territórios à sua volta.
 
 »  Motivos da expansão romana
 
-- ι Segurança:
-- ⤷ ao princípio, os Romanos tiveram que se defender dos ataques dos seus vizinhos e, para não serem derrotados, tiveram de os submeter
-- ι Motivações económicas:
-- ⤷ ao conquistarem territórios os Romanos ficavam com os seus bens e riquezas (produtos agrícolas, minérios, escravos, etc.)
-- ι Motivações sociais:
-- ⤷ novos cargos para os militares, novos mercados para os homens de negócios e novas propriedades rurais para os colonos
-- ι Ambição dos chefes:
-- ⤷ os chefes políticos procuravam honra e glória através de novas conquistas
+- **Segurança:**
+- → ao princípio, os Romanos tiveram que se defender dos ataques dos seus vizinhos e, para não serem derrotados, tiveram de os submeter
+- **Motivações económicas:**
+- → ao conquistarem territórios os Romanos ficavam com os seus bens e riquezas (produtos agrícolas, minérios, escravos, etc.)
+- **Motivações sociais:**
+- → novos cargos para os militares, novos mercados para os homens de negócios e novas propriedades rurais para os colonos
+- **Ambição dos chefes:**
+- → os chefes políticos procuravam honra e glória através de novas conquistas
 
-›  Regimes políticos
+### Regimes políticos
 »  Regime republicano
-¬ Quando Roma iniciou a sua expansão, o seu regime político era uma república.
+Quando Roma iniciou a sua expansão, o seu regime político era uma república.
 
-- ι Assembleia (comícios):
-- ⤷ conjunto de cidadãos que elegiam os magistrados e detinham poder legislativo
-- ι Magistrados:
-- ⤷ detinham o poder executivo, ou seja, governavam a República
-- ι Senado:
-- ⤷ dirigia a política externa e nomeava os governadores das províncias
+- **Assembleia (comícios):**
+- → conjunto de cidadãos que elegiam os magistrados e detinham poder legislativo
+- **Magistrados:**
+- → detinham o poder executivo, ou seja, governavam a República
+- **Senado:**
+- → dirigia a política externa e nomeava os governadores das províncias
 
 »  Regime imperial
 
-- ¬ À medida que Roma se expandia, crescia a ambição de muitos governantes e muitos lutaram entre si pelo poder. ¬ Tornou-se necessário criar um regime mais forte de forma a criar união. ¬ Em 27 a. C., Octávio César Augusto fundou um regime político novo, a que se chamou Império. ¬ O Senado, os Magistrados e os Comícios continuaram a existir, mas muitos dos seus poderes foram transferidos para o imperador.
-- ι Poderes do imperador:
-- ⤷ chefiava o exército ⤷ dirigia a política externa ⤷ controlava toda a administração ⤷ era o supremo-sacerdote
+-
 
-›  Integração dos povos dominados
-¬ Os Romanos procuraram transmitir a sua civilização aos diferentes povos que faziam parte do Império de forma a promover a sua integração e desenvolver as regiões mais atrasadas.
+À medida que Roma se expandia, crescia a ambição de muitos governantes e muitos lutaram entre si pelo poder.
+
+Tornou-se necessário criar um regime mais forte de forma a criar união.
+
+Em 27 a. C., Octávio César Augusto fundou um regime político novo, a que se chamou Império.
+
+O Senado, os Magistrados e os Comícios continuaram a existir, mas muitos dos seus poderes foram transferidos para o imperador.
+- **Poderes do imperador:**
+- → chefiava o exército → dirigia a política externa → controlava toda a administração → era o supremo-sacerdote
+
+### Integração dos povos dominados
+Os Romanos procuraram transmitir a sua civilização aos diferentes povos que faziam parte do Império de forma a promover a sua integração e desenvolver as regiões mais atrasadas.
 
 - •  Romanização:
-- ⤷ processo de assimilação da cultura romana (língua, religião e costumes)
-- ι Instrumentos de integração:
-- ⤷ exército poderoso que garantia a paz – pax romana ⤷ estabelecimento da administração pública ⤷ vasta rede de estradas ⤷ a língua latim ⤷ direito romano (leis) ⤷ direito de cidadania
+- → processo de assimilação da cultura romana (língua, religião e costumes)
+- **Instrumentos de integração:**
+- → exército poderoso que garantia a paz – pax romana → estabelecimento da administração pública → vasta rede de estradas → a língua latim → direito romano (leis) → direito de cidadania
 
-›  Economia
-¬ A economia romana era uma economia urbana (em função das cidades), mercantil (devido à importância do comércio), monetária (devido à utilização da moeda) e esclavagista (devido à utilização de escravos).
-›  Sociedade 
-¬ A sociedade romana era hierarquizada e estratificada, pois encontrava-se dividida em estratos sociais, cada um com o seu nível de importância a nível social.
+### Economia
+A economia romana era uma economia urbana (em função das cidades), mercantil (devido à importância do comércio), monetária (devido à utilização da moeda) e esclavagista (devido à utilização de escravos).
+### Sociedade 
+A sociedade romana era hierarquizada e estratificada, pois encontrava-se dividida em estratos sociais, cada um com o seu nível de importância a nível social.
 
-- ι Ordem senatorial:
-- ⤷ senadores, magistrados e governadores de províncias ⤷ ocupavam altos cargos na administração central e no exército ⤷ possuíam grandes propriedades rurais, os latifúndios ⤷ possuíam grandes fortunas
-- ι Ordem equestre:
-- ⤷ cavaleiros que passaram a dedicar-se à administração do Império, ao comércio e aos negócios ⤷ possuíam grandes fortunas, embora um pouco inferiores aos membros da ordem senatorial
-- ι Plebe:
-- ⤷ pequenos proprietários de terras e camponeses – plebe rural ⤷ artesãos e pequenos comerciantes – plebe urbana ⤷ os mais pobres viviam na dependência das famílias mais ricas e outros eram alimentados pelo Estado
-- ι Servos libertos:
-- ⤷ escravos a quem foi concedida liberdade
-- ι Escravos:
-- ⤷ homens não livres ⤷ cabiam-lhe os trabalhos mais duros
+- **Ordem senatorial:**
+- → senadores, magistrados e governadores de províncias → ocupavam altos cargos na administração central e no exército → possuíam grandes propriedades rurais, os latifúndios → possuíam grandes fortunas
+- **Ordem equestre:**
+- → cavaleiros que passaram a dedicar-se à administração do Império, ao comércio e aos negócios → possuíam grandes fortunas, embora um pouco inferiores aos membros da ordem senatorial
+- **Plebe:**
+- → pequenos proprietários de terras e camponeses – plebe rural → artesãos e pequenos comerciantes – plebe urbana → os mais pobres viviam na dependência das famílias mais ricas e outros eram alimentados pelo Estado
+- **Servos libertos:**
+- → escravos a quem foi concedida liberdade
+- **Escravos:**
+- → homens não livres → cabiam-lhe os trabalhos mais duros
 
-›  Religião
-¬ Os Romanos adotaram muitos deuses de povos dominados. ¬ O maior exemplo são os deuses oriundos da mitologia grega. Os nomes mudaram, mas os atributos eram os mesmos.
+### Religião
+Os Romanos adotaram muitos deuses de povos dominados.
+
+O maior exemplo são os deuses oriundos da mitologia grega. Os nomes mudaram, mas os atributos eram os mesmos.
 »  Tipos de culto
 
-- ι Culto familiar:
-- ⤷ realizado em casa faziam culto às almas dos antepassados (Manes), aos deuses protetores do lar (Lares) e aos deuses das provisões (Penates)
-- ι Culto cívico:
-- ⤷ realizado nos templos, pelos sacerdotes
+- **Culto familiar:**
+- → realizado em casa faziam culto às almas dos antepassados (Manes), aos deuses protetores do lar (Lares) e aos deuses das provisões (Penates)
+- **Culto cívico:**
+- → realizado nos templos, pelos sacerdotes
 
 »  Cristianismo
-¬ Durante o Império Romano, surgiu uma nova religião que defendia a existência de um só Deus – o Cristianismo, que mais tarde passou a ser a religião oficial do império.
-›  Arte
+Durante o Império Romano, surgiu uma nova religião que defendia a existência de um só Deus – o Cristianismo, que mais tarde passou a ser a religião oficial do império.
+### Arte
 
-- ι Arquitetura:
-- ⤷ influência grega → colunas, frontões e frisos ⤷ inovações → arco de volta perfeita, abóbada de berço e cúpula ⤷ características → monumentalidade, durabilidade, caráter prático e utilitário ⤷ tipos de construções → aquedutos, basílicas, termas, circos, anfiteatros, arcos de triunfo e templos
-- ι Urbanismo:
-- ⤷ a organização das cidades tinha como princípio a utilidade ⤷ eram todas construídas à semelhança de Roma ⤷ no centro da cidade encontrava-se o fórum (praça principal da cidade onde se encontravam alguns dos mais importantes templos e edifícios públicos) ⤷ à volta do fórum construía-se o núcleo urbano 
-- ι Pintura:
-- ⤷ principais temas → retrato, paisagens, cenas da vida quotidiana, motivos históricos ou mitológicos ⤷ frescos com cores vivas com impressão de profundidade ⤷ principal característica → realismo
-- ι Escultura:
-- ⤷ altos-relevos e estátuas ⤷ principal característica → realismo
+- **Arquitetura:**
+- → influência grega → colunas, frontões e frisos → inovações → arco de volta perfeita, abóbada de berço e cúpula → características → monumentalidade, durabilidade, caráter prático e utilitário → tipos de construções → aquedutos, basílicas, termas, circos, anfiteatros, arcos de triunfo e templos
+- **Urbanismo:**
+- → a organização das cidades tinha como princípio a utilidade → eram todas construídas à semelhança de Roma → no centro da cidade encontrava-se o fórum (praça principal da cidade onde se encontravam alguns dos mais importantes templos e edifícios públicos) → à volta do fórum construía-se o núcleo urbano 
+- **Pintura:**
+  - principais temas → retrato, paisagens, cenas da vida quotidiana, motivos históricos ou mitológicos → frescos com cores vivas com impressão de profundidade → principal característica → realismo
+- **Escultura:**
+  - altos-relevos e estátuas → principal característica → realismo
 
-›  Cultura
+### Cultura
 
-- ι Literatura:
-- ⤷ Cícero → grande orador do tempo da República romana ⤷ Virgílio → poeta, autor da epopeia “Eneida” ⤷ Tito Líio → historiador, autor de “Uma História de Roma”
-- ι Direito:
-- ⤷ elaboração de leis para regular a vida da sociedade romana e o funcionamento do Estado
+- **Literatura:**
+- → Cícero → grande orador do tempo da República romana → Virgílio → poeta, autor da epopeia “Eneida” → Tito Líio → historiador, autor de “Uma História de Roma”
+- **Direito:**
+- → elaboração de leis para regular a vida da sociedade romana e o funcionamento do Estado
 
 Romanização da Península Ibérica
-›  Conquista da Península Ibérica
-¬ Conquista da Península Ibérica no final do século III a. C. ¬ Conquista muito difícil devido à resistência dos povos peninsulares, entre os quais os Lusitanos ¬ A Península Ibérica foi então dividida em três províncias: Tarraconense, Bética e Lusitânia ¬ A maioria das cidades ganhou alguma autonomia administrativa, sendo declaradas municípios ¬ Um município possuía magistrados próprios, eleitos pelos habitantes
-›  Herança romana na Península Ibérica
-¬ Numerosas cidades ¬ Vasta rede de estradas, pontes, aquedutos e templos ¬ Desenvolveu-se a agricultura, o artesanato, a exploração mineira e o comércio ¬ Costumes romanos como o vestuário e a alimentação ¬ O latim ¬ O Cristianismo
+### Conquista da Península Ibérica
+Conquista da Península Ibérica no final do século III a. C.
+
+Conquista muito difícil devido à resistência dos povos peninsulares, entre os quais os Lusitanos
+
+A Península Ibérica foi então dividida em três províncias: Tarraconense, Bética e Lusitânia
+
+A maioria das cidades ganhou alguma autonomia administrativa, sendo declaradas municípios
+
+Um município possuía magistrados próprios, eleitos pelos habitantes
+### Herança romana na Península Ibérica
+Numerosas cidades
+
+Vasta rede de estradas, pontes, aquedutos e templos
+
+Desenvolveu-se a agricultura, o artesanato, a exploração mineira e o comércio
+
+Costumes romanos como o vestuário e a alimentação
+
+O latim
+
+O Cristianismo
 
 
 ORIGEM E DIFUSÃO DO CRISTIANISMO
 Origem do Cristianismo
-›  Quem eram os Hebreus
-¬ Pastores nómadas que viviam na Mesopotâmia ¬ Deslocaram-se para a Palestina, comandados por Abrão, e depois para o Egito, atraídos pelas suas riquezas, mas acabaram por ser escravizados ¬ Abandonaram então o Egito e regressaram à Palestina – a Terra Prometida – onde fundaram o Estado de Israel
-›  Diáspora
-¬ Quando a Judeia (Palestina) foi conquistada pelos romanos, os judeus (hebreus) não aceitaram o domínio estrangeiro e foram obrigados a sair da sua terra.
+### Quem eram os Hebreus
+Pastores nómadas que viviam na Mesopotâmia
+
+Deslocaram-se para a Palestina, comandados por Abrão, e depois para o Egito, atraídos pelas suas riquezas, mas acabaram por ser escravizados
+
+Abandonaram então o Egito e regressaram à Palestina – a Terra Prometida – onde fundaram o Estado de Israel
+### Diáspora
+Quando a Judeia (Palestina) foi conquistada pelos romanos, os judeus (hebreus) não aceitaram o domínio estrangeiro e foram obrigados a sair da sua terra.
 
 - •  Diáspora:
-- ⤷ dispersão dos judeus por todo o espaço mediterrânico por terem sido obrigados a sair da sua terra
+- → dispersão dos judeus por todo o espaço mediterrânico por terem sido obrigados a sair da sua terra
 
-›  Messianismo
-¬ A Bíblia era o livro sagrado deste povo. ¬ Acreditavam num único Deus (Javé ou Jeová). Eram, portanto, um povo monoteísta. ¬ Por terem estado ao longo dos tempos sujeitos a muitas perseguições, os judeus esperavam a vinda de um Messias, o Salvador, enviado por Deus, para os libertar dos seus opressores.
-›  Jesus Cristo e o Cristianismo
-¬ Jesus Cristo, nascido na Judeia, em Belém, apresentou-se como Messias, o filho de Deus que veio à Terra para salvar a humanidade. ¬ Prometia a vida eterna após a morte a quem seguisse a sua palavra. ¬ Foi considerado por uma minoria o Messias esperado, surgindo assim uma nova religião – o Cristianismo. ¬ A sua mensagem era destinada a todos, e não só aos judeus. Por isso, diz-se que o Cristianismo teve um carácter universal. ¬ Conhece-se a vida e a mensagem de Jesus Cristo a partir dos Evangelhos (juntamente com os Atos dos Apóstolos, as Epístolas e o Apocalipse, constituem o Novo Testamento que os cristãos acrescentaram à bíblia judaica).
+### Messianismo
+A Bíblia era o livro sagrado deste povo.
 
-- ι Princípios do Cristianismo:
-- ⤷ igualdade ⤷ paz ⤷ amor a Deus e ao próximo ⤷ tolerância ⤷ perdão para os arrependimentos
-- ⤷ humildade e simplicidade
+Acreditavam num único Deus (Javé ou Jeová). Eram, portanto, um povo monoteísta.
+
+Por terem estado ao longo dos tempos sujeitos a muitas perseguições, os judeus esperavam a vinda de um Messias, o Salvador, enviado por Deus, para os libertar dos seus opressores.
+### Jesus Cristo e o Cristianismo
+Jesus Cristo, nascido na Judeia, em Belém, apresentou-se como Messias, o filho de Deus que veio à Terra para salvar a humanidade.
+
+Prometia a vida eterna após a morte a quem seguisse a sua palavra.
+
+Foi considerado por uma minoria o Messias esperado, surgindo assim uma nova religião – o Cristianismo.
+
+A sua mensagem era destinada a todos, e não só aos judeus. Por isso, diz-se que o Cristianismo teve um carácter universal.
+
+Conhece-se a vida e a mensagem de Jesus Cristo a partir dos Evangelhos (juntamente com os Atos dos Apóstolos, as Epístolas e o Apocalipse, constituem o Novo Testamento que os cristãos acrescentaram à bíblia judaica).
+
+- **Princípios do Cristianismo:**
+- → igualdade → paz → amor a Deus e ao próximo → tolerância → perdão para os arrependimentos
+- → humildade e simplicidade
 
 Difusão do Cristianismo
-›  O que aconteceu aos primeiros cristãos
-¬ Os sacerdotes hebraicos temiam que a igualdade pregada por Jesus Cristo colocasse em causa a sua autoridade e, por outro lado, os romanos temiam que os judeus se revoltassem contra eles. ¬ Por isso, os primeiros cristãos foram perseguidos e muitos foram mortos. ¬ O próprio Jesus Cristo foi perseguido e crucificado, sendo por isso a cruz, hoje em dia, um dos símbolos do Cristianismo. ¬ No entanto, a sua mensagem não morreu. Muito pelo contrário, o Cristianismo foi-se propagando por todo o Império Romano nos séculos seguintes.
-›  Condições que facilitaram a difusão da mensagem cristã pelos territórios do império romano
-¬ Existência de numerosas cidades ¬ Facilidade de comunicações (vasta rede de estradas que ligava todo o império) ¬ Duas línguas (latim e grego) compreendidas por quase toda a população ¬ Existência de judeus por todo o império
-›  Aceitação do Cristianismo no Império Romano
+### O que aconteceu aos primeiros cristãos
+Os sacerdotes hebraicos temiam que a igualdade pregada por Jesus Cristo colocasse em causa a sua autoridade e, por outro lado, os romanos temiam que os judeus se revoltassem contra eles.
 
-- ι Édito de Milão (313):
-- ⤷ o imperador Constantino decretou a liberdade religiosa no império ⤷ os cristãos deixaram de ser perseguidos e o Cristianismo passou a ser aceite
-- ι Édito de Tessalónica (380):
-- ⤷ o imperador Teodósio declarou o Cristianismo como religião oficial do império
+Por isso, os primeiros cristãos foram perseguidos e muitos foram mortos.
+
+O próprio Jesus Cristo foi perseguido e crucificado, sendo por isso a cruz, hoje em dia, um dos símbolos do Cristianismo.
+
+No entanto, a sua mensagem não morreu. Muito pelo contrário, o Cristianismo foi-se propagando por todo o Império Romano nos séculos seguintes.
+### Condições que facilitaram a difusão da mensagem cristã pelos territórios do império romano
+Existência de numerosas cidades
+
+Facilidade de comunicações (vasta rede de estradas que ligava todo o império)
+
+Duas línguas (latim e grego) compreendidas por quase toda a população
+
+Existência de judeus por todo o império
+### Aceitação do Cristianismo no Império Romano
+
+- **Édito de Milão (313):**
+- → o imperador Constantino decretou a liberdade religiosa no império → os cristãos deixaram de ser perseguidos e o Cristianismo passou a ser aceite
+- **Édito de Tessalónica (380):**
+- → o imperador Teodósio declarou o Cristianismo como religião oficial do império
 
 As invasões bárbaras e a queda do Império Romano
-›  Fim do Império Romano do Ocidente e início da Idade Média (476)
+### Fim do Império Romano do Ocidente e início da Idade Média (476)
 
-- ι Causas da queda do Império Romano do Ocidente:
-- ⤷ indisciplina do exército ⤷ corrupção dos funcionários ⤷ mudanças frequentes de imperador ⤷ escassez de alimentos, fomes e epidemias ⤷ invasões dos povos bárbaros
+- **Causas da queda do Império Romano do Ocidente:**
+- → indisciplina do exército → corrupção dos funcionários → mudanças frequentes de imperador → escassez de alimentos, fomes e epidemias → invasões dos povos bárbaros
 
-¬ A queda do Império Romano do Ocidente, em 476, marca o início da Idade Média.
-›  Povos bárbaros
-¬ Os Romanos chamavam Bárbaros aos povos que rodeavam o seu império e que tinham língua e costumes diferentes dos seus ¬ Eram povos seminómadas ¬ Dedicavam-se sobretudo à agricultura, à pastorícia e à guerra ¬ Eram pagãos (nome dado pelos cristãos aos seguidores de religiões politeístas) ou arianos (praticantes do arianismo, uma heresia cristã) ¬ Pressionados pelos Hunos, e aproveitando as fragilidades do Império Romano, começaram a atacar os seus territórios, onde formaram vários reinos
+A queda do Império Romano do Ocidente, em 476, marca o início da Idade Média.
+### Povos bárbaros
+Os Romanos chamavam Bárbaros aos povos que rodeavam o seu império e que tinham língua e costumes diferentes dos seus
 
-- ι Reinos bárbaros:
-- ⤷ Suevos e Visigodos → na Península Ibérica ⤷ Francos e Burgúndios → na atual França ⤷ Ostrogodos → na Península Itálica ⤷ Anglo-Saxões → na Grã-Bretanha ⤷ Vândalos → no norte de África e ilhas do Mediterrâneo
+Eram povos seminómadas
+
+Dedicavam-se sobretudo à agricultura, à pastorícia e à guerra
+
+Eram pagãos (nome dado pelos cristãos aos seguidores de religiões politeístas) ou arianos (praticantes do arianismo, uma heresia cristã)
+
+Pressionados pelos Hunos, e aproveitando as fragilidades do Império Romano, começaram a atacar os seus territórios, onde formaram vários reinos
+
+- **Reinos bárbaros:**
+- → Suevos e Visigodos → na Península Ibérica → Francos e Burgúndios → na atual França → Ostrogodos → na Península Itálica → Anglo-Saxões → na Grã-Bretanha → Vândalos → no norte de África e ilhas do Mediterrâneo
 
 O papel da Igreja Católica
-›  Defesa das cidades
-¬ Durante o clima de insegurança que surgiu devido às invasões bárbaras, muitas vezes foram os bispos quem organizou a defesa das cidades.
-›  Cristianização dos povos bárbaros
-¬ Os papas, os bispos e os monges começaram por cristianizar os chefes bárbaros e de seguida a população.
+### Defesa das cidades
+Durante o clima de insegurança que surgiu devido às invasões bárbaras, muitas vezes foram os bispos quem organizou a defesa das cidades.
+### Cristianização dos povos bárbaros
+Os papas, os bispos e os monges começaram por cristianizar os chefes bárbaros e de seguida a população.
 
-- ι Ação do Papa S. Gregório Magno:
-- ⤷ desenvolveu a missionação, o que resultou na conversão dos reis visigodos, lombardos e anglo-saxões
-- ι Batismo do rei Clóvis:
-- ⤷ início da conversão dos Francos
-- ι Difusão do monaquismo:
-- ⤷ criação de ordens religiosas (comunidades de monges que vivem sob uma regra à qual devem obedecer) ⤷ fundação de mosteiros junto das populações que tinham como funções: 
-- ⤷ evangelização (conversão ao cristianismo) ⤷ assistência aos pobres e doentes ⤷ ensino e cultura (através da criação de escolas e bibliotecas)
+- **Ação do Papa S. Gregório Magno:**
+- → desenvolveu a missionação, o que resultou na conversão dos reis visigodos, lombardos e anglo-saxões
+- **Batismo do rei Clóvis:**
+- → início da conversão dos Francos
+- **Difusão do monaquismo:**
+- → criação de ordens religiosas (comunidades de monges que vivem sob uma regra à qual devem obedecer) → fundação de mosteiros junto das populações que tinham como funções: 
+  - evangelização (conversão ao cristianismo) → assistência aos pobres e doentes → ensino e cultura (através da criação de escolas e bibliotecas)
 
-›  A Igreja Católica como fator de unidade numa Europa fragmentada
-¬ Após as invasões bárbaras, a Europa encontrava-se fragmentada em vários reinos, sendo o cristianismo e a Igreja Católica um fator de unidade dos povos europeus, graças ao seu papel de defesa e de evangelização.
-›  Regra de S. Bento de Núrsia
-¬ S. Bento de Núrsia fundou várias comunidades e escreveu uma regra com as instruções que os monges deviam seguir. ¬ Outros mosteiros seguiam outras regras, mas a de S. Bento acabou por suplantar todas as outras no Ocidente.
+### A Igreja Católica como fator de unidade numa Europa fragmentada
+Após as invasões bárbaras, a Europa encontrava-se fragmentada em vários reinos, sendo o cristianismo e a Igreja Católica um fator de unidade dos povos europeus, graças ao seu papel de defesa e de evangelização.
+### Regra de S. Bento de Núrsia
+S. Bento de Núrsia fundou várias comunidades e escreveu uma regra com as instruções que os monges deviam seguir.
 
-- ι Ordem beneditina
-- ⤷ os monges deviam dedicar o seu tempo à oração, ao estudo e ao trabalho manual, incluindo o trabalho nos campos ⤷ também não podiam casar nem ter bens pessoais ⤷ tinham de viver em comunidade e de obedecer às ordens do seu superior ou abade
+Outros mosteiros seguiam outras regras, mas a de S. Bento acabou por suplantar todas as outras no Ocidente.
 
-›  Organização da Igreja Católica
+- **Ordem beneditina
+- → os monges deviam dedicar o seu tempo à oração, ao estudo e ao trabalho manual, incluindo o trabalho nos campos → também não podiam casar nem ter bens pessoais → tinham de viver em comunidade e de obedecer às ordens do seu superior ou abade
 
-- ι Autoridade suprema
-- ⤷ papa
-- ι Clero secular → vive junto das populações
-- ⤷ arcebispos e bispos → alto clero ⤷ párocos → baixo clero
-- ι Clero regular → vive nos mosteiros
-- ⤷ abades → alto clero ⤷ monges e freiras→ baixo clero
+### Organização da Igreja Católica
+
+- **Autoridade suprema
+- → papa
+- **Clero secular → vive junto das populações
+- → arcebispos e bispos → alto clero → párocos → baixo clero
+- **Clero regular → vive nos mosteiros
+- → abades → alto clero → monges e freiras→ baixo clero
 
 Segunda vaga de invasões – entre os séculos VIII e X
-›  Novas invasões na Europa
+### Novas invasões na Europa
 
-- ι Muçulmanos (mouros):
-- ⤷ vieram do norte de África  ⤷ atacaram a Europa pelo sul
-- ι Normandos (vikings):
-- ⤷ vieram da Escandinávia ⤷ atacaram a Europa pelo norte
-- ι Húngaros (magiares):
-- ⤷ vieram da Ásia ⤷ atacaram a Europa pelo leste
+- **Muçulmanos (mouros):**
+- → vieram do norte de África  → atacaram a Europa pelo sul
+- **Normandos (vikings):**
+- → vieram da Escandinávia → atacaram a Europa pelo norte
+- **Húngaros (magiares):**
+- → vieram da Ásia → atacaram a Europa pelo leste
 
-›  Consequências das invasões
-¬ Clima de insegurança → os reis não conseguiam garantir a segurança das populações ¬ Abandono das cidades → busca de proteção junto dos grandes senhores (clérigos e nobres) ¬ Ruralização → predomínio da agricultura, mas pouco produtiva devido ao recurso de técnicas e instrumentos rudimentares ¬ Regressão económica → diminuição da produção ¬ Inexistência de excedentes → falta de produtos para vender ¬ Enfraquecimento do comércio ¬ Economia de subsistência → produção para autoconsumo
+### Consequências das invasões
+Clima de insegurança → os reis não conseguiam garantir a segurança das populações
+
+Abandono das cidades → busca de proteção junto dos grandes senhores (clérigos e nobres)
+
+Ruralização → predomínio da agricultura, mas pouco produtiva devido ao recurso de técnicas e instrumentos rudimentares
+
+Regressão económica → diminuição da produção
+
+Inexistência de excedentes → falta de produtos para vender
+
+Enfraquecimento do comércio
+
+Economia de subsistência → produção para autoconsumo
 
 
 O MUNDO MUÇULMANO EM EXPANSÃO
 A origem do Islamismo e do Império Muçulmano
-› A Arábia até aos princípios do séc. VII
-¬ As populações árabes próximas do litoral eram sedentárias e dedicavam-se à agricultura e ao comércio. ¬ No deserto, as tribos chefiadas por xeques vivam em função dos oásis. Eram nómadas e dedicavam-se ao comércio em caravanas. ¬ Os árabes eram politeístas. Cada tribo adorava divindades diferentes. ¬ Não havia uma unificação política nem religiosa.
-› O profeta Maomé e o Islamismo
-¬ Maomé nasceu em Meca, onde começou a sua pregação. ¬ Segundo a tradição, em 610, recebeu uma revelação divina por meio do anjo Gabriel. ¬ Considerou-se então profeta, ou seja, portador da palavra de Deus. ¬ Fundou uma nova religião monoteísta – o Islamismo (ou Islão). ¬ O Islamismo tem como livro sagrado o Alcorão (ou Corão). ¬ Os seus seguidores chamam-se muçulmanos. ¬ Acreditam na imortalidade da alma e na obtenção da salvação da alma através da caridade e da oração.
+### A Arábia até aos princípios do séc. VII
+As populações árabes próximas do litoral eram sedentárias e dedicavam-se à agricultura e ao comércio.
 
-- ι Pilares da fé islâmica:
-- ⤷ acreditar num Deus único (Alá) e em Maomé como seu profeta ⤷ rezar 5 vezes ao dia virados para Meca ⤷ ir pelo menos uma vez a Meca na vida ⤷ jejuar durante o mês do Ramadão ⤷ dar esmola aos pobres
+No deserto, as tribos chefiadas por xeques vivam em função dos oásis. Eram nómadas e dedicavam-se ao comércio em caravanas.
 
-›  Hégira (622)
-¬ Maomé teve de fugir para Medina pois a sua pregação foi mal aceite pelos mercadores que dominavam a cidade de Meca. ¬ A esta viagem deu-se o nome de hégira. ¬ Este episódio de fuga de Maomé marca o início do calendário muçulmano.
-›  Formação do Império Muçulmano
-¬ O Islamismo ganhou cada vez maior número de crentes. ¬ Quando Maomé morreu, em 632, grande parte da Arábia já estava convertida à nova religião e formava um único Estado. ¬ A Arábia passou a ser dirigida por um califa, que era ao mesmo tempo chefe político e chefe religioso. ¬ Sendo assim, passou a haver uma unificação política e religiosa. ¬ Foi sob a direção dos primeiros califas que se iniciou o processo de expansão que levou à formação do Império Muçulmano.
+Os árabes eram politeístas. Cada tribo adorava divindades diferentes.
 
-- ι Razões que levaram os Muçulmanos a conquistar territórios:
-- ⤷ desejo de espalhar o Islamismo ⤷ procura de terras férteis, pois o território da Arábia era pobre ⤷ vontade de dominar as principais vias de comércio entre o Oriente e o Ocidente
-- ι Guerra Santa (jihad):
-- ⤷ a luta pela defesa e expansão do Islão é considerada «guerra santa», sendo um dever de todos os crentes ⤷ acreditavam que quem morresse nestas circunstâncias tinha entrada imediata no paraíso
-- ι Territórios conquistados:
-- ⤷ desde o rio Indo, na Ásia, à Península Ibérica e ocupava todo o Médio Oriente e o norte de África
+Não havia uma unificação política nem religiosa.
+### O profeta Maomé e o Islamismo
+Maomé nasceu em Meca, onde começou a sua pregação.
 
-›  Língua e religião como fator de unidade
-¬ Os califas tiveram dificuldade em manter a unidade de um império tão vasto. ¬ A partir de meados do século VIII, algumas províncias tornaram-se autónomas e o império acabou por se desagregar em vários reinos independentes. ¬ Apesar desta desagregação, a língua árabe e a religião islâmica mantiveram-se como fator de unidade do mundo muçulmano.
+Segundo a tradição, em 610, recebeu uma revelação divina por meio do anjo Gabriel.
+
+Considerou-se então profeta, ou seja, portador da palavra de Deus.
+
+Fundou uma nova religião monoteísta – o Islamismo (ou Islão).
+
+O Islamismo tem como livro sagrado o Alcorão (ou Corão).
+
+Os seus seguidores chamam-se muçulmanos.
+
+Acreditam na imortalidade da alma e na obtenção da salvação da alma através da caridade e da oração.
+
+- **Pilares da fé islâmica:**
+- → acreditar num Deus único (Alá) e em Maomé como seu profeta → rezar 5 vezes ao dia virados para Meca → ir pelo menos uma vez a Meca na vida → jejuar durante o mês do Ramadão → dar esmola aos pobres
+
+### Hégira (622)
+Maomé teve de fugir para Medina pois a sua pregação foi mal aceite pelos mercadores que dominavam a cidade de Meca.
+
+A esta viagem deu-se o nome de hégira.
+
+Este episódio de fuga de Maomé marca o início do calendário muçulmano.
+### Formação do Império Muçulmano
+O Islamismo ganhou cada vez maior número de crentes.
+
+Quando Maomé morreu, em 632, grande parte da Arábia já estava convertida à nova religião e formava um único Estado.
+
+A Arábia passou a ser dirigida por um califa, que era ao mesmo tempo chefe político e chefe religioso.
+
+Sendo assim, passou a haver uma unificação política e religiosa.
+
+Foi sob a direção dos primeiros califas que se iniciou o processo de expansão que levou à formação do Império Muçulmano.
+
+- **Razões que levaram os Muçulmanos a conquistar territórios:**
+- → desejo de espalhar o Islamismo → procura de terras férteis, pois o território da Arábia era pobre → vontade de dominar as principais vias de comércio entre o Oriente e o Ocidente
+- **Guerra Santa (jihad):**
+- → a luta pela defesa e expansão do Islão é considerada «guerra santa», sendo um dever de todos os crentes → acreditavam que quem morresse nestas circunstâncias tinha entrada imediata no paraíso
+- **Territórios conquistados:**
+- → desde o rio Indo, na Ásia, à Península Ibérica e ocupava todo o Médio Oriente e o norte de África
+
+### Língua e religião como fator de unidade
+Os califas tiveram dificuldade em manter a unidade de um império tão vasto.
+
+A partir de meados do século VIII, algumas províncias tornaram-se autónomas e o império acabou por se desagregar em vários reinos independentes.
+
+Apesar desta desagregação, a língua árabe e a religião islâmica mantiveram-se como fator de unidade do mundo muçulmano.
 A civilização islâmica
-› Carácter cosmopolita, comercial e urbano do mundo islâmico medieval
-¬ Os Muçulmanos eram essencialmente comerciantes. ¬ As cidades muçulmanas fervilhavam de gente e de animação e eram importantes centros de trocas comerciais. ¬ Além do intenso comércio interno, controlavam fora do império uma vasta rede de rotas comerciais.
+### Carácter cosmopolita, comercial e urbano do mundo islâmico medieval
+Os Muçulmanos eram essencialmente comerciantes.
 
-- ι Produtos transportados pelos Muçulmanos:
-- ⤷ de África → ouro, marfim e escravos ⤷ da Índia → especiarias, perfumes e pedras preciosas (rota das especiarias) ⤷ da China → sedas e porcelanas (rota da seda) ⤷ do norte da Ásia → âmbar, peles, armas e metais
+As cidades muçulmanas fervilhavam de gente e de animação e eram importantes centros de trocas comerciais.
 
-› Inovações científicas
+Além do intenso comércio interno, controlavam fora do império uma vasta rede de rotas comerciais.
 
-- ι Medicina:
-- ⤷ identificação de muitas doenças ⤷ aperfeiçoamento da cirurgia
-- ι Química:
-- ⤷ descoberta do álcool e do ácido sulfúrico
-- ι Astronomia:
-- ⤷ aperfeiçoamento da utilização do astrolábio e bússola
-- ι Matemática:
-- ⤷ criação da álgebra ⤷ divulgação dos algarismos
-- ι Geografia:
-- ⤷ descrições de muitos países da África e da Ásia
+- **Produtos transportados pelos Muçulmanos:**
+- → de África → ouro, marfim e escravos → da Índia → especiarias, perfumes e pedras preciosas (rota das especiarias) → da China → sedas e porcelanas (rota da seda) → do norte da Ásia → âmbar, peles, armas e metais
 
-› Elementos arquitetónicos e decorativos típicos das mesquitas
-¬ Cobertura em cúpula. ¬ Arco em ferradura. ¬ Decoração com mosaicos e estuques pintados. ¬ Decoração com elementos vegetalistas ou geométricos e por frases religiosas (o Alcorão proíbe a representação de animais e da figura humana).
+### Inovações científicas
+
+- **Medicina:**
+- → identificação de muitas doenças → aperfeiçoamento da cirurgia
+- **Química:**
+- → descoberta do álcool e do ácido sulfúrico
+- **Astronomia:**
+- → aperfeiçoamento da utilização do astrolábio e bússola
+- **Matemática:**
+- → criação da álgebra → divulgação dos algarismos
+- **Geografia:**
+- → descrições de muitos países da África e da Ásia
+
+### Elementos arquitetónicos e decorativos típicos das mesquitas
+Cobertura em cúpula.
+
+Arco em ferradura.
+
+Decoração com mosaicos e estuques pintados.
+
+Decoração com elementos vegetalistas ou geométricos e por frases religiosas (o Alcorão proíbe a representação de animais e da figura humana).
 
 A SOCIEDADE EUROPEIA NOS SÉCULOS IX A XII
 A sociedade medieval
-› Sociedade tripartida
-¬ A sociedade medieval encontrava-se tripartida, ou seja, dividida em três grupos sociais: o clero, a nobreza (aristocracia) e o povo (camponeses e artesãos). ¬ O clero e a nobreza eram grupos privilegiados → possuíam terras e tinham várias regalias e direitos como leis e tribunais próprios. ¬ O povo era um grupo não privilegiado → trabalhavam nas terras dos privilegiados e ainda tinham várias obrigações como o pagamento de impostos.
+### Sociedade tripartida
+A sociedade medieval encontrava-se tripartida, ou seja, dividida em três grupos sociais: o clero, a nobreza (aristocracia) e o povo (camponeses e artesãos).
 
-- ι Funções dos grupos sociais:
-- ⤷ Clero → orar e cuidar da salvação das almas e auxiliar o rei na guerra ⤷ Nobreza → combater para assegurar a defesa da sociedade ⤷ Povo → trabalhar para o sustento de todos
+O clero e a nobreza eram grupos privilegiados → possuíam terras e tinham várias regalias e direitos como leis e tribunais próprios.
 
-› Poder senhorial
-¬ As invasões na Europa, entre os séculos VIII e X, criaram um clima de insegurança entre a população. ¬ Os reis mostraram-se incapazes de proteger as populações, e com isso viram o seu poder enfraquecido. ¬ A maioria da população procurou proteção junto dos grandes senhores (clérigos e nobres), que tinham riqueza e força militar. ¬ Diz-se que a população, quase na sua totalidade, passou a estar sujeita ao poder senhorial.
+O povo era um grupo não privilegiado → trabalhavam nas terras dos privilegiados e ainda tinham várias obrigações como o pagamento de impostos.
 
-- ι Poderes dos senhores:
-- ⤷ tinham exércitos próprios ⤷ aplicavam a justiça ⤷ exigiam o pagamento de impostos
+- **Funções dos grupos sociais:**
+- → Clero → orar e cuidar da salvação das almas e auxiliar o rei na guerra → Nobreza → combater para assegurar a defesa da sociedade → Povo → trabalhar para o sustento de todos
 
-› Domínio senhorial
+### Poder senhorial
+As invasões na Europa, entre os séculos VIII e X, criaram um clima de insegurança entre a população.
+
+Os reis mostraram-se incapazes de proteger as populações, e com isso viram o seu poder enfraquecido.
+
+A maioria da população procurou proteção junto dos grandes senhores (clérigos e nobres), que tinham riqueza e força militar.
+
+Diz-se que a população, quase na sua totalidade, passou a estar sujeita ao poder senhorial.
+
+- **Poderes dos senhores:**
+- → tinham exércitos próprios → aplicavam a justiça → exigiam o pagamento de impostos
+
+### Domínio senhorial
 
 - •  Domínio senhorial (ou senhorio):
-- ⤷ propriedade pertencente aos senhores onde era exercido o poder senhorial
-- ι Partes do domínio senhorial:
-- ⤷ reserva:
-- ⤷ parte explorada diretamente pelo senhor ⤷ onde se situava a residência do senhor, o moinho, a igreja, o forno, o lagar, o celeiro e as terras mais férteis
-- ⤷ mansos (ou casais):
-- ⤷ terras exploradas pelos camponeses em troca de várias obrigações
-- ι Obrigações dos camponeses:
-- ⤷ pagamentos de rendas em dinheiro e em géneros (produtos) ⤷ prestação de corveias (trabalho gratuito na reserva) ⤷ pagamentos de banalidades (pelo uso de equipamentos do senhor como o moinho e o forno)
+- → propriedade pertencente aos senhores onde era exercido o poder senhorial
+- **Partes do domínio senhorial:**
+- → reserva:
+- → parte explorada diretamente pelo senhor → onde se situava a residência do senhor, o moinho, a igreja, o forno, o lagar, o celeiro e as terras mais férteis
+- → mansos (ou casais):
+- → terras exploradas pelos camponeses em troca de várias obrigações
+- **Obrigações dos camponeses:**
+- → pagamentos de rendas em dinheiro e em géneros (produtos) → prestação de corveias (trabalho gratuito na reserva) → pagamentos de banalidades (pelo uso de equipamentos do senhor como o moinho e o forno)
 
-¬ Nos domínios senhoriais viviam e trabalhavam camponeses livres – os colonos – e uma maioria de camponeses não livres – os servos. ¬ Os servos não podiam, sem autorização do senhor, abandonar o domínio senhorial, nem casar fora dele.
-› Relações de dependência entre senhores
-¬ Os reis entregavam feudos (terras, dinheiro ou cargos) aos grandes senhores em troca de vassalagem e ajuda militar. ¬ Por sua vez, os senhores mais poderosos também concediam feudos a outros senhores menos poderosos. ¬ Estabeleceram-se assim várias relações de vassalagem, em que o vassalo prestava obediência ao suserano.
+Nos domínios senhoriais viviam e trabalhavam camponeses livres – os colonos – e uma maioria de camponeses não livres – os servos.
 
-- ι Obrigações dos suseranos:
-- ⤷ sustento ⤷ proteção
-- ι Obrigações dos vassalos:
-- ⤷ obediência ⤷ fidelidade ⤷ auxílio militar ⤷ aconselhamento
+Os servos não podiam, sem autorização do senhor, abandonar o domínio senhorial, nem casar fora dele.
+### Relações de dependência entre senhores
+Os reis entregavam feudos (terras, dinheiro ou cargos) aos grandes senhores em troca de vassalagem e ajuda militar.
+
+Por sua vez, os senhores mais poderosos também concediam feudos a outros senhores menos poderosos.
+
+Estabeleceram-se assim várias relações de vassalagem, em que o vassalo prestava obediência ao suserano.
+
+- **Obrigações dos suseranos:**
+- → sustento → proteção
+- **Obrigações dos vassalos:**
+- → obediência → fidelidade → auxílio militar → aconselhamento
 
 » Contrato de vassalagem
-¬ A relação de vassalagem era estabelecida por um acordo chamado contrato de vassalagem.
+A relação de vassalagem era estabelecida por um acordo chamado contrato de vassalagem.
 
-- ι Cerimónias do contrato de vassalagem:
-- ⤷ homenagem:
-- ⤷ o vassalo declara desejar ficar na dependência do suserano
-- ⤷ juramento de fidelidade:
-- ⤷ o vassalo jura obediência e fidelidade ao suserano
-- ⤷ investidura:
-- ⤷ o suserano entrega ao vassalo um objeto que representa o feudo (benefício dado ao vassalo que podia ser dinheiro, um cargo ou terras)
+- **Cerimónias do contrato de vassalagem:**
+- → homenagem:
+- → o vassalo declara desejar ficar na dependência do suserano
+- → juramento de fidelidade:
+- → o vassalo jura obediência e fidelidade ao suserano
+- → investidura:
+- → o suserano entrega ao vassalo um objeto que representa o feudo (benefício dado ao vassalo que podia ser dinheiro, um cargo ou terras)
 - » Sociedade feudal
 
-¬ Ficou definida uma sociedade hierarquizada em que um suserano podia ser vassalo de outro senhor mais poderoso. ¬ O rei era considerado o suserano dos suseranos, pois todos eram seus vassalos. ¬ Esta sociedade ficou conhecida como sociedade feudal.
+Ficou definida uma sociedade hierarquizada em que um suserano podia ser vassalo de outro senhor mais poderoso.
+
+O rei era considerado o suserano dos suseranos, pois todos eram seus vassalos.
+
+Esta sociedade ficou conhecida como sociedade feudal.
 
 - •  Sociedade feudal:
-- ⤷ sociedade hierarquizada com base em várias relações de vassalagem
+- → sociedade hierarquizada com base em várias relações de vassalagem
 - •  Feudalismo:
-- ⤷ sistema político e social correspondente a uma sociedade feudal
+- → sistema político e social correspondente a uma sociedade feudal
 
 
 
@@ -3001,259 +3197,259 @@ Produtos importados por Portugal
 Motivações
 
 - •  Motivações políticas
-- ⤷ rei D. João I → afirmação internacional do poder da nova dinastia
+  - rei D. João I → afirmação internacional do poder da nova dinastia
 - •  Motivações económicas
-- ⤷ burguesia → novos produtos e novos mercados
-- ⤷ nobreza → terras e riquezas
+  - burguesia → novos produtos e novos mercados
+  - nobreza → terras e riquezas
 - •  Motivações religiosas
-- ⤷ clero → expansão do cristianismo
+  - clero → expansão do cristianismo
 - •  Motivações sociais
-- ⤷ nobreza → títulos
-- ⤷ povo → melhores condições de vida
+  - nobreza → títulos
+  - povo → melhores condições de vida
 
 Condições
 
 - •  Condições políticas
-- ⤷ período de paz e estabilidade política
+  - período de paz e estabilidade política
 - •  Condições geográficas
-- ⤷ proximidade às ilhas atlânticas e ao norte de África
-- ⤷ extensa costa marítima com bons portos naturais
+  - proximidade às ilhas atlânticas e ao norte de África
+  - extensa costa marítima com bons portos naturais
 - •  Condições históricas, sociais e científicas
-- ⤷ origem em povos com conhecimentos na arte de navegar
-- ⤷ experiência em navegar devido às atividades piscatórias e ao comércio marítimo
+  - origem em povos com conhecimentos na arte de navegar
+  - experiência em navegar devido às atividades piscatórias e ao comércio marítimo
 - •  Condições técnicas
-- ⤷ instrumentos de navegação astronómica (bússola, quadrante, balestilha, astrolábio)
-- ⤷ portulanos e cartas de marear
-- ⤷ nova embarcação, a caravela, com velas triangulares, que permitia bolinar (navegar com ventos contrários)
+  - instrumentos de navegação astronómica (bússola, quadrante, balestilha, astrolábio)
+  - portulanos e cartas de marear
+  - nova embarcação, a caravela, com velas triangulares, que permitia bolinar (navegar com ventos contrários)
 
 Início da expansão portuguesa
 
 - •  Primeira conquista portuguesa
-- ⤷ 1415 → Ceuta, no norte de África, junto ao estreito de Gibraltar
+  - 1415 → Ceuta, no norte de África, junto ao estreito de Gibraltar
 - •  Razões para esta conquista
-- ⤷ região rica em cereais ⤷ ponto de chegada das rotas de caravanas que traziam o ouro do sul de África
-- ⤷ ponto estratégico para controlar o comércio entre o Oceano Atlântico e o mar Mediterrâneo ⤷ enfraquecimento da pirataria muçulmana
-- ⤷ expansão do cristianismo
+  - região rica em cereais → ponto de chegada das rotas de caravanas que traziam o ouro do sul de África
+  - ponto estratégico para controlar o comércio entre o Oceano Atlântico e o mar Mediterrâneo → enfraquecimento da pirataria muçulmana
+  - expansão do cristianismo
 - •  O que se sucedeu após a conquista de Ceuta
-- ⤷ devido aos ataques frequentes à cidade, os campos de cultivo foram abandonados
-- ⤷ as rotas do ouro foram desviadas
-- ⤷ tornou-se dispendiosa a defesa deste território
+  - devido aos ataques frequentes à cidade, os campos de cultivo foram abandonados
+  - as rotas do ouro foram desviadas
+  - tornou-se dispendiosa a defesa deste território
 - •  Resultados económicos desta conquista
-- ⤷ não teve grande proveito económico devido aos elevados custos com a defesa contra os ataques muçulmanos e devido ao desvio das rotas comerciais
+  - não teve grande proveito económico devido aos elevados custos com a defesa contra os ataques muçulmanos e devido ao desvio das rotas comerciais
 
 Rumos da expansão portuguesa
 
 - •  Duas posições acerca do rumo da expansão a seguir
-- ⤷ nobreza
-- ⤷ novas expedições no norte de África
-- ⤷ pretendia obter terras, rendas e tíulos
-- ⤷ burguesia
-- ⤷ exploração marítima da costa africana
-- ⤷ pretendia chegar aos locais de origem dos produtos mais cobiçados
+  - nobreza
+  - novas expedições no norte de África
+  - pretendia obter terras, rendas e tíulos
+  - burguesia
+  - exploração marítima da costa africana
+  - pretendia chegar aos locais de origem dos produtos mais cobiçados
 - •  Rumo que prevaleceu
-- ⤷ Viagens de descoberta para sul
+  - Viagens de descoberta para sul
 
 Redescobrimento da Madeira e dos Açores
 
 - •  Redescobrimento da Madeira
-- ⤷ 1419 → Porto Santo (João Gonçalves Zarco e Tristão Vaz Teixeira)
-- ⤷ 1420 → Ilha da Madeira (João Gonçalves Zarco, Tristão Vaz Teixeira e Bartolomeu Perestrelo)
+  - 1419 → Porto Santo (João Gonçalves Zarco e Tristão Vaz Teixeira)
+  - 1420 → Ilha da Madeira (João Gonçalves Zarco, Tristão Vaz Teixeira e Bartolomeu Perestrelo)
 - •  Redescobrimento dos Açores
-- ⤷ 1427 → Santa Maria e São Miguel (Diogo de Silves)
+  - 1427 → Santa Maria e São Miguel (Diogo de Silves)
 - •	•  Produtos explorados na Madeira
-- ⤷ cereais, vinha, plantas tintureiras e açucar
+  - cereais, vinha, plantas tintureiras e açucar
 - •  Produtos explorados nos Açores
-- ⤷ cereais, plantas tintureiras e gado
+  - cereais, plantas tintureiras e gado
 - •  Sistema de exploração nos arquipélagos atlânticos
-- ⤷ capitanias, entregues a capitães-donatários (nobre com poderes administrativos, judiciais e militares) para povoar as terras e desenvolver a sua exploração
+  - capitanias, entregues a capitães-donatários (nobre com poderes administrativos, judiciais e militares) para povoar as terras e desenvolver a sua exploração
 
 1ª fase da exploração da costa africana – Período Henriquino
 
 - •  Principal responsável pelas primeiras expedições marítimas
-- ⤷ infante D. Henrique, filho de D. João I
+  - infante D. Henrique, filho de D. João I
 - •  Datas importantes
-- ⤷ 1434 → Passagem do Cabo Bojador (Gil Eanes)
-- ⤷ 1460 → Chegada a Serra Leoa (Pedro de Sintra)
+  - 1434 → Passagem do Cabo Bojador (Gil Eanes)
+  - 1460 → Chegada a Serra Leoa (Pedro de Sintra)
 - •  Produtos explorados em África
-- ⤷ escravos, ouro, marfim e malagueta
+  - escravos, ouro, marfim e malagueta
 - •  Sistema de exploração em África
-- ⤷ feitorias (entrepostos comerciais, geralmente fortificados, dirigidos por um funcionário régio)
+  - feitorias (entrepostos comerciais, geralmente fortificados, dirigidos por um funcionário régio)
 
 2ª fase da exploração da costa africana – Arrendamento a Fernão Gomes
 
 - •  Política de D. Afonso V
-- ⤷ expedições militares no norte de África
+  - expedições militares no norte de África
 - •  Datas importantes
-- ⤷ 1458 → Conquista de Alcácer Ceguer
-- ⤷ 1471 → Conquista de Arzila e Tânger
+  - 1458 → Conquista de Alcácer Ceguer
+  - 1471 → Conquista de Arzila e Tânger
 - •  Responsável pelas expedições marítimas durante o reinado de D. Afonso V
-- ⤷ Fernão Gomes, um rico mercador de Lisboa
+  - Fernão Gomes, um rico mercador de Lisboa
 - •  Contrato de arrendamento
-- ⤷ Fernão Gomes podia fazer comércio nas terras que descobrisse
-- ⤷ em troca:
-- ⤷ pagava uma importância em dinheiro
-- ⤷ estava obrigado a descobrir, para sul, em cada ano, cem léguas de costa
+  - Fernão Gomes podia fazer comércio nas terras que descobrisse
+  - em troca:
+  - pagava uma importância em dinheiro
+  - estava obrigado a descobrir, para sul, em cada ano, cem léguas de costa
 - •  Regiões exploradas por Fernão Gomes
-- ⤷ todo o Golfo da Guiné, incluindo a costa da Mina, onde foi possível adquirir bastante ouro (feitoria de São Jorge da Mina)
-- ⤷ 1474 → chegada ao cabo de Santa Catarina
+  - todo o Golfo da Guiné, incluindo a costa da Mina, onde foi possível adquirir bastante ouro (feitoria de São Jorge da Mina)
+  - 1474 → chegada ao cabo de Santa Catarina
 
 3ª fase de exploração da costa africana – Política de D. João II
 
 - •  Responsável pelas expedições marítimas após Fernão Gomes
-- ⤷ D. João II, filho de D. Afonso V
+  - D. João II, filho de D. Afonso V
 - •  Política expansionista de D. João II
-- ⤷ pretendia chegar à Índia por mar
+  - pretendia chegar à Índia por mar
 - •  Datas importantes
-- ⤷ 1482-1486 → exploração da costa africana para sul do Cabo de Santa Catarina (Diogo Cão) ⤷ 1487 → expedição ao Oriente pelo Mediterrâneo e pelo Mar Vermelho para recolha de informações sobre a navegação e o comércio no Índico (Pero da Covilhã e Afonso de Paiva)
-- ⤷ 1488 → passagem do cabo da Boa Esperança (Bartolomeu Dias)
+  - 1482-1486 → exploração da costa africana para sul do Cabo de Santa Catarina (Diogo Cão) → 1487 → expedição ao Oriente pelo Mediterrâneo e pelo Mar Vermelho para recolha de informações sobre a navegação e o comércio no Índico (Pero da Covilhã e Afonso de Paiva)
+  - 1488 → passagem do cabo da Boa Esperança (Bartolomeu Dias)
 
 Rivalidade luso-castelhana
 
 - •  Tratado de Alcáçovas
-- ⤷ 1479 → Portugal e Castela disputaram a posse das Canárias e, para resolver esse conflito, assinaram o Tratado de Alcáçovas
-- ⤷ ficou estabelecido que Portugal desistia desses territórios mas, em troca, ficava com o domínio exclusivo dos territórios a sul dessas ilhas
+  - 1479 → Portugal e Castela disputaram a posse das Canárias e, para resolver esse conflito, assinaram o Tratado de Alcáçovas
+  - ficou estabelecido que Portugal desistia desses territórios mas, em troca, ficava com o domínio exclusivo dos territórios a sul dessas ilhas
 - •  Descoberta da América
-- ⤷ 1492 → Cristóvão Colombo, a serviço de Castela, descobre a América (chega às Antilhas) quando tentava chegar à Índia pelo Ocidente
+  - 1492 → Cristóvão Colombo, a serviço de Castela, descobre a América (chega às Antilhas) quando tentava chegar à Índia pelo Ocidente
 - • Tratado de Tordesilhas
-- ⤷ 1494 → de acordo com o Tratado de Alcáçovas, esses territórios deveriam pertencer a Portugal, surgindo assim um novo conflito e resolvido com o Tratado de Tordesilhas
-- ⤷ ficou estabelecida a divisão do mundo em duas partes, tendo como referência um meridiano que passava a 370 léguas de Cabo Verde:
-- ⤷ a este desse meridiano, as terras descobertas ou a serem descobertas pertenceriam a Portugal
-- ⤷ a oeste, pertenceriam a Castela
+  - 1494 → de acordo com o Tratado de Alcáçovas, esses territórios deveriam pertencer a Portugal, surgindo assim um novo conflito e resolvido com o Tratado de Tordesilhas
+  - ficou estabelecida a divisão do mundo em duas partes, tendo como referência um meridiano que passava a 370 léguas de Cabo Verde:
+  - a este desse meridiano, as terras descobertas ou a serem descobertas pertenceriam a Portugal
+  - a oeste, pertenceriam a Castela
 
 Política de Mare Clausum (mar fechado)
 
 - •  Mare clausum
-- ⤷ estabelecimento de duas áreas de exploração geográfica e económica, exclusivas a Portugal e Castela, estando os outros países europeus sem acesso a elas
+  - estabelecimento de duas áreas de exploração geográfica e económica, exclusivas a Portugal e Castela, estando os outros países europeus sem acesso a elas
 
 Expansão no reinado de D. Manuel I
 
 - •  Chegada à Índia
-- ⤷ 1498 → chegada à Índia, a Calecute (Vasco da Gama)
-- ⤷ pela primeira vez, a Europa ligava-se por mar à Ásia, através da rota do Cabo
+  - 1498 → chegada à Índia, a Calecute (Vasco da Gama)
+  - pela primeira vez, a Europa ligava-se por mar à Ásia, através da rota do Cabo
 - •	•  Descoberta do Brasil
-- ⤷ 1500 → uma nova armada, sob o domínio de Pedro Álvares Cabral, foi enviada para a Índia para impor o domínio português no Oriente. No entanto, os navios sofreram um grande desvio para sudoeste e chegaram assim ao Brasil
+  - 1500 → uma nova armada, sob o domínio de Pedro Álvares Cabral, foi enviada para a Índia para impor o domínio português no Oriente. No entanto, os navios sofreram um grande desvio para sudoeste e chegaram assim ao Brasil
 - •  Produtos explorados na Índia
-- ⤷ especiarias, sedas e perfumes
+  - especiarias, sedas e perfumes
 - •  Sistema de exploração no Oriente
-- ⤷ administração por vice-reis e feitorias
+  - administração por vice-reis e feitorias
 - •  Política de Francisco de Almeida, primeiro vice-rei da Índia
-- ⤷ domínio dos mares, exigindo licenças de navegação a todos os barcos que navegassem no Índico
+  - domínio dos mares, exigindo licenças de navegação a todos os barcos que navegassem no Índico
 - •  Política de Afonso de Albuquerque, segundo vice-rei da Índia
-- ⤷ domínio dos mares e conquista territorial de cidades estratégicas como Ormuz, Goa e Malaca
+  - domínio dos mares e conquista territorial de cidades estratégicas como Ormuz, Goa e Malaca
 - •  Monopólio régio
-- ⤷ o comércio de todas as mercadorias estava sob controlo direto da coroa
-- ⤷ foi criado em Lisboa um organismo oficial, a Casa da índia, que organizava as armadas, controlava o comércio entre Portugal e o Oriente e era onde se vendiam as mercadorias recebidas
+  - o comércio de todas as mercadorias estava sob controlo direto da coroa
+  - foi criado em Lisboa um organismo oficial, a Casa da índia, que organizava as armadas, controlava o comércio entre Portugal e o Oriente e era onde se vendiam as mercadorias recebidas
 - •  Produtos explorados no Brasil
-- ⤷ pau-brasil, aves exóticas e açúcar
+  - pau-brasil, aves exóticas e açúcar
 - •  Sistema de exploração no Brasil (já no reinado de D. João III)
-- ⤷ capitanias e, mais tarde, devido às rivalidades entre os vários capitães-donatários e dificuldade em resistir aos ataques frequentes de índios e franceses, Tomé de Sousa foi nomeado primeiro governador-geral do Brasil (1549)
+  - capitanias e, mais tarde, devido às rivalidades entre os vários capitães-donatários e dificuldade em resistir aos ataques frequentes de índios e franceses, Tomé de Sousa foi nomeado primeiro governador-geral do Brasil (1549)
 - •  Tráfico de escravos
-- ⤷ a população indígena não se adaptou à exigência do trabalho nos engenhos, para a produção de açúcar, o que levou a um intenso tráfico de escravos da África para a América, sendo transportados em condições desumanas
+  - a população indígena não se adaptou à exigência do trabalho nos engenhos, para a produção de açúcar, o que levou a um intenso tráfico de escravos da África para a América, sendo transportados em condições desumanas
 
 1.2 A expansão espanhola
 Características da conquista e exploração espanhola na América Central e do Sul
 
 - •  Razões para uma conquista rápida e violenta
-- ⤷ ataques surpresa
-- ⤷ superioridade militar (utilização de armas de fogo)
-- ⤷ alianças com tribos índias
+  - ataques surpresa
+  - superioridade militar (utilização de armas de fogo)
+  - alianças com tribos índias
 - •  Principais chefes militares
-- ⤷ Fernando Cortez → venceu os Astecas, no México ⤷ Francisco Pizarro → venceu os Incas, no Perú
+  - Fernando Cortez → venceu os Astecas, no México → Francisco Pizarro → venceu os Incas, no Perú
 - •  Riquezas obtidas
-- ⤷ saque dos tesouros ameríndios
-- ⤷ exploração das minas de ouro e prata
+  - saque dos tesouros ameríndios
+  - exploração das minas de ouro e prata
 - •  Sistema de exploração
-- ⤷ administração por vice-reis
+  - administração por vice-reis
 - •  Conselho das Índias
-- ⤷ organismo em Espanha que detinha o monopólio comercial de todos os produtos americanos negociados na Casa da Contratação, em Sevilha, de onde eram vendidos para o resto da Europa
+  - organismo em Espanha que detinha o monopólio comercial de todos os produtos americanos negociados na Casa da Contratação, em Sevilha, de onde eram vendidos para o resto da Europa
 
 Consequências para as populações locais
 
 - •  Diminuição da população índia
-- ⤷ devido à violência da conquista ⤷ devido à dureza do trabalho obrigatório nas minas ⤷ devido às doenças levadas pelos colonizadores
+  - devido à violência da conquista → devido à dureza do trabalho obrigatório nas minas → devido às doenças levadas pelos colonizadores
 - •  Conversão ao Cristianismo de grande parte das populações ameríndias
-- ⤷ graças à atividade dos missionários
+  - graças à atividade dos missionários
 
 1.3 Relação entre europeus e as civilizações africanas, ameríndias e asiáticas
 Características das principais civilizações de África, América e Ásia à chegada dos Europeus
 
 - •  Em África
-- ⤷ a maior parte eram comunidades recoletoras e comunidades produtoras
-- ⤷ havia também alguns estados, reinos e impérios
-- ⤷ o Norte de África era islâmico, apenas o reino da Etiópia era cristão
+  - a maior parte eram comunidades recoletoras e comunidades produtoras
+  - havia também alguns estados, reinos e impérios
+  - o Norte de África era islâmico, apenas o reino da Etiópia era cristão
 - •  Na América
-- ⤷ a maior parte eram comunidades recoletoras e comunidades produtoras
-- ⤷ tinha como civilizações mais desenvolvidas os Maias, Astecas e Incas
+  - a maior parte eram comunidades recoletoras e comunidades produtoras
+  - tinha como civilizações mais desenvolvidas os Maias, Astecas e Incas
 - •  Na Ásia
-- ⤷ civilizações desenvolvidas e poderosas
-- ⤷ grande desenvolvimento técnico e urbano
-- ⤷ existência de reinos, principados e grandes impérios como a Pérsia e a China
-- ⤷ tinham como principais religiões o Hinduísmo, o Budismo e o Islamismo
+  - civilizações desenvolvidas e poderosas
+  - grande desenvolvimento técnico e urbano
+  - existência de reinos, principados e grandes impérios como a Pérsia e a China
+  - tinham como principais religiões o Hinduísmo, o Budismo e o Islamismo
 
 Como os europeus trataram os Africanos e os Índios
 
 - •  Submissão dos povos
-- ⤷ trabalhos forçados ⤷ escravatura
-- ⤷ tráfico
+  - trabalhos forçados → escravatura
+  - tráfico
 - •  Missionação
-- ⤷ sobretudo na América, os padres jesuítas obrigaram os povos a converterem-se ao cristianismo, embora tenham desenvolvido também a sua instrução e defenderam essas comunidades
+  - sobretudo na América, os padres jesuítas obrigaram os povos a converterem-se ao cristianismo, embora tenham desenvolvido também a sua instrução e defenderam essas comunidades
 
 Encontro de culturas
 
 - •  Aculturação
-- ⤷ contacto de diferentes culturas
+  - contacto de diferentes culturas
 - •  Assimilação
-- ⤷ adoção de hábitos e atitudes de uma cultura vivendo nesse ambiente
+  - adoção de hábitos e atitudes de uma cultura vivendo nesse ambiente
 - •  Comunidades mestiças
-- ⤷ os povos que sofreram maior influência da cultura europeia foram os ameríndios e os africanos, sobretudo na religião, na língua e nos costumes, dando origem a comunidades mestiças
+  - os povos que sofreram maior influência da cultura europeia foram os ameríndios e os africanos, sobretudo na religião, na língua e nos costumes, dando origem a comunidades mestiças
 - •  Miscigenação
-- ⤷ casamentos entre diferentes povos
-- ⤷ aconteceu na Ásia, entre europeus e mulheres indianas
+  - casamentos entre diferentes povos
+  - aconteceu na Ásia, entre europeus e mulheres indianas
 
 1.4 A mundialização do comércio
 As grandes rotas do comércio mundial no século XVI
 
 - •  Rota do Cabo
-- ⤷ ligava a Europa (Lisboa) à Ásia (Índia), contornando o continente africano
+  - ligava a Europa (Lisboa) à Ásia (Índia), contornando o continente africano
 - •  Rotas do Extremo Oriente
-- ⤷ ligava a Índia a várias zonas do Extremo Oriente, como Japão, China e ilhas da atual Indonésia
+  - ligava a Índia a várias zonas do Extremo Oriente, como Japão, China e ilhas da atual Indonésia
 - •  Rotas atlânticas
-- ⤷ ligava Lisboa a África e ao Brasil e, também, Sevilha à América Central
+  - ligava Lisboa a África e ao Brasil e, também, Sevilha à América Central
 - •  Rota de Manila
-- ⤷ estendia-se pelo oriente, desde Manila até ao atual México
+  - estendia-se pelo oriente, desde Manila até ao atual México
 
 Centros do comércio intercontinental nos séculos XV e XVI
 
 - •  Principais centros de comércio
-- ⤷ Lisboa
-- ⤷ Sevilha
+  - Lisboa
+  - Sevilha
 - •  Importância da Antuérpia
-- ⤷ devido à sua localização geográfica favorável, a partir da Antuérpia eram distribuídos produtos para a Europa do Norte, Central e do Sul
-- ⤷ graças à sua importância, os Portugueses fundaram uma feitoria na Antuérpia, que funcionava como uma extensão da Casa da Índia
-- ⤷ a esta cidade afluíam mercadores e banqueiros em busca de oportunidades de negócio
+  - devido à sua localização geográfica favorável, a partir da Antuérpia eram distribuídos produtos para a Europa do Norte, Central e do Sul
+  - graças à sua importância, os Portugueses fundaram uma feitoria na Antuérpia, que funcionava como uma extensão da Casa da Índia
+  - a esta cidade afluíam mercadores e banqueiros em busca de oportunidades de negócio
 - •  Outros centros de comércio europeu
-- ⤷ Veneza, Génova, Florença
-- ⤷ regiões da Alemanha, Inglaterra e França
+  - Veneza, Génova, Florença
+  - regiões da Alemanha, Inglaterra e França
 - O desenvolvimento da burguesia
 - •  Enriquecimento de mercadores e banqueiros
-- ⤷ os grandes lucros do comércio colonial promoveram a acumulação de capital, o que possibilitou a formação de companhias de comércio, e o enriquecimento de grandes mercadores e banqueiros italianos , flamengos e alemães
+  - os grandes lucros do comércio colonial promoveram a acumulação de capital, o que possibilitou a formação de companhias de comércio, e o enriquecimento de grandes mercadores e banqueiros italianos , flamengos e alemães
 
 Em Portugal, a burguesia não teve o mesmo desenvolvimento devido à política do monopólio régio.
 Fenómeno de globalização
 
 - •  Globalização
-- ⤷ processo de aproximação entre as diversas sociedades e nações do mundo no âmbito económico, social, cultural ou político
+  - processo de aproximação entre as diversas sociedades e nações do mundo no âmbito económico, social, cultural ou político
 
 Alterações no consumo e hábitos dos Europeus
 
 - •  Novos produtos e hábitos alimentares
-- ⤷ de África → malagueta, café
-- ⤷ de Ásia → especiarias (cravinho, noz-moscada, pimenta, canela), chá
-- ⤷ da América → açúcar, milho maís, ananás, cacau
-- ⤷ generalizou-se ainda o consumo de tomate, feijão e banana
+  - de África → malagueta, café
+  - de Ásia → especiarias (cravinho, noz-moscada, pimenta, canela), chá
+  - da América → açúcar, milho maís, ananás, cacau
+  - generalizou-se ainda o consumo de tomate, feijão e banana
 - •  Novos hábitos
-- ⤷ os grupos mais privilegiados tinham mobiliário requintado, adornos, porcelanas, pedras preciosas, vestuário em tecidos de luxo, usavam perfumes do Oriente e objetos de marfim e ouro de África
-- ⤷ generalizou-se ainda o consumo de tabaco
+  - os grupos mais privilegiados tinham mobiliário requintado, adornos, porcelanas, pedras preciosas, vestuário em tecidos de luxo, usavam perfumes do Oriente e objetos de marfim e ouro de África
+  - generalizou-se ainda o consumo de tabaco
 
 
 RENASCIMENTO
@@ -4550,11 +4746,11 @@ GEOGRAFIA
 Definição de Geografia
 
 - •  Geografia
-- ⤷ ciência que estuda a localização, a distribuição e a inter-relação entre os fenómenos naturais e humanos que ocorrem na superfície terrestre
+  - ciência que estuda a localização, a distribuição e a inter-relação entre os fenómenos naturais e humanos que ocorrem na superfície terrestre
 - •  Geografia Física
-- ⤷ ramo da Geografia que estuda os fenómenos naturais que ocorrem na superfície terrestre
+  - ramo da Geografia que estuda os fenómenos naturais que ocorrem na superfície terrestre
 - •  Geografia Humana
-- ⤷ ramo da Geografia que estuda os fenómenos humanos que ocorrem na superfície terrestre
+  - ramo da Geografia que estuda os fenómenos humanos que ocorrem na superfície terrestre
 
 Método da Geografia
 
@@ -4567,9 +4763,9 @@ Método da Geografia
 Técnicas de observação
 
 - •  Observação direta
-- ⤷ no local
+  - no local
 - •  Observação indireta
-- ⤷ através de mapas, gráficos, bases de dados, imagens, fotografias, livros, filmes, internet, etc…
+  - através de mapas, gráficos, bases de dados, imagens, fotografias, livros, filmes, internet, etc…
 
 Objeto de estudo da Geografia
 A Geografia tem como objeto de estudo a Terra, mais concretamente a superfície terrestre, constituída por uma grande diversidade de paisagens.
@@ -4577,41 +4773,41 @@ A Geografia tem como objeto de estudo a Terra, mais concretamente a superfíci
 Definição de paisagem
 
 - •  Paisagem
-- ⤷ espaço dinâmico constituído por elementos naturais e/ou humanos acessíveis à observação numa dada área da superfície terrestre
+  - espaço dinâmico constituído por elementos naturais e/ou humanos acessíveis à observação numa dada área da superfície terrestre
 
 Como descrever uma paisagem
 
 - •  Planos de observação
-- ⤷ plano inferior (primeiro plano) ⤷ plano intermédio
-- ⤷ plano superior (plano de fundo)
+  - plano inferior (primeiro plano) → plano intermédio
+  - plano superior (plano de fundo)
 - •	•  Elementos da paisagem
-- ⤷ naturais → relacionados com a natureza e sem intervenção humana ⤷ humanos → se resultam da ação humana
+  - naturais → relacionados com a natureza e sem intervenção humana → humanos → se resultam da ação humana
 
 Como representar uma paisagem
 
 - •  Esboço de paisagem
-- ⤷ representação esquemática e simplificada de uma paisagem, realçando os seus elementos mais significativos
+  - representação esquemática e simplificada de uma paisagem, realçando os seus elementos mais significativos
 
 Como classificar uma paisagem
 
 - •  Paisagem natural
-- ⤷ sem intervenção humana
+  - sem intervenção humana
 - •  Paisagem humanizada
-- ⤷ com marcas significativas da presença humana
+  - com marcas significativas da presença humana
 
 Unidades de paisagem e multifuncionalidade
 
 - •  Unidades de paisagem
-- ⤷ áreas espacialmente homogéneas quanto aos fatores humanos e/ou fatores naturais
+  - áreas espacialmente homogéneas quanto aos fatores humanos e/ou fatores naturais
 - •  Multifuncionalidade
-- ⤷ espaço onde coexiste uma diversidade de funções
+  - espaço onde coexiste uma diversidade de funções
 
 Humanização das paisagens
 
 - •  Fatores de humanização das paisagens
-- ⤷ movimentos migratórios ⤷ industrialização
-- ⤷ desenvolvimento dos transportes e das vias de comunicação ⤷ aumento da população mundial
-- ⤷ expansão urbana ⤷ exploração dos recursos naturais
+  - movimentos migratórios → industrialização
+  - desenvolvimento dos transportes e das vias de comunicação → aumento da população mundial
+  - expansão urbana → exploração dos recursos naturais
 
 FORMAS DE REPRESENTAÇÃO DA SUPERFÍCIE TERRESTRE
 
