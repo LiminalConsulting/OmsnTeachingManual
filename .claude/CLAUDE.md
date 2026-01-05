@@ -127,7 +127,7 @@ conda activate manim
 3. Generate manim Python code (Light + Dark classes)
 4. Render PNG
 5. **View output and iterate if needed** (max 3 attempts)
-6. Copy to `manuals/<subject>/images/`
+6. Copy to `subjects/<subject>/manual/images/`
 7. Insert markdown figure at correct location
 8. Report: SUCCESS / SKIPPED / FLAGGED
 
@@ -165,13 +165,13 @@ conda activate manim
 
 For creating one visualization manually:
 
-1. Write manim scene in `visualizations/<concept_slug>.py`
+1. Write manim scene in `subjects/math/visualizations/<concept_slug>.py`
 2. Render:
    ```bash
    eval "$(/opt/homebrew/Caskroom/miniconda/base/bin/conda shell.zsh hook)" && conda activate manim && manim -qh -s <file>.py <SceneName>Light -o <name>_light.png
    ```
 3. View output with Read tool
 4. Iterate if needed
-5. Copy to manual: `cp visualizations/media/images/.../<name>_light.png manuals/<subject>/images/<name>.png`
+5. Copy to manual: `cp subjects/math/visualizations/media/images/.../<name>_light.png subjects/math/manual/images/<name>.png`
 6. Insert in markdown: `![Caption](images/<name>.png){width=X%}`
 7. Build PDF: `./generate_pdf.sh`
