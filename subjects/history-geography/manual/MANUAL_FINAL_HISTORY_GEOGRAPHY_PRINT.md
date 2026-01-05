@@ -116,24 +116,24 @@ Os Romanos na Península Ibérica
 Os Muçulmanos na Península Ibérica
 A formação do reino de Portugal
  
-PORTUGAL DO SÉCULO XII AO SÉCULO XVII
+## PORTUGAL DO SÉCULO XII AO SÉCULO XVII
 Portugal nos séculos XIII e XIV
 Portugal nos séculos XV e XVI
 Portugal: da União Ibérica à restauração da independência
 
 
-PORTUGAL DO SÉCULO XVIII AO SÉCULO XIX
+## PORTUGAL DO SÉCULO XVIII AO SÉCULO XIX
 O império português, o poder absoluto, a sociedade de ordens e a arte no século XVIII
 A Revolução Francesa de 1789 e seus reflexos em Portugal
 Portugal na segunda metade do século XIX
  
-PORTUGAL DO SÉCULO XX
+## PORTUGAL DO SÉCULO XX
 Da Revolução Republicana de 1910 à Ditadura Militar de 1926
 O Estado Novo (1933-1974)
 O 25 de abril de 1974 e o regime democrático
 Espaços em que Portugal se integra
  
-PORTUGAL HOJE
+## PORTUGAL HOJE
 A população portuguesa
 Os lugares onde vivemos
 Atividades que desenvolvemos
@@ -170,7 +170,7 @@ A PENÍNSULA IBÉRICA – LOCALIZAÇÃO
  
  
  
-A PENÍNSULA IBÉRICA NA EUROPA E NO MUNDO
+## A PENÍNSULA IBÉRICA NA EUROPA E NO MUNDO
  
  
 Limites da Península Ibérica
@@ -194,7 +194,7 @@ PENÍNSULA IBÉRICA – QUADRO NATURAL
  
  
  
-CARACTERÍSTICAS NATURAIS DA PENÍNSULA IBÉRICA
+## CARACTERÍSTICAS NATURAIS DA PENÍNSULA IBÉRICA
  
  
 Relevo
@@ -271,11 +271,11 @@ Sobre o tipo de vegetação que existe na Península ibérica podemos distinguir
 - Ibéria seca: florestas de folha persistente, matagais e arbustos. Junto à costa predominam as palmeiras, as piteiras e os cactos.
 
 
-AS PRIMEIRAS COMUNIDADES HUMANAS DA PENÍNSULA IBÉRICA
+## AS PRIMEIRAS COMUNIDADES HUMANAS DA PENÍNSULA IBÉRICA
  
  
  
-OS RECURSOS NATURAIS E A OCUPAÇÃO HUMANA
+## OS RECURSOS NATURAIS E A OCUPAÇÃO HUMANA
  
  
 As primeiras comunidades recoletoras
@@ -314,7 +314,7 @@ Estes povos dedicavam-se ao comércio. Na Península Ibérica encontraram meta
 Deixaram-nos novas ideias e costumes e deram a conhecer o alfabeto fenício, a moeda grega e a conservação dos alimentos pelo sal.
 
 
-OS ROMANOS NA PENÍNSULA IBÉRICA
+## OS ROMANOS NA PENÍNSULA IBÉRICA
  
  
  
@@ -335,7 +335,7 @@ Entretanto não foi só conquistada a Península Ibérica, mas sim um conjunto d
  
  
  
-A PENÍNSULA IBÉRICA ROMANIZADA
+## A PENÍNSULA IBÉRICA ROMANIZADA
  
  
 Herança romana
@@ -362,11 +362,11 @@ Para fazer corresponder os anos aos séculos há duas regras bastante simples:
 - quando o ano não termina em dois zeros, acrescenta-se uma unidade ao número das centenas. Ex: 1548, séc. XVI
 
 
-OS MUÇULMANOS NA PENÍNSULA IBÉRICA
+## OS MUÇULMANOS NA PENÍNSULA IBÉRICA
  
  
  
-A OCUPAÇÃO MUÇULMANA
+## A OCUPAÇÃO MUÇULMANA
  
  
 O profeta Maomet e o Islamismo
@@ -393,7 +393,7 @@ Muito rapidamente (em cerca de dois anos) os Muçulmanos ocuparam praticamente t
 Esta ocupação foi realizada através do uso de armas mas, em muitos casos, faziam-se acordos com os visigodos que lhes permitiam viver em paz e confraternizar, desde que se submetessem aos novos conquistadores.
 
  
-CRISTÃOS E MUÇULMANOS NO PERÍODO DA RECONQUISTA CRISTÃ
+## CRISTÃOS E MUÇULMANOS NO PERÍODO DA RECONQUISTA CRISTÃ
  
  
 A resistência cristã
@@ -415,7 +415,7 @@ Foram precisos quase 800 anos para o conseguirem. Entretanto também houve perí
  
  
  
-A HERANÇA MUÇULMANA
+## A HERANÇA MUÇULMANA
  
  
 Influência muçulmana nos povos peninsulares
@@ -432,7 +432,7 @@ As principais marcas muçulmanas foram:
 - cerca de 600 palavras, a maior parte começadas por al.
 
 
-A FORMAÇÃO DO REINO DE PORTUGAL
+## A FORMAÇÃO DO REINO DE PORTUGAL
  
  
  
@@ -492,7 +492,7 @@ Só em 1179 é que houve o reconhecimento por parte do papa Alexandre III atra
  
  
  
-O REINO DE PORTUGAL E DO ALGARVE
+## O REINO DE PORTUGAL E DO ALGARVE
  
  
 Alargamento do território e definição de fronteiras
@@ -550,12 +550,12 @@ Produção artesanal:
 
 
 
-PORTUGAL DO SÉCULO XII AO SÉCULO XVII
-PORTUGAL NOS SÉCULOS XIII E XIV
+## PORTUGAL DO SÉCULO XII AO SÉCULO XVII
+## PORTUGAL NOS SÉCULOS XIII E XIV
  
  
  
-A VIDA QUOTIDIANA NO SÉCULO XIII
+## A VIDA QUOTIDIANA NO SÉCULO XIII
  
  
 Ordens sociais
@@ -706,7 +706,7 @@ Entretanto, só em 1411 o problema com Castela ficou resolvido com um tratado d
 Muito do que sabemos sobre o que aconteceu neste período deve-se a Fernão Lopes através das suas crónicas sobre o que se passava no reino da época.
  
 
-PORTUGAL NOS SÉCULOS XV E XVI
+## PORTUGAL NOS SÉCULOS XV E XVI
  
  
  
@@ -783,7 +783,7 @@ Quando Vasco da Gama chega à Índia, os portugueses foram no início bem recebi
  
  
  
-O IMPÉRIO PORTUGUÊS NO SÉCULO XVI
+## O IMPÉRIO PORTUGUÊS NO SÉCULO XVI
  
 No fim do século XVI, Portugal tinha um império de grande extensão. Possuía territórios na África, Ásia e na América mais as ilhas atlânticas.
  
@@ -944,7 +944,7 @@ Surgiram então vários pretendentes ao trono:
  
  
  
-O DOMÍNIO FILIPINO E OS LEVANTAMENTOS POPULARES
+## O DOMÍNIO FILIPINO E OS LEVANTAMENTOS POPULARES
  
  
 União Ibérica (1580)
@@ -1072,7 +1072,7 @@ Povo
  
  
  
-GRANDES CONSTRUÇÕES
+## GRANDES CONSTRUÇÕES
  
 Parte das riquezas obtidas com o ouro brasileiro foi gasta na construção de grandes palácios e conventos.
  
@@ -1105,7 +1105,7 @@ Características do estilo barroco:
  
  
  
-LISBOA POMBALINA
+## LISBOA POMBALINA
  
  
 Governo de D. José I
@@ -1173,7 +1173,7 @@ A REVOLUÇÃO FRANCESA DE 1789 E SEUS REFLEXOS EM PORTUGAL
  
  
  
-REVOLUÇÃO FRANCESA
+## REVOLUÇÃO FRANCESA
  
 Em 1789 aconteceu a Revolução Francesa que pôs fim à Monarquia Absoluta em França. Esta revolução tinha como princípios a igualdade, a liberdade e a separação dos poderes (liberalismo).
 No entanto, os reis europeus absolutistas sentiram-se ameaçados com estas ideias liberais, uniram-se e declararam guerra à França.
@@ -1187,7 +1187,7 @@ A família real, com medo de ser presa pelas tropas francesas, parte para o Bras
  
  
  
-INVASÕES FRANCESAS EM PORTUGAL
+## INVASÕES FRANCESAS EM PORTUGAL
  
  
 1ª invasão francesa (1807)
@@ -1234,12 +1234,12 @@ Foram criadas as Cortes Constituintes, que tiveram a função de criar a Cons
  
  
  
-INDEPENDÊNCIA DO BRASIL
+## INDEPENDÊNCIA DO BRASIL
 O rei D. João VI regressou a Portugal, ficando o seu filho D. Pedro na regência do Brasil. Durante a permanência do rei o Brasil teve um grande desenvolvimento e os portos foram abertos aos comerciantes estrangeiros o que favoreceu a burguesia brasileira. Estes apoiaram D. Pedro que declarou a independência do Brasil em 1822.
  
  
  
-A LUTA ENTRE LIBERAIS E ABSOLUTISTAS
+## A LUTA ENTRE LIBERAIS E ABSOLUTISTAS
  
 Guerra Civil
 Quando D. João VI morre, D. Pedro sucede-lhe mas abdica do trono para ficar no Brasil. Passa a coroa para a sua filha Maria da Glória mas, como tinha apenas 7 anos, fica como regente o seu irmão D. Miguel.
@@ -1253,11 +1253,11 @@ Só depois de várias derrotas é que D. Miguel assinou a paz através da Conve
 O Liberalismo saiu vitorioso e implantou-se definitivamente no nosso país.
  
 
-PORTUGAL NA SEGUNDA METADE DO SÉCULO XIX
+## PORTUGAL NA SEGUNDA METADE DO SÉCULO XIX
  
  
  
-REGENERAÇÃO
+## REGENERAÇÃO
  
 No início da segunda metade do séc. XIX, o Reino de Portugal encontrava-se pobre e desorganizado, principalmente devido a três acontecimentos:
 
@@ -1335,7 +1335,7 @@ O aumento dos campos de cultivo e o aumento do número de fábricas e de minas p
  
  
  
-O FONTISMO
+## O FONTISMO
  
 Para promover o desenvolvimento da agricultura, do comércio e da indústria, era necessário a construção de uma boa rede de transportes e de comunicações. Com esse fim, em 1852, foi criado o Ministério das Obras Públicas, dirigido por Fontes Pereira de Melo. Esta política de construção de obras públicas (estradas, pontes, portos, caminhos-de-ferro, ligações teleféricas, etc…) ficou conhecida por fontismo, devido ao nome do seu principal impulsionador.
 Surgiram novos meios de transporte e de comunicação, o que permitiu uma maior mobilidade de pessoas, maior circulação de ideias e informações e a deslocação de mais mercadorias em menos tempo.
@@ -1364,7 +1364,7 @@ Surgiu também o telégrafo e mais tarde o telefone.
  
  
  
-MODERNIZAÇÃO DO ENSINO
+## MODERNIZAÇÃO DO ENSINO
  
 O país encontrava-se em modernização, por isso também era necessário que a população se tornasse mais instruída e competente para realizar as mudanças pretendidas. Tomaram-se então várias medidas no ensino:
 
@@ -1379,7 +1379,7 @@ O país encontrava-se em modernização, por isso também era necessário que a 
  
  
  
-DIREITOS HUMANOS
+## DIREITOS HUMANOS
  
 Também foram tomadas importantes medidas relacionadas com os Direitos Humanos:
 
@@ -1389,7 +1389,7 @@ Também foram tomadas importantes medidas relacionadas com os Direitos Humanos:
  
  
  
-OS MOVIMENTOS DA POPULAÇÃO
+## OS MOVIMENTOS DA POPULAÇÃO
  
  
 Contagem da população
@@ -1424,7 +1424,7 @@ Além do Brasil, foram destinos dos portugueses países da América Central e os
  
  
  
-A VIDA QUOTIDIANA NO CAMPO
+## A VIDA QUOTIDIANA NO CAMPO
  
  
 Atividades económicas
@@ -1449,7 +1449,7 @@ Os divertimentos das pessoas do campo estavam associados sobretudo às atividade
  
  
  
-A VIDA QUOTIDIANA NAS GRANDES CIDADES
+## A VIDA QUOTIDIANA NAS GRANDES CIDADES
  
  
 Atividades económicas
@@ -1521,7 +1521,7 @@ As tropas fiéis ao rei eram em maior número mas mesmo assim não conseguiram a
  
  
  
-A I REPÚBLICA
+## A I REPÚBLICA
  
  
 Primeiras medidas republicanas
@@ -1643,7 +1643,7 @@ O ESTADO NOVO (1933-1974)
  
  
  
-SALAZAR E O ESTADO NOVO
+## SALAZAR E O ESTADO NOVO
  
  
 Ascensão política de Salazar
@@ -1693,7 +1693,7 @@ Depois destas eleições, Salazar mudou a lei e criou um colégio eleitoral que 
  
  
  
-A GUERRA COLONIAL
+## A GUERRA COLONIAL
  
 Depois da II Guerra Mundial, os países como a Bélgica, a Inglaterra e a Holanda reconheceram a independência da maioria das suas colónias. No entanto, Salazar não fez o mesmo e a União Indiana e a população africana das colónias portuguesas começaram a revoltar-se contra Portugal.
 
@@ -1739,7 +1739,7 @@ Primeiras medidas do MFA
  
  
  
-A INDEPENDÊNCIA DAS COLÓNIAS
+## A INDEPENDÊNCIA DAS COLÓNIAS
  
  
 Colónias africanas
@@ -1757,7 +1757,7 @@ As colónias do continente asiático tiveram outros destinos:
  
  
  
-RESTABELECIMENTO DA DEMOCRACIA
+## RESTABELECIMENTO DA DEMOCRACIA
  
  
 Constituição de 1976
@@ -1809,11 +1809,11 @@ A Madeira e os Açores têm os seus próprios órgãos de governo:
  
 Apesar de terem órgãos de governo próprios, continuam a estar dependentes do Poder Central, como qualquer outra região de Portugal.
 
-ESPAÇOS EM QUE PORTUGAL SE INTEGRA
+## ESPAÇOS EM QUE PORTUGAL SE INTEGRA
  
  
  
-COMUNIDADES DA EUROPA E DO MUNDO QUE PORTUGAL FAZ PARTE
+## COMUNIDADES DA EUROPA E DO MUNDO QUE PORTUGAL FAZ PARTE
  
  
 União Europeia
@@ -1845,13 +1845,13 @@ Comunidade dos Países de Língua Portuguesa (CPLP)
 Em 1996, criou-se a Comunidade dos Países de Língua Portuguesa de forma a reforçar a cooperação entre os países onde se fala português. Todos os membros desta comunidade já foram colónias portuguesas e agora são nações independentes.
  
 
-PORTUGAL HOJE
+## PORTUGAL HOJE
 
-A POPULAÇÃO PORTUGUESA
+## A POPULAÇÃO PORTUGUESA
  
  
  
-A EVOLUÇÃO DA POPULAÇÃO
+## A EVOLUÇÃO DA POPULAÇÃO
  
  
 Importância dos censos
@@ -1886,7 +1886,7 @@ Na atualidade, a população absoluta portuguesa, ou seja, o número total de 
  
  
  
-A MOBILIDADE DA POPULAÇÃO
+## A MOBILIDADE DA POPULAÇÃO
 A evolução da população absoluta também é influenciada pela emigração (saída de pessoas para o estrangeiro) e pela imigração (entrada de pessoas para um país).
 Quando a emigração é muito intensa, a população pode diminuir. Por sua vez, a imigração contribui para o aumento da população.
  
@@ -1916,7 +1916,7 @@ Este aumento deveu-se à mudança de regime após o 25 de Abril de 1974 e à ade
  
  
  
-CARACTERÍSTICAS DA POPULAÇÃO PORTUGUESA
+## CARACTERÍSTICAS DA POPULAÇÃO PORTUGUESA
  
  
 Composição da população por género e idade
@@ -1932,11 +1932,11 @@ Em Portugal tem-se verificado uma diminuição do número de jovens, devido à d
 Em relação ao género, existem mais mulheres do que homens, pois a sua esperança média de vida (número de anos de vida que uma pessoa tem probabilidade de viver após o nascimento) é maior do que a do sexo masculino.
  
 
-OS LUGARES ONDE VIVEMOS
+## OS LUGARES ONDE VIVEMOS
  
  
  
-TIPOS DE POVOAMENTO
+## TIPOS DE POVOAMENTO
  
 Existem dois grandes tipos de povoamento (modo como as pessoas ocupam e organizam o espaço em que habitam e desenvolvem as suas atividades económicas):
 
@@ -2039,7 +2039,7 @@ Nos centros urbanos, o acesso a serviços de saúde, educação, lazer, etc. é 
  
  
  
-PROBLEMAS DA VIDA QUOTIDIANA NAS CIDADES E NO CAMPO
+## PROBLEMAS DA VIDA QUOTIDIANA NAS CIDADES E NO CAMPO
  
  
 Acessibilidade
@@ -2077,11 +2077,11 @@ Também a nível de serviços e equipamentos coletivos verificam-se algumas desi
  
 De uma forma geral, pode-se concluir que é no meio urbano onde se encontram melhores níveis de conforto, por isso tem-se verificado um grande movimento da população do meio rural para os núcleos urbanos. No entanto, também as cidades têm os seus problemas, como o trânsito, a poluição e insegurança, o que leva a algumas pessoas a preferirem o meio rural.
  
-ATIVIDADES QUE DESENVOLVEMOS
+## ATIVIDADES QUE DESENVOLVEMOS
  
  
  
-O MUNDO DO TRABALHO
+## O MUNDO DO TRABALHO
  
  
 População ativa e população não ativa
@@ -2095,7 +2095,7 @@ Por outro lado, jovens, idosos e muitas mulheres donas de casa não recebem qual
  
  
  
-AS PRINCIPAIS ATIVIDADES ECONÓMICAS
+## AS PRINCIPAIS ATIVIDADES ECONÓMICAS
  
  
 Setores de atividade
@@ -2184,10 +2184,10 @@ Outros serviços
 O setor terciário tem vindo a crescer significativamente devido à criação de empresas de serviços tradicionais, como bancos, seguros, etc, e devido ao surgimento de novas atividades, sobretudo ligadas às telecomunicações. Este crescimento tem influência na produção de riqueza de um país e na oferta de emprego.
 
 
-O MUNDO MAIS PERTO DE NÓS
+## O MUNDO MAIS PERTO DE NÓS
  
  
-OS TRANSPORTES E AS COMUNICAÇÕES
+## OS TRANSPORTES E AS COMUNICAÇÕES
  
  
 Acessibilidade de pessoas, bens e ideias
@@ -2231,11 +2231,11 @@ Hoje, é possível comunicar facilmente com uma pessoa que esteja em qualquer pa
 A troca de ideias e conhecimentos é maior entre os vários países, fazendo com que as fronteiras façam cada vez menos sentido, dado que as várias partes do mundo estão em permanente comunicação.
 
 
-LAZER E PATRIMÓNIO
+## LAZER E PATRIMÓNIO
  
  
  
-LAZER
+## LAZER
  
  
 A ocupação dos tempos livres
@@ -2261,7 +2261,7 @@ O número de chegada de turistas estrangeiros tem vindo a aumentar em Portugal, 
  
  
  
-IMPORTÂNCIA DAS ÁREAS DE PROTEÇÃO DA NATUREZA
+## IMPORTÂNCIA DAS ÁREAS DE PROTEÇÃO DA NATUREZA
  
  
 Preservação da natureza
@@ -2655,7 +2655,7 @@ Além dos deuses, os Gregos veneravam os heróis, homens que se haviam distingu
 - **Pintura:**
 - → é-nos dada a conhecer sobretudo pela cerâmica → principais temas → cenas da vida quotidiana e da mitologia grega → as figuras eram pintadas em preto sobre o fundo vermelho dos vasos e, mais tarde, passaram a ser pintadas em vermelho sobre um fundo preto.
 
-O MUNDO ROMANO NO APOGEU DO IMPÉRIO
+## O MUNDO ROMANO NO APOGEU DO IMPÉRIO
 O Império Romano
 ### Fundação de Roma
 A cidade de Roma situa-se na Península Itálica e foi fundada em meados do século VIII a. C..
@@ -2783,7 +2783,7 @@ O latim
 O Cristianismo
 
 
-ORIGEM E DIFUSÃO DO CRISTIANISMO
+## ORIGEM E DIFUSÃO DO CRISTIANISMO
 Origem do Cristianismo
 ### Quem eram os Hebreus
 Pastores nómadas que viviam na Mesopotâmia
@@ -2922,7 +2922,7 @@ Enfraquecimento do comércio
 Economia de subsistência → produção para autoconsumo
 
 
-O MUNDO MUÇULMANO EM EXPANSÃO
+## O MUNDO MUÇULMANO EM EXPANSÃO
 A origem do Islamismo e do Império Muçulmano
 ### A Arábia até aos princípios do séc. VII
 As populações árabes próximas do litoral eram sedentárias e dedicavam-se à agricultura e ao comércio.
@@ -3013,7 +3013,7 @@ Decoração com mosaicos e estuques pintados.
 
 Decoração com elementos vegetalistas ou geométricos e por frases religiosas (o Alcorão proíbe a representação de animais e da figura humana).
 
-A SOCIEDADE EUROPEIA NOS SÉCULOS IX A XII
+## A SOCIEDADE EUROPEIA NOS SÉCULOS IX A XII
 A sociedade medieval
 ### Sociedade tripartida
 A sociedade medieval encontrava-se tripartida, ou seja, dividida em três grupos sociais: o clero, a nobreza (aristocracia) e o povo (camponeses e artesãos).
@@ -3452,7 +3452,7 @@ Alterações no consumo e hábitos dos Europeus
   - generalizou-se ainda o consumo de tabaco
 
 
-RENASCIMENTO
+## RENASCIMENTO
 O que foi o Renascimento?
 
 - Renascimento
@@ -3516,7 +3516,7 @@ Invenção da imprensa
 A activa produção Literária e Humanista pode ser divulgada graças á imprensa, inventada por Gutenberg, na Alemanha.
 Contributo dos descobrimentos portuguesas
 As viagens dos descobrimentos permitiram mostrar que algumas terias dos autores antigos estavam erradas (nomeadamente a de Ptolomeu). Descobriram novos territórios, espécies vegetais e animais, contribuindo assim para o progresso cientifico.
-A ARTE DO RENASCIMENTO
+## A ARTE DO RENASCIMENTO
 Arquitectura Renascentista
 Características
 
@@ -3533,7 +3533,7 @@ Principais obras e arquitectos
 - Bramante – Basílica de S. Pedro
 - Miguel Ângelo – cúpula da Basílica de S. Pedro
  
-ESCULTURA
+## ESCULTURA
 Características
 
 - inspiração na escultura clássica
@@ -3550,7 +3550,7 @@ Principais obras e arquitectos
 - Verrocchio
 - estátuas equestres
 
-PINTURA
+## PINTURA
 Características
 
 - pintura a óleo / técnica do sfumato
@@ -3569,7 +3569,7 @@ Principais pintores
 - Albrecht Durer
 - Holbein
 
-A ARTE EM PORTUGAL
+## A ARTE EM PORTUGAL
 A Arte Manuelina
 Arquitectura Gótica-manuelino
 
@@ -3601,7 +3601,7 @@ Principais pintores renascentistas portugueses
 - Gregório Lopes
 - Francisco Henriques
 
-REFORMA E CONTRARREFORMA
+## REFORMA E CONTRARREFORMA
 Igreja Católica do Séc. XVI
 Importância da Igreja Católica
 Até ao século XVI, a Igreja Católica dominava por completo a sociedade Europeia.
@@ -3616,7 +3616,7 @@ Em 1513, o papa Leão X enviou pregadores a várias regiões da Europa pedindo a
 Uma bula de indulgencias era um documento em que o papa perdoava os pecados.
 As Noventa e Cinco Teses de Martinho Lutero
 Em 1517, Martinho Lutero, um monge alemão, condenou as indulgencias através das 95 Teses, foi excomungado e apenas escapou à fogueira porque foi protegido por príncipes alemães.
-REFORMA PROTESTANTE
+## REFORMA PROTESTANTE
 Igreja Luterana (Alemanha)
 
 - o Homem alcança a salvação através da fé
@@ -3642,7 +3642,7 @@ Igreja Anglicana (Inglaterra)
 
 Europa Dividida
 A Europa dividiu-se entre católicos e protestantes surgiram várias guerras, conflitos e massacres
-A REACÇÃO DA IGREJA CATÓLICA
+## A REACÇÃO DA IGREJA CATÓLICA
 Reforma Católica
 Para analisarem as criticas protestantes, os bispos e cardeais reuniram-se no Concilio de Trento.
 Nesta reunião não foram aceites as propostas de mudança e foram reafirmados todos os dogmas da fé católica. Apenas procurou reformar os costumes do clero através de uma disciplina mais severa.
@@ -3766,7 +3766,7 @@ Politica Mercantilista
 
 Arte Barroca, iluminismo e Marquês de Pombal
 
-O ILUMINISMO
+## O ILUMINISMO
 O que foi o Iluminismo
 Iluminismo
 
@@ -3882,8 +3882,8 @@ Crescimento Urbano
 Muitas mudanças introduzidas na agricultura fizeram com que se deixasse de ser necessária tanta mão-de-obra nos campos. Sendo assim, com o crescimento da população e falta de trabalho nos campos, verificou-se um elevado êxodo rural, o que levou ao crescimento das cidades.
 CRESCIMENTO DA             +        FALTA DE TRABALHO
 POPULAÇÃO                                  NOS CAMPOS
-ÊXODO RURAL
-CRESCIMENTO URBANO
+## ÊXODO RURAL
+## CRESCIMENTO URBANO
 Revolução Industrial
 O fornecimento de matérias-primas (lã) e capitais á industria foram importantes para o arranque da Revolução Industrial.
 Revolução Industrial
@@ -4007,8 +4007,8 @@ Evolução dos transportes marítimos
 
 Consequências do desenvolvimento dos transportes
 Com o desenvolvimento dos transportes as distancias encurtam-se. As pessoas e as mercadorias passaram a deslocar-se mais depressa e com custos mais baixos. Passou a haver mais migrações e intensificou-se o comércio.
-DESENVOLVIMENTO DOS
-TRANSPORTES
+## DESENVOLVIMENTO DOS
+## TRANSPORTES
 FORMAÇÃO DE MERCADOS                                ACELERAÇÃO DAS TROCAS
 NACIONAIS                                                             INTERCONTINENTAIS
 MUNDIALIZAÇÃO DA                                                                                                    ECONOMIA
@@ -4138,7 +4138,7 @@ A 1ª Fase da Guerra foi caracterizada pelos movimentos ofensivos rápidos;
 Para conservar as regiões ocupadas, as tropas em confronto escavaram uma extensa rede de valas e abrigos.
  
  
-APOGEU E DECLÍNIO DA INFLUÊNCIA EUROPEIA
+## APOGEU E DECLÍNIO DA INFLUÊNCIA EUROPEIA
 Supremacia europeia sobre o mundo
 Ao começar o século XX a Europa é…
 
@@ -4739,7 +4739,7 @@ Após 1974, Portugal passou de um país fechado e rural para um país aberto e i
 - Hoje: Portugal aposta na inovação, turismo sustentável, energias renováveis e cooperação lusófona para se posicionar na economia global.
 
 
-GEOGRAFIA
+## GEOGRAFIA
 
 1. Descrição da paisagem
 1.1 A Geografia
@@ -4809,7 +4809,7 @@ Humanização das paisagens
   - desenvolvimento dos transportes e das vias de comunicação → aumento da população mundial
   - expansão urbana → exploração dos recursos naturais
 
-FORMAS DE REPRESENTAÇÃO DA SUPERFÍCIE TERRESTRE
+## FORMAS DE REPRESENTAÇÃO DA SUPERFÍCIE TERRESTRE
 
 Globo
 
@@ -4848,7 +4848,7 @@ Outras formas de representar a superfície terrestre
 - Sistemas de informação geográfica
 - …
 
-TIPOS DE PROJEÇÕES CARTOGRÁFICAS
+## TIPOS DE PROJEÇÕES CARTOGRÁFICAS
 
 Definição de projeção cartográfica
 As projeções cartográficas são técnicas que permitem representar o mundo esférico num plano.
@@ -4870,7 +4870,7 @@ Projeção azimutal ou plana
 - Contra: Quanto mais afastado do centro maior a distorção
 
 
-DIVERSIDADE DE REPRESENTAÇÕES CARTOGRÁFICAS
+## DIVERSIDADE DE REPRESENTAÇÕES CARTOGRÁFICAS
 Elementos de um mapa
 
 - Título: assunto do mapa
@@ -4899,7 +4899,7 @@ Quanto à escala:
 
 Quanto maior a escala maior é o pormenor e menor é a extensão de território representado.
 
-LOCALIZAÇÃO RELATIVA
+## LOCALIZAÇÃO RELATIVA
 O que é?
 Localização relativa
 
@@ -4926,7 +4926,7 @@ ESE – És – Sudeste
 ONO – Oés – Noroeste
 OSO – Oés – Sudoeste
 
-PROCESSOS DE ORIENTAÇÃO
+## PROCESSOS DE ORIENTAÇÃO
 Orientação pelo Sol (no hemisfério norte)
 
 - Ao nascer do sol
@@ -4952,7 +4952,7 @@ Outros processos de orientação
 - GPS
 - Ninhos dos pássaros – indica o sul
 
-LOCALIZAÇÃO ABSOLUTA
+## LOCALIZAÇÃO ABSOLUTA
 Elementos geométricos da esfera terrestre
 Eixo da Terra
 
@@ -4998,7 +4998,7 @@ Altitude
 
 - distancia de um lugar ao nível médio das águas do mar
 
-LIMITES NATURAIS DA EUROPA
+## LIMITES NATURAIS DA EUROPA
 Quais são os limites naturais da Europa?
 A Europa é limitada a:
 Norte – oceano Glacial Ártico;
@@ -5006,7 +5006,7 @@ Oeste – oceano Atlântico;
 Sul – mar Mediterrâneo, mar Negro, e cordilheira do Cáucaso;
 Este – mar Cáspio, rio Ural e montes Urais
 
-UNIÃO EUROPEIA
+## UNIÃO EUROPEIA
 Objetivos
 
 - promover o progresso económico-social;
@@ -5037,7 +5037,7 @@ Alargamentos
 
 O clima
 
-ELEMENTOS CLIMÁTICOS
+## ELEMENTOS CLIMÁTICOS
 Distinguir estado de tempo de clima
 Estado do tempo é o conjunto das condições atmosféricas que ocorrem num dado lugar, num determinado momento, enquanto que o clima é a sucessão de estados do tempo por um período longo (normalmente 30 anos).
 Elementos climáticos
@@ -5109,7 +5109,7 @@ As correntes marítimas influenciam a temperatura nas zonas do Litoral:
 - Correntes quentes (equador – pólos)
 - aquecem as áreas do Litoral
 
-PRECIPITAÇÃO
+## PRECIPITAÇÃO
 Formas de precipitação
 
 - Estado liquido
@@ -5165,7 +5165,7 @@ Influência da latitude
 - regiões polares
 
 A variação da precipitação com a latitude está relacionada com a distribuição geográfica das grandes zonas de pressão atmosférica.
-PRESSÃO ATMOSFÉRICA
+## PRESSÃO ATMOSFÉRICA
 Qual a influência da pressão atmosférica sobre o estado do tempo?
 A pressão atmosférica é a força (peso) que os gases que compõem a atmosfera exercem na superfície terrestre.
 O lugar A tem maior pressão atmosférica porque o ar é mais denso a baixas altitudes e porque está sob uma maior espessura da atmosfera.
@@ -5326,7 +5326,7 @@ Portugal tem um litoral extenso e variado, com:
 - Zonas arenosas e com dunas (Alentejo e Algarve);
 - Áreas protegidas (Parque Natural do Sudoeste Alentejano e Costa Vicentina, Ria Formosa, etc.).
  
-CLIMA
+## CLIMA
 O clima é o conjunto de condições atmosféricas (temperatura, precipitação, vento, humidade, pressão do ar) que se repetem ao longo do tempo numa região. Não se deve confundir com o tempo atmosférico, que representa as condições num momento específico.
 Elementos do clima
 
@@ -5415,7 +5415,7 @@ Objetivo global: reduzir emissões e promover o desenvolvimento sustentável —
 
 Estudo da população – demografia, indicadores demográficos, evolução da população e estrutura etária
 
-COMO SE ESTUDA A EVOLUÇÃO DA POPULAÇÃO
+## COMO SE ESTUDA A EVOLUÇÃO DA POPULAÇÃO
 Demografia e recenseamentos
 Demografia:
 
@@ -5559,7 +5559,7 @@ As mulheres, sobretudo dos países desenvolvidos, apresentam uma esperança de v
 
 Índice de envelhecimento
 $$TBM=\frac{população\geq 65 anos }{população < 15 anos}\times 100$$
-ESTRUTURA ETÁRIA DA POPULAÇÃO
+## ESTRUTURA ETÁRIA DA POPULAÇÃO
 Conceitos importantes
 Estrutura etária
 
@@ -5628,7 +5628,7 @@ Politicas Anti-Natalistas (têm como objetivo diminuir a natalidade)
 
 Migrações
 
-MOVIMENTOS MIGRATÓRIOS
+## MOVIMENTOS MIGRATÓRIOS
 O que são migrações?
 Migrações
 
@@ -5732,7 +5732,7 @@ Nas áreas de chegada
 - enriquecimento cultural
 - racismo e xenofobia
 
-CIDADES
+## CIDADES
 Critérios
 Critério demográfico
 
@@ -7930,7 +7930,7 @@ O desigual acesso à habitação
 - Nos países em desenvolvimento
 - grande percentagem de pessoas a viver em favelas e em bairros degradados
 
-A ESTRUTURA DO COMÉRCIO MUNDIAL
+## A ESTRUTURA DO COMÉRCIO MUNDIAL
 Balança comercial e termos de troca
 Balança comercial
 
@@ -7996,7 +7996,7 @@ Esta globalização traz alguns aspetos positivos mas outros negativos.
 - desrespeito pelos Direitos Humanos
 - proliferação de crises financeiras
 
-AJUDA AO DESENVOLVIMENTO
+## AJUDA AO DESENVOLVIMENTO
 Tipos de ajuda
 
 - Quanto à origem
