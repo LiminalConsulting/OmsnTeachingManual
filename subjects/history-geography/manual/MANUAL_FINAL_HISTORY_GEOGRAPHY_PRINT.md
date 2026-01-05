@@ -2522,7 +2522,7 @@ Apesar da divisão em cidades-estados independentes, os Gregos consideravam-se u
 - •  Cidade-estado (ou pólis):
 - → comunidade com território, governo, leis e moeda próprios, sendo por isso independente das outras cidades-estados
 
-»  Partes de uma cidade-estado
+#### Partes de uma cidade-estado
 
 - **Acrópole:**
 - → parte alta da cidade, onde se situavam os templos e se prestava culto aos deuses
@@ -2556,7 +2556,7 @@ No século V a. C., estabeleceu-se uma forma de governo inovadora – a democra
 Como a cidade era governada pelos próprios cidadãos, diz-se que Atenas foi governada segundo uma democracia direta.
 
 Quando os cidadãos apenas têm a possibilidade de escolherem os seus governantes, chama-se a esse regime democracia indireta.
-»  Órgãos de poder
+#### Órgãos de poder
 
 - **Bulé (conselho dos quinhentos):**
 - → prepara os projetos-lei → constituída por 500 membros escolhidos por sorteio
@@ -2567,11 +2567,11 @@ Quando os cidadãos apenas têm a possibilidade de escolherem os seus governante
 - **Helileu (tribunal popular):**
 - → julga os casos civis e criminais → constituído por 6000 juízes escolhidos por sorteio
 
-»  Ação de Péricles
+#### Ação de Péricles
 Para a instauração da democracia ateniense, foram importantes as medidas de Sólon, Clístenes e Péricles.
 
 Este último concedeu subsídios a todos os cidadãos que possuíssem cargos políticos, de forma a possibilitar que qualquer cidadão pudesse participar na vida política, até os mais pobres.
-»  Limitações da democracia ateniense
+#### Limitações da democracia ateniense
 Apenas os cidadãos, cerca de 10% da população, podiam participar na vida política.
 
 Atenas servia-se de escravos, o que contradizia o princípio de igualdade.
@@ -2579,11 +2579,11 @@ Atenas servia-se de escravos, o que contradizia o princípio de igualdade.
 Tal como o facto de Atenas ser um povo dominador, possuindo um poderoso império marítimo.
 Apesar destas imperfeições, o regime político ateniense serviu de inspiração às democracias dos dias de hoje.
 ### Vida quotidiana
-»  No meio rural
+#### No meio rural
 A maior parte dos atenienses vivia no campo, entregue aos trabalhos rurais, com a ajuda de dois ou três escravos.
 
 Estes pequenos proprietários levavam uma vida simples e apenas se descolocavam à zona urbana para vender os seus produtos e para participar, de vez em quando, nas sessões da Eclésia.
-»  No meio urbano
+#### No meio urbano
 Os atenienses que habitavam na cidade apreciavam a vida movimentada.
 
 Passavam a maior parte da vida ao ar livre.
@@ -2591,7 +2591,7 @@ Passavam a maior parte da vida ao ar livre.
 A ágora era o centro da vida de Atenas, onde se amontoavam lojas e barracas de feira, e onde os atenienses conviviam e discutiam questões relacionadas com a política da pólis.
 
 Frequentavam termas e ginásios, pois davam importância à saúde e ao aspeto físico.
-»  As mulheres atenienses
+#### As mulheres atenienses
 As mulheres ficavam encarregues das tarefas domésticas e da educação das crianças.
 
 Habitavam numa parte da casa que lhes estava reservada, o gineceu, mantendo-se completamente afastadas da vida pública.
@@ -2626,7 +2626,7 @@ Distinguiam-se dos seres humanos pelos seus poderes e por serem imortais.
 Os deuses mais importantes viviam no Olimpo, o monte mais alto da Grécia.
 
 Além dos deuses, os Gregos veneravam os heróis, homens que se haviam distinguido pelos seus feitos extraordinários, num passado longínquo – eram considerados semideuses.
-»  Tipos de culto
+#### Tipos de culto
 
 - **Culto familiar:**
 - → realizado em casa pelo chefe de família → pedia-se proteção aos deuses do lar
@@ -2667,7 +2667,7 @@ Mais tarde, após vitória sobre os Cartagineses, dominou a todo o Mediterrâneo
 - **Mare Nostrum:**
 - → os Romanos chamavam ao Mar Mediterrâneo de “Mare Nostrum” (Mar Nosso) pois tinham conquistado todos os territórios à sua volta.
 
-»  Motivos da expansão romana
+#### Motivos da expansão romana
 
 - **Segurança:**
 - → ao princípio, os Romanos tiveram que se defender dos ataques dos seus vizinhos e, para não serem derrotados, tiveram de os submeter
@@ -2679,7 +2679,7 @@ Mais tarde, após vitória sobre os Cartagineses, dominou a todo o Mediterrâneo
 - → os chefes políticos procuravam honra e glória através de novas conquistas
 
 ### Regimes políticos
-»  Regime republicano
+#### Regime republicano
 Quando Roma iniciou a sua expansão, o seu regime político era uma república.
 
 - **Assembleia (comícios):**
@@ -2689,7 +2689,7 @@ Quando Roma iniciou a sua expansão, o seu regime político era uma república.
 - **Senado:**
 - → dirigia a política externa e nomeava os governadores das províncias
 
-»  Regime imperial
+#### Regime imperial
 
 -
 
@@ -2731,14 +2731,14 @@ A sociedade romana era hierarquizada e estratificada, pois encontrava-se divi
 Os Romanos adotaram muitos deuses de povos dominados.
 
 O maior exemplo são os deuses oriundos da mitologia grega. Os nomes mudaram, mas os atributos eram os mesmos.
-»  Tipos de culto
+#### Tipos de culto
 
 - **Culto familiar:**
 - → realizado em casa faziam culto às almas dos antepassados (Manes), aos deuses protetores do lar (Lares) e aos deuses das provisões (Penates)
 - **Culto cívico:**
 - → realizado nos templos, pelos sacerdotes
 
-»  Cristianismo
+#### Cristianismo
 Durante o Império Romano, surgiu uma nova religião que defendia a existência de um só Deus – o Cristianismo, que mais tarde passou a ser a religião oficial do império.
 ### Arte
 
@@ -3064,7 +3064,7 @@ Estabeleceram-se assim várias relações de vassalagem, em que o vassalo pre
 - **Obrigações dos vassalos:**
 - → obediência → fidelidade → auxílio militar → aconselhamento
 
-» Contrato de vassalagem
+#### Contrato de vassalagem
 A relação de vassalagem era estabelecida por um acordo chamado contrato de vassalagem.
 
 - **Cerimónias do contrato de vassalagem:**
@@ -3074,7 +3074,7 @@ A relação de vassalagem era estabelecida por um acordo chamado contrato de va
 - → o vassalo jura obediência e fidelidade ao suserano
 - → investidura:
 - → o suserano entrega ao vassalo um objeto que representa o feudo (benefício dado ao vassalo que podia ser dinheiro, um cargo ou terras)
-- » Sociedade feudal
+#### Sociedade feudal
 
 Ficou definida uma sociedade hierarquizada em que um suserano podia ser vassalo de outro senhor mais poderoso.
 
