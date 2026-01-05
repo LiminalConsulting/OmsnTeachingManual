@@ -45,10 +45,28 @@ Official "Aprendizagens Essenciais" from DGE:
 - Global development and trade
 
 ### Manual
-- **Portuguese only:** MANUAL_FINAL_HISTORY_GEOGRAPHY.pdf (188 pages)
+- **Portuguese only:** MANUAL_FINAL_HISTORY_GEOGRAPHY.pdf (194 pages)
 
-### Known Gaps
+### Known Issues
+
+#### Content Gaps
 - "Cultura popular e estilos românico e gótico" - minimal content (not available on source website)
+- "Crises do século XIV" - verify if PowerPoint source has additional content
+
+#### Formatting Issues (Remaining)
+Some sections still have Unicode corruption from original document conversion:
+- `￿` (U+FFFD replacement character) appearing inline
+- Run-together paragraphs where line breaks were lost
+- Tables rendered as continuous text (e.g., "Forma de relevo Características principais Montanhas...")
+
+**Affected areas identified:**
+- Geography sections on relief/landforms (vulcanismo, forças externas/internas)
+- Relevo de Portugal section
+
+**Fix approach needed:**
+1. Search for `￿` character and fix surrounding context
+2. Identify tables rendered as text and restore markdown table format
+3. Check for missing paragraph breaks after punctuation
 
 ### Source Materials
 The `source/` folder contains the original documents from the contributor who extracted content from O Bichinho do Saber website.
