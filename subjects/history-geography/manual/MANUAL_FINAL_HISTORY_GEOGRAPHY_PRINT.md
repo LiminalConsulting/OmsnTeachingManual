@@ -3934,24 +3934,15 @@ Depois da Revolução, o mundo entrou numa nova fase da globalização, marcada 
 
 Portugal, ao integrar-se na CEE/UE, passou a participar mais diretamente desses fluxos globais, modernizando a sua economia e infraestruturas com o apoio de fundos europeus.
 Depois do 25 de Abril e especialmente desde os anos 1990, várias potências emergentes começaram a ganhar destaque na economia mundial:
-País
-Características principais
-Relação com Portugal
-China
-Crescimento económico acelerado; centro industrial e tecnológico; expansão global (Nova Rota da Seda).
-Forte parceiro comercial; crescente investimento em Portugal (energia, banca, imobiliário).
-Brasil
-Grande economia da América do Sul; abundância de recursos naturais; liderança regional.
-Laços históricos, culturais e linguísticos; cooperação no âmbito da CPLP.
-Índia
-Potência em tecnologia e serviços; grande população jovem.
-Relações ainda modestas, mas com potencial em inovação e tecnologia.
-Rússia
-Poder energético e militar; política externa assertiva.
-Relações limitadas, mais centradas no contexto europeu.
-África do Sul
-Principal economia africana; papel relevante na CPLP.
-Parcerias no espaço lusófono.
+
+| País | Características principais | Relação com Portugal |
+|------|---------------------------|---------------------|
+| China | Crescimento económico acelerado; centro industrial e tecnológico; expansão global (Nova Rota da Seda). | Forte parceiro comercial; crescente investimento em Portugal (energia, banca, imobiliário). |
+| Brasil | Grande economia da América do Sul; abundância de recursos naturais; liderança regional. | Laços históricos, culturais e linguísticos; cooperação no âmbito da CPLP. |
+| Índia | Potência em tecnologia e serviços; grande população jovem. | Relações ainda modestas, mas com potencial em inovação e tecnologia. |
+| Rússia | Poder energético e militar; política externa assertiva. | Relações limitadas, mais centradas no contexto europeu. |
+| África do Sul | Principal economia africana; papel relevante na CPLP. | Parcerias no espaço lusófono. |
+
 Esses países são, em parte, membros do grupo BRICS (Brasil, Rússia, Índia, China e África do Sul), que procura representar uma alternativa à ordem económica dominada pelo Ocidente.
 
 Após 1974, Portugal passou de um país fechado e rural para um país aberto e integrado no sistema global:
@@ -4563,23 +4554,21 @@ Diferenças regionais:
 - Sul e litoral: mais quente e seco;
 - Regiões autónomas: clima ameno e húmido (Açores e Madeira).
 
-Riscos Naturais
+### Riscos Naturais
+
 Os riscos naturais são fenómenos da natureza que podem causar danos a pessoas, bens e ao ambiente.
-Tipos de riscos naturais:
-Tipo
-Exemplos
-Causas principais
-Geológicos
-Terramotos, vulcões, tsunamis
-Movimentos das placas tectónicas.
-Climáticos e meteorológicos
-Tempestades, secas, cheias, ondas de calor ou frio
-Variações climáticas extremas.
-Biológicos
-Pragas, epidemias
-Mudanças ambientais ou climáticas.
+
+**Tipos de riscos naturais:**
+
+| Tipo | Exemplos | Causas principais |
+|------|----------|-------------------|
+| Geológicos | Terramotos, vulcões, tsunamis | Movimentos das placas tectónicas. |
+| Climáticos e meteorológicos | Tempestades, secas, cheias, ondas de calor ou frio | Variações climáticas extremas. |
+| Biológicos | Pragas, epidemias | Mudanças ambientais ou climáticas. |
+
 Os riscos naturais podem ser agravados pela ação humana, como o desmatamento, a construção em áreas perigosas e as alterações climáticas.
-Alterações ao ambiente natural
+
+### Alterações ao ambiente natural
 
 As atividades humanas têm provocado grandes transformações na natureza.
 Principais alterações:
