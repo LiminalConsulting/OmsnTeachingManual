@@ -2384,15 +2384,126 @@ Caracterização das Ordens mendicantes (Franciscanos e Dominicanos)
 - praticavam as caridade
 - viviam em contacto permanente com as populações
 
-Diferentes aspectos culturais da época
+## A Cultura Portuguesa Face aos Modelos Europeus
 
-- Escolas Monásticas
-- Escolas Catedrais
-- Universidades – estudo racional da teologia e de áreas não religiosas
+### O Ensino Medieval
 
-Elementos Góticos
+#### Escolas Monásticas e Catedrais
 
-- Abóbada sobre cruzaria de ogivas apoiadas em arcobatantes
+Durante a Idade Média, a educação estava intimamente ligada à Igreja:
+
+- **Escolas Monásticas** – funcionavam nos mosteiros, destinadas principalmente à formação de futuros monges e clérigos
+- **Escolas Catedrais** – situadas junto às catedrais, abertas também a leigos que quisessem seguir carreiras eclesiásticas ou administrativas
+
+Nestas escolas ensinava-se:
+- Leitura e escrita em latim
+- Canto gregoriano
+- Artes liberais (gramática, retórica, dialética, aritmética, geometria, música e astronomia)
+
+#### As Universidades
+
+A partir do século XII, surgiram as universidades como centros de ensino superior:
+
+- **Origem:** evoluíram das escolas catedrais, ganhando autonomia e reconhecimento papal
+- **Método:** estudo racional da teologia e de áreas não religiosas (direito, medicina, filosofia)
+- **Organização:** mestres e estudantes organizavam-se em corporações com estatutos próprios
+
+**Em Portugal:**
+- A **Universidade de Lisboa** foi fundada em 1290 por D. Dinis
+- Posteriormente transferida para Coimbra (1308), regressou a Lisboa e fixou-se definitivamente em Coimbra em 1537
+- Ensinava-se Teologia, Direito Canónico, Direito Civil e Medicina
+
+### A Cultura Popular
+
+A cultura popular medieval manifestava-se através de:
+
+**Festividades e celebrações:**
+- Festas religiosas (Natal, Páscoa, dias de santos padroeiros)
+- Feiras e romarias com música, dança e representações teatrais
+- Jogos e torneios
+
+**Tradição oral:**
+- Cantigas de amigo, amor e escárnio
+- Lendas e contos populares
+- Provérbios e adivinhas
+
+**Artesanato:**
+- Cerâmica, tecelagem e trabalhos em metal
+- Decoração das igrejas e casas com motivos populares
+
+### Os Estilos Românico e Gótico
+
+#### O Estilo Românico (séculos XI-XII)
+
+O estilo românico foi o primeiro grande estilo artístico da Europa cristã medieval.
+
+**Características principais:**
+- **Paredes grossas** de pedra para suportar o peso da construção
+- **Abóbadas de berço** (semicirculares) ou de arestas
+- **Arcos de volta perfeita** (semicirculares)
+- **Janelas pequenas** que deixavam entrar pouca luz, criando interiores sombrios
+- **Plantas em cruz latina** com nave central e naves laterais
+- **Torres robustas** nas fachadas
+
+**Decoração:**
+- Esculturas nos capitéis e portais com cenas bíblicas e figuras fantásticas
+- Pinturas murais (frescos) no interior das igrejas
+
+**Exemplos em Portugal:**
+- **Sé de Braga** – uma das mais antigas catedrais portuguesas
+- **Sé do Porto** – construção iniciada no século XII
+- **Sé de Lisboa** – mandada construir por D. Afonso Henriques após a conquista de Lisboa
+- **Sé de Coimbra** – exemplo notável do românico português
+- **Igreja de São Pedro de Rates** – considerada um dos melhores exemplos do românico em Portugal
+- **Mosteiro de Paço de Sousa**
+
+**Especificidades regionais portuguesas:**
+- Influência dos mestres franceses da ordem de Cluny
+- Adaptação às condições locais (materiais disponíveis, clima)
+- Decoração mais sóbria comparada com outros países europeus
+
+#### O Estilo Gótico (séculos XII-XV)
+
+O estilo gótico surgiu em França no século XII e espalhou-se por toda a Europa, representando uma evolução técnica e estética em relação ao românico.
+
+**Características principais:**
+- **Paredes mais finas** graças ao sistema de contrafortes exteriores
+- **Abóbadas de cruzaria de ogivas** – nervuras cruzadas que distribuem o peso
+- **Arcos quebrados (ogivais)** – mais altos e elegantes que os semicirculares
+- **Arcobotantes** – arcos exteriores que transferem o peso das abóbadas para os contrafortes
+- **Janelas amplas** com vitrais coloridos que enchiam os interiores de luz
+- **Rosáceas** – grandes janelas circulares com vitrais
+- **Torres altas e esguias** com pináculos
+
+**Decoração:**
+- Esculturas mais naturalistas e expressivas
+- Vitrais com cenas religiosas e cores vivas
+- Gárgulas (figuras grotescas para escoamento das águas)
+
+**Exemplos em Portugal:**
+- **Mosteiro de Alcobaça** – fundado por D. Afonso Henriques, exemplo do gótico cisterciense, caracterizado pela simplicidade e austeridade
+- **Mosteiro da Batalha** – mandado construir por D. João I para comemorar a vitória na Batalha de Aljubarrota (1385), obra-prima do gótico português
+- **Convento do Carmo (Lisboa)** – importante exemplo do gótico mendicante
+- **Sé de Évora** – combina elementos românicos e góticos
+- **Igreja de Santa Maria da Vitória (Batalha)**
+
+**Especificidades do gótico português:**
+- Influência das ordens religiosas (cistercienses, mendicantes)
+- Desenvolvimento do **gótico manuelino** no final do período (reinado de D. Manuel I), com decoração inspirada nos Descobrimentos (cordas, esferas armilares, cruzes de Cristo)
+- Adaptação ao clima português (menos necessidade de grandes janelas para luz)
+
+### Comparação entre Românico e Gótico
+
+| Característica | Românico | Gótico |
+|---------------|----------|--------|
+| Paredes | Grossas, maciças | Finas, com contrafortes |
+| Arcos | Volta perfeita (semicirculares) | Quebrados (ogivais) |
+| Abóbadas | De berço ou arestas | De cruzaria de ogivas |
+| Janelas | Pequenas | Grandes, com vitrais |
+| Iluminação | Interior escuro | Interior luminoso |
+| Altura | Edifícios mais baixos | Edifícios mais altos |
+| Decoração | Sóbria, figuras estilizadas | Rica, figuras naturalistas |
+| Período | Séculos XI-XII | Séculos XII-XV |
 
 Medidas de Reforço do Poder Régio
 
