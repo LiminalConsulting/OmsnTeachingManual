@@ -5023,21 +5023,15 @@ A densidade populacional é o número de habitantes por quilómetro quadrado (ha
 - Alta densidade: muitas pessoas num espaço pequeno (ex: Japão, Países Baixos).
 - Baixa densidade: poucas pessoas em grandes áreas (ex: deserto do Saara, Amazónia, Groenlândia).
 
-Fatores que influenciam a distribuição da população
-Tipo de fator
-Exemplos
-Efeito
-Naturais
-Clima, relevo, solo, recursos hídricos
-Zonas planas e férteis → mais povoadas; desertos, montanhas e zonas frias → menos povoadas.
-Económicos
-Agricultura, indústrias, comércio, serviços
-Áreas com mais empregos atraem mais pessoas.
-Históricos e sociais
-Antigos centros urbanos, colonização, conflitos
-Locais com história de povoamento antigo ou estabilidade política tendem a ser mais habitados.
+### Fatores que influenciam a distribuição da população
 
-4. Áreas de fixação humana: as cidades
+| Tipo de fator | Exemplos | Efeito |
+|---------------|----------|--------|
+| Naturais | Clima, relevo, solo, recursos hídricos | Zonas planas e férteis → mais povoadas; desertos, montanhas e zonas frias → menos povoadas. |
+| Económicos | Agricultura, indústrias, comércio, serviços | Áreas com mais empregos atraem mais pessoas. |
+| Históricos e sociais | Antigos centros urbanos, colonização, conflitos | Locais com história de povoamento antigo ou estabilidade política tendem a ser mais habitados. |
+
+### 4. Áreas de fixação humana: as cidades
 As cidades são as principais áreas de fixação da população hoje em dia. O processo de crescimento das cidades chama-se urbanização.
 Características das áreas urbanas:
 
