@@ -557,8 +557,10 @@ Entretanto, só em 1411 o problema com Castela ficou resolvido com um tratado d
 Muito do que sabemos sobre o que aconteceu neste período deve-se a Fernão Lopes através das suas crónicas sobre o que se passava no reino da época.
 
 ## PORTUGAL NOS SÉCULOS XV E XVI
-DE PORTUGAL ÀS ILHAS ATLÂNTICAS E AO CABO DA BOA ESPERANÇA
-O caminho do mar
+
+### De Portugal às Ilhas Atlânticas e ao Cabo da Boa Esperança
+
+#### O caminho do mar
 No início do séc. XV, a Europa vivia isolada do resto do mundo. Apenas se conhecia, além da Europa, a Ásia e o norte de África.
 Nesta altura, Portugal era um reino pobre. No entanto, encontrava-se num período de paz e sentiu a necessidade de alargar os seus territórios. Os portugueses não podiam alargar as suas fronteiras para território castelhano, de forma a evitar entrar em guerra com Castela, por isso decidiram encontrar novos territórios pelo mar.
 A procura de novas terras interessou todos os grupos sociais:
@@ -600,8 +602,10 @@ Em 1474, o infante D. João passa a dirigir do descobrimentos porque as terra
 Tratado de Tordesilhas
 O grande desejo de D. João II era chegar à Índia por mar por causa do comércio das especiarias. No entanto, também Castela tinha o mesmo desejo. Em 1492, Cristóvão Colombo, ao serviço de Castela, chega à América quando procurava chegar à Índia navegando para oeste. Esta descoberta criou um conflito entre Portugal e Castela porque segundo o Tratado de Alcáçovas, assinado em 1480, as terras a sul das ilhas Canárias pertenciam a Portugal. Sendo assim, as terras descobertas por Cristóvão Colombo deveriam pertencer a Portugal.
 Para resolver este conflito foi necessária a intervenção do papa que levou os dois monarcas dos dois reinos a assinar um novo acordo – o Tratado de Tordesilhas. Segundo este tratado o mundo ficava dividido em duas partes por um meridiano a passar a 370 léguas a ocidente de Cabo Verde. As terras que fossem descobertas a oriente pertenceriam aos portugueses e a ocidente seriam para Castela.
-CHEGADA À ÍNDIA E AO BRASIL
-Chegada à Índia
+
+### Chegada à Índia e ao Brasil
+
+#### Chegada à Índia
 D. João II acabou por não ver o seu sonho realizado. Após a sua morte, sucedeu-lhe o seu primo D. Manuel I que decidiu continuar os descobrimentos. Em 1497 nomeou Vasco da Gama capitão-mor de uma armada constituída por quatro navios: as naus S. Gabriel, S. Rafael e Bérrio, mais uma embarcação com mantimentos. O objetivo desta armada era chegar à Índia por mar. A viagem durou um ano e em maio de 1498 os portugueses chegam a Calecut.
 Descoberta do Brasil
 Quando Vasco da Gama chega à Índia, os portugueses foram no início bem recebidos. No entanto, começaram a sentir algumas hostilidades e para garantir o domínio português partiu de Portugal uma armada em Março de 1500. Esta nova armada, chefiada por Pedro Álvares Cabral, era constituída por treze navios. Um desvio feito a ocidente levou os portugueses a descobrirem o Brasil.
@@ -621,7 +625,7 @@ Estava coberta de densas matas onde predominavam os dragoeiros, loureiros, urzes
 Por seu lado, nos Açores não se notam grandes diferenças de temperatura nas diferentes estações do ano. É frequente o nevoeiro e as chuvas são abundantes, sobretudo nos meses de Outubro a Janeiro.
 Nas matas predominavam os cedros, loureiros, faias, urzes, giestas e fetos gigantes.
 Colonização
-Quando os portugueses descobriram a Madeira e os Açores encontravam-se desabitadas. O clima ameno e as terras férteis levaram o infante D.Henrique a realizar de imediato a sua colonização, ou seja, o povoamento e aproveitamento dos seus recursos naturais.
+Quando os portugueses descobriram a Madeira e os Açores encontravam-se desabitadas. O clima ameno e as terras férteis levaram o infante D. Henrique a realizar de imediato a sua colonização, ou seja, o povoamento e aproveitamento dos seus recursos naturais.
 As ilhas foram divididas em capitanias, cada uma com um capitão que tinha como função povoá-las e cultivar as suas terras. As pessoas que saíram do continente para as ilhas chamavam-se colonos.
 Principais atividades e produtos
 Os colonos dedicaram-se sobretudo à agricultura e à criação de gado. Na Madeira introduziram-se as culturas da vinha, cana de açúcar, árvores de fruto e cereais. Nos Açores o trigo, a criação de gado e as plantas tintureiras foram as principais riquezas.
@@ -731,7 +735,7 @@ Cortes de Tomar: D. Filipe II, rei de Espanha, prestou juramento como rei de Por
 
 - manter a moeda, língua e costumes portugueses
 - cargos de governo de Portugal apenas para portugueses
-D. Filipe I cumpriu a maioria das promessas que fez mas os seus sucessores, D. Filipe II e D.Filipe III, não respeitaram as promessas feitas aos portugueses. A situação piorou quando Espanha entrou em guerras contra a Holanda, França e Inglaterra, e surgiram revoltas dentro do próprio país. Tudo isto teve consequências para Portugal:
+D. Filipe I cumpriu a maioria das promessas que fez mas os seus sucessores, D. Filipe II e D. Filipe III, não respeitaram as promessas feitas aos portugueses. A situação piorou quando Espanha entrou em guerras contra a Holanda, França e Inglaterra, e surgiram revoltas dentro do próprio país. Tudo isto teve consequências para Portugal:
 
 - aumento dos impostos
 - soldados portugueses no exército espanhol
