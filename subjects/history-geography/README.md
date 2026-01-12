@@ -45,28 +45,44 @@ Official "Aprendizagens Essenciais" from DGE:
 - Global development and trade
 
 ### Manual
-- **Portuguese only:** MANUAL_FINAL_HISTORY_GEOGRAPHY.pdf (194 pages)
+- **Portuguese only:** MANUAL_FINAL_HISTORY_GEOGRAPHY.pdf (~195 pages)
+
+### Recent Improvements
+
+#### Content Additions (January 2026)
+The following curriculum content gaps have been filled:
+
+**A Cultura Portuguesa Face aos Modelos Europeus:**
+- O Ensino Medieval (escolas monásticas, catedrais, universidades)
+- A Cultura Popular (festividades, tradição oral, artesanato)
+- Os Estilos Românico e Gótico (características, exemplos portugueses, tabela comparativa)
+
+**As Crises do Século XIV:**
+- A Crise Europeia (causas: fome, peste, guerras; consequências)
+- A Crise em Portugal (calamidades, Guerras Fernandinas)
+- A Revolução de 1383-1385 (problema de sucessão, revolta popular, invasão castelhana)
+
+#### Formatting Fixes (January 2026)
+Multiple formatting issues from original document conversion have been fixed:
+- Unicode markers (¬, ›, ι, ⤷, ») converted to proper markdown
+- ALL CAPS titles converted to proper headings
+- Garbage/duplicate index section removed
+- Bullet patterns and whitespace cleaned up
+- Tables converted from text to proper markdown format:
+  - Formas de relevo
+  - Principais rios e bacias de Portugal
+  - BRICS countries
+  - Natural risks
+  - Population distribution factors
+  - Românico vs Gótico comparison
 
 ### Known Issues
 
-#### Content Gaps
-- "Cultura popular e estilos românico e gótico" - minimal content (not available on source website)
-- "Crises do século XIV" - verify if PowerPoint source has additional content
-
-#### Formatting Issues (Remaining)
-Some sections still have Unicode corruption from original document conversion:
-- `￿` (U+FFFD replacement character) appearing inline
-- Run-together paragraphs where line breaks were lost
-- Tables rendered as continuous text (e.g., "Forma de relevo Características principais Montanhas...")
-
-**Affected areas identified:**
-- Geography sections on relief/landforms (vulcanismo, forças externas/internas)
-- Relevo de Portugal section
-
-**Fix approach needed:**
-1. Search for `￿` character and fix surrounding context
-2. Identify tables rendered as text and restore markdown table format
-3. Check for missing paragraph breaks after punctuation
+#### Minor Formatting
+Some minor Unicode issues may still exist in isolated locations. If found, they can be fixed using:
+```bash
+grep -n '￿' MANUAL_FINAL_HISTORY_GEOGRAPHY_PRINT.md
+```
 
 ### Source Materials
 The `source/` folder contains the original documents from the contributor who extracted content from O Bichinho do Saber website.
