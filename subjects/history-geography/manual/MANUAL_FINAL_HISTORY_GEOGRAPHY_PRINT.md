@@ -4402,8 +4402,9 @@ Atuam no interior da Terra e criam o relevo. Principais exemplos:
 - Vulcanismo (saída de magma que forma vulcões);
 - Abalos sísmicos (terremotos).
 
-➡️ Essas forças provocam dobramentos, falhas e elevações do terreno.
-b) Forças externas (exógenas)
+Essas forças provocam dobramentos, falhas e elevações do terreno.
+
+**b) Forças externas (exógenas)**
 Atuam na superfície da Terra, modificando e desgastando o relevo. Principais agentes:
 
 - Água (chuvas, rios, mares);
@@ -4411,28 +4412,27 @@ Atuam na superfície da Terra, modificando e desgastando o relevo. Principais 
 - Gelo;
 - Ação humana.
 
-➡️ Essas forças causam erosão, transporte e sedimentação dos materiais.
+Essas forças causam erosão, transporte e sedimentação dos materiais.
 
-3. Principais formas de relevo
-Forma de relevo
-Características principais
-Montanhas
-Grandes elevações do terreno, com encostas íngremes. Ex: Alpes, Andes.
-Planaltos
-Áreas elevadas e mais ou menos planas, desgastadas pela erosão. Ex: Planalto Central Brasileiro.
-Plantas (planícies)
-Áreas baixas e planas, formadas pela deposição de sedimentos. Ex: Planície Amazónica.
-Depressões
-Áreas mais baixas do que as regiões vizinhas; podem estar abaixo ou acima do nível do mar.
+### 3. Principais formas de relevo
 
-4. O relevo de Portugal
+| Forma de relevo | Características principais |
+|-----------------|---------------------------|
+| Montanhas | Grandes elevações do terreno, com encostas íngremes. Ex: Alpes, Andes. |
+| Planaltos | Áreas elevadas e mais ou menos planas, desgastadas pela erosão. Ex: Planalto Central Brasileiro. |
+| Planícies | Áreas baixas e planas, formadas pela deposição de sedimentos. Ex: Planície Amazónica. |
+| Depressões | Áreas mais baixas do que as regiões vizinhas; podem estar abaixo ou acima do nível do mar. |
+
+### 4. O relevo de Portugal
+
 Portugal apresenta um relevo diversificado:
 
 - Norte e Centro: regiões montanhosas e acidentadas (Serra da Estrela, Serra do Gerês);
 - Sul (Alentejo e Algarve): planaltos e planícies mais suaves;
 - Açores e Madeira: origem vulcânica, com montanhas e falésias.
 
-5. A importância do relevo
+### 5. A importância do relevo
+
 O relevo influencia:
 
 - O clima (temperatura e precipitação);
@@ -4466,7 +4466,9 @@ O trajeto completo do rio, dividido em três partes: alto, médio e baixo curso.
 - Baixo curso: próximo da foz, águas lentas, deposição de sedimentos.
 
 3. O que é uma bacia hidrográfica
-Uma bacia hidrográfica é o conjunto de terras drenadas por um rio principal e seus afluentes. ➡️ É como uma “grande área em forma de funil” que recolhe a água da chuva e a conduz até um rio principal.
+Uma bacia hidrográfica é o conjunto de terras drenadas por um rio principal e seus afluentes. 
+
+É como uma “grande área em forma de funil” que recolhe a água da chuva e a conduz até um rio principal.
 A divisória de águas (ou linha divisória) separa uma bacia hidrográfica de outra — geralmente passa por áreas elevadas (montanhas ou serras).
 
 4. Tipos de foz
@@ -5041,7 +5043,9 @@ Por isso, é importante preservar as culturas locais e respeitar a diversidade.
 
 Distribuição da população – Áreas de fixação humana (cidades)
 
-A distribuição da população mostra como as pessoas estão espalhadas pela superfície da Terra. ➡️ Existem regiões muito povoadas e outras quase desabitadas.
+A distribuição da população mostra como as pessoas estão espalhadas pela superfície da Terra. 
+
+Existem regiões muito povoadas e outras quase desabitadas.
 
 Conceito importante: densidade populacional
 A densidade populacional é o número de habitantes por quilómetro quadrado (hab/km²).
