@@ -3,7 +3,7 @@
 
 echo "🔄 Generating Sciences PDF with cover from MANUAL_FINAL_SCIENCES_PRINT.md..."
 
-pandoc COVER.md MANUAL_FINAL_SCIENCES_PRINT.md \
+pandoc MANUAL_FINAL_SCIENCES_PRINT.md \
   -o MANUAL_FINAL_SCIENCES.pdf \
   --pdf-engine=xelatex \
   --toc \
@@ -18,6 +18,7 @@ pandoc COVER.md MANUAL_FINAL_SCIENCES_PRINT.md \
   -V urlcolor=blue \
   -V classoption=openany \
   --include-in-header=<(echo '\usepackage{graphicx}') \
+  --include-before-body=COVER.md \
   2>&1 | grep -v "WARNING" | grep -v "Missing character"
 
 PDF_EXIT_CODE=${PIPESTATUS[0]}

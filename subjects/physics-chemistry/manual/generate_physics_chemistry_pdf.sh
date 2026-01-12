@@ -8,7 +8,7 @@ python3 fix_formatting.py
 
 echo "🔄 Generating Physics-Chemistry Manual PDF with cover..."
 
-pandoc COVER.md MANUAL_FINAL_PHYSICS_CHEMISTRY_PRINT.md \
+pandoc MANUAL_FINAL_PHYSICS_CHEMISTRY_PRINT.md \
   -o MANUAL_FINAL_PHYSICS_CHEMISTRY.pdf \
   --pdf-engine=xelatex \
   --toc \
@@ -23,6 +23,7 @@ pandoc COVER.md MANUAL_FINAL_PHYSICS_CHEMISTRY_PRINT.md \
   -V lang=pt-PT \
   -V classoption=openany \
   --include-in-header=<(echo '\usepackage{graphicx}') \
+  --include-before-body=COVER.md \
   2>&1 | grep -v "WARNING" | grep -v "Missing character"
 
 PDF_EXIT_CODE=${PIPESTATUS[0]}
