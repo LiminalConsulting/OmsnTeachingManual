@@ -2,7 +2,7 @@
 \centering
 \vspace*{2cm}
 
-\includegraphics[width=0.7\textwidth]{../../MundoTeens.png}
+\includegraphics[width=0.7\textwidth]{../../../MundoTeens.png}
 
 \vspace{2cm}
 
