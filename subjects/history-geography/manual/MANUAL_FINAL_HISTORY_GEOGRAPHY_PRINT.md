@@ -436,24 +436,101 @@ A corte era constituída pela família do rei, pelos conselheiros e funcionár
 Distrações:
 
 - Banquetes e saraus (festas à noite) onde havia espetáculos de jograis (os jograis cantavam e tocavam instrumentos musicais).
-CRISE DE 1383-1385
-Portugal na segunda metade do séc. XIV
-Neste período viveram-se tempos difíceis:
 
-- Fome: deveu-se aos maus anos agrícolas por causa das chuvas intensas;
-- Epidemias – deveu-se à falta de higiene e à falta de alimentação;
-- Guerras – devido ao conflito com Castela.
-A pior calamidade foi a Peste Negra que em menos de três meses matou cerca de um terço da população.
-Problema de sucessão
+## As Crises do Século XIV
+
+### A Crise Europeia do Século XIV
+
+O século XIV foi marcado por uma profunda crise que afetou toda a Europa. Após um período de crescimento económico e demográfico nos séculos XII e XIII, a Europa enfrentou uma série de calamidades que transformaram radicalmente a sociedade medieval.
+
+#### Causas da Crise
+
+**Crise agrária e fomes:**
+- No início do século XIV, uma série de **maus anos agrícolas** provocou escassez de alimentos
+- As chuvas intensas e prolongadas arruinaram colheitas sucessivas
+- A **Grande Fome de 1315-1317** afetou grande parte da Europa, causando milhões de mortes
+- A população tinha crescido além da capacidade de produção agrícola da época
+
+**A Peste Negra (1347-1351):**
+- A **Peste Negra** foi a maior catástrofe demográfica da história europeia
+- Chegou à Europa em 1347, vinda da Ásia através das rotas comerciais
+- Propagou-se rapidamente devido à falta de higiene e ao desconhecimento sobre a doença
+- **Morreu cerca de um terço da população europeia** (estimativas variam entre 30% a 60%)
+- Os sintomas incluíam febres altas, bubões (inchaços) nas axilas e virilhas, e manchas negras na pele
+- A doença era transmitida por pulgas de ratos e também pelo ar (forma pneumónica)
+
+**Guerras e conflitos:**
+- A **Guerra dos Cem Anos (1337-1453)** entre França e Inglaterra devastou extensas regiões
+- Conflitos constantes entre reinos e senhores feudais
+- Pilhagens e destruição de campos agrícolas
+- Instabilidade política generalizada
+
+#### Consequências da Crise
+
+**Consequências demográficas:**
+- **Quebra demográfica** – a população europeia diminuiu drasticamente
+- Aldeias inteiras foram abandonadas (aldeias desertas)
+- Falta de mão-de-obra para trabalhar os campos
+
+**Consequências económicas:**
+- **Crise económica** – diminuição da produção agrícola e artesanal
+- Subida dos preços dos alimentos
+- Aumento dos salários dos trabalhadores (pela escassez de mão-de-obra)
+- Abandono de terras de cultivo
+- Declínio do comércio
+
+**Consequências sociais:**
+- Revoltas camponesas em vários países da Europa
+- Tensões entre senhores e camponeses
+- Perseguições a minorias (judeus foram acusados de envenenar poços)
+- Flagelantes – grupos que se açoitavam publicamente como penitência
+
+**Consequências políticas:**
+- Enfraquecimento do poder senhorial
+- Fortalecimento do poder régio em alguns reinos
+- Crises dinásticas em vários países
+
+### A Crise em Portugal
+
+Portugal não escapou às crises do século XIV. Na segunda metade do século, o reino viveu tempos particularmente difíceis:
+
+**As calamidades:**
+- **Fome** – deveu-se aos maus anos agrícolas por causa das chuvas intensas
+- **Epidemias** – deveu-se à falta de higiene e à falta de alimentação
+- **Guerras** – devido ao conflito com Castela
+
+A pior calamidade foi a **Peste Negra**, que chegou a Portugal em 1348. Em menos de três meses matou cerca de um terço da população portuguesa.
+
+**As Guerras Fernandinas (1369-1382):**
+
+O reinado de D. Fernando (1367-1383) foi marcado por três guerras contra Castela, conhecidas como **Guerras Fernandinas**. Estas guerras inserem-se no contexto mais amplo da **Guerra dos Cem Anos**, onde Portugal se aliou ora à Inglaterra, ora a Castela.
+
+- **1ª Guerra (1369-1370)** – D. Fernando reivindicou o trono de Castela
+- **2ª Guerra (1372-1373)** – Castela invadiu Portugal; Lisboa foi cercada
+- **3ª Guerra (1381-1382)** – Nova aliança com Inglaterra contra Castela
+
+Estas guerras:
+- Devastaram o território português
+- Agravaram a crise económica
+- Enfraqueceram o reino
+- Criaram instabilidade política
+
+### A Revolução de 1383-1385
+
+#### Problema de sucessão
 Em 1383, D. Fernando assina um tratado de paz com Castela para salvaguardar a independência do reino de Portugal – o Tratado de Salvaterra de Magos.
 Neste tratado D. Fernando deu a mão da sua única filha, D. Beatriz, a D. João I, rei de Castela, e ficou estabelecido que o futuro rei de Portugal seria o seu neto, filho de D. Beatriz, quando atingisse os 14 anos.
-População dividida e revolta popular
-Quando D. Fernando morre, D. Leonor de Teles, sua esposa, assume a regência do reino e aclama D. Beatriz como rainha de Portugal.O povo ficou descontente porque não queria ser governado por um rei estrangeiro e temia que Portugal perdesse a independência.
+
+#### A População Dividida e a Revolta Popular
+
+Quando D. Fernando morre, D. Leonor de Teles, sua esposa, assume a regência do reino e aclama D. Beatriz como rainha de Portugal. O povo ficou descontente porque não queria ser governado por um rei estrangeiro e temia que Portugal perdesse a independência.
 
 - Apoiantes de D. Beatriz – alto Clero e alta Nobreza porque temiam perder os seus privilégios;
 - Apoiantes de D. João, Mestre de Avis – povo, burguesia, parte do Clero e parte da Nobreza porque não queriam ser governados por um rei estrangeiro e temiam que Portugal perdesse a independência.
 Álvaro Pais planeou uma conspiração para matar o conselheiro galego de D. Leonor de Teles, o conde Andeiro. D. João, Mestre de Avis, filho ilegítimo de D. Pedro, é escolhido para o matar. Após a morte do conde Andeiro, D. Leonor de Teles foge para Santarém e pede ajuda a D. João I, rei de Castela. Mestre de Avis passa a Regente e Defensor do reino com o apoio do povo.
-Resistência à invasão castelhana
+
+#### Resistência à Invasão Castelhana
+
 D. João I, rei de Castela, invade Portugal:
 
 - ocupa Santarém;
@@ -462,7 +539,9 @@ D. João I, rei de Castela, invade Portugal:
 Lisboa esteve cercada 3 meses e só se libertou quando a peste negra atacou os soldados castelhanos.
 Nas Cortes em Coimbra (1385) João das Regras provou que D. João, Mestre de Avis, era quem tinha mais direito a ser o rei de Portugal que passa a intitular-se D. João I.
 Ao saber da  aclamação de Mestre de Avis como rei de Portugal, D. João I, rei de Castela, invade novamente Portugal mas é derrotado na batalha de Aljubarrota  (1385) pelos portugueses chefiados por D. Nuno Álvares Pereira.
-Consolidação da independência
+
+#### Consolidação da Independência
+
 D. João I, Mestre de Avis, recompensou com terras, cargos e títulos os nobres e burgueses que o apoiaram e retirou privilégios à alta Nobreza que apoiou D. Beatriz e que fugiu para Castela.
 Portugal fez ainda um tratado de amizade com Inglaterra onde os dois países se comprometeram a ajudar-se mutuamente. esta aliança foi reforçada com o casamento de D. João I com D. Filipa de Lencastre em 1387.
 Entretanto, só em 1411 o problema com Castela ficou resolvido com um tratado de paz.
