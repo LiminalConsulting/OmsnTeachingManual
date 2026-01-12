@@ -1,31 +1,18 @@
----
-geometry: margin=2.5cm
-fontsize: 12pt
-mainfont: Arial
----
+\begin{titlepage}
+\centering
+\vspace*{2cm}
 
-\vspace*{5cm}
+\includegraphics[width=0.7\textwidth]{../../MundoTeens.png}
 
-\begin{center}
+\vspace{2cm}
 
-{\Huge \textbf{História e Geografia}}
-
-\vspace{1cm}
-
-{\Large \textbf{Manual de Estudo}}
-
+{\Huge\bfseries Manual de História e Geografia\par}
 \vspace{0.5cm}
+{\LARGE 5º ao 9º Ano\par}
 
-{\large 5º ao 9º Ano}
+\vfill
 
-\vspace{3cm}
+\end{titlepage}
 
-{\large Resumo do Programa Oficial Português}
+\cleardoublepage
 
-\vspace{1cm}
-
-\textit{Fontes: O Bichinho do Saber}
-
-\end{center}
-
-\newpage
