@@ -4476,35 +4476,16 @@ A divisória de águas (ou linha divisória) separa uma bacia hidrográfica de o
 - Foz em delta: o rio divide-se em vários braços antes de chegar ao mar, formando ilhas (ex: Nilo, Egito).
 - Foz em estuário: o rio desagua diretamente no mar, formando uma abertura larga (ex: Tejo, Portugal).
 
-5. Principais rios e bacias de Portugal
-Rio
-Onde nasce
-Onde desagua
-Observações
-Minho
-Espanha
-Oceano Atlântico
-Forma fronteira entre Portugal e Espanha.
-Douro
-Espanha
-Porto (Atlântico)
-Importante para a produção de vinho.
-Mondego
-Serra da Estrela
-Figueira da Foz
-O maior rio que nasce e desagua em Portugal.
-Tejo
-Espanha
-Lisboa (Atlântico)
-O mais extenso da Península Ibérica.
-Sado
-Serra da Vigia
-Setúbal (estuário)
-Corre de sul para norte.
-Guadiana
-Espanha
-Vila Real de Santo António (Atlântico)
-Forma parte da fronteira sul com Espanha.
+### 5. Principais rios e bacias de Portugal
+
+| Rio | Onde nasce | Onde desagua | Observações |
+|-----|------------|--------------|-------------|
+| Minho | Espanha | Oceano Atlântico | Forma fronteira entre Portugal e Espanha. |
+| Douro | Espanha | Porto (Atlântico) | Importante para a produção de vinho. |
+| Mondego | Serra da Estrela | Figueira da Foz | O maior rio que nasce e desagua em Portugal. |
+| Tejo | Espanha | Lisboa (Atlântico) | O mais extenso da Península Ibérica. |
+| Sado | Serra da Vigia | Setúbal (estuário) | Corre de sul para norte. |
+| Guadiana | Espanha | Vila Real de Santo António (Atlântico) | Forma parte da fronteira sul com Espanha. |
 
 Formas do litoral
 O litoral pode ter formas variadas, conforme o tipo de rochas, a força do mar e o relevo.
