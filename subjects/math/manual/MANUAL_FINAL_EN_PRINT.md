@@ -1072,6 +1072,8 @@ Non-vertical line.
 - **Straight:** $180°$
 - **Full rotation:** $360°$
 
+![Classification of angles by amplitude](images/classificacao_angulos.png){width=70%}
+
 ---
 
 #### Pairs of Angles
@@ -1085,6 +1087,8 @@ Non-vertical line.
 
 - Vertically opposite angles are equal
 - Alternate interior angles are equal when the lines are parallel
+
+![Two intersecting lines forming equal vertically opposite angles](images/angulos_verticalmente_opostos.png){width=50%}
 
 ---
 
@@ -1127,6 +1131,8 @@ Lines that form right angles.
 - **Isosceles:** two equal sides
 - **Scalene:** three different sides
 
+![Classification of triangles by sides: equilateral (three equal sides), isosceles (two equal sides) and scalene (three different sides)](images/triangulos_classificacao_lados.png){width=70%}
+
 ---
 
 #### Classification by Angles
@@ -1135,12 +1141,16 @@ Lines that form right angles.
 - **Right-angled:** one right angle
 - **Obtuse-angled:** one obtuse angle
 
+![Classification of triangles by angles](images/triangulos_classificacao_angulos.png){width=70%}
+
 ---
 
 #### Properties of Triangles
 
 **Sum of interior angles:**
 The sum of the interior angles of a triangle equals $180°$.
+
+![Sum of interior angles of a triangle](images/soma_angulos_triangulo.png){width=60%}
 
 **Elements of a right triangle:**
 
@@ -1182,6 +1192,8 @@ Two pairs of consecutive equal sides.
 **Trapezoid:**
 Quadrilateral with at least two parallel sides.
 
+![Types of quadrilaterals](images/quadrilateros_tipos.png){width=80%}
+
 ---
 
 #### Properties of Diagonals
@@ -1217,6 +1229,8 @@ Quadrilateral with at least two parallel sides.
 - **Diameter:** segment that passes through the center and has endpoints on the circumference
 - **Chord:** segment with endpoints on the circumference
 - **Arc:** part of the circumference between two points
+
+![Elements of the circumference: center, radius, diameter, chord and arc](images/circunferencia_elementos.png){width=50%}
 
 **Properties:**
 
@@ -1287,6 +1301,8 @@ A point $M'$ is the image of $M$ in an axial reflection with axis $r$ when $r$ i
 **Axis of symmetry:**
 Line that divides a figure into two parts that are images of each other by axial reflection.
 
+![Axial reflection of a figure with respect to axis r, showing that r is the perpendicular bisector of segment [MM']](images/reflexao_axial.png){width=60%}
+
 ---
 
 #### Rotation
@@ -1300,6 +1316,8 @@ A point $M'$ is the image of $M$ by a rotation with center $O$ and angle $\alpha
 
 - Preserves segment lengths
 - Preserves angle measures
+
+![Rotation of a triangle around center O by angle α](images/rotacao.png){width=50%}
 
 ---
 
@@ -1316,6 +1334,8 @@ A translation is defined by a vector that indicates:
 - Preserves segment lengths
 - Preserves angle measures
 - Preserves parallelism
+
+![Translation of a triangle by vector v](images/translacao.png){width=50%}
 
 ---
 
@@ -1415,6 +1435,8 @@ Where:
 **Prism:**
 Polyhedron with two geometrically equal faces (bases) situated in parallel planes.
 
+![Triangular prism with highlighted parallel bases](images/prisma_triangular.png){width=50%}
+
 **In a prism with base of $n$ sides:**
 
 - Number of vertices $= 2n$
@@ -1433,6 +1455,8 @@ Right prism with bases that are regular polygons.
 
 **Pyramid:**
 Polyhedron determined by a polygon (base) and a point exterior to the plane of the base (vertex).
+
+![Pyramid with square base and vertex](images/piramide.png){width=50%}
 
 **In a pyramid with base of $n$ sides:**
 
@@ -1457,6 +1481,8 @@ Solid determined by two circles with equal radius in parallel planes.
 - **Generators:** segments that join points of the circumferences of the bases
 - **Lateral surface:** union of all generators
 
+![Cylinder with highlighted bases (red and blue), central axis and generators](images/cilindro.png){width=50%}
+
 **Right cylinder:**
 Axis perpendicular to the radii of the bases.
 
@@ -1475,6 +1501,8 @@ Solid determined by a circle (base) and a point exterior to the plane of the bas
 - **Generators:** segments that join the vertex to points of the circumference of the base
 - **Lateral surface:** union of all generators
 
+![Cone with circular base (red), vertex V (blue), axis and generators](images/cone.png){width=50%}
+
 **Right cone:**
 Axis perpendicular to the radius of the base.
 
@@ -1484,6 +1512,8 @@ Axis perpendicular to the radius of the base.
 
 **Sphere:**
 Solid constituted by all points in space that are at a distance less than or equal to a fixed value (radius) from a point (center).
+
+![Sphere with center O and radius r](images/esfera.png){width=50%}
 
 **Spherical surface:**
 Set of points in space that are at a distance equal to the radius from the center.
@@ -1504,6 +1534,8 @@ Where:
 
 - $c =$ hypotenuse
 - $a, b =$ legs
+
+![Right triangle with squares constructed on each side, illustrating the Pythagorean Theorem: a² + b² = c²](images/teorema_pitagoras.png){width=60%}
 
 ---
 
