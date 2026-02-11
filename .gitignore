@@ -2,6 +2,7 @@
 *_PART*.md
 temp_*/
 *.tmp
+*_BACKUP.pdf
 
 # macOS
 .DS_Store
