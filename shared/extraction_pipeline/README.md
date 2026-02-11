@@ -200,5 +200,6 @@ All content extracted from **O Bichinho do Saber**: https://www.obichinhodosaber
 
 Subjects covered:
 - **Mathematics:** Grades 5-9 ✅
-- **Natural Sciences:** Grades 7-9 ✅
-- **Physics-Chemistry:** Grades 7-9 (next)
+- **Natural Sciences:** Grades 5-9 ✅
+- **Physics-Chemistry:** Grades 7-9 ✅
+- **History & Geography:** Grades 5-9 ✅
