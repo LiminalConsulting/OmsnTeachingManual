@@ -882,13 +882,68 @@ Todas estas medidas, a nível social, político, económico e do ensino, contrib
 A REVOLUÇÃO FRANCESA DE 1789 E SEUS REFLEXOS EM PORTUGAL
 
 ## REVOLUÇÃO FRANCESA
-Em 1789 aconteceu a Revolução Francesa que pôs fim à Monarquia Absoluta em França. Esta revolução tinha como princípios a igualdade, a liberdade e a separação dos poderes (liberalismo).
-No entanto, os reis europeus absolutistas sentiram-se ameaçados com estas ideias liberais, uniram-se e declararam guerra à França.
-Napoleão Bonaparte estava à frente do governo francês e conseguiu derrotar os seus opositores e passou a dominar grande parte da Europa, com excepção da Inglaterra. Para os enfraquecer, ordenou que todos os portos europeus não permitissem a entrada de navios ingleses – Bloqueio Continental.
+
+### Causas da Revolução
+A França, na segunda metade do século XVIII, vivia sob o chamado Antigo Regime (*Ancien Régime*), um sistema político e social que provocava grande descontentamento:
+
+- **Sociedade de ordens desigual:** A sociedade francesa estava dividida em três estados (ordens):
+  - **1º Estado – Clero:** não pagava impostos e possuía vastas terras e riquezas.
+  - **2º Estado – Nobreza:** também isenta de impostos, ocupava os cargos mais importantes do reino.
+  - **3º Estado – Povo (burguesia, camponeses, artesãos):** representava cerca de 97% da população, mas era o único grupo que pagava impostos pesados.
+- **Crise financeira:** As guerras (incluindo o apoio à independência dos Estados Unidos), os gastos da corte de Versalhes e a má gestão das finanças levaram a França à beira da falência.
+- **Influência do Iluminismo:** As ideias de pensadores como Voltaire (liberdade de pensamento), Montesquieu (separação dos poderes) e Rousseau (soberania popular) inspiraram a população a questionar o poder absoluto do rei e os privilégios da nobreza e do clero.
+- **Fome e miséria:** Más colheitas em 1788 provocaram uma grave crise alimentar, com subida dos preços do pão, o que aumentou a revolta popular.
+
+### As Fases da Revolução
+
+**1ª Fase – Reunião dos Estados Gerais e início da Revolução (1789)**
+
+- Em maio de 1789, o rei Luís XVI convocou os Estados Gerais (assembleia com representantes dos três estados) para resolver a crise financeira. O Terceiro Estado exigiu que a votação fosse feita por cabeça (e não por ordem), para ter maioria. Como o rei recusou, os deputados do Terceiro Estado abandonaram a assembleia e formaram a **Assembleia Nacional Constituinte**, jurando não se separar até dar a França uma constituição (*Juramento do Jogo da Péla*).
+- A **14 de julho de 1789**, o povo de Paris, temendo uma reação militar do rei, assaltou a Bastilha, uma fortaleza-prisão símbolo do poder absoluto. Esta data tornou-se o símbolo da revolução.
+- Em agosto de 1789, a Assembleia aprovou a **Declaração dos Direitos do Homem e do Cidadão**, que proclamava:
+  - Todos os homens nascem livres e iguais em direitos.
+  - Os direitos naturais são a liberdade, a propriedade, a segurança e a resistência à opressão.
+  - A soberania reside na nação (e não no rei).
+  - Separação dos poderes (legislativo, executivo e judicial).
+
+**2ª Fase – Monarquia Constitucional (1791–1792)**
+
+- Em 1791 foi aprovada a primeira Constituição francesa, que estabelecia uma monarquia constitucional com separação de poderes. O rei mantinha o poder executivo, mas limitado pela lei.
+- Luís XVI tentou fugir de França para pedir ajuda militar estrangeira, mas foi capturado na fronteira (Fuga de Varennes), o que aumentou a desconfiança popular.
+- Os reis da Áustria e da Prússia declararam guerra à França para defender a monarquia absoluta, iniciando as **Guerras Revolucionárias**.
+
+**3ª Fase – A República e o Terror (1792–1794)**
+
+- Em setembro de 1792, a monarquia foi abolida e proclamou-se a **República Francesa**.
+- O rei Luís XVI foi julgado por traição e executado na guilhotina em janeiro de 1793, assim como a rainha Maria Antonieta.
+- Os **Jacobinos**, liderados por Maximilien de Robespierre, assumiram o poder e instauraram o chamado **Período do Terror** (1793–1794): milhares de pessoas foram executadas, acusadas de serem inimigas da revolução.
+- Outros líderes importantes deste período: Georges Danton e Jean-Paul Marat.
+- Em julho de 1794, o próprio Robespierre foi preso e executado, pondo fim ao Terror.
+
+**4ª Fase – O Diretório e a ascensão de Napoleão (1795–1799)**
+
+- Após o Terror, foi criado o **Diretório**, um governo mais moderado que governou a França entre 1795 e 1799.
+- No entanto, o Diretório enfrentou instabilidade política e económica, e a França continuava em guerra contra várias potências europeias.
+- Em 1799, o general **Napoleão Bonaparte**, que se tinha destacado nas campanhas militares, deu um golpe de Estado e assumiu o poder.
+
+### O Império Napoleónico e a Europa
+Napoleão governou primeiro como cônsul e depois, a partir de 1804, como imperador dos franceses. Através de guerras e alianças, conseguiu dominar grande parte da Europa, difundindo os ideais revolucionários (igualdade perante a lei, fim dos privilégios feudais, código civil).
+Para enfraquecer a Inglaterra, a sua principal rival, Napoleão ordenou o **Bloqueio Continental** (1806): todos os portos europeus deviam fechar-se ao comércio inglês.
+
+### A importância da Revolução Francesa
+A Revolução Francesa foi um dos acontecimentos mais importantes da história mundial:
+
+- Pôs fim à monarquia absoluta e ao sistema feudal em França.
+- Difundiu os ideais de **liberdade, igualdade e fraternidade** por toda a Europa e pelo mundo.
+- A Declaração dos Direitos do Homem e do Cidadão tornou-se a base dos direitos humanos modernos.
+- Inspirou movimentos revolucionários e liberais em Portugal, no Brasil e em muitos outros países durante o século XIX.
+
+### Reflexos em Portugal
 Fuga da família real portuguesa para o Brasil
 Neste período, Portugal tinha uma rainha, D. Maria I, viúva e doente. Por isso, o reino era governado pelo seu filho, o príncipe João.
-Portugal, como era um velho aliado da Inglaterra, e não queria perder o comércio com os ingleses, demorou a aderir ao bloqueio continental imposto por Napoleão Bonaparte. Quando o príncipe regente decidiu aderir ao bloqueio continental, já a França e a Espanha, sua aliada, tinham decidido invadir Portugal.
+Portugal, como era um velho aliado da Inglaterra, e não queria perder o comércio com os ingleses, demorou a aderir ao bloqueio continental imposto por Napoleão Bonaparte. Quando o príncipe regente decidiu aderir ao bloqueio continental, já a França e a Espanha, sua aliada, tinham decidido invadir Portugal.
 A família real, com medo de ser presa pelas tropas francesas, parte para o Brasil em 1807, e é criada uma Junta de Regência para governar Portugal.
+
 
 ## INVASÕES FRANCESAS EM PORTUGAL
 1ª invasão francesa (1807)
@@ -920,17 +975,69 @@ Portugal passou a ter uma monarquia liberal.
 Foram criadas as Cortes Constituintes, que tiveram a função de criar a Constituição de 1822, onde estavam definidos os direitos e deveres dos cidadãos. Nesta Constituição estava definido que todos os cidadãos eram iguais perante a lei e estava estabelecida a separação de poderes.
 
 ## INDEPENDÊNCIA DO BRASIL
-O rei D. João VI regressou a Portugal, ficando o seu filho D. Pedro na regência do Brasil. Durante a permanência do rei o Brasil teve um grande desenvolvimento e os portos foram abertos aos comerciantes estrangeiros o que favoreceu a burguesia brasileira. Estes apoiaram D. Pedro que declarou a independência do Brasil em 1822.
+
+### Contexto
+Durante a permanência da família real no Brasil (1808–1821), o território brasileiro sofreu profundas transformações:
+
+- **Abertura dos portos:** Em 1808, D. João abriu os portos brasileiros ao comércio com todas as nações amigas, quebrando o monopólio comercial que Portugal mantinha. Isto beneficiou enormemente a burguesia brasileira e os comerciantes estrangeiros, sobretudo ingleses.
+- **Desenvolvimento económico e cultural:** O Rio de Janeiro tornou-se a capital do império português. Foram criados o Banco do Brasil, escolas superiores, a Imprensa Régia, o Jardim Botânico e a Biblioteca Real. O Brasil deixou de ser uma simples colónia e passou a ter vida cultural e económica própria.
+- **Elevação a reino:** Em 1815, o Brasil foi elevado à categoria de reino, passando a formar o Reino Unido de Portugal, Brasil e Algarves, o que lhe dava um estatuto de igualdade com Portugal.
+
+### O regresso de D. João VI e a tensão política
+Após a Revolução Liberal de 1820 em Portugal, as Cortes Constituintes exigiram o regresso do rei. D. João VI regressou a Portugal em 1821, deixando o seu filho D. Pedro como príncipe regente do Brasil.
+
+As Cortes tentaram reverter as conquistas do Brasil:
+
+- Ordenaram o regresso de D. Pedro a Portugal.
+- Tentaram restabelecer o monopólio comercial e retirar a autonomia administrativa brasileira.
+- Estas medidas provocaram uma enorme revolta entre os brasileiros, que não queriam perder os avanços alcançados.
+
+### A declaração de independência
+A burguesia brasileira, os grandes proprietários de terras e parte da população apoiaram D. Pedro, que decidiu permanecer no Brasil. A 9 de janeiro de 1822, D. Pedro declarou: *"Se é para o bem de todos e felicidade geral da nação, diga ao povo que fico"* – episódio que ficou conhecido como o **Dia do Fico**.
+
+A 7 de setembro de 1822, junto ao rio Ipiranga, em São Paulo, D. Pedro proclamou a independência do Brasil, no episódio conhecido como o **Grito do Ipiranga**: *"Independência ou morte!"*
+
+D. Pedro foi aclamado como D. Pedro I, imperador do Brasil. Portugal reconheceu a independência do Brasil em 1825, após mediação inglesa.
+
+### Consequências
+- O Brasil tornou-se uma monarquia constitucional independente.
+- Portugal perdeu a sua maior e mais rica colónia, agravando a crise económica do reino.
+- A independência do Brasil inspirou-se nos ideais liberais vindos da Revolução Francesa e da independência dos Estados Unidos.
+- O êxito da independência brasileira encorajou outros movimentos de emancipação na América Latina.
+
 
 ## A LUTA ENTRE LIBERAIS E ABSOLUTISTAS
-Guerra Civil
-Quando D. João VI morre, D. Pedro sucede-lhe mas abdica do trono para ficar no Brasil. Passa a coroa para a sua filha Maria da Glória mas, como tinha apenas 7 anos, fica como regente o seu irmão D. Miguel.
-D. Miguel prometeu governar segundo um regime liberal mas em 1828 dissolveu as cortes e passou a governar como rei absoluto com o apoio da nobreza e do clero e perseguiu os liberais.
-Em 1831, D. Pedro abdicou do trono brasileiro e rumou à Europa, instalando-se com exilados liberais na Ilha Terceira, nos Açores.
-Em 1832 desembarcou com as suas tropas numa praia próxima do Porto e avançou sobre a cidade, sem encontrar resistência.
-Assistimos assim a uma Guerra Civil em Portugal (de um lado os Absolutistas, liderados por D. Miguel e do outro lado os Liberais, liderados por D. Pedro).
-Só depois de várias derrotas é que D. Miguel assinou a paz através da Convenção de Évora Monte em 1834.
-O Liberalismo saiu vitorioso e implantou-se definitivamente no nosso país.
+
+### Contexto: duas visões opostas para Portugal
+Após a Revolução Liberal de 1820, Portugal dividiu-se em dois campos políticos irreconciliáveis:
+
+- **Liberais:** Defendiam a Constituição, a separação de poderes, os direitos individuais e uma monarquia constitucional em que o rei governava de acordo com as leis aprovadas pelo parlamento. Eram apoiados pela burguesia, pelos intelectuais e por grande parte do povo urbano.
+- **Absolutistas:** Defendiam o regresso à monarquia absoluta, em que o rei concentrava todo o poder. Eram apoiados pela alta nobreza e por grande parte do clero, que tinham perdido privilégios com as reformas liberais.
+
+### A Carta Constitucional de 1826
+Quando D. João VI morreu em 1826, D. Pedro (que era imperador do Brasil) sucedeu-lhe no trono português. No entanto, não querendo abandonar o Brasil, D. Pedro tomou duas decisões:
+
+- Outorgou a **Carta Constitucional de 1826**, um documento mais moderado que a Constituição de 1822, que mantinha a monarquia constitucional mas dava mais poderes ao rei (incluindo o poder moderador).
+- Abdicou da coroa portuguesa a favor da sua filha **D. Maria da Glória**, que tinha apenas 7 anos, ficando o seu irmão **D. Miguel** como regente.
+
+### O golpe absolutista de D. Miguel
+D. Miguel jurou governar segundo a Carta Constitucional, mas em 1828 dissolveu as Cortes e fez-se aclamar rei absoluto, restaurando o absolutismo. Iniciou uma violenta perseguição aos liberais: muitos foram presos, torturados ou forçados ao exílio.
+
+### A Guerra Civil (1832–1834)
+Em 1831, D. Pedro abdicou do trono brasileiro e dedicou-se a restaurar os direitos da sua filha em Portugal. Reuniu-se com liberais exilados na ilha Terceira, nos Açores, e organizou uma expedição militar.
+
+**Principais acontecimentos:**
+
+- **1832:** D. Pedro desembarcou com as suas tropas no Mindelo, perto do Porto, e ocupou a cidade. Seguiu-se o **Cerco do Porto**, em que as forças absolutistas de D. Miguel cercaram a cidade durante mais de um ano, mas os liberais resistiram.
+- **1833:** Uma expedição liberal, comandada pelo Duque da Terceira, navegou para o Algarve e subiu até Lisboa, conquistando a capital.
+- **1834:** Após várias derrotas militares, D. Miguel foi obrigado a assinar a **Convenção de Évora Monte** (maio de 1834), pela qual renunciou ao trono e partiu para o exílio.
+
+### Consequências
+- O liberalismo saiu vitorioso e implantou-se definitivamente em Portugal.
+- D. Maria II tornou-se rainha e jurou a Carta Constitucional.
+- Foram tomadas importantes reformas liberais: extinção das ordens religiosas, nacionalização dos seus bens, abolição dos dízimos, reforma da administração pública e do ensino.
+- A guerra civil deixou o país economicamente arruinado e socialmente dividido, consequências que se fariam sentir durante décadas.
+
 
 ## PORTUGAL NA SEGUNDA METADE DO SÉCULO XIX
 ## REGENERAÇÃO
@@ -993,80 +1100,193 @@ Alteração da paisagem
 O aumento dos campos de cultivo e o aumento do número de fábricas e de minas provocaram uma profunda alteração das paisagens. Nas cidades predominavam as chaminés muito altas que enchiam o céu de fumos e maus cheiros.
 
 ## O FONTISMO
-Para promover o desenvolvimento da agricultura, do comércio e da indústria, era necessário a construção de uma boa rede de transportes e de comunicações. Com esse fim, em 1852, foi criado o Ministério das Obras Públicas, dirigido por Fontes Pereira de Melo. Esta política de construção de obras públicas (estradas, pontes, portos, caminhos-de-ferro, ligações teleféricas, etc…) ficou conhecida por fontismo, devido ao nome do seu principal impulsionador.
-Surgiram novos meios de transporte e de comunicação, o que permitiu uma maior mobilidade de pessoas, maior circulação de ideias e informações e a deslocação de mais mercadorias em menos tempo.
-Desenvolvimento dos meios de transporte e vias de comunicação
-Caminhos-de-ferro
-A rede de caminhos-de-ferro cresceu de forma muito rápida e ao longo da sua extensão construíram-se várias pontes, túneis e estações.
-Em 1856 realizou-se a primeira viagem de comboio, entre Lisboa e Carregado.
-Em 1887 inaugurou-se a ligação direta Lisboa-Madrid-Paris. Portugal ficou assim mais próximo do centro da Europa.
-Rede de estradas
-Iniciou-se também a renovação e construção de novas estradas em todo o país. De forma a facilitar a circulação também se construíram várias pontes.
-A partir de 1855 começou a circular na estrada Lisboa-Porto a mala-posta, uma carruagem que transportava o correio e algumas pessoas.
-No final do século XIX surgiram os primeiros automóveis.
-Portos marítimos e faróis
-Para tornar mais segura a navegação costeira construíram-se vários faróis e melhoraram-se os portos marítimos.
-Surgiram nesta época os barcos movidos a vapor, primeiro no Rio Tejo, depois na ligação entre Lisboa e Porto e, mais tarde ainda, na ligação aos Açores e Madeira.
-Desenvolvimento das comunicações
-Os correios foram remodelados, surgindo o primeiro selo-adesivo, o bilhete-postal e os primeiros marcos de correio.
-Surgiu também o telégrafo e mais tarde o telefone.
+
+### O que foi o Fontismo
+Para promover o desenvolvimento da agricultura, do comércio e da indústria, era necessário a construção de uma boa rede de transportes e de comunicações. Com esse fim, em 1852, foi criado o Ministério das Obras Públicas, dirigido por **Fontes Pereira de Melo**. Esta política de construção de obras públicas ficou conhecida por **Fontismo**, devido ao nome do seu principal impulsionador.
+
+Fontes Pereira de Melo acreditava que a modernização das infraestruturas era a chave para o progresso do país. O seu lema era "construir estradas, caminhos de ferro e escolas". Esta visão dominou a política portuguesa durante a segunda metade do século XIX.
+
+### Desenvolvimento dos meios de transporte
+
+**Caminhos-de-ferro:**
+A rede de caminhos-de-ferro cresceu de forma muito rápida e ao longo da sua extensão construíram-se várias pontes, túneis e estações.
+
+- Em **1856** realizou-se a primeira viagem de comboio, entre Lisboa e Carregado.
+- Em **1863** foi inaugurada a ligação Lisboa-Porto.
+- Em **1887** inaugurou-se a ligação direta Lisboa-Madrid-Paris. Portugal ficou assim mais próximo do centro da Europa.
+- No final do século XIX, a rede ferroviária estendia-se já por grande parte do território nacional, com linhas que ligavam o litoral ao interior.
+
+**Rede de estradas:**
+Iniciou-se também a renovação e construção de novas estradas em todo o país. De forma a facilitar a circulação, construíram-se várias pontes, como a ponte D. Luís I no Porto (1886) e a ponte D. Maria Pia, também no Porto, projetada por Gustave Eiffel (1877).
+A partir de 1855 começou a circular na estrada Lisboa-Porto a mala-posta, uma carruagem que transportava o correio e algumas pessoas.
+No final do século XIX surgiram os primeiros automóveis.
+
+**Portos marítimos e faróis:**
+Para tornar mais segura a navegação costeira, construíram-se vários faróis e melhoraram-se os portos marítimos, com destaque para os portos de Lisboa e Leixões.
+Surgiram nesta época os barcos movidos a vapor, primeiro no Rio Tejo, depois na ligação entre Lisboa e Porto e, mais tarde ainda, na ligação aos Açores e Madeira.
+
+### Desenvolvimento das comunicações
+- Os correios foram remodelados, surgindo o primeiro selo-adesivo, o bilhete-postal e os primeiros marcos de correio.
+- Surgiu o **telégrafo** (1857 – primeira ligação telegráfica Lisboa-Porto), que permitia enviar mensagens rapidamente a longa distância.
+- Em 1882 chegou o **telefone** a Portugal, instalado primeiro em Lisboa.
+
+### Consequências do Fontismo
+
+**Aspetos positivos:**
+
+- Modernização do país e aproximação à Europa.
+- Maior mobilidade de pessoas e mercadorias.
+- Desenvolvimento do comércio interno e externo.
+- Integração das várias regiões do país.
+
+**Aspetos negativos:**
+
+- As obras públicas foram financiadas em grande parte com **empréstimos ao estrangeiro**, o que aumentou significativamente a dívida externa portuguesa.
+- O desenvolvimento concentrou-se no litoral, agravando as desigualdades entre o litoral e o interior.
+- A agricultura e a indústria não se desenvolveram ao mesmo ritmo que as infraestruturas.
+- Os custos das obras foram muito superiores ao previsto, contribuindo para a crise financeira que afetaria Portugal nas décadas seguintes.
 
 ## MODERNIZAÇÃO DO ENSINO
-O país encontrava-se em modernização, por isso também era necessário que a população se tornasse mais instruída e competente para realizar as mudanças pretendidas. Tomaram-se então várias medidas no ensino:
 
-- Ensino primário:
-- Criaram-se novas escola primárias
-- Tornou-se obrigatória a frequência nos primeiros 3 anos, com mais um de voluntariado
-- Ensino liceal:
-- Criaram-se novos liceus em todas as capitais de distrito e dois em Lisboa
-- Fundaram-se escolas industriais, comerciais e agrícolas
-- Ensino universitário:
-- Criaram-se novas escolas ligadas à Marinha, às Artes, às Técnicas e ao Teatro
+### A necessidade de instruir a população
+O país encontrava-se em plena modernização, com novas fábricas, transportes e tecnologias, por isso era urgente que a população se tornasse mais instruída e preparada para acompanhar estas mudanças. No início da segunda metade do século XIX, a maioria dos portugueses era analfabeta – estima-se que cerca de 80% da população não sabia ler nem escrever.
+
+### Medidas tomadas
+
+**Ensino primário:**
+
+- Criaram-se novas escolas primárias por todo o país, tanto para rapazes como para raparigas.
+- Tornou-se obrigatória a frequência nos primeiros 3 anos, com mais um de voluntariado.
+- Apesar da obrigatoriedade, muitas crianças, sobretudo nas zonas rurais, continuavam a não frequentar a escola, pois eram necessárias para ajudar no trabalho do campo.
+- Foram formados novos professores nas escolas normais (escolas de formação de professores).
+
+**Ensino liceal:**
+
+- Criaram-se novos liceus em todas as capitais de distrito e dois em Lisboa.
+- O ensino liceal preparava os alunos para os estudos universitários e para carreiras na administração pública.
+
+**Ensino técnico e profissional:**
+
+- Fundaram-se escolas industriais, comerciais e agrícolas, para formar trabalhadores qualificados que pudessem contribuir para o desenvolvimento económico do país.
+- Estas escolas representavam uma novidade importante, pois até então o ensino era quase exclusivamente teórico e literário.
+
+**Ensino universitário e superior:**
+
+- Criaram-se novas escolas ligadas à Marinha, às Artes, às Técnicas e ao Teatro.
+- A Universidade de Coimbra continuou a ser a única universidade do país até ao início do século XX.
+
+### Resultados
+Apesar dos esforços, os resultados foram modestos. No final do século XIX, a taxa de analfabetismo em Portugal continuava acima dos 70%, uma das mais altas da Europa. A escolarização no meio rural era especialmente difícil, devido à distância das escolas, à pobreza das famílias e à necessidade de mão de obra infantil na agricultura. Ainda assim, as reformas educativas deste período lançaram as bases para o desenvolvimento do sistema de ensino que seria expandido durante a I República.
+
 
 ## DIREITOS HUMANOS
-Também foram tomadas importantes medidas relacionadas com os Direitos Humanos:
 
-- Abolição da pena de morte para crimes políticos (1852)
-- Abolição da pena de morte para crimes civis (1867)
-- Extinção da escravatura em todos os territórios portugueses (1869)
+### Avanços em Portugal no século XIX
+A segunda metade do século XIX foi um período de importantes conquistas no campo dos direitos humanos em Portugal, influenciado pelas ideias liberais e pelos movimentos sociais europeus.
+
+**Abolição da pena de morte:**
+
+- Em **1852**, Portugal aboliu a pena de morte para crimes políticos, tornando-se um dos primeiros países do mundo a dar este passo.
+- Em **1867**, a pena de morte foi abolida para todos os crimes civis. Portugal foi pioneiro na Europa nesta medida, que refletia os ideais humanistas e iluministas.
+
+**Extinção da escravatura:**
+
+- Em **1761**, o Marquês de Pombal já tinha proibido a entrada de novos escravos em Portugal continental, mas a escravatura continuou nas colónias.
+- Em **1869**, a escravatura foi definitivamente abolida em todos os territórios portugueses, incluindo as colónias africanas. Esta medida foi o culminar de um longo processo que se iniciou em 1854, quando foi decretada a libertação dos escravos do Estado, e em 1856, quando se estabeleceu que todos os filhos de escravos nasceriam livres.
+
+**Direitos dos trabalhadores:**
+
+- Com o desenvolvimento da indústria e o crescimento do operariado, surgiram os primeiros movimentos de defesa dos trabalhadores.
+- Os operários começaram a organizar-se em **associações de classe** e, mais tarde, em **sindicatos** para lutar por melhores condições de trabalho, salários dignos e horários mais reduzidos.
+- As greves tornaram-se um instrumento de luta frequente na segunda metade do século XIX.
+
+**Direitos das mulheres:**
+
+- Embora as conquistas femininas fossem ainda muito limitadas neste período, começaram a surgir vozes a favor da educação feminina.
+- A obrigatoriedade do ensino primário estendeu-se progressivamente às raparigas, embora na prática muitas continuassem sem acesso à escola, sobretudo nas zonas rurais.
+
+### Contexto europeu
+Estas conquistas portuguesas inseriam-se num movimento mais amplo na Europa:
+
+- A **Declaração dos Direitos do Homem e do Cidadão** (1789, França) estabeleceu princípios fundamentais que inspiraram legislação em todo o continente.
+- Em 1833, o parlamento britânico aboliu a escravatura no Império Britânico.
+- Em vários países europeus surgiram movimentos operários e sindicais que exigiam direitos laborais e proteção social.
+
 
 ## OS MOVIMENTOS DA POPULAÇÃO
-Contagem da população
-Para dar melhor resposta às necessidades da população, tornou-se necessário saber o número de habitantes do país, e onde se concentravam com maior quantidade.
-Já se tinham realizadas contagens da população, mas eram pouco exatas pois tinham como base a contagem de habitações e não de pessoas. A estas contagens dá-se o nome de numeramentos.
-A primeira contagem rigorosa do número de habitantes do país realizou-se em 1864, ou seja, foi quando se realizou o primeiro recenseamento. Em boletins próprios os habitantes tinham que colocar o nome, o sexo, a idade, o estado civil e a profissão. A partir dessa data realizam-se recenceamentos, ou censos, de 10 em 10 anos.
-Crescimento demográfico
-Através dos recenseamentos verificou-se o aumento de população desde que se fez o primeiro censo. De 1864 até 1900 a população passou de cerca de 4 milhões de habitantes para 5 milhões.
-Este facto justifica-se pela melhoria de condições de vida da população:
 
-- Período de paz e estabilidade política e social
-- Melhoria da alimentação, com o aumento do consumo da batata e do milho
-- Melhoria das condições de higiene, com a construção de esgotos, distribuição de água através da canalização e calcetamento das ruas
-- Melhoria da assistência médica e hospitalar, com o aparecimento de novos medicamentos, divulgação de algumas vacinas e construção de hospitais
-Distribuição da população
-Verificou-se também que o crescimento populacional não ocorreu de igual forma por todo o território. O aumento de população foi maior no norte litoral, onde se encontravam os solos mais férteis, maior quantidade de portos de pesca e unidades industriais.
-Entretanto, em todas cidades verificou-se aumento de população, principalmente as do litoral.
-Êxodo Rural
-Apesar do desenvolvimento da agricultura, a produção continuava a ser pouca. A mecanização originou despedimentos e as dificuldades no meio rural intensificaram-se. Sendo assim, muitas pessoas decidiram abandonar os campos para ir para as cidades à procura de melhores condições de vida. A este fenómeno dá-se o nome de Êxodo Rural.
-Emigração
-Entretanto, devido ao aumento da população, não havia postos de emprego para todos nas cidades. Muitos dos trabalhos eram mal pagos apesar de se trabalhar duramente muitas horas diárias.
-Sendo assim, muitas pessoas decidiram procurar melhores condições de vida no estrangeiro, sobretudo para o Brasil, pois falava-se a  mesma língua e porque havia necessidade de mão-de-obra devido à extinção da escravatura. Muitos emigrantes enriqueceram e ao regressar a Portugal compraram terras, palacetes e vestiam-se luxuosamente. Eram chamados os «brasileiros».
-Além do Brasil, foram destinos dos portugueses países da América Central e os Estados Unidos da América.
+### Contagem da população
+Para dar melhor resposta às necessidades da população, tornou-se necessário saber o número de habitantes do país e onde se concentravam em maior quantidade.
+Já se tinham realizado contagens da população, mas eram pouco exatas pois tinham como base a contagem de habitações e não de pessoas. A estas contagens dá-se o nome de **numeramentos**.
+A primeira contagem rigorosa do número de habitantes do país realizou-se em **1864**, ou seja, foi quando se realizou o primeiro **recenseamento**. Em boletins próprios, os habitantes tinham que colocar o nome, o sexo, a idade, o estado civil e a profissão. A partir dessa data realizam-se recenseamentos, ou censos, de 10 em 10 anos.
+
+### Crescimento demográfico
+Através dos recenseamentos verificou-se o aumento de população desde que se fez o primeiro censo. De 1864 até 1900, a população passou de cerca de 4 milhões de habitantes para 5 milhões.
+Este crescimento justifica-se pela melhoria das condições de vida da população:
+
+- Período de paz e estabilidade política e social.
+- Melhoria da alimentação, com o aumento do consumo da batata e do milho.
+- Melhoria das condições de higiene, com a construção de esgotos, distribuição de água através da canalização e calcetamento das ruas.
+- Melhoria da assistência médica e hospitalar, com o aparecimento de novos medicamentos, divulgação de algumas vacinas e construção de hospitais.
+
+### Distribuição da população
+Verificou-se que o crescimento populacional não ocorreu de igual forma por todo o território. O aumento de população foi maior no norte litoral, onde se encontravam os solos mais férteis, maior quantidade de portos de pesca e unidades industriais. Em todas as cidades verificou-se aumento de população, principalmente nas do litoral. Esta tendência de concentração no litoral iria acentuar-se nas décadas seguintes.
+
+### Êxodo Rural
+Apesar do desenvolvimento da agricultura, a produção continuava a ser insuficiente. A mecanização originou despedimentos e as dificuldades no meio rural intensificaram-se. Muitas pessoas decidiram abandonar os campos para ir para as cidades à procura de melhores condições de vida. A este fenómeno dá-se o nome de **êxodo rural**.
+
+As consequências do êxodo rural foram significativas:
+
+- **Nas cidades:** crescimento rápido e desordenado, com a formação de bairros pobres e sobrelotados nos arredores das grandes cidades; aumento da oferta de mão de obra barata para as fábricas.
+- **No campo:** abandono de terras agrícolas, envelhecimento da população rural e diminuição da produção agrícola em algumas regiões.
+
+### Emigração
+Devido ao aumento da população, não havia postos de emprego para todos nas cidades. Muitos dos trabalhos eram mal pagos, apesar de se trabalhar duramente durante muitas horas diárias.
+
+Muitas pessoas decidiram procurar melhores condições de vida no estrangeiro. Os principais destinos foram:
+
+- **Brasil:** o destino preferido, pois falava-se a mesma língua e havia grande necessidade de mão de obra, sobretudo após a extinção da escravatura (1888 no Brasil). Estima-se que entre 1855 e 1900 emigraram para o Brasil cerca de 500 mil portugueses.
+- **América Central, Estados Unidos da América** e outros destinos nas Américas.
+
+Muitos emigrantes enriqueceram e, ao regressar a Portugal, compraram terras e palacetes e vestiam-se luxuosamente. Eram chamados os **«brasileiros»** e tiveram um impacto significativo na economia e na sociedade, sobretudo no norte do país, onde construíram casas e escolas e contribuíram para o desenvolvimento local.
+
+O dinheiro enviado pelos emigrantes para as suas famílias (as chamadas **remessas**) tornou-se uma importante fonte de receitas para a economia portuguesa – uma característica que se manteve ao longo de todo o século XX.
+
 
 ## A VIDA QUOTIDIANA NO CAMPO
-Atividades económicas
-As principais atividades do meio rural na segunda metade do século XIX continuavam a ser a agricultura, a criação de gado e a pesca nas zonas do litoral.
-Na sua maioria,os camponeses não eram donos das terras em que trabalhavam. As terras pertenciam sobretudo à antiga nobreza, proprietários burgueses e a alguns lavradores mais abastados.
-O trabalho no campo era muito duro e os rendimentos eram poucos, por isso, os camponeses viviam muito pobremente.
-Com a introdução da máquina na agricultura, aumentou-se o desemprego por já não ser precisa tanta mão-de-obra, dificultando ainda mais a vida dos homens do campo.
-Alimentação
-Os camponeses alimentavam-se sobretudo do que cultivavam. Dos produtos que mais consumiam destacam-se a batata, pão de centeio ou de milho, sopas de legumas e sardinhas. A carne, mais cara e de difícil conservação, era apenas consumida em dias de festa.
-Vestuário
-O vestuário dos camponeses variava de região para região, de acordo com o clima e com as atividades predominantes.
-No interior, era frequente os homens usarem calças compridas, coletes ou jaquetas, e calçavam botas ou tamancos de madeira. As mulheres vestiam saias compridas e usavam lenços coloridos na cabeça.
-No litoral, os homens usavam calças curtas ou arregaçadas e geralmente andavam descalços, tal como as mulheres que vestiam saias mais curtas do que as do interior, devido às suas atividades relacionadas com o mar.
-Divertimentos
-Os divertimentos das pessoas do campo estavam associados sobretudo às atividades do campo (vindimas e desfolhadas) e à religião (feiras, romarias e festas religiosas).
+
+### Atividades económicas
+As principais atividades do meio rural na segunda metade do século XIX continuavam a ser a agricultura, a criação de gado e a pesca nas zonas do litoral.
+Na sua maioria, os camponeses não eram donos das terras em que trabalhavam. As terras pertenciam sobretudo à antiga nobreza, proprietários burgueses e a alguns lavradores mais abastados. Os camponeses trabalhavam como **jornaleiros** (pagos ao dia), **rendeiros** (que arrendavam terras) ou **caseiros** (que viviam e trabalhavam nas terras do proprietário em troca de parte da colheita).
+
+O trabalho no campo era muito duro e os rendimentos eram poucos, por isso, os camponeses viviam muito pobremente. O dia começava ao nascer do sol e terminava ao anoitecer, com poucas pausas.
+
+Com a introdução da máquina na agricultura, aumentou o desemprego por já não ser necessária tanta mão de obra, dificultando ainda mais a vida dos homens e mulheres do campo. Muitos viram-se obrigados a procurar trabalho nas cidades (êxodo rural) ou a emigrar.
+
+### Habitação
+As casas dos camponeses eram geralmente pequenas e simples, construídas com os materiais disponíveis na região:
+
+- No norte, predominavam as casas de granito, muitas vezes com dois pisos: o andar de baixo para os animais e alfaias, e o de cima para a família.
+- No sul, eram comuns as casas caiadas de branco, com paredes grossas de taipa ou adobe para proteger do calor.
+- O interior era modesto: poucos móveis, cozinha com lareira (que servia para cozinhar e aquecer), e iluminação a candeias de azeite ou velas.
+
+### Alimentação
+Os camponeses alimentavam-se sobretudo do que cultivavam. Dos produtos que mais consumiam destacam-se a batata, o pão de centeio ou de milho, sopas de legumes e sardinhas. A carne, mais cara e de difícil conservação, era apenas consumida em dias de festa – o porco, criado em quase todas as casas rurais, era abatido uma vez por ano (a matança do porco) e as suas carnes eram conservadas em sal e fumeiro para durarem o ano inteiro.
+
+### Vestuário
+O vestuário dos camponeses variava de região para região, de acordo com o clima e com as atividades predominantes.
+No interior, era frequente os homens usarem calças compridas, coletes ou jaquetas e calçarem botas ou tamancos de madeira. As mulheres vestiam saias compridas e usavam lenços coloridos na cabeça.
+No litoral, os homens usavam calças curtas ou arregaçadas e geralmente andavam descalços, tal como as mulheres, que vestiam saias mais curtas do que as do interior, devido às suas atividades relacionadas com o mar.
+
+### Divertimentos e vida social
+Os divertimentos das pessoas do campo estavam associados sobretudo:
+
+- Às **atividades agrícolas coletivas**, como as vindimas, as desfolhadas e as malhadas, que juntavam as comunidades e incluíam cantigas, jogos e refeições partilhadas.
+- À **religião**, com as feiras, romarias e festas religiosas em honra do santo padroeiro de cada localidade, que eram os grandes momentos de convívio e celebração.
+- Às **feiras e mercados**, onde se comprava, vendia e trocava produtos, mas que também serviam como ponto de encontro e socialização.
+
+A igreja era o centro da vida comunitária: era onde se batizavam os filhos, se casava e se prestava o último adeus aos mortos. O padre era muitas vezes a figura mais influente da aldeia.
+
 
 ## A VIDA QUOTIDIANA NAS GRANDES CIDADES
 Atividades económicas
@@ -1205,79 +1425,151 @@ Apesar destas medidas a ditadura não veio resolver os problemas existentes em P
 O ESTADO NOVO (1933-1974)
 
 ## SALAZAR E O ESTADO NOVO
-Ascensão política de Salazar
-Em 1928, António de Oliveira Salazar foi nomeado ministro das Finanças e conseguiu equilibrar as contas públicas. Para isso, Salazar:
+
+### Ascensão política de Salazar
+Em 1928, António de Oliveira Salazar foi nomeado ministro das Finanças e conseguiu equilibrar as contas públicas. Para isso, Salazar:
 
 - aumentou as receitas, através do aumento dos impostos
 - diminuiu as despesas do Estado, através da redução de gastos com a Educação, Saúde e com os salários dos funcionários públicos.
 
-Em 1932, Salazar foi nomeado Presidente do Conselho de Ministros, ou seja, passou a ser o chefe do Governo.
-Constituição de 1933
-Em 1933, foi aprovada uma nova constituição em que os direitos e liberdades dos cidadãos eram reconhecidos e ficou estabelecido que o Presidente da República e os deputados seriam eleitos pelos cidadãos.
+Em 1932, Salazar foi nomeado Presidente do Conselho de Ministros, ou seja, passou a ser o chefe do Governo.
+
+### Constituição de 1933
+Em 1933, foi aprovada uma nova constituição em que os direitos e liberdades dos cidadãos eram reconhecidos e ficou estabelecido que o Presidente da República e os deputados seriam eleitos pelos cidadãos.
 No entanto, as eleições não eram verdadeiramente livres e os direitos e liberdades dos cidadãos nem sempre foram respeitados por Salazar. Foi constituído novamente o Parlamento que apenas servia para aprovar as leis impostas pelo governo.
-Política de obras públicas
-Durante o Estado Novo construíram-se estradas, barragens, hospitais e edifícios públicos. Esta política permitiu a modernização do país e combateu o desemprego junto das áreas urbanas. Salazar aproveitou também esta política de obras públicas para engrandecer o seu trabalho à frente do país e assim fazer propaganda.
-Receitas do turismo e da emigração
-Desenvolveu-se o turismo, o que permitiu a entrada de mais receitas para o Estado.
-Apesar do desenvolvimento do país, muitas pessoas continuavam a viver em grandes dificuldades e decidiram emigrar. O dinheiro enviado para Portugal pelos emigrantes foi outra fonte de receitas para o Estado.
-Suportes do Estado Novo
+
+### Política de obras públicas
+Durante o Estado Novo construíram-se estradas, barragens, hospitais e edifícios públicos. Esta política permitiu a modernização do país e combateu o desemprego junto das áreas urbanas. Salazar aproveitou também esta política de obras públicas para engrandecer o seu trabalho à frente do país e assim fazer propaganda.
+
+### Receitas do turismo e da emigração
+Desenvolveu-se o turismo, o que permitiu a entrada de mais receitas para o Estado.
+Apesar do desenvolvimento do país, muitas pessoas continuavam a viver em grandes dificuldades e decidiram emigrar. O dinheiro enviado para Portugal pelos emigrantes foi outra fonte de receitas para o Estado.
+
+### Suportes do Estado Novo
 Para Salazar conseguir tanto tempo no poder teve vários suportes:
 
-- Censura: da imprensa, teatro, cinema, rádio e televisão, que impedia a divulgação de opiniões contra o regime salazarista.
-- Polícia política: PVDE, que passou mais tarde a chamar-se PIDE, que vigiava, perseguia, prendia e torturava os opositores ao regime de Salazar.
-- Mocidade Portuguesa: organização com fim de desenvolver o culto do chefe, dever militar e devoção à pátria nos jovens dos 7 aos 18 anos.
-- Legião Portuguesa: organização armada que defendia o Estado Novo e combatia o Comunismo.
-- Propaganda Nacional: tinha como objetivo obter apoio da população.
-- União Nacional: única organização política legal que apoiava Salazar.
-Oposição política
-Eleições legislativas de 1945
+- **Censura:** da imprensa, teatro, cinema, rádio e televisão, que impedia a divulgação de opiniões contra o regime salazarista. Todos os jornais, livros, peças de teatro e filmes tinham de ser aprovados pela censura antes de serem publicados ou exibidos. O que era proibido era cortado com o "lápis azul".
+- **Polícia política:** PVDE, que passou mais tarde a chamar-se PIDE (Polícia Internacional e de Defesa do Estado), que vigiava, perseguia, prendia e torturava os opositores ao regime de Salazar. A PIDE tinha uma rede de informadores em todo o país e nas colónias, e as suas prisões (como a de Caxias e a do Tarrafal, em Cabo Verde) eram temidas.
+- **Mocidade Portuguesa:** organização obrigatória para jovens dos 7 aos 14 anos (voluntária até aos 18), com o fim de desenvolver o culto do chefe, o dever militar e a devoção à pátria. As raparigas tinham a Mocidade Portuguesa Feminina.
+- **Legião Portuguesa:** organização armada de voluntários que defendia o Estado Novo e combatia o Comunismo.
+- **Propaganda Nacional:** O Secretariado de Propaganda Nacional (SPN), dirigido por António Ferro, tinha como objetivo controlar a imagem do regime e obter o apoio da população. Organizava festas populares, concursos (como a "Aldeia mais portuguesa de Portugal") e divulgava os lemas do regime, como "Deus, Pátria e Família".
+- **União Nacional:** única organização política legal que apoiava Salazar. Todos os outros partidos foram proibidos.
+
+### A vida social durante o Estado Novo
+O regime de Salazar moldou profundamente a sociedade portuguesa:
+
+- **Educação:** O regime controlava os conteúdos escolares e os manuais. Os professores eram vigiados. O ensino promovia os valores do regime: obediência, patriotismo e religião. A taxa de analfabetismo, embora tenha diminuído, manteve-se elevada. Salazar afirmou que "é mais perigoso saber ler e escrever do que não saber", revelando a sua desconfiança em relação à instrução do povo.
+- **Papel da mulher:** O regime defendia que a mulher devia dedicar-se ao lar e à família. As mulheres casadas não podiam viajar ao estrangeiro, ter passaporte ou exercer certas profissões sem autorização do marido. Apesar destas restrições, muitas mulheres trabalhavam nas fábricas e no campo em condições muito difíceis.
+- **Pobreza e atraso:** Portugal era um dos países mais pobres e atrasados da Europa Ocidental. Grande parte da população vivia no campo, em condições de grande pobreza, sem eletricidade nem água canalizada. A mortalidade infantil era das mais altas da Europa.
+- **Emigração massiva:** Nas décadas de 1960 e 1970, milhões de portugueses emigraram, sobretudo para França, Alemanha e Luxemburgo, fugindo da pobreza e da Guerra Colonial. Muitos saíam clandestinamente, "a salto", atravessando a fronteira espanhola a pé durante a noite.
+
+### Oposição política
 Os opositores ao salazarismo organizaram-se clandestinamente para não serem perseguidos e presos. Outros tiveram de sair do país (exilados políticos).
+
+**Eleições legislativas de 1945:**
 A oposição cresceu em 1945 quando terminou a II Guerra Mundial, com a vitória dos países democráticos (EUA, França, Inglaterra e seus aliados), onde os direitos e liberdades dos cidadãos eram respeitados. Estes países pressionaram Salazar e este marcou eleições legislativas.
-A oposição uniu-se e criou o MUD (Movimento de Unidade Democrática). No entanto, o governo não permitiu que a oposição fizesse campanha eleitoral nem que a contagem dos votos fosse fiscalizada. Quem fosse suspeito de pertencer à oposição era tirado das listas eleitorais para não puderem votar. Os dirigentes do MUD decidiram então apelar à abstenção e assim a União Nacional conseguiu eleger todos os seus candidatos.
-Eleições presidenciais de 1958
-O general Humberto Delgado, com o apoio de toda a oposição, candidatou-se às eleições presidenciais de 1958. Apesar do grande apoio que teve da população, foi Américo Tomás, pertencente à União Nacional, quem venceu as eleições, que foram consideradas fraudulentas pela oposição.
+A oposição uniu-se e criou o MUD (Movimento de Unidade Democrática). No entanto, o governo não permitiu que a oposição fizesse campanha eleitoral nem que a contagem dos votos fosse fiscalizada. Quem fosse suspeito de pertencer à oposição era tirado das listas eleitorais para não poderem votar. Os dirigentes do MUD decidiram então apelar à abstenção e assim a União Nacional conseguiu eleger todos os seus candidatos.
+
+**Eleições presidenciais de 1958:**
+O general Humberto Delgado, com o apoio de toda a oposição, candidatou-se às eleições presidenciais de 1958. Quando lhe perguntaram o que faria a Salazar se fosse eleito, respondeu: *"Obviamente, demito-o!"* – uma declaração que entusiasmou o país. Apesar do grande apoio que teve da população, foi Américo Tomás, pertencente à União Nacional, quem venceu as eleições, que foram consideradas fraudulentas pela oposição. Humberto Delgado foi perseguido e exilou-se. Em 1965, foi assassinado pela PIDE em Espanha.
 Depois destas eleições, Salazar mudou a lei e criou um colégio eleitoral que passa a eleger o Presidente da República.
 
+
 ## A GUERRA COLONIAL
-Depois da II Guerra Mundial, os países como a Bélgica, a Inglaterra e a Holanda reconheceram a independência da maioria das suas colónias. No entanto, Salazar não fez o mesmo e a União Indiana e a população africana das colónias portuguesas começaram a revoltar-se contra Portugal.
 
-- 1961: União Indiana ocupou Damão, Diu e Goa
-- 1961: revolta da Angola
-- 1963: revolta da Guiné
-- 1964: revolta de Moçambique
-Salazar respondeu com o envio de muitos militares para as colónias. Esta Guerra Colonial, que durou 13 anos (1961-1974), teve como principais consequências:
+### O contexto internacional: a descolonização
+Depois da II Guerra Mundial, a maioria das potências europeias reconheceu o direito à autodeterminação dos povos colonizados:
 
-- o ferimento e morte de muitos soldados portugueses
-- e uma grande despesa com os gastos militares.
+- A **Inglaterra** concedeu independência à Índia (1947), e progressivamente às suas colónias africanas.
+- A **França** enfrentou guerras na Indochina (1946–1954) e na Argélia (1954–1962) antes de aceitar a descolonização.
+- A **Bélgica** concedeu independência ao Congo (1960).
+- A **ONU** defendia o direito dos povos à autodeterminação e pressionava Portugal a libertar as suas colónias.
+
+No entanto, Salazar recusou-se a aceitar a independência das colónias portuguesas. Em 1951, alterou a designação oficial de "colónias" para "províncias ultramarinas", tentando apresentá-las como parte integrante de Portugal e não como territórios colonizados. O lema do regime era: *"Portugal não é um país pequeno"* – referindo-se à extensão do império colonial.
+
+### O início dos conflitos
+
+- **1961 – Índia Portuguesa:** A União Indiana, liderada por Nehru, invadiu e ocupou Goa, Damão e Diu. Portugal não tinha meios militares para resistir e perdeu estes territórios.
+- **1961 – Angola:** Em fevereiro, grupos nacionalistas atacaram a prisão de Luanda, e em março houve uma revolta violenta no norte de Angola. Começava a guerra. Os principais movimentos de libertação eram o MPLA (Movimento Popular de Libertação de Angola), a FNLA (Frente Nacional de Libertação de Angola) e a UNITA (União Nacional para a Independência Total de Angola).
+- **1963 – Guiné-Bissau:** O PAIGC (Partido Africano para a Independência da Guiné e Cabo Verde), liderado por Amílcar Cabral, iniciou a luta armada.
+- **1964 – Moçambique:** A FRELIMO (Frente de Libertação de Moçambique), liderada por Eduardo Mondlane, iniciou a guerra no norte do país.
+
+### A guerra nos três teatros de operações
+Portugal foi obrigado a combater simultaneamente em três frentes – Angola, Guiné-Bissau e Moçambique – o que representou um esforço militar enorme para um país pequeno e economicamente frágil.
+
+- Foram enviados para África cerca de **800 mil militares** portugueses ao longo de 13 anos.
+- As condições de combate eram extremamente difíceis: selva tropical, doenças, emboscadas e minas.
+- Os movimentos de libertação recebiam apoio da URSS, de Cuba e de países vizinhos africanos.
+
+### Consequências da Guerra Colonial
+
+**Consequências humanas:**
+
+- Cerca de **9 mil soldados portugueses** morreram em combate e milhares ficaram feridos ou traumatizados (estima-se mais de 30 mil feridos e mutilados).
+- Também morreram dezenas de milhares de africanos, entre combatentes e civis.
+- Muitos dos ex-combatentes regressaram a Portugal com graves problemas físicos e psicológicos.
+
+**Consequências económicas:**
+
+- Os gastos militares consumiam cerca de 40% do orçamento do Estado, desviando recursos que faziam falta para a educação, a saúde e o desenvolvimento do país.
+- A guerra contribuiu para o atraso económico de Portugal em relação à Europa.
+
+**Consequências políticas e sociais:**
+
+- A emigração massiva de jovens que fugiam ao serviço militar obrigatório (4 anos, incluindo comissões em África).
+- O crescente descontentamento na população e sobretudo entre os jovens oficiais do Exército, que viria a desencadear a Revolução do 25 de Abril de 1974.
+
 O 25 DE ABRIL DE 1974 E O REGIME DEMOCRÁTICO
 A AÇÃO MILITAR E POPULAR EM 25 DE ABRIL
 Saída de Salazar do poder
-Salazar saiu do poder quando adoeceu gravemente em 1968. No entanto, Marcelo Caetano substituiu-o mantendo os seus ideais: manteve a DGS (Direção Geral de Segurança – antiga PIDE) e a Guerra Colonial.
+Salazar saiu do poder quando adoeceu gravemente em 1968. No entanto, Marcelo Caetano substituiu-o mantendo os seus ideais: manteve a DGS (Direção Geral de Segurança – antiga PIDE) e a Guerra Colonial.
 Fim da ditadura
 A falta de liberdade, o aumento do custo de vida e as despesas militares e muitas mortes durante a Guerra Colonial contribuíram para o aumento do descontentamento da população, o que levou ao fim da ditadura.
 25 de Abril de 1974
-Golpe militar organizado pelo MFA – Movimento das Forças Armadas – apoiado pelos populares. Várias cidades foram dominadas sem grande resistência.
-Marcelo Caetano refugiou-se no quartel do Carmo que foi cercado pelas tropas do capitão Salgueiro Maia e aceitou render-se perante um oficial superior: general António de Spínola. Acabou por ser preso, tal como Américo Tomás (presidente da República).
+Golpe militar organizado pelo MFA – Movimento das Forças Armadas – apoiado pelos populares. Várias cidades foram dominadas sem grande resistência.
+Marcelo Caetano refugiou-se no quartel do Carmo que foi cercado pelas tropas do capitão Salgueiro Maia e aceitou render-se perante um oficial superior: general António de Spínola. Acabou por ser preso, tal como Américo Tomás (presidente da República).
 Primeiras medidas do MFA
 
-- poder entregue a uma Junta de Salvação Nacional, presidida pelo António de Spínola
+- poder entregue a uma Junta de Salvação Nacional, presidida pelo António de Spínola
 - dissolução da Assembleia Nacional
 - extinção da DGS
 - abolição da censura
 - libertação dos presos políticos
 - negociações para pôr fim à Guerra Colonial
 
-## A INDEPENDÊNCIA DAS COLÓNIAS
-Colónias africanas
-António de Spínola reconheceu o direito à independência dos povos africanos e assim se formaram cinco novos países:
 
-- Em 1974 – Guiné-Bissau
-- Em 1975 – Angola, Moçambique, São Tomé e Príncipe e Cabo Verde
-Colónias do Oriente
+## A INDEPENDÊNCIA DAS COLÓNIAS
+
+### O processo de descolonização
+Após o 25 de Abril de 1974, uma das primeiras prioridades do novo regime democrático foi pôr fim à Guerra Colonial e negociar a independência das colónias africanas. O general António de Spínola reconheceu o direito à autodeterminação dos povos colonizados.
+
+### Colónias africanas
+O processo de independência foi rápido mas nem sempre pacífico:
+
+- **Guiné-Bissau** (setembro de 1974) – Foi o primeiro território a tornar-se independente. Na verdade, o PAIGC já tinha declarado unilateralmente a independência em 1973, que foi reconhecida por Portugal após a revolução.
+- **Moçambique** (junho de 1975) – A FRELIMO assumiu o poder e Samora Machel tornou-se o primeiro presidente. O país enfrentaria depois uma longa guerra civil (1977–1992).
+- **Cabo Verde** (julho de 1975) – Tornou-se independente pacificamente, inicialmente em união política com a Guiné-Bissau (que se desfez em 1980).
+- **São Tomé e Príncipe** (julho de 1975) – Independência pacífica, com o MLSTP (Movimento de Libertação de São Tomé e Príncipe) a assumir o governo.
+- **Angola** (novembro de 1975) – A independência foi proclamada em simultâneo por três movimentos rivais (MPLA, FNLA e UNITA), o que levou a uma devastadora guerra civil que duraria até 2002. A saída dos colonos portugueses foi caótica: centenas de milhares regressaram a Portugal em poucos meses, deixando para trás tudo o que tinham construído.
+
+### Os retornados
+A descolonização provocou o regresso a Portugal de cerca de **500 a 800 mil portugueses** que viviam nas colónias, sobretudo de Angola e Moçambique. Eram chamados os **retornados**.
+
+- Muitos chegaram apenas com o que podiam carregar, tendo perdido casas, negócios e bens acumulados ao longo de gerações.
+- A integração dos retornados foi um enorme desafio para Portugal, que estava a atravessar um período de grande instabilidade política e económica.
+- Apesar das dificuldades iniciais, os retornados acabaram por se integrar na sociedade portuguesa e contribuíram significativamente para o desenvolvimento do país com as suas competências e experiência profissional.
+
+### Colónias do Oriente
 As colónias do continente asiático tiveram outros destinos:
 
-- Em 1999 – Macau passou a ser território chinês
-- Em 2002 – Timor-Leste tornou-se independente depois de ter sido invadido pela Indonésia e passou a chamar-se Timor-Lorosae
+- **Macau** (1999) – Passou a ser território chinês (Região Administrativa Especial), de acordo com um processo negociado entre Portugal e a China ao longo dos anos 1980 e 1990.
+- **Timor-Leste** (2002) – Após a retirada portuguesa em 1975, Timor-Leste foi invadido e ocupado pela Indonésia durante 24 anos. Após um referendo apoiado pela ONU em 1999, em que a população votou pela independência, e um período de violência e intervenção internacional, Timor-Leste tornou-se oficialmente independente em 2002.
+
+### O legado da descolonização
+- Portugal passou de um grande império colonial a um pequeno país europeu, o que obrigou a uma profunda redefinição da identidade nacional.
+- Em 1996, foi criada a **CPLP (Comunidade dos Países de Língua Portuguesa)**, que reúne os países lusófonos numa organização de cooperação cultural, económica e diplomática.
+- A língua portuguesa, falada por mais de 250 milhões de pessoas em todo o mundo, é o principal legado cultural do antigo império.
+
 
 ## RESTABELECIMENTO DA DEMOCRACIA
 Constituição de 1976
