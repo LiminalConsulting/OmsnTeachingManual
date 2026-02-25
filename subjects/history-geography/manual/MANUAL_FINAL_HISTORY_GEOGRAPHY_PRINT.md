@@ -1,107 +1,35 @@
 # Manual de História e Geografia: 5º ao 9º Ano
 
-## Organização Curricular
+## Organização
 
-Este manual apresenta os conteúdos essenciais de História e Geografia de Portugal (HGP), História e Geografia para os anos escolares do 5º ao 9º ano. A organização segue a estrutura curricular oficial portuguesa, apresentando os temas de forma progressiva.
-
----
-
-## Índice
-
-### HISTÓRIA E GEOGRAFIA DE PORTUGAL (HGP)
-
-#### HGP 5º Ano
-1. A Península Ibérica: Localização e Quadro Natural
-2. As Primeiras Comunidades Humanas
-3. Os Romanos na Península Ibérica
-4. Os Muçulmanos na Península Ibérica
-5. Cristãos e Muçulmanos no Período da Reconquista
-
-#### HGP 6º Ano
-6. Portugal nos Séculos XIII e XIV
-7. Crise de 1383-1385
-8. Portugal nos Séculos XV e XVI
-
-### HISTÓRIA (7º-9º Anos)
-
-#### História 7º Ano
-1. Das Sociedades Recoletoras às Primeiras Sociedades Produtoras
-2. Contributo das Primeiras Civilizações
-3. Os Gregos no Século V a.C.: Exemplo de Atenas
-4. Origem e Difusão do Cristianismo
-
-#### História 8º Ano
-1. A Abertura ao Mundo
-2. Renascimento
-3. Reforma e Contrarreforma
-4. União Ibérica e Restauração da Independência
-5. Antigo Regime
-6. Arte Barroca, Iluminismo e Marquês de Pombal
-7. Revolução Agrícola e Revolução Industrial
-8. Independência dos EUA e Revoluções Francesa e Portuguesa
-9. Transformações do Mundo Industrializado
-10. Regeneração
-
-#### História 9º Ano
-1. 1ª Guerra Mundial
-2. Revolução Russa
-3. Portugal: da 1ª República à Ditadura Militar
-4. Cultura de Massas e Correntes Artísticas
-5. Crise, Ditaduras e Democracia
-6. 2ª Guerra Mundial
-7. Guerra Fria e Formação da CEE
-8. Portugal: Revolução de 25 de Abril
-9. Potências Emergentes e Globalização
-
-### GEOGRAFIA (7º-9º Anos)
-
-#### Geografia 7º Ano
-1. Descrição da Paisagem
-2. Formas de Representação da Superfície Terrestre
-3. Tipos de Projeções Cartográficas
-4. Diversidade de Representações Cartográficas
-5. Localização Relativa
-6. Processos de Orientação
-7. Localização Absoluta
-8. Limites Naturais da Europa
-9. União Europeia
-10. O Clima
-11. O Relevo
-12. Rios e Bacia Hidrográfica
-13. Formas do Litoral
-14. Clima (Detalhado)
-15. Riscos Naturais
-16. Alterações ao Ambiente Natural
-
-#### Geografia 8º Ano
-1. Estudo da População
-2. Migrações
-3. Cidades
-4. Diversidade Cultural
-5. Distribuição da População
-6. Os Recursos Naturais
-7. A Agricultura
-8. A Pesca
-9. A Indústria
-10. Os Serviços
-11. O Turismo
-12. Transportes e Telecomunicações
-
-#### Geografia 9º Ano
-1. Características Gerais dos Países
-2. Crescimento Económico e Desenvolvimento Humano
-3. Caracterização de Diferentes Grupos de Países
-4. Obstáculos ao Desenvolvimento
-5. A Estrutura do Comércio Mundial
-6. Ajuda ao Desenvolvimento
+Este manual reorganiza os conteúdos de História e Geografia de Portugal (HGP, 5º–6º ano) e de História (7º–9º ano) numa estrutura cronológica por séculos. Em vez de separar os temas por ano escolar, cada capítulo abrange uma época histórica, permitindo ao aluno compreender a evolução de Portugal e do mundo de forma contínua e integrada. A Parte II (Geografia) mantém a organização curricular habitual.
 
 ---
 
-# HGP 5º ANO: A PENÍNSULA IBÉRICA
+## LINHA DO TEMPO — Panorama Geral
 
-## A Península Ibérica – Localização
+| Época | Período | Acontecimentos-chave |
+|-------|---------|---------------------|
+| **Pré-História** | até séc. VIII a.C. | Primeiras comunidades humanas na Península Ibérica; comunidades recoletoras, agro-pastoris e castros |
+| **Antiguidade** | séc. VIII a.C. – séc. V d.C. | Civilizações do Mediterrâneo (Egípcios, Fenícios, Gregos); conquista romana da PI; romanização; origem do Cristianismo; queda do Império Romano |
+| **Alta Idade Média** | séc. V–XII | Povos bárbaros e cristianização; expansão muçulmana e Reconquista; feudalismo; formação do Reino de Portugal |
+| **Séc. XIII–XIV** | 1200–1399 | Portugal medieval; vida quotidiana; cultura românica e gótica; crises do séc. XIV; Revolução de 1383-85 |
+| **Séc. XV–XVI** | 1400–1599 | Descobrimentos portugueses; Império Português; Renascimento; Reforma e Contrarreforma |
+| **Séc. XVII** | 1600–1699 | Domínio filipino e Restauração; Antigo Regime; arte barroca |
+| **Séc. XVIII** | 1700–1799 | Ouro do Brasil; D. João V; Iluminismo; Lisboa Pombalina; Revolução Francesa; Independência dos EUA |
+| **Séc. XIX** | 1800–1899 | Invasões francesas; revolução liberal; independência do Brasil; Regeneração e Fontismo; Revolução Industrial; imperialismo |
+| **Séc. XX** | 1900–1999 | I República; guerras mundiais; ditaduras; Estado Novo; Guerra Colonial; 25 de Abril; democracia; Guerra Fria; UE |
+| **Séc. XXI** | 2000– | Portugal na UE, CPLP e ONU; globalização; potências emergentes |
 
-### A Península Ibérica na Europa e no Mundo
+---
+
+# PARTE I — HISTÓRIA
+
+### A Península Ibérica — Contexto Geográfico
+
+#### A Península Ibérica – Localização
+
+#### A Península Ibérica na Europa e no Mundo
 
 #### Limites da Península Ibérica
 Como qualquer península, a Península Ibérica está rodeada por mar com excepção de um lado chamado istmo.
@@ -116,9 +44,8 @@ Tem como limites naturais:
 
 A Península Ibérica situa-se no extremo sudoeste da Europa. Está separada do continente africano pelo Estreito de Gibraltar.
 Encontra-se no Hemisfério Norte à mesma distância da linha do Equador e do Pólo Norte.
-PENÍNSULA IBÉRICA – QUADRO NATURAL
+#### Quadro Natural da Península Ibérica
 
-## CARACTERÍSTICAS NATURAIS DA PENÍNSULA IBÉRICA
 Relevo
 Às diferentes formas que a superfície terrestre apresenta chamamos relevo. Alguns exemplos são:
 
@@ -180,1757 +107,16 @@ Sobre o tipo de vegetação que existe na Península ibérica podemos distinguir
 - Ibéria húmida: florestas de folha caduca, prados naturais verdes e matagais com fetos, giesta, urze e tojo. Junto à costa predominam os pinheiros;
 - Ibéria seca: florestas de folha persistente, matagais e arbustos. Junto à costa predominam as palmeiras, as piteiras e os cactos.
 
-## AS PRIMEIRAS COMUNIDADES HUMANAS DA PENÍNSULA IBÉRICA
-## OS RECURSOS NATURAIS E A OCUPAÇÃO HUMANA
-As primeiras comunidades recoletoras
-Os primeiros grupos de homens e mulheres que habitaram a Península Ibérica viviam em comunidades: grupos de vinte a quarenta pessoas que partilhavam entre si os abrigos, a comida, os utensílios e os perigos.
-Para se protegerem do frio e dos animais ferozes refugiavam-se em grutas e outros abrigos existentes nas rochas. Por vezes construíam cabanas com troncos, ramos e peles de animais.
-As peles de animais também serviam para se vestirem. Faziam também utensílios de pedra e osso para se protegerem, para caçar, esquartejar animais e raspar e cortar as suas peles.
-As cenas de caça eram gravadas e pintadas nas paredes das grutas onde viviam. A estas gravuras e pinturas chamamos arte rupestre.
-Estas comunidades viviam da pesca, da caça, e da recoleção, por isso as chamamos comunidades recoletoras. Isto significa que viviam da recolha do que a Natureza lhes oferecia.
-Quando os recursos naturais de um local escasseavam tinham que procurar um novo local com mais frutos e mais animais para sobreviverem. Por isso não tinham casa fixa e não permaneciam no mesmo local durante muito tempo. Diz-se então que eram nómadas.
-A descoberta do fogo permitiu defenderem-se melhor dos animais ferozes, para se aquecerem e assarem os animais.
-As comunidades agro-pastoris
-Há cerca de 10000 anos a temperatura subiu, os gelos fundiram-se e o clima tornou-se quente e seco. Os animais de clima frio desapareceram e surgiram novas espécies vegetais e animais.
-Ficaram assim reunidas condições para os homens abandonarem as grutas e melhorar a sua forma de vida.
-As comunidades agro-pastoris vivam da agricultura, da pastorícia e da domesticação de animais. Como viviam perto das terras que cultivavam deixaram de precisar de se deslocar constantemente, tornando-se assim sedentários.
-Começou a haver uma maior abundância e diversidade de alimentos o que originou os primeiros povoados.
-Começou-se a praticar a cestaria, a cerâmica e a tecelagem. Novos utensílios foram inventados como a foice, a enxada de pedra, o arado de madeira e a mó manual, e deu-se maior uso da roda.
-Surge também nesta época vários monumentos em pedra como antas, ou dólmenes, e os menires.
-Homens dos castros
-Há cerca de 2500 anos  a Península Ibérica era habitada pelos:
 
-- Celtas: povos guerreiros vindos no Centro da Europa, eram altos de cabelo e olhos claros e fixaram-se no Norte e Oeste da Península Ibérica.
-- Iberos: homens morenos e de estatura média que se fixaram no Sul e Este da Península Ibérica.
-Os Iberos só conheciam o cobre e o bronze. Os celtas trouxeram o ouro e o ferro.
-Com o passar do tempo estes povos acabaram por se misturar dando origem aos celtiberos.
-Estas tribos viviam nos cimos dos montes rodeados por muralhas nas citânias, ou castros.
-Contato com os povos mediterrânicos
-Os povos do sul da Península Ibérica viviam melhor que os do norte principalmente devido ao contato com Fenícios, Gregos e Cartagineses, que eram povos mais evoluídos.
-Estes povos dedicavam-se ao comércio. Na Península Ibérica encontraram metais e em troca ofereciam objectos de vidro, adornos, cerâmicas, tecidos de linho e púrpura.
-Deixaram-nos novas ideias e costumes e deram a conhecer o alfabeto fenício, a moeda grega e a conservação dos alimentos pelo sal.
+---
 
-## OS ROMANOS NA PENÍNSULA IBÉRICA
-A CONQUISTA ROMANA E A RESISTÊNCIA DOS POVOS IBÉRICOS
-A conquista
-Os romanos eram um povo proveniente da Península Itálica que conquistaram vários territórios à volta do mar Mediterrâneo graças ao seu poderoso e organizado exército.
-Atraídos pelas riquezas das Península Ibérica, conquistaram-na no séc. III a.C. Desta forma conseguiram o domínio do comércio do Mediterrâneo.
-A resistência
-As populações do litoral sul não ofereceram grande resistência. O mesmo não aconteceu com os povos do Centro e Norte que lutaram contra os romanos durante quase  200 anos. Um dos povos que se distinguiu na luta contra os romanos foram os Lusitanos, chefiados por Viriato. Estes montavam armadilhas e emboscadas aproveitando as montanhas e desfiladeiros.
-O império romano
-Entretanto não foi só conquistada a Península Ibérica, mas sim um conjunto de territórios à volta do Mediterrâneo que fez com que os romanos construíssem um grande Império. A sua capital era a cidade de Roma e possuíam territórios na Europa, Ásia e África. O chefe supremo do Império era o imperador.
+## Capítulo 1: Pré-História e Antiguidade (até ao séc. V)
 
-## A PENÍNSULA IBÉRICA ROMANIZADA
-Herança romana
-Os romanos permaneceram quase 700 anos na Península Ibérica e durante este tempo os costumes das pessoas alterou-se e  foram construídos edifícios e estruturas que influenciaram bastante o modo de vida da população. A todas as alterações provocadas pela presença dos romanos na Península Ibérica chama-se romanização.
-As transformações mais significativas foram:
+Este capítulo abrange o mais longo arco temporal da história humana na Península Ibérica: desde as primeiras comunidades de caçadores-recoletores do Paleolítico até à queda do Império Romano do Ocidente em 476 d.C. Acompanhamos o processo de hominização, o surgimento das primeiras civilizações nos grandes rios, o florescimento da Grécia clássica, a conquista e romanização da Península Ibérica e a origem e difusão do Cristianismo. Este período lança as bases culturais, linguísticas e religiosas que moldarão toda a história subsequente de Portugal e da Europa.
 
-- construção de estradas, aquedutos, pontes, teatros, balneários públicos, templos, monumentos;
-- casas cobertas com telha, com jardins exteriores e com mosaicos a decorar o pavimento;
-- intensificação da produção agrícola (vinho, azeite e trigo) e da exploração agrícola;
-- criação de indústrias: salga do peixe, olaria, tecelagem;
-- desenvolvimento do comércio;
-- maior uso da moeda;
-- a língua falada passa a ser o latim.
-Era cristã
-Este período também ficou marcado pelo surgimento de uma nova religião: o Cristianismo. Esta nova religião expandiu-se por todo o Império e a contagem do tempo passou-se a fazer pela era cristã, ou seja, a partir do do nascimento de Jesus Cristo (quem começou a pregar esta religião e que afirmava ser filho de Deus).
-Na contagem do tempo podemos utilizar o ano, a década (10 anos), o século (100 anos) e o milénio (1000 anos).
-Para fazer corresponder os anos aos séculos há duas regras bastante simples:
+---
 
-- quando o ano termina em dois zeros o número de centenas indica o século. Ex: ano 1500, séc. XV;
-- quando o ano não termina em dois zeros, acrescenta-se uma unidade ao número das centenas. Ex: 1548, séc. XVI
-
-## OS MUÇULMANOS NA PENÍNSULA IBÉRICA
-## A OCUPAÇÃO MUÇULMANA
-O profeta Maomet e o Islamismo
-No séc. VI a Arábia (península da Ásia) era bastante pobre. Foi neste local que Maomet, nascido na cidade de Meca, anunciou-se em 612 como profeta (enviado de Deus para revelar verdades sagradas aos homens) e começou a pregar uma nova religião – o Islamismo.
-Os seguidores desta religião são os Muçulmanos e acreditam num único deus – Alá. Os princípios desta religião estão reunidos num livro sagrado chamado Corão.
-Obrigações dos Muçulmanos:
-
-- reconhecer Alá como Deus único e Maomet como seu profeta;
-- rezar cinco vezes por dia virados para Meca;
-- jejuar no mês do Ramadão;
-- dar esmola aos mais pobres;
-- ir a Meca pelo menos uma vez na vida.
-Conquista da Península Ibérica
-Os Muçulmanos começaram a conquistar novos territórios de forma a:
-
-- expandir o Islamismo, procurando converter outros povos à sua religião;
-- melhorar as suas condições de vida dado que a Arábia era um território bastante pobre.
-Foram conquistados territórios na Ásia, no Norte de África e, em 711, iniciou-se a conquista da Península Ibérica. Os Mouros (designação para os Muçulmanos oriundos do Norte de África) entraram pelo estreito de Gibraltar e venceram os cristãos visigodos na batalha de Guadalete.
-Muito rapidamente (em cerca de dois anos) os Muçulmanos ocuparam praticamente toda a Península Ibérica, com excepção das Astúrias e parte dos Pirinéus, devido às suas condições adversas.
-Esta ocupação foi realizada através do uso de armas mas, em muitos casos, faziam-se acordos com os visigodos que lhes permitiam viver em paz e confraternizar, desde que se submetessem aos novos conquistadores.
-
-## CRISTÃOS E MUÇULMANOS NO PERÍODO DA RECONQUISTA CRISTÃ
-A resistência cristã
-Durante a ocupação muçulmana, alguns nobres visigodos conseguiram refugiar-se nas Astúrias (zona montanhosa no norte da Península ibérica). Foi a partir deste local que os cristãos formaram núcleos de resistência contra os Muçulmanos e, no ano de 722, obtiveram a sua primeira grande vitória, na batalha de Covadonga, chefiados por Pelágio. Depois deste acontecimento formou-se o reino das Astúrias.
-A Reconquista Cristã
-Foi então a partir das Astúrias e junto dos Pirinéus que se iniciou a Reconquista Cristã, ou seja, os cristãos começaram a lutar contra os Muçulmanos para voltar a conquistar as terras que perderam para os Muçulmanos.
-Reinos cristãos formados a partir do Reino das Astúrias:
-
-- reino de Leão;
-- reino de Castela;
-- reino de Navarra;
-- reino de Aragão.
-Cada reino tinha como objectivo conquistar terras a sul aos Muçulmanos de forma a expulsá-los da Península Ibérica.
-Foram precisos quase 800 anos para o conseguirem. Entretanto também houve períodos de paz e confraternização. Cristãos e Muçulmanos foram-se habituando a aceitar costumes e tradições diferentes dos seus.
-
-## A HERANÇA MUÇULMANA
-Influência muçulmana nos povos peninsulares
-Os povos que sofreram maior influência da presença dos Muçulmanos na Península Ibérica  foram os do sul pois foi aí que permaneceram mais tempo.
-As principais marcas muçulmanas foram:
-
-- construção de mesquitas e palácios decorados com azulejos;
-- casas com terraços e pátios interiores e eram caiadas de branco;
-- desenvolvimento de indústrias artesanais como armas, carros e tapetes;
-- desenvolvimento da agricultura com novos processos de rega, a nora, a picota e o açude;
-- introdução de novas plantas como a laranjeira, o limoeiro, a amendoeira, a figueira e da oliveira;
-- novos conhecimentos de medicina, navegação, astronomia e matemática;
-- cerca de 600 palavras, a maior parte começadas por al.
-
-## A FORMAÇÃO DO REINO DE PORTUGAL
-D. AFONSO HENRIQUES E A LUTA PELA INDEPENDÊNCIA
-Condado Portucalense
-Durante a Reconquista Cristã, os reis cristãos da Península Ibérica pediram auxílio a outros reinos cristãos da Europa para reconquistar os territórios aos Muçulmanos. Os cavaleiros que vieram ajudar na luta contra os Muçulmanos chamavam-se cruzados.
-A pedido de D. Afonso VI, rei de Leão e Castela, vieram de França os cruzados D. Raimundo e D. Henrique. Em troca pelos seus serviços os cruzados receberam:
-
-- D. Raimundo: a mão da filha legítima do rei, D. Urraca, e o Condado de Galiza;
-- D. Henrique: a mão da filha ilegítima do rei, D. Teresa, e o Condado de Portucale.
-Estes condados pertenciam ao reino de Leão, por isso D. Henrique tinha que prestar obediência, lealdade e auxílio militar ao rei D. Afonso VI. Em 1112 morre e, como o seu filho D. Afonso Henriques apenas tinha 4 anos de idade, ficou D. Teresa a governar o Condado Portucalense.
-A luta pela independência
-Em 1125, aos 16 anos, D. Afonso Henriques armou-se a si próprio cavaleiro, como só faziam os reis. D. Afonso Henriques tinha como ambição concretizar o desejo do seu pai D. Henrique: tornar o Condado Portucalense independente do reino de Leão e Castela.
-Nesta altura, D. Teresa mantinha uma relação amorosa com um fidalgo galego, o conde Fernão Peres de Trava. Esta relação prejudicava a ambição de tornar o Condado Portucalense independente. Por isso, apoiado por alguns nobres portucalenses, D. Afonso Henriques revoltou-se contra a sua mãe.
-Em 1128, D. Teresa é derrotada na batalha de S. Mamede por D. Afonso Henriques, que passa a governar o Condado Portucalense.
-D. Afonso Henriques passa a ter duas lutas:
-
-- luta contra D. Afonso VI, para conseguir a independência do Condado Portucalense;
-- luta contra os Muçulmanos, para aumentar o território para sul.
-O reino de Portugal
-Para a formação de Portugal foram bastante importantes as seguintes batalhas:
-
-- 1136:  batalha de Cerneja onde D. Afonso Henriques vence os galegos.
-- 1139: batalha de Ourique onde D. Afonso Henriques derrota os exércitos de cinco reis mouros.
-- 1140: batalha em Arcos de Valdevez, D. Afonso Henriques vence novamente os exércitos de D. Afonso VII.
-Com estas vitórias de D. Afonso Henriques, D. Afonso VII, seu primo agora rei de Leão e Castela, viu-se obrigado a fazer um acordo de paz – o Tratado de Zamora. Neste tratado, assinado em 1143, Afonso VII concede a independência ao Condado Portucalense que passa a chamar-se reino de Portugal, e reconhece D. Afonso Henriques como seu rei.
-A conquista da linha do Tejo
-Feita a paz com o rei de Leão e Castela, D. Afonso Henriques passou a preocupar-se exclusivamente em conquistar territórios a sul aos mouros de forma a alargar o território do reino de Portugal:
-
-- 1145: conquista definitiva de Leiria;
-- 1147: conquista de Santarém e Lisboa.
-Na reconquista das terras aos mouros participou quase toda a população portuguesa que podia pegar em armas:
-
-- senhores nobres e monges guerreiros: combatiam a cavalo, comandavam os guerreiros e recebiam terras como recompensa pelos seus serviços prestados ao rei;
-- homens do povo: combatiam a pé e eram a grande maioria dos combatentes.
-
-Em algumas batalhas os portugueses foram ainda ajudados por cruzados bem treinados e com armas próprias para atacar as muralhas, vindos do Norte da Europa.
-O reconhecimento do reino
-Apesar de o rei Afonso VII ter reconhecido em 1143 D. Afonso Henriques como rei de Portugal, o mesmo não aconteceu com o Papa.
-O Papa era o chefe supremo da Igreja Católica e tinha muitos poderes. Os reis cristãos lhe deviam total obediência e fidelidade. Para a independência de um reino ser respeitada pelos outros reinos cristãos teria de ser reconhecida por ele. Para obter este reconhecimento D. Afonso Henriques mandou construir sés e igrejas e deu privilégios e regalias aos mosteiros.
-Só em 1179 é que houve o reconhecimento por parte do papa Alexandre III através de uma bula (documento escrito pelo papa).
-
-## O REINO DE PORTUGAL E DO ALGARVE
-Alargamento do território e definição de fronteiras
-Portugal foi uma monarquia desde 1143 até 1910, ou seja, durante este período Portugal foi sempre governado por um rei.
-A monarquia portuguesa era hereditária. Isto significa que quem sucede um rei é o seu filho mais velho (o príncipe herdeiro).
-Depois da morte de D. Afonso Henriques sucederam-lhe:
-
-- D. Sancho I;
-- D. Afonso II;
-- D. Sancho II;
-- D. Afonso III;
-- etc…
-Os primeiros 4 reis de Portugal, a seguir a D. Afonso Henriques, continuaram a conquistar territórios aos mouros até que em 1249 D. Afonso III conquista definitivamente o Algarve.
-Entretanto, os limites do território não estavam totalmente definidos pois havia zonas a norte e a este que ainda estavam em disputa com o reino de Leão e Castela.
-Só em 1297, com o Tratado de Alcanises, entre D. Dinis, rei de Portugal, e D. Fernando, rei de Leão e Castela, ficaram definidas as fronteiras do território português que assim se mantiveram aproximadamente até os dias de hoje. Apenas em 1801 Espanha ocupou Olivença que já não faz parte de Portugal.
-Características naturais de Portugal
-O relevo de Portugal no séc. XIII apresentava características idênticas às de hoje. De realçar os contrastes que ainda hoje existem:
-
-- Norte/Sul: terras altas, planaltos e serras no norte enquanto que no sul predominam terras de baixa altitude como as planícies;
-- Litoral/Interior: no litoral temos pequenas planícies costeiras enquando que no inetrior encontramos planaltos e serras.
-Os rios correm para o Atlântico seguindo a inclinação do relevo e existem em maior número no Norte.
-Sobre o clima destacam-se três zonas climáticas:
-
-- Norte Litoral: chuvas abundantes e temperaturas amenas tanto no Verão como no Inverno;
-- Norte Interior: poucas chuvas, muito frio no Inverno e quente no Verão:
-- Sul: poucas chuvas, invernos suaves e temperaturas muito elevadas no verão, sobretudo no interior.
-No entanto, nem todas as características naturais permanecem exactamente iguais aos dias de hoje. Ao longo dos tempos a paisagem do território português foi-se alterando devido à influência humana e da própria Natureza. Um exemplo disso mesmo é o facto de os rios serem antigamente  mais navegáveis mas com a acumulação de areias trazidas pelos próprios rios o litoral ficou mais alinhado tornando os rios menos navegáveis ao longo dos tempos.
-No séc. XIII abundava a vegetação natural, ou seja, que ainda não tinha sido modificada pelo homem. No Norte abundavam bosques e florestas muito densas com árvores de folha caduca e no Sul as florestas eram menos densas e predominavam as folhas de folha persistente.
-Atribuição de terras
-Ao serem reconquistadas terras os reis tinham a necessidade de as povoar, defender e explorar para não voltarem a ser ocupadas pelos mouros.
-Os reis reservavam uma parte dessas terras para si e a grande parte era dada aos nobres e às ordens religiosas militares como recompensa pela sua ajuda prestada na guerra, bem como às ordens religiosas não militares para que fossem povoadas mais rapidamente.
-Sendo assim, as terras pertenciam ao rei, à Nobreza e ao Clero. O povo trabalhava nessas terras e em troca recebiam proteção.
-Aproveitamento dos recursos naturais
-O aproveitamento dos recursos naturais das terras era realizado através da:
-
-- terrenos bravios: pastorícia, criação de gado, caça e recolha de produtos (como a lenha, a madeira, a cortiça, frutos silvestres, mel e cera).
-- terrenos aráveis: agricultura onde se produzia cereais, vinho, azeite, legumes, frutos e linho.
-- mar e rios: pesca e salicultura.
-Produção artesanal:
-
-- O vestuário, calçado, instrumentos e todos os objectos necessários para o dia-a-dia dos pastores, agricultores e pescadores eram feitos por eles mesmos à mão e através da utilização de produtos retirados directamente da Natureza ou pelos materiais fornecidos pela agricultura e pela pastorícia.
-
-## PORTUGAL DO SÉCULO XII AO SÉCULO XVII
-## PORTUGAL NOS SÉCULOS XIII E XIV
-## A VIDA QUOTIDIANA NO SÉCULO XIII
-Ordens sociais
-A população portuguesa no séc. XIII era constituída por três grupos sociais:
-
-- nobreza: grupo privilegiado que possuía terras, não pagava impostos, recebia impostos e aplicava a justiça nas suas terras. A sua principal actividade era combater;
-- clero: grupo privilegiado que possuía terras, não pagava impostos, recebia impostos e aplicava a justiça nas suas terras. A sua principal actividade era prestar serviço religioso;
-- povo: grupo não priveligiado que trabalhava nas terras do rei, da nobreza e do clero e que ainda tinham que pagar impostos.
-Todos os grupos sociais deviam ao rei fidelidade, obediência e auxílio.
-Vida quotidiana nas terras senhoriais
-As terras senhoriais, ou senhorios, pertenciam aos senhores nobres que viviam numa casa acastelada situada na parte mais alta. À sua volta distribuíam-se campos cultivados, a floresta, o moinho e as casas dos camponeses que trabalhavam as terras.
-Nestas terras era o nobre que aplicava a justiça, recrutava homens para o seu exército e recebia impostos de todos os que lá trabalhavam. Em troca, tinha como obrigação proteger as pessoas que estavam na sua dependência.
-Atividades dos nobres:
-
-- em tempo de guerra: combatiam;
-- em tempo de paz: praticavam a caça, a equitação e exercícios desportivos que os preparavam para a guerra.
-Distrações dos nobres:
-
-- À noite entretinham-se com jogos de sala, como o xadrez e dados, com os saltimbancos, que faziam proezas, e com os jograis, que tocavam e cantavam.
-Casa senhorial:
-
-- o salão era o aposento mais importante e era onde o nobre dava as suas ordens, recebia os hóspedes e onde serviam-se as refeições;
-- o mobiliário existente na casa era uma mesa, arcas para guardar a roupa e outros objetos domésticos, poucas cadeiras e bancos chamados escanos;
-- para a iluminação durante a noite utilizavam-se lamparinas de azeite ou tochas e velas de cera e sebo.
-Alimentação dos nobres:
-
-- faziam-se normalmente duas refeições, o jantar e a ceia, onde predominava a carne, pão de trigo, vinho, queijo e um pouco de fruta.
-Por outro lado, os camponeses tinham uma vida dura e difícil. Trabalhavam seis dias por semana nos campos dos senhores nobres e ainda tinham que lhes pagar impostos pois só assim garantiam proteção.
-Atividades dos camponeses:
-
-- trabalhar nos campos.
-Distrações dos camponeses:
-
-- ida à missa, procissões e romarias.
-Casa do camponês:
-
-- tecto de colmo, paredes de madeira ou pedra, quase sem aberturas, e chão em terra batida;
-- tinha só uma divisão e havia pouca mobília;
-- dormia-se num recanto coberto de molhos de palha.
-Alimentação dos camponeses:
-
-- baseava-se em pão negro, feito de mistura de cereais ou castanha, acompanhado por cebolas, alhos ou toucinho. Apenas nos dias festivos havia queijo, ovos e bocados de carne.
-Vida quotidiana nos mosteiros
-O clero, cuja principal função era o serviço religioso, dividia-se em dois:
-
-- clero secular: padres, bispos e cónegos que viviam junto da população nas aldeias ou cidades;
-- clero regular: frades (ou monges) e freiras que viviam nos mosteiros ou conventos.
-A vida no mosteiro era dirigida pelo abade ou abadessa. Os monges dedicavam a sua vida a Deus e ao serviço religioso, meditavam, rezavam e cantavam cânticos religiosos.
-Para além do serviço religioso, os monges também se dedicavam ao ensino. Durante muito tempo, o clero foi a única ordem social a saber ler e escrever. Fundaram-se algumas escolas junto aos mosteiros, os monges eram os professores e os alunos eram os futuros monges. Existiam ainda os monges copistas que dedicavam-se a copiar os livros mais importantes e ilustravam o texto com pinturas chamadas iluminuras.
-Todos os mosteiros tinham enfermarias onde os doentes eram recolhidos e tratados pelos monges. Era também dada assistência aos peregrinos que se dirigiam aos santuários para cumprir promessas ou para rezar.
-O clero praticava também a agricultura. Produzia tudo o que precisava.
-Alimentação dos clérigos:
-
-- a refeição principal era tomada em comum e em silêncio, no refeitório: sopa, pão, um pouco de carne ou peixe nos dias de abstinência.
-Vida quotidiana nos concelhos
-Um concelho era uma povoação que tinha recebido foral ou carta de foral. A carta de foral era um documento onde estavam descritos os direitos e os deveres dos moradores do concelho para com o senhor (dono) da terra.
-Os moradores de um concelho tinham mais regalias que os que não lá viviam:
-
-- eram donos de algumas terras;
-- só pagavam os impostos exigidos no foral.
-Existia ainda uma assembleia de homens-bons, formada pelos homens mais ricos e respeitados do concelho, que resolvia os principais problemas do concelho. Elegiam juízes entre si para aplicar a justiça e os mordomos que cobravam os impostos.
-Os concelhos eram formados por uma povoação mais desenvolvida (a vila) e por localidades rurais à sua volta (o termo).
-Muitos dos concelhos foram criados pelo rei mas houve alguns também criados por grandes senhores da nobreza e pelo clero nos seus senhorios e surgiram da necessidade de garantir o povoamento e a defesa das terras conquistadas aos mouros e para desenvolver as atividades económicas.
-Principais atividades:
-
-- agricultura, pastorícia, pesca: camponeses e pescadores;
-- artesanato: havia pequenas oficinas onde os artesãos executavam trabalhos à mão (manufactura), utilizando técnicas e instrumentos muito rudimentares;
-- comércio: os camponeses e os artesãos reuniam-se para vender os seus produtos dando origem aos mercados e mais tarde às feiras (maiores que os mercados e com maior abundância e variedade de produtos).
-A criação de feiras contribuiu para o desenvolvimento do comércio interno, isto é, troca e venda de produtos dentro do país. No entanto, nesta altura Portugal também comerciava com outros países – comércio externo.
-O comércio externo contribuiu para o desenvolvimento das cidades situadas no litoral e contribuiu também para o surgimento de um novo grupo social:  a burguesia. Os burgueses eram homens do povo, mercadores e artesãos, que enriqueceram com o comércio externo.
-Vida quotidiana na corte
-A corte era constituída pela família do rei, pelos conselheiros e funcionários. A corte seguia sempre o rei.
-Distrações:
-
-- Banquetes e saraus (festas à noite) onde havia espetáculos de jograis (os jograis cantavam e tocavam instrumentos musicais).
-
-## As Crises do Século XIV
-
-### A Crise Europeia do Século XIV
-
-O século XIV foi marcado por uma profunda crise que afetou toda a Europa. Após um período de crescimento económico e demográfico nos séculos XII e XIII, a Europa enfrentou uma série de calamidades que transformaram radicalmente a sociedade medieval.
-
-#### Causas da Crise
-
-**Crise agrária e fomes:**
-- No início do século XIV, uma série de **maus anos agrícolas** provocou escassez de alimentos
-- As chuvas intensas e prolongadas arruinaram colheitas sucessivas
-- A **Grande Fome de 1315-1317** afetou grande parte da Europa, causando milhões de mortes
-- A população tinha crescido além da capacidade de produção agrícola da época
-
-**A Peste Negra (1347-1351):**
-- A **Peste Negra** foi a maior catástrofe demográfica da história europeia
-- Chegou à Europa em 1347, vinda da Ásia através das rotas comerciais
-- Propagou-se rapidamente devido à falta de higiene e ao desconhecimento sobre a doença
-- **Morreu cerca de um terço da população europeia** (estimativas variam entre 30% a 60%)
-- Os sintomas incluíam febres altas, bubões (inchaços) nas axilas e virilhas, e manchas negras na pele
-- A doença era transmitida por pulgas de ratos e também pelo ar (forma pneumónica)
-
-**Guerras e conflitos:**
-- A **Guerra dos Cem Anos (1337-1453)** entre França e Inglaterra devastou extensas regiões
-- Conflitos constantes entre reinos e senhores feudais
-- Pilhagens e destruição de campos agrícolas
-- Instabilidade política generalizada
-
-#### Consequências da Crise
-
-**Consequências demográficas:**
-- **Quebra demográfica** – a população europeia diminuiu drasticamente
-- Aldeias inteiras foram abandonadas (aldeias desertas)
-- Falta de mão-de-obra para trabalhar os campos
-
-**Consequências económicas:**
-- **Crise económica** – diminuição da produção agrícola e artesanal
-- Subida dos preços dos alimentos
-- Aumento dos salários dos trabalhadores (pela escassez de mão-de-obra)
-- Abandono de terras de cultivo
-- Declínio do comércio
-
-**Consequências sociais:**
-- Revoltas camponesas em vários países da Europa
-- Tensões entre senhores e camponeses
-- Perseguições a minorias (judeus foram acusados de envenenar poços)
-- Flagelantes – grupos que se açoitavam publicamente como penitência
-
-**Consequências políticas:**
-- Enfraquecimento do poder senhorial
-- Fortalecimento do poder régio em alguns reinos
-- Crises dinásticas em vários países
-
-### A Crise em Portugal
-
-Portugal não escapou às crises do século XIV. Na segunda metade do século, o reino viveu tempos particularmente difíceis:
-
-**As calamidades:**
-- **Fome** – deveu-se aos maus anos agrícolas por causa das chuvas intensas
-- **Epidemias** – deveu-se à falta de higiene e à falta de alimentação
-- **Guerras** – devido ao conflito com Castela
-
-A pior calamidade foi a **Peste Negra**, que chegou a Portugal em 1348. Em menos de três meses matou cerca de um terço da população portuguesa.
-
-**As Guerras Fernandinas (1369-1382):**
-
-O reinado de D. Fernando (1367-1383) foi marcado por três guerras contra Castela, conhecidas como **Guerras Fernandinas**. Estas guerras inserem-se no contexto mais amplo da **Guerra dos Cem Anos**, onde Portugal se aliou ora à Inglaterra, ora a Castela.
-
-- **1ª Guerra (1369-1370)** – D. Fernando reivindicou o trono de Castela
-- **2ª Guerra (1372-1373)** – Castela invadiu Portugal; Lisboa foi cercada
-- **3ª Guerra (1381-1382)** – Nova aliança com Inglaterra contra Castela
-
-Estas guerras:
-- Devastaram o território português
-- Agravaram a crise económica
-- Enfraqueceram o reino
-- Criaram instabilidade política
-
-### A Revolução de 1383-1385
-
-#### Problema de sucessão
-Em 1383, D. Fernando assina um tratado de paz com Castela para salvaguardar a independência do reino de Portugal – o Tratado de Salvaterra de Magos.
-Neste tratado D. Fernando deu a mão da sua única filha, D. Beatriz, a D. João I, rei de Castela, e ficou estabelecido que o futuro rei de Portugal seria o seu neto, filho de D. Beatriz, quando atingisse os 14 anos.
-
-#### A População Dividida e a Revolta Popular
-
-Quando D. Fernando morre, D. Leonor de Teles, sua esposa, assume a regência do reino e aclama D. Beatriz como rainha de Portugal. O povo ficou descontente porque não queria ser governado por um rei estrangeiro e temia que Portugal perdesse a independência.
-
-- Apoiantes de D. Beatriz – alto Clero e alta Nobreza porque temiam perder os seus privilégios;
-- Apoiantes de D. João, Mestre de Avis – povo, burguesia, parte do Clero e parte da Nobreza porque não queriam ser governados por um rei estrangeiro e temiam que Portugal perdesse a independência.
-Álvaro Pais planeou uma conspiração para matar o conselheiro galego de D. Leonor de Teles, o conde Andeiro. D. João, Mestre de Avis, filho ilegítimo de D. Pedro, é escolhido para o matar. Após a morte do conde Andeiro, D. Leonor de Teles foge para Santarém e pede ajuda a D. João I, rei de Castela. Mestre de Avis passa a Regente e Defensor do reino com o apoio do povo.
-
-#### Resistência à Invasão Castelhana
-
-D. João I, rei de Castela, invade Portugal:
-
-- ocupa Santarém;
-- é vencido na batalha de Atoleiros;
-- cerca Lisboa em 1384.
-Lisboa esteve cercada 3 meses e só se libertou quando a peste negra atacou os soldados castelhanos.
-Nas Cortes em Coimbra (1385) João das Regras provou que D. João, Mestre de Avis, era quem tinha mais direito a ser o rei de Portugal que passa a intitular-se D. João I.
-Ao saber da  aclamação de Mestre de Avis como rei de Portugal, D. João I, rei de Castela, invade novamente Portugal mas é derrotado na batalha de Aljubarrota  (1385) pelos portugueses chefiados por D. Nuno Álvares Pereira.
-
-#### Consolidação da Independência
-
-D. João I, Mestre de Avis, recompensou com terras, cargos e títulos os nobres e burgueses que o apoiaram e retirou privilégios à alta Nobreza que apoiou D. Beatriz e que fugiu para Castela.
-Portugal fez ainda um tratado de amizade com Inglaterra onde os dois países se comprometeram a ajudar-se mutuamente. esta aliança foi reforçada com o casamento de D. João I com D. Filipa de Lencastre em 1387.
-Entretanto, só em 1411 o problema com Castela ficou resolvido com um tratado de paz.
-Muito do que sabemos sobre o que aconteceu neste período deve-se a Fernão Lopes através das suas crónicas sobre o que se passava no reino da época.
-
-## PORTUGAL NOS SÉCULOS XV E XVI
-
-### De Portugal às Ilhas Atlânticas e ao Cabo da Boa Esperança
-
-#### O caminho do mar
-No início do séc. XV, a Europa vivia isolada do resto do mundo. Apenas se conhecia, além da Europa, a Ásia e o norte de África.
-Nesta altura, Portugal era um reino pobre. No entanto, encontrava-se num período de paz e sentiu a necessidade de alargar os seus territórios. Os portugueses não podiam alargar as suas fronteiras para território castelhano, de forma a evitar entrar em guerra com Castela, por isso decidiram encontrar novos territórios pelo mar.
-A procura de novas terras interessou todos os grupos sociais:
-
-- a burguesia procurava riquezas e novos mercados
-- a nobreza queria novos títulos e terras
-- o clero pretendia converter outros povos ao cristianismo
-- o povo desejava melhores condições de vida
-Início da expansão portuguesa
-Em 1415, Portugal conquistou Ceuta, no norte de África, com o desejo de obter ouro e dominar o comércio do mar Mediterrâneo. Contudo, os mouros, ao perderem Ceuta, desviaram as rotas do ouro e das especiarias para outras cidades.
-Para obterem as riquezas que tanto ambicionavam os portugueses tinham então que descobrir a origem dos produtos que os mouros comerciavam mas, para isso, tinham que ir para terras desconhecidas.
-Mercadores e aventureiros tinham criados várias lendas sobre o mundo desconhecido. Pensava-se que os navios que navegassem para sul ao longo da costa africana seriam atacados por monstros marinhos e que o calor era tanto que os homens brancos se tornavam negros. Imaginava-se também que nas terras desconhecidas existiam seres maravilhosos e fantásticos: animais estranhos e homens sem cabeça, só com uma perna e só com um olho.
-Os portugueses, aventureiros e corajosos, decidiram enfrentar os medos sobre o mundo desconhecido e navegaram para sul ao longo da costa africana para áreas totalmente desconhecidas pelos europeus. O infante D. Henrique foi quem planeou e organizou estas viagens e foi ele o responsável pelos Descobrimentos até à chegada a Serra Leoa, em 1460.
-1ª Fase dos Descobrimentos – Acontecimentos mais importantes na época de D. Henrique:
-
-- 1415 – Conquista de Ceuta – D. João I com os seus filhos D. Duarte, D. Pedro e D. Henrique
-- 1419 – Redescoberta do arquipélago da Madeira – João Gonçalves Zarco e Tristão Vaz Teixeira
-- 1424 – Descoberta do arquipélago dos Açores – Diogo de Silves
-- 1434 – Passagem do cabo Bojador – Gil Eanes
-- 1460 – Chegada a Serra Leoa – Pedro de Cintra
-Técnicas de navegação
-Quando navegavam no mar alto orientavam-se pelos astros (estrela polar e sol), utilizando para isso o quadrante, o astrolábio e a balestilha.
-Passou-se a utilizar a caravela que era um navio inovador pois possuía velas triangulares que permitiam bolinar, ou seja, navegar com ventos contrários.
-Começaram a ser desenhadas as cartas náuticas com as novas terras descobertas e com informações sobre os ventos para facilitar as viagens futuras.
-Sendo assim, as viagens marítimas feitas pelos portugueses contribuíram para o desenvolvimento das técnicas de navegação, da cartografia, da astronomia e da matemática.
-Da Serra Leoa ao Cabo de Santa Catarina
-Depois da morte do infante D. Henrique, D. Afonso V encarregou ao burguês Fernão Gomes de continuar as descobertas na costa africana. Em troca, tinha o direito de comerciar nas terras descobertas por ele.
-2ª fase dos Descobrimentos – Acontecimentos mais importantes na época de Fernão Gomes:
-
-- 1471 – descoberta das ilhas de S. Tomé e Príncipe
-- 1474 – chegada ao cabo de Santa Catarina
-Do Cabo de Santa Catarina ao Cabo da Boa Esperança
-Em 1474, o infante D. João passa a dirigir do descobrimentos porque as terras descobertas tinham muitas riquezas como o ouro, marfim e escravos. Em 1488 subiu ao trono e ordenou que nas terras descobertas se colocassem padrões (um pilar de pedra gravado com uma cruz, as armas reais e a data de implantação). Mandou também afundar os navios de outros reinos que se encontrassem a sul das ilhas Canárias. foi na sua época que se descobriu o limite a sul do continente africano e a passagem para o oceano Índico.
-3a fase dos Descobrimentos – Acontecimentos mais importantes na época de D. João II:
-
-- 1480 – Tratado de Alcáçovas
-- 1482 – Chegada à foz do rio Zaire
-- 1488 – Passagem do cabo da Boa Esperança – Bartolomeu Dias
-Tratado de Tordesilhas
-O grande desejo de D. João II era chegar à Índia por mar por causa do comércio das especiarias. No entanto, também Castela tinha o mesmo desejo. Em 1492, Cristóvão Colombo, ao serviço de Castela, chega à América quando procurava chegar à Índia navegando para oeste. Esta descoberta criou um conflito entre Portugal e Castela porque segundo o Tratado de Alcáçovas, assinado em 1480, as terras a sul das ilhas Canárias pertenciam a Portugal. Sendo assim, as terras descobertas por Cristóvão Colombo deveriam pertencer a Portugal.
-Para resolver este conflito foi necessária a intervenção do papa que levou os dois monarcas dos dois reinos a assinar um novo acordo – o Tratado de Tordesilhas. Segundo este tratado o mundo ficava dividido em duas partes por um meridiano a passar a 370 léguas a ocidente de Cabo Verde. As terras que fossem descobertas a oriente pertenceriam aos portugueses e a ocidente seriam para Castela.
-
-### Chegada à Índia e ao Brasil
-
-#### Chegada à Índia
-D. João II acabou por não ver o seu sonho realizado. Após a sua morte, sucedeu-lhe o seu primo D. Manuel I que decidiu continuar os descobrimentos. Em 1497 nomeou Vasco da Gama capitão-mor de uma armada constituída por quatro navios: as naus S. Gabriel, S. Rafael e Bérrio, mais uma embarcação com mantimentos. O objetivo desta armada era chegar à Índia por mar. A viagem durou um ano e em maio de 1498 os portugueses chegam a Calecut.
-Descoberta do Brasil
-Quando Vasco da Gama chega à Índia, os portugueses foram no início bem recebidos. No entanto, começaram a sentir algumas hostilidades e para garantir o domínio português partiu de Portugal uma armada em Março de 1500. Esta nova armada, chefiada por Pedro Álvares Cabral, era constituída por treze navios. Um desvio feito a ocidente levou os portugueses a descobrirem o Brasil.
-
-## O IMPÉRIO PORTUGUÊS NO SÉCULO XVI
-No fim do século XVI, Portugal tinha um império de grande extensão. Possuía territórios na África, Ásia e na América mais as ilhas atlânticas.
-Os arquipélagos da Madeira e dos Açores
-Os arquipélagos da Madeira e dos Açores foram bastante importantes porque as embarcações que se dirigiam para África e para a Índia iam-se abastecer de alimentos frescos nestas ilhas.
-Na Madeira predominavam as árvores, por isso o seu nome.
-Nos Açores, encontraram muitas aves de nome açores e outras.
-Relevo
-O relevo das ilhas atlânticas é muito montanhoso e de origem vulcânica. É na ilha do Pico que se encontra o pico mais alto de Portugal, com 2351 metros de altitude.
-Os cursos de água existentes são pouco extensos por isso têm o nome de ribeiras. Nos Açores são famosas algumas lagoas formadas nas crateras de vulcões extintos.
-Clima e vegetação
-A Madeira, situada mais a sul e próximo de África, tem um verão quente e seco e um inverno ameno, com precipitações mais elevadas na montanha e vertente norte.
-Estava coberta de densas matas onde predominavam os dragoeiros, loureiros, urzes, giestas, zimbro e jasmim.
-Por seu lado, nos Açores não se notam grandes diferenças de temperatura nas diferentes estações do ano. É frequente o nevoeiro e as chuvas são abundantes, sobretudo nos meses de Outubro a Janeiro.
-Nas matas predominavam os cedros, loureiros, faias, urzes, giestas e fetos gigantes.
-Colonização
-Quando os portugueses descobriram a Madeira e os Açores encontravam-se desabitadas. O clima ameno e as terras férteis levaram o infante D. Henrique a realizar de imediato a sua colonização, ou seja, o povoamento e aproveitamento dos seus recursos naturais.
-As ilhas foram divididas em capitanias, cada uma com um capitão que tinha como função povoá-las e cultivar as suas terras. As pessoas que saíram do continente para as ilhas chamavam-se colonos.
-Principais atividades e produtos
-Os colonos dedicaram-se sobretudo à agricultura e à criação de gado. Na Madeira introduziram-se as culturas da vinha, cana de açúcar, árvores de fruto e cereais. Nos Açores o trigo, a criação de gado e as plantas tintureiras foram as principais riquezas.
-Territórios na África
-A vida dos povos africanos
-Os portugueses avistaram povos de raça negra abaixo do deserto do Sara. Estes povos viviam do aproveitamento dos recursos naturais existentes: caçavam, criavam animais, pescavam, recolhiam frutos, cultivavam o inhame (batata-doce) e faziam o aproveitamento de alguns minerais como o ouro e o cobre que trocavam por outros produtos.
-Os povos africanos estavam organizados em reinos que se guerreavam entre si. Normalmente os vencidos eram feitos escravos.
-Na maioria dos reinos praticava-se a poligamia, ou seja, um homem podia ter várias mulheres. Andavam todos nus da cintura para cima e vivam em palhotas.
-Contatos entre portugueses e africanos
-Os portugueses faziam comércio com os africanos. Ofereciam sal, trigo, objetos de cobre e latão e tecidos coloridos de pouco valor. Em troca recebiam ouro, escravos, marfim e malagueta. Nos locais com bons portos naturais e onde o comércio era mais intenso os portugueses estabeleceram feitorias.
-Além dos contatos comerciais, os portugueses realizaram expedições, da costa africana para o interior, para dominar alguns reis, desenvolver relações de paz e amizade e também para cristianizar os povos africanos. Os missionários fundaram escolas, foram-se construindo igrejas, fortalezas e criaram-se alguns povoados comerciais onde viviam africanos e colonos portugueses.
- Territórios da Ásia
- A vida dos povos asiáticos
-Na Ásia os portugueses conquistaram  Goa, Malaca e Ormuz, na Índia, e no Extremo Oriente chegaram às Molucas, ao litoral da China, a Cantão, Timor, Japão e a Macau.
-Em todos estes locais os portugueses encontraram povos de cor de pele, costumes, religião e formas de vida diferentes. Os chineses e os japoneses foram os que causaram maior admiração.
-Contatos entre portugueses e asiáticos
-Os portugueses comercializavam com os asiáticos. Goa, Malaca e Macau eram as principais feitorias. Os portugueses levavam para o Oriente vermelhão, cobre, prata e ouro (por amoedar) e em troca recebiam especiarias, pedras preciosas, porcelanas, perfumes, sedas e madeiras.
-Goa era a capital portuguesa na Índia e lá viviam aí muitos portugueses. No entanto, milhares de colonos portugueses instalaram-se por todo o Oriente, sendo frequente os casamentos com mulheres indianas.
-Também se construíram igrejas, escolas e seminários nas terras asiáticas.
-Territórios da América
-A vida dos índios brasileiros
-O Brasil era um território com imensas florestas, aves e frutos de grande beleza. Os índios viviam de uma maneira bastante simples em estreita relação com a natureza. Dedicavam-se à caça, à pesca e ao cultivo da mandioca. Eram pacíficos e acolhedores e receberam os portugueses com simpatia.
-Colonização
-Inicialmente os portugueses deslocavam-se ao Brasil apenas para trazer o pau-brasil e aves exóticas. Em 1530, iniciou-se a colonização. O rei dividiu as terras em capitanias, tal como nos arquipélagos da Madeira e dos Açores. Os colonos portugueses começaram a cultivar a cana-de-açúcar e a bananeira.
-Os índios não eram fáceis de escravizar por isso os portugueses levaram para o Brasil muitos escravos africanos.
-A VIDA URBANA NO SÉCULO XVI – LISBOA QUINHENTISTA
-Importância da cidade de Lisboa no séc. XVI
-No séc. XVI Lisboa era uma das cidades mais importantes da Europa devido à chegada de mercadorias oriundas do Oriente, África e Brasil, que depois eram distribuídas pelo centro e norte da Europa.
-Produtos que chegavam a Lisboa
-
-- Oriente: especiarias, sedas, porcelanas, pedras preciosas
-- África: ouro, malagueta, marfim, escravos
-- Brasil: açucar, pau-brasil, animais exóticos
-Crescimento da cidade
-Nos reinados de D. João II e de D. Manuel I Lisboa teve um desenvolvimento tão grande que as suas construções começaram a ocupar espaços fora das muralhas construídas por D. Fernando (Cerca Nova ou Cerca Fernandina).
-O rei D. Manuel deixou o Paço de Alcáçova, junto ao Castelo, para ir viver mais junto ao Tejo, no Paço da Ribeira, para melhor vigiar o movimento marítimo.
-Locais importantes da cidade
-
-- Paço da Ribeira: onde se encontravam os aposentos do rei e a Casa da Índia (local abastecido de produtos vindos do Oriente)
-- Rossio: onde os camponeses vendiam os seus produtos
-- Rua Nova dos Mercadores: onde havia mercadores de toda a parte do mundo
-- Ribeira das Naus: onde se construíam navios
-- Hospital Todos-os-Santos: recebia doentes, pobres e órfãos
-- Misericórdia: recebia pobres e crianças abandonadas
-- Feira da Ladra: onde se vendiam produtos usados
-Movimento de pessoas
-
-- Emigração: muitas pessoas partiram para as ilhas atlânticas, Brasil e Oriente, à procura de melhores condições de vida.
-- Imigração: chegaram a Lisboa muitas pessoas vindas de todo o mundo: comerciantes, artesãos, artistas, escravos…
-- Migração interna: muitos camponeses abandonaram os campos e foram para a cidade à procura de melhor condições de vida.
-Distribuição da riqueza
-
-- Nobreza:
-- recebia riquezas
-- gastava dinheiro em luxos, vestuário e na habitação
-- as famílias mais ricas tinham todas escravos
-- Clero:
-- foi beneficiado com a construção e adornação de igrejas e mosteiros
-- Grande parte do povo:
-- vivia em extrema pobreza
-- muitos eram vagabundos, mendigos, miseráveis
-- Corte:
-- das mais ricas e luxuosas da Europa
-- eram frequentes os banquetes e saraus com músicos, poetas e escritores
-- o rei realizava ainda cortejos para exibir a sua riqueza, onde desfilavam músicos ricamente vestidos e animais raros
-Cultura
-
-- Literatura
-- Luís de Camões: “Os Lusíadas”
-- Fernão Mendes: “A Peregrinação”
-- Pêro Vaz de Caminha: “Carta do Achamento do Brasil”
-- Damião de Góis e Rui de Pina: crónicas de reis
-- Bernardim Ribeiro, Sá de Miranda e Garcia de Resende
-- Matemática
-- Pedro Nunes
-- Medicina
-- Garcia de Orta e Amato Lusitano
-- Geografia e Astronomia:
-- Duarte Pacheco Pereira
-- Zoologia e Botânica:
-- Garcia da Orta
-Arte
-
-- Arte Manuelina na arquitetura: decoração com elementos alusivos às viagens marítimas (cordas, redes, conchas, naus, caravelas, esferas armilares) como no Mosteiro dos Jerónimos e Convento de Cristo.
-- Arte Manuelina na escultura, pintura, ourivesaria, cerâmica e mobiliário: revelam também influências dos Descobrimentos.
-
- PORTUGAL: DA UNIÃO IBÉRICA À RESTAURAÇÃO DA INDEPENDÊNCIA
-A MORTE DE D. SEBASTIÃO E A SUCESSÃO AO TRONO
-Perda da independência
-Quando D. João III morreu, sucedeu-lhe o seu neto D. Sebastião. Como tinha apenas 3 anos, D. Catarina assume a regência do reino, seguindo-lhe o cardeal D. Henrique.
-Aos 14 anos, D. Sebastião assume ele próprio o governo do reino e decide conquistar o norte de África. No entanto, não foi bem sucedido e morreu na batalha de Alcácer Quibir sem deixar descendentes. D. Henrique passa a ser o rei de Portugal mas o problema de sucessão não estava resolvido pois também ele não tinha filhos.
-Surgiram então vários pretendentes ao trono:
-
-- D. Filipe II, rei de Espanha, apoiado por:
-- grande parte do clero e da nobreza: porque temiam perder privilégios e aspiravam novos cargos e terras
-- alta burguesia: porque pretendia novos mercados
-- D. António, prior do Crato, apoiado por:
-- povo e parte da nobreza: não queriam ser governados por um rei estrangeiro e temiam que Portugal perdesse a independência
-- D. Catarina, duquesa de Bragança, apoiada por:
-- muitos nobres e elementos do clero, mas desistiu e apoiou a candidatura filipina
-
-## O DOMÍNIO FILIPINO E OS LEVANTAMENTOS POPULARES
-União Ibérica (1580)
-Cortes em Almeirim: D. Filipe II é aclamado rei de Portugal
-Batalha de Alcântara: D. António, apoiado pelo povo, enfrenta o exército de D. Filipe II mas é derrotado e foge, primeiro para os Açores e depois para Inglaterra
-Cortes de Tomar: D. Filipe II, rei de Espanha, prestou juramento como rei de Portugal, foi intitulado como D. Filipe I, rei de Portugal, e fez várias promessas entre as quais:
-
-- manter a moeda, língua e costumes portugueses
-- cargos de governo de Portugal apenas para portugueses
-D. Filipe I cumpriu a maioria das promessas que fez mas os seus sucessores, D. Filipe II e D. Filipe III, não respeitaram as promessas feitas aos portugueses. A situação piorou quando Espanha entrou em guerras contra a Holanda, França e Inglaterra, e surgiram revoltas dentro do próprio país. Tudo isto teve consequências para Portugal:
-
-- aumento dos impostos
-- soldados portugueses no exército espanhol
-- espanhóis nomeados para cargos em Portugal
-- ataque dos inimigos de Espanha às colónias portuguesas
-Surgiu a revolta popular rapidamente reprimida violentamente pelo exército espanhol.
-A REVOLTA DE 1º DE DEZEMBRO E A GUERRA DA RESTAURAÇÃO
-A União Ibérica, que durou 60 anos, acabou por trazer vários prejuízos a Portugal. À revolta popular juntou-se o descontentamento da nobreza em muito prejudicada neste período.
- 1 de Dezembro de 1640
-Um conjunto de nobres aproveitou o enfraquecimento da Espanha e a ausência do rei em Portugal para organizar uma conspiração para matar a vice-rei de Portugal, a duquesa de Mântua. Bem sucedidos, aclamaram a Restauração da Independência.
-Cortes em Lisboa
-D. João, duque de Bragança, é aclamado rei de Portugal com o título de D. João IV.
-Guerra da Restauração
-D. João IV procurou organizar o exército, fabricou armas e fortalezas junto às fronteiras com Espanha. Durante 28 anos Portugal esteve em guerra com Espanha, que só terminou com o Tratado de Madrid, assinado em 1668.
-
-O IMPÉRIO COLONIAL PORTUGUÊS DO SÉC. XVIII
-Colónias pertencentes a Portugal
-No século XVIII o Império português era constituído por:
-
-- Na Ásia: pelas cidades de Damão, Diu e Goa na Índia e ainda por Macau e Timor;
-- Em África: por Cabo Verde, Guiné, São Tomé e Príncipe, Angola e Moçambique
-- Na América: pelo Brasil
-Brasil
-Neste período Portugal já não obtinha grandes lucros com o comércio do Oriente (Índia) devido à concorrência com ingleses, franceses e holandeses, por isso interessou-se mais em explorar o Brasil.
-O tempo quente e húmido permitiu cultivar grandes quantidades de cana-de-açucar que depois era trabalhada nos engenhos para ser transformada em açucar.
-Além do açúcar, o Brasil passou a ser bastante importante por causa da descoberta de ouro e de pedras preciosas.
-Bandeirantes: pessoas que foram para o interior do Brasil à procura de ouro, pedras preciosas e  de índios para escravizar. Fundaram cidades e povoações o que permitiu alargar as fronteiras do Brasil para além da linha de Tordesilhas.
-Engenhos: conjunto de instalações que moem a cana-de-açúcar e a transformam em açúcar.
-Comércio triangular
-Neste período desenvolveu-se o comércio entre três continentes: Europa, América e África.
-Movimentos da população
-Da metrópole (Portugal):
-
-- Milhares de colonos partiram para o Brasil em busca de melhores condições de vida;
-- Missionários também partiram para o Brasil com a missão de expandir a fé católica.
-De África:
-
-- Milhares de escravos foram levados para o Brasil para trabalhar nas plantações de cana-de-açucar, nos engenhos e na exploração do ouro. Eram transportados em navios negreiros em condições desumanas.
-No Brasil:
-
-- Os bandeirantes deslocaram-se para o interior do Brasil à procura de ouro, pedras preciosas e de índios para os escravizar;
-- Os missionários também foram para o interior para evangelizar os índios brasileiros e para os proteger da escravatura.
-GOVERNO DE D. JOÃO V
-A descoberta de ouro e de pedras preciosas desenvolveu o comércio triangular que trouxe grandes riquezas a Portugal. D. João V tornou-se num dos reis mais ricos da Europa e concentrou em si todos os poderes passando a governar como um rei absoluto.
-Monarquia absoluta: regime em que o rei concentra em si todos os poderes.
-Poderes do rei:
-
-- Legislativo: fazia as leis
-- Executivo: fazia cumprir as leis
-- Judicial: julgava quem não cumpria as leis
-A vida da corte
-
-- Vivia em luxo e ostentação
-- Realizavam-se bailes, teatros, concertos, banquetes e cortejos para mostrar a sua riqueza
-A nobreza
-
-- Tentava imitar a corte no vestuário, na habitação e nos divertimentos.
-O clero
-
-- Construiu igrejas e conventos e adornou outras
-- Tinha um grande poder e criou o Tribunal de Inquisição que perseguia e condenava à morte quem estivesse contra a Igreja Católica, quem praticasse outra religião ou quem fosse suspeito
-Cristãos-novos: nome dado a quem aceitava converter-se à religião católica. No entanto, muitos foram perseguidos e condenados à morte por suspeita de praticarem outras religiões em segredo.
-Autos-de-fé: cerimónias públicas onde os condenados eram torturados e queimados vivos.
-A burguesia
-
-- A alta burguesia enriqueceu com o comércio e tentou imitar o modo de vida da nobreza
-- Estes burgueses conviviam em clubes e cafés com artistas, escritores e políticos
-Povo
-
-- Continuava a viver em grandes dificuldades
-
-## GRANDES CONSTRUÇÕES
-Parte das riquezas obtidas com o ouro brasileiro foi gasta na construção de grandes palácios e conventos.
-Por iniciativa régia (do rei):
-
-- Aqueduto das Águas Livres
-- Palácio e Convento de Mafra
-- Capela de S. Batista
-Por iniciativa da nobreza:
-
-- Solar de Mateus
-- Palácio dos Condes de Anadia
-- Palácio do Freixo
-Por iniciativa do clero:
-
-- Torre dos Clérigos
-Estilo Barroco
-O estilo que caracterizava estas construções era o Barroco.
-Características do estilo barroco:
-
-- Grandiosidade
-- Revestimento em talha dourada, azulejo e mármore
-- Decoração abundante com curvas
-- Abundância de estátuas
-
-## LISBOA POMBALINA
-Governo de D. José I
-Em 1750, D. José I sobe ao trono e nomeia Sebastião José de Carvalho e Melo, futuro Marquês de Pombal, como ministro.
-Terramoto de 1755
-Lisboa ficou praticamente destruída após o terramoto de 1755:
-
-- Morreram cerca de 10 000 pessoas
-- Grande maior parte dos edificios ficaram em ruínas
-- Perderam-se muitos tesouros como livros, manuscritos, quadros e objetos de ouro e de prata
-Ação do Marquês de Pombal após o terramoto
-
-- Mandou enterrar os mortos e socorrer os feridos
-- Mandou policiar as ruas e os edifícios mais importantes para evitar roubos
-- Encarregou o engenheiro Manuel da Maia e o arquiteto Eugénio dos Santos elaborar um plano de reconstrução da baixa de Lisboa
-Características da nova Lisboa
-A baixa de Lisboa é conhecida por baixa pombalina porque o responsável pela sua reconstrução após o terramoto foi o Marquês de Pombal. Esta reconstrução caracterizou-se por várias inovações:
-
-- Ruas largas
-- Passeios calcetados
-- Traçado geométrico
-- Prédios da mesma altura com fachadas iguais e dotados de um sistema de madeira anti-sísmico
-- Rede de esgotos
-O Terreiro do Paço deu lugar à Praça do Comércio em homenagem aos burgueses que contribuíram com dinheiro para a reconstrução de Lisboa.
-Situação de Portugal neste período
-O reino português encontrava-se em crise:
-
-- O comércio enfrentou uma grande concorrência estrangeira que impediu o seu crescimento
-- A agricultura e a indústria não produziam o suficiente, portanto Portugal tinha que comprar quase tudo ao estrangeiro
-- Chegava cada vez menos ouro do Brasil, por isso deixou de haver dinheiro para importar tantos produtos
-- O terramoto de 1755 veio agravar ainda mais a situação do país
-Reformas pombalinas
-Para resolver a grave situação que enfrentava Portugal, Marquês de Pombal decidiu fazer várias reformas:
-
-- Reformas económicas:
-- Desenvolveu a indústria apoiando fábricas antigas e criando novas
-- Criou companhias de comércio
-- Reformas políticas e sociais
-- Perseguiu e retirou poder à Nobreza (retirou cargos e riquezas e reprimiu quem se lhe opusesse)
-- Diminuiu o poder do Clero, expulsando os Jesuítas
-- Protegeu a Burguesia
-- Extinguiu a escravatura no reino (embora continuasse a existir nas colónias portuguesas)
-- Reformas no ensino
-- Criou escolas primárias
-- Reformou a Universidade de Coimbra
-- Extinguiu a Universidade de Évora que era controlada pelos Jesuítas
-Marquês de Pombal utilizou a Burguesia como motor de desenvolvimento económico do país, e retirou poder às classes privilegiadas, ou seja, ao Clero e à Nobreza.
-Todas estas medidas, a nível social, político, económico e do ensino, contribuíram para a modernização do país.
-
-A REVOLUÇÃO FRANCESA DE 1789 E SEUS REFLEXOS EM PORTUGAL
-
-## REVOLUÇÃO FRANCESA
-
-### Causas da Revolução
-A França, na segunda metade do século XVIII, vivia sob o chamado Antigo Regime (*Ancien Régime*), um sistema político e social que provocava grande descontentamento:
-
-- **Sociedade de ordens desigual:** A sociedade francesa estava dividida em três estados (ordens):
-  - **1º Estado – Clero:** não pagava impostos e possuía vastas terras e riquezas.
-  - **2º Estado – Nobreza:** também isenta de impostos, ocupava os cargos mais importantes do reino.
-  - **3º Estado – Povo (burguesia, camponeses, artesãos):** representava cerca de 97% da população, mas era o único grupo que pagava impostos pesados.
-- **Crise financeira:** As guerras (incluindo o apoio à independência dos Estados Unidos), os gastos da corte de Versalhes e a má gestão das finanças levaram a França à beira da falência.
-- **Influência do Iluminismo:** As ideias de pensadores como Voltaire (liberdade de pensamento), Montesquieu (separação dos poderes) e Rousseau (soberania popular) inspiraram a população a questionar o poder absoluto do rei e os privilégios da nobreza e do clero.
-- **Fome e miséria:** Más colheitas em 1788 provocaram uma grave crise alimentar, com subida dos preços do pão, o que aumentou a revolta popular.
-
-### As Fases da Revolução
-
-**1ª Fase – Reunião dos Estados Gerais e início da Revolução (1789)**
-
-- Em maio de 1789, o rei Luís XVI convocou os Estados Gerais (assembleia com representantes dos três estados) para resolver a crise financeira. O Terceiro Estado exigiu que a votação fosse feita por cabeça (e não por ordem), para ter maioria. Como o rei recusou, os deputados do Terceiro Estado abandonaram a assembleia e formaram a **Assembleia Nacional Constituinte**, jurando não se separar até dar a França uma constituição (*Juramento do Jogo da Péla*).
-- A **14 de julho de 1789**, o povo de Paris, temendo uma reação militar do rei, assaltou a Bastilha, uma fortaleza-prisão símbolo do poder absoluto. Esta data tornou-se o símbolo da revolução.
-- Em agosto de 1789, a Assembleia aprovou a **Declaração dos Direitos do Homem e do Cidadão**, que proclamava:
-  - Todos os homens nascem livres e iguais em direitos.
-  - Os direitos naturais são a liberdade, a propriedade, a segurança e a resistência à opressão.
-  - A soberania reside na nação (e não no rei).
-  - Separação dos poderes (legislativo, executivo e judicial).
-
-**2ª Fase – Monarquia Constitucional (1791–1792)**
-
-- Em 1791 foi aprovada a primeira Constituição francesa, que estabelecia uma monarquia constitucional com separação de poderes. O rei mantinha o poder executivo, mas limitado pela lei.
-- Luís XVI tentou fugir de França para pedir ajuda militar estrangeira, mas foi capturado na fronteira (Fuga de Varennes), o que aumentou a desconfiança popular.
-- Os reis da Áustria e da Prússia declararam guerra à França para defender a monarquia absoluta, iniciando as **Guerras Revolucionárias**.
-
-**3ª Fase – A República e o Terror (1792–1794)**
-
-- Em setembro de 1792, a monarquia foi abolida e proclamou-se a **República Francesa**.
-- O rei Luís XVI foi julgado por traição e executado na guilhotina em janeiro de 1793, assim como a rainha Maria Antonieta.
-- Os **Jacobinos**, liderados por Maximilien de Robespierre, assumiram o poder e instauraram o chamado **Período do Terror** (1793–1794): milhares de pessoas foram executadas, acusadas de serem inimigas da revolução.
-- Outros líderes importantes deste período: Georges Danton e Jean-Paul Marat.
-- Em julho de 1794, o próprio Robespierre foi preso e executado, pondo fim ao Terror.
-
-**4ª Fase – O Diretório e a ascensão de Napoleão (1795–1799)**
-
-- Após o Terror, foi criado o **Diretório**, um governo mais moderado que governou a França entre 1795 e 1799.
-- No entanto, o Diretório enfrentou instabilidade política e económica, e a França continuava em guerra contra várias potências europeias.
-- Em 1799, o general **Napoleão Bonaparte**, que se tinha destacado nas campanhas militares, deu um golpe de Estado e assumiu o poder.
-
-### O Império Napoleónico e a Europa
-Napoleão governou primeiro como cônsul e depois, a partir de 1804, como imperador dos franceses. Através de guerras e alianças, conseguiu dominar grande parte da Europa, difundindo os ideais revolucionários (igualdade perante a lei, fim dos privilégios feudais, código civil).
-Para enfraquecer a Inglaterra, a sua principal rival, Napoleão ordenou o **Bloqueio Continental** (1806): todos os portos europeus deviam fechar-se ao comércio inglês.
-
-### A importância da Revolução Francesa
-A Revolução Francesa foi um dos acontecimentos mais importantes da história mundial:
-
-- Pôs fim à monarquia absoluta e ao sistema feudal em França.
-- Difundiu os ideais de **liberdade, igualdade e fraternidade** por toda a Europa e pelo mundo.
-- A Declaração dos Direitos do Homem e do Cidadão tornou-se a base dos direitos humanos modernos.
-- Inspirou movimentos revolucionários e liberais em Portugal, no Brasil e em muitos outros países durante o século XIX.
-
-### Reflexos em Portugal
-Fuga da família real portuguesa para o Brasil
-Neste período, Portugal tinha uma rainha, D. Maria I, viúva e doente. Por isso, o reino era governado pelo seu filho, o príncipe João.
-Portugal, como era um velho aliado da Inglaterra, e não queria perder o comércio com os ingleses, demorou a aderir ao bloqueio continental imposto por Napoleão Bonaparte. Quando o príncipe regente decidiu aderir ao bloqueio continental, já a França e a Espanha, sua aliada, tinham decidido invadir Portugal.
-A família real, com medo de ser presa pelas tropas francesas, parte para o Brasil em 1807, e é criada uma Junta de Regência para governar Portugal.
-
-
-## INVASÕES FRANCESAS EM PORTUGAL
-1ª invasão francesa (1807)
-Comandante: Junot
-Instalou-se em Lisboa, mandou substituir a bandeira portuguesa pela francesa no castelo de S. Jorge, acabou com a Junta de Regência e passou ele a governar Portugal.
-Durante a invasão francesa destruíram-se culturas, mataram-se pessoas e foi roubado tudo o que tivesse valor.
-Reação portuguesa:
-Foram criados movimentos de resistência pelos populares e foi pedido auxílio aos ingleses. O exército anglo-português venceu os franceses nas batalhas da Roliça e do Vimeiro e Junot assinou a Convenção de Sintra e abandonou Portugal.
-2ª invasão francesa (1809)
-Comandante: Soult
-Entrou por Trás-os-Montes, chegou ao Porto mas encontrou uma forte resistência e refugiou-se na Galiza.
-3ª invasão francesa (1810)
-Comandante: Massena
-O seu exército perdeu muitos soldados na batalha do Buçaco mas tentou na mesma a todo o custo chegar a Lisboa. No entanto, ficou retido na linha defensiva de Torres Vedras, que era um conjunto de fortificações e canhões criados pelos ingleses para proteger a cidade de Lisboa.
-Massena foi obrigado a desistir e a retirar-se definitivamente.
-A REVOLUÇÃO LIBERAL DE 1820
-Situação do reino português após as invasões francesas
-A população encontrava-se bastante descontente:
-
-- A família real continuava no Brasil e sem intenções de voltar
-- O reino encontrava-se pobre e desorganizado
-- Os ingleses não saíram de Portugal e controlavam o comércio feito com o Brasil, prejudicando assim os comerciantes portugueses
-Grande parte da população, sobretudo o povo e a burguesia, começou a defender as ideias liberais vindas de França.
-Revolução liberal de 1820
-Em 1818 foi fundada no Porto uma sociedade secreta chamada Sinédrio que tinha como objetivo preparar uma revolução para expulsar os ingleses e ordenar o regresso do rei que estava no Brasil.
-Em 1820 iniciou-se a Revolução Liberal, no Porto, que depois se espalhou por todo o país e em Lisboa.
-Monarquia Liberal
-Portugal passou a ter uma monarquia liberal.
-Foram criadas as Cortes Constituintes, que tiveram a função de criar a Constituição de 1822, onde estavam definidos os direitos e deveres dos cidadãos. Nesta Constituição estava definido que todos os cidadãos eram iguais perante a lei e estava estabelecida a separação de poderes.
-
-## INDEPENDÊNCIA DO BRASIL
-
-### Contexto
-Durante a permanência da família real no Brasil (1808–1821), o território brasileiro sofreu profundas transformações:
-
-- **Abertura dos portos:** Em 1808, D. João abriu os portos brasileiros ao comércio com todas as nações amigas, quebrando o monopólio comercial que Portugal mantinha. Isto beneficiou enormemente a burguesia brasileira e os comerciantes estrangeiros, sobretudo ingleses.
-- **Desenvolvimento económico e cultural:** O Rio de Janeiro tornou-se a capital do império português. Foram criados o Banco do Brasil, escolas superiores, a Imprensa Régia, o Jardim Botânico e a Biblioteca Real. O Brasil deixou de ser uma simples colónia e passou a ter vida cultural e económica própria.
-- **Elevação a reino:** Em 1815, o Brasil foi elevado à categoria de reino, passando a formar o Reino Unido de Portugal, Brasil e Algarves, o que lhe dava um estatuto de igualdade com Portugal.
-
-### O regresso de D. João VI e a tensão política
-Após a Revolução Liberal de 1820 em Portugal, as Cortes Constituintes exigiram o regresso do rei. D. João VI regressou a Portugal em 1821, deixando o seu filho D. Pedro como príncipe regente do Brasil.
-
-As Cortes tentaram reverter as conquistas do Brasil:
-
-- Ordenaram o regresso de D. Pedro a Portugal.
-- Tentaram restabelecer o monopólio comercial e retirar a autonomia administrativa brasileira.
-- Estas medidas provocaram uma enorme revolta entre os brasileiros, que não queriam perder os avanços alcançados.
-
-### A declaração de independência
-A burguesia brasileira, os grandes proprietários de terras e parte da população apoiaram D. Pedro, que decidiu permanecer no Brasil. A 9 de janeiro de 1822, D. Pedro declarou: *"Se é para o bem de todos e felicidade geral da nação, diga ao povo que fico"* – episódio que ficou conhecido como o **Dia do Fico**.
-
-A 7 de setembro de 1822, junto ao rio Ipiranga, em São Paulo, D. Pedro proclamou a independência do Brasil, no episódio conhecido como o **Grito do Ipiranga**: *"Independência ou morte!"*
-
-D. Pedro foi aclamado como D. Pedro I, imperador do Brasil. Portugal reconheceu a independência do Brasil em 1825, após mediação inglesa.
-
-### Consequências
-- O Brasil tornou-se uma monarquia constitucional independente.
-- Portugal perdeu a sua maior e mais rica colónia, agravando a crise económica do reino.
-- A independência do Brasil inspirou-se nos ideais liberais vindos da Revolução Francesa e da independência dos Estados Unidos.
-- O êxito da independência brasileira encorajou outros movimentos de emancipação na América Latina.
-
-
-## A LUTA ENTRE LIBERAIS E ABSOLUTISTAS
-
-### Contexto: duas visões opostas para Portugal
-Após a Revolução Liberal de 1820, Portugal dividiu-se em dois campos políticos irreconciliáveis:
-
-- **Liberais:** Defendiam a Constituição, a separação de poderes, os direitos individuais e uma monarquia constitucional em que o rei governava de acordo com as leis aprovadas pelo parlamento. Eram apoiados pela burguesia, pelos intelectuais e por grande parte do povo urbano.
-- **Absolutistas:** Defendiam o regresso à monarquia absoluta, em que o rei concentrava todo o poder. Eram apoiados pela alta nobreza e por grande parte do clero, que tinham perdido privilégios com as reformas liberais.
-
-### A Carta Constitucional de 1826
-Quando D. João VI morreu em 1826, D. Pedro (que era imperador do Brasil) sucedeu-lhe no trono português. No entanto, não querendo abandonar o Brasil, D. Pedro tomou duas decisões:
-
-- Outorgou a **Carta Constitucional de 1826**, um documento mais moderado que a Constituição de 1822, que mantinha a monarquia constitucional mas dava mais poderes ao rei (incluindo o poder moderador).
-- Abdicou da coroa portuguesa a favor da sua filha **D. Maria da Glória**, que tinha apenas 7 anos, ficando o seu irmão **D. Miguel** como regente.
-
-### O golpe absolutista de D. Miguel
-D. Miguel jurou governar segundo a Carta Constitucional, mas em 1828 dissolveu as Cortes e fez-se aclamar rei absoluto, restaurando o absolutismo. Iniciou uma violenta perseguição aos liberais: muitos foram presos, torturados ou forçados ao exílio.
-
-### A Guerra Civil (1832–1834)
-Em 1831, D. Pedro abdicou do trono brasileiro e dedicou-se a restaurar os direitos da sua filha em Portugal. Reuniu-se com liberais exilados na ilha Terceira, nos Açores, e organizou uma expedição militar.
-
-**Principais acontecimentos:**
-
-- **1832:** D. Pedro desembarcou com as suas tropas no Mindelo, perto do Porto, e ocupou a cidade. Seguiu-se o **Cerco do Porto**, em que as forças absolutistas de D. Miguel cercaram a cidade durante mais de um ano, mas os liberais resistiram.
-- **1833:** Uma expedição liberal, comandada pelo Duque da Terceira, navegou para o Algarve e subiu até Lisboa, conquistando a capital.
-- **1834:** Após várias derrotas militares, D. Miguel foi obrigado a assinar a **Convenção de Évora Monte** (maio de 1834), pela qual renunciou ao trono e partiu para o exílio.
-
-### Consequências
-- O liberalismo saiu vitorioso e implantou-se definitivamente em Portugal.
-- D. Maria II tornou-se rainha e jurou a Carta Constitucional.
-- Foram tomadas importantes reformas liberais: extinção das ordens religiosas, nacionalização dos seus bens, abolição dos dízimos, reforma da administração pública e do ensino.
-- A guerra civil deixou o país economicamente arruinado e socialmente dividido, consequências que se fariam sentir durante décadas.
-
-
-## PORTUGAL NA SEGUNDA METADE DO SÉCULO XIX
-## REGENERAÇÃO
-No início da segunda metade do séc. XIX, o Reino de Portugal encontrava-se pobre e desorganizado, principalmente devido a três acontecimentos:
-
-- Invasões napoleónicas
-- Guerra civil entre liberais e absolutistas
-- Independência do Brasil
-As principais atividades económicas (agricultura, criação de gado, extração mineira) encontravam-se bastante atrasadas, por isso Portugal tinha que importar vários produtos de outros países europeus com maior desenvolvimento. Era importante nesta altura desenvolver estas atividades económicas para tirar o Reino desta crise.
-A 1851 iniciou-se o movimento de Regeneração. Este movimento procurava o “renascer” da vida nacional, pois queria um novo rumo para Portugal, que se encontrava muito atrasado e pouco desenvolvido.
-Durante o período da Regeneração, várias medidas foram tomadas para desenvolver as atividades económicas, o que permitiram a modernização e o progresso do país.
-Este período de desenvolvimento apenas foi possível devido à:
-
-- existência de paz no Reino
-- estabilidade política após o triunfo do liberalismo
-Desenvolvimento da agricultura
-Para aumentar a produção de alimentos, os governos liberais tomaram várias medidas para o desenvolvimento da agricultura e para o aumento da área cultivada.
-Medidas para aumento da área cultivada:
-
-- extinção do direito do morgadio, ou seja, do direito do filho herdar todas as terras da família. As terras passaram a ser divididas por todos os filhos para assegurar uma melhor exploração das terras
-- entrega de terras pertencentes a nobres e clérigos a burgueses
-- entrega de baldios (terras incultas) aos camponeses
-Novas técnicas:
-
-- utilização de adubos químicos
-- utilização de semementes selecionadas
-- alternância de culturas, que pôs fim ao pousio. Desta forma as terras não precisavam de estar um período de tempo sem estarem cultivadas
-- introdução das máquinas agrícolas, inclusive a debulhadora mecânica a vapor
-Novas culturas:
-
-- batata
-- arroz
-Desenvolvimento da indústria
-A introdução da máquina a vapor na indústria contribuiu de forma significativa para o seu desenvolvimento. Esta inovação permitiu aumentar a produção em menos tempo, o que possibilitou o aumento de lucros.
-A produção artesanal foi assim começando a dar lugar à produção industrial por ser mais lucrativa.
-Principais diferenças entre produção artesanal e produção industrial:
-
-Produção artesanal
-Produção industrial
-Artesãos
-Operários
-Oficinas
-Fábricas
-Ferramentas simples
-Máquinas
-Muito tempo de produção
-Pouco tempo de produção
-Pouca produção
-Muita produção
-Produtos únicos
-Produtos em série
-Produtos mais caros
-Produtos mais baratos
-Menor lucro
-Maior lucro
-A maior parte das fábricas instauraram-se nas zonas do litoral, principalmente na zona de Porto/Guimarães (indústria têxtil e calçado) e na zona de Lisboa/Setúbal (indústria química e metalúrgica)
-Exploração mineira
-Com o desenvolvimento da indústria tornou-se necessário desenvolver a exploração mineira por se precisar de matérias-primas e combustíveis. Os metais mais procurados eram o cobre e o ferro. O carvão também foi muito procurado porque nessa época era a principal fonte de energia.
-Alteração da paisagem
-O aumento dos campos de cultivo e o aumento do número de fábricas e de minas provocaram uma profunda alteração das paisagens. Nas cidades predominavam as chaminés muito altas que enchiam o céu de fumos e maus cheiros.
-
-## O FONTISMO
-
-### O que foi o Fontismo
-Para promover o desenvolvimento da agricultura, do comércio e da indústria, era necessário a construção de uma boa rede de transportes e de comunicações. Com esse fim, em 1852, foi criado o Ministério das Obras Públicas, dirigido por **Fontes Pereira de Melo**. Esta política de construção de obras públicas ficou conhecida por **Fontismo**, devido ao nome do seu principal impulsionador.
-
-Fontes Pereira de Melo acreditava que a modernização das infraestruturas era a chave para o progresso do país. O seu lema era "construir estradas, caminhos de ferro e escolas". Esta visão dominou a política portuguesa durante a segunda metade do século XIX.
-
-### Desenvolvimento dos meios de transporte
-
-**Caminhos-de-ferro:**
-A rede de caminhos-de-ferro cresceu de forma muito rápida e ao longo da sua extensão construíram-se várias pontes, túneis e estações.
-
-- Em **1856** realizou-se a primeira viagem de comboio, entre Lisboa e Carregado.
-- Em **1863** foi inaugurada a ligação Lisboa-Porto.
-- Em **1887** inaugurou-se a ligação direta Lisboa-Madrid-Paris. Portugal ficou assim mais próximo do centro da Europa.
-- No final do século XIX, a rede ferroviária estendia-se já por grande parte do território nacional, com linhas que ligavam o litoral ao interior.
-
-**Rede de estradas:**
-Iniciou-se também a renovação e construção de novas estradas em todo o país. De forma a facilitar a circulação, construíram-se várias pontes, como a ponte D. Luís I no Porto (1886) e a ponte D. Maria Pia, também no Porto, projetada por Gustave Eiffel (1877).
-A partir de 1855 começou a circular na estrada Lisboa-Porto a mala-posta, uma carruagem que transportava o correio e algumas pessoas.
-No final do século XIX surgiram os primeiros automóveis.
-
-**Portos marítimos e faróis:**
-Para tornar mais segura a navegação costeira, construíram-se vários faróis e melhoraram-se os portos marítimos, com destaque para os portos de Lisboa e Leixões.
-Surgiram nesta época os barcos movidos a vapor, primeiro no Rio Tejo, depois na ligação entre Lisboa e Porto e, mais tarde ainda, na ligação aos Açores e Madeira.
-
-### Desenvolvimento das comunicações
-- Os correios foram remodelados, surgindo o primeiro selo-adesivo, o bilhete-postal e os primeiros marcos de correio.
-- Surgiu o **telégrafo** (1857 – primeira ligação telegráfica Lisboa-Porto), que permitia enviar mensagens rapidamente a longa distância.
-- Em 1882 chegou o **telefone** a Portugal, instalado primeiro em Lisboa.
-
-### Consequências do Fontismo
-
-**Aspetos positivos:**
-
-- Modernização do país e aproximação à Europa.
-- Maior mobilidade de pessoas e mercadorias.
-- Desenvolvimento do comércio interno e externo.
-- Integração das várias regiões do país.
-
-**Aspetos negativos:**
-
-- As obras públicas foram financiadas em grande parte com **empréstimos ao estrangeiro**, o que aumentou significativamente a dívida externa portuguesa.
-- O desenvolvimento concentrou-se no litoral, agravando as desigualdades entre o litoral e o interior.
-- A agricultura e a indústria não se desenvolveram ao mesmo ritmo que as infraestruturas.
-- Os custos das obras foram muito superiores ao previsto, contribuindo para a crise financeira que afetaria Portugal nas décadas seguintes.
-
-## MODERNIZAÇÃO DO ENSINO
-
-### A necessidade de instruir a população
-O país encontrava-se em plena modernização, com novas fábricas, transportes e tecnologias, por isso era urgente que a população se tornasse mais instruída e preparada para acompanhar estas mudanças. No início da segunda metade do século XIX, a maioria dos portugueses era analfabeta – estima-se que cerca de 80% da população não sabia ler nem escrever.
-
-### Medidas tomadas
-
-**Ensino primário:**
-
-- Criaram-se novas escolas primárias por todo o país, tanto para rapazes como para raparigas.
-- Tornou-se obrigatória a frequência nos primeiros 3 anos, com mais um de voluntariado.
-- Apesar da obrigatoriedade, muitas crianças, sobretudo nas zonas rurais, continuavam a não frequentar a escola, pois eram necessárias para ajudar no trabalho do campo.
-- Foram formados novos professores nas escolas normais (escolas de formação de professores).
-
-**Ensino liceal:**
-
-- Criaram-se novos liceus em todas as capitais de distrito e dois em Lisboa.
-- O ensino liceal preparava os alunos para os estudos universitários e para carreiras na administração pública.
-
-**Ensino técnico e profissional:**
-
-- Fundaram-se escolas industriais, comerciais e agrícolas, para formar trabalhadores qualificados que pudessem contribuir para o desenvolvimento económico do país.
-- Estas escolas representavam uma novidade importante, pois até então o ensino era quase exclusivamente teórico e literário.
-
-**Ensino universitário e superior:**
-
-- Criaram-se novas escolas ligadas à Marinha, às Artes, às Técnicas e ao Teatro.
-- A Universidade de Coimbra continuou a ser a única universidade do país até ao início do século XX.
-
-### Resultados
-Apesar dos esforços, os resultados foram modestos. No final do século XIX, a taxa de analfabetismo em Portugal continuava acima dos 70%, uma das mais altas da Europa. A escolarização no meio rural era especialmente difícil, devido à distância das escolas, à pobreza das famílias e à necessidade de mão de obra infantil na agricultura. Ainda assim, as reformas educativas deste período lançaram as bases para o desenvolvimento do sistema de ensino que seria expandido durante a I República.
-
-
-## DIREITOS HUMANOS
-
-### Avanços em Portugal no século XIX
-A segunda metade do século XIX foi um período de importantes conquistas no campo dos direitos humanos em Portugal, influenciado pelas ideias liberais e pelos movimentos sociais europeus.
-
-**Abolição da pena de morte:**
-
-- Em **1852**, Portugal aboliu a pena de morte para crimes políticos, tornando-se um dos primeiros países do mundo a dar este passo.
-- Em **1867**, a pena de morte foi abolida para todos os crimes civis. Portugal foi pioneiro na Europa nesta medida, que refletia os ideais humanistas e iluministas.
-
-**Extinção da escravatura:**
-
-- Em **1761**, o Marquês de Pombal já tinha proibido a entrada de novos escravos em Portugal continental, mas a escravatura continuou nas colónias.
-- Em **1869**, a escravatura foi definitivamente abolida em todos os territórios portugueses, incluindo as colónias africanas. Esta medida foi o culminar de um longo processo que se iniciou em 1854, quando foi decretada a libertação dos escravos do Estado, e em 1856, quando se estabeleceu que todos os filhos de escravos nasceriam livres.
-
-**Direitos dos trabalhadores:**
-
-- Com o desenvolvimento da indústria e o crescimento do operariado, surgiram os primeiros movimentos de defesa dos trabalhadores.
-- Os operários começaram a organizar-se em **associações de classe** e, mais tarde, em **sindicatos** para lutar por melhores condições de trabalho, salários dignos e horários mais reduzidos.
-- As greves tornaram-se um instrumento de luta frequente na segunda metade do século XIX.
-
-**Direitos das mulheres:**
-
-- Embora as conquistas femininas fossem ainda muito limitadas neste período, começaram a surgir vozes a favor da educação feminina.
-- A obrigatoriedade do ensino primário estendeu-se progressivamente às raparigas, embora na prática muitas continuassem sem acesso à escola, sobretudo nas zonas rurais.
-
-### Contexto europeu
-Estas conquistas portuguesas inseriam-se num movimento mais amplo na Europa:
-
-- A **Declaração dos Direitos do Homem e do Cidadão** (1789, França) estabeleceu princípios fundamentais que inspiraram legislação em todo o continente.
-- Em 1833, o parlamento britânico aboliu a escravatura no Império Britânico.
-- Em vários países europeus surgiram movimentos operários e sindicais que exigiam direitos laborais e proteção social.
-
-
-## OS MOVIMENTOS DA POPULAÇÃO
-
-### Contagem da população
-Para dar melhor resposta às necessidades da população, tornou-se necessário saber o número de habitantes do país e onde se concentravam em maior quantidade.
-Já se tinham realizado contagens da população, mas eram pouco exatas pois tinham como base a contagem de habitações e não de pessoas. A estas contagens dá-se o nome de **numeramentos**.
-A primeira contagem rigorosa do número de habitantes do país realizou-se em **1864**, ou seja, foi quando se realizou o primeiro **recenseamento**. Em boletins próprios, os habitantes tinham que colocar o nome, o sexo, a idade, o estado civil e a profissão. A partir dessa data realizam-se recenseamentos, ou censos, de 10 em 10 anos.
-
-### Crescimento demográfico
-Através dos recenseamentos verificou-se o aumento de população desde que se fez o primeiro censo. De 1864 até 1900, a população passou de cerca de 4 milhões de habitantes para 5 milhões.
-Este crescimento justifica-se pela melhoria das condições de vida da população:
-
-- Período de paz e estabilidade política e social.
-- Melhoria da alimentação, com o aumento do consumo da batata e do milho.
-- Melhoria das condições de higiene, com a construção de esgotos, distribuição de água através da canalização e calcetamento das ruas.
-- Melhoria da assistência médica e hospitalar, com o aparecimento de novos medicamentos, divulgação de algumas vacinas e construção de hospitais.
-
-### Distribuição da população
-Verificou-se que o crescimento populacional não ocorreu de igual forma por todo o território. O aumento de população foi maior no norte litoral, onde se encontravam os solos mais férteis, maior quantidade de portos de pesca e unidades industriais. Em todas as cidades verificou-se aumento de população, principalmente nas do litoral. Esta tendência de concentração no litoral iria acentuar-se nas décadas seguintes.
-
-### Êxodo Rural
-Apesar do desenvolvimento da agricultura, a produção continuava a ser insuficiente. A mecanização originou despedimentos e as dificuldades no meio rural intensificaram-se. Muitas pessoas decidiram abandonar os campos para ir para as cidades à procura de melhores condições de vida. A este fenómeno dá-se o nome de **êxodo rural**.
-
-As consequências do êxodo rural foram significativas:
-
-- **Nas cidades:** crescimento rápido e desordenado, com a formação de bairros pobres e sobrelotados nos arredores das grandes cidades; aumento da oferta de mão de obra barata para as fábricas.
-- **No campo:** abandono de terras agrícolas, envelhecimento da população rural e diminuição da produção agrícola em algumas regiões.
-
-### Emigração
-Devido ao aumento da população, não havia postos de emprego para todos nas cidades. Muitos dos trabalhos eram mal pagos, apesar de se trabalhar duramente durante muitas horas diárias.
-
-Muitas pessoas decidiram procurar melhores condições de vida no estrangeiro. Os principais destinos foram:
-
-- **Brasil:** o destino preferido, pois falava-se a mesma língua e havia grande necessidade de mão de obra, sobretudo após a extinção da escravatura (1888 no Brasil). Estima-se que entre 1855 e 1900 emigraram para o Brasil cerca de 500 mil portugueses.
-- **América Central, Estados Unidos da América** e outros destinos nas Américas.
-
-Muitos emigrantes enriqueceram e, ao regressar a Portugal, compraram terras e palacetes e vestiam-se luxuosamente. Eram chamados os **«brasileiros»** e tiveram um impacto significativo na economia e na sociedade, sobretudo no norte do país, onde construíram casas e escolas e contribuíram para o desenvolvimento local.
-
-O dinheiro enviado pelos emigrantes para as suas famílias (as chamadas **remessas**) tornou-se uma importante fonte de receitas para a economia portuguesa – uma característica que se manteve ao longo de todo o século XX.
-
-
-## A VIDA QUOTIDIANA NO CAMPO
-
-### Atividades económicas
-As principais atividades do meio rural na segunda metade do século XIX continuavam a ser a agricultura, a criação de gado e a pesca nas zonas do litoral.
-Na sua maioria, os camponeses não eram donos das terras em que trabalhavam. As terras pertenciam sobretudo à antiga nobreza, proprietários burgueses e a alguns lavradores mais abastados. Os camponeses trabalhavam como **jornaleiros** (pagos ao dia), **rendeiros** (que arrendavam terras) ou **caseiros** (que viviam e trabalhavam nas terras do proprietário em troca de parte da colheita).
-
-O trabalho no campo era muito duro e os rendimentos eram poucos, por isso, os camponeses viviam muito pobremente. O dia começava ao nascer do sol e terminava ao anoitecer, com poucas pausas.
-
-Com a introdução da máquina na agricultura, aumentou o desemprego por já não ser necessária tanta mão de obra, dificultando ainda mais a vida dos homens e mulheres do campo. Muitos viram-se obrigados a procurar trabalho nas cidades (êxodo rural) ou a emigrar.
-
-### Habitação
-As casas dos camponeses eram geralmente pequenas e simples, construídas com os materiais disponíveis na região:
-
-- No norte, predominavam as casas de granito, muitas vezes com dois pisos: o andar de baixo para os animais e alfaias, e o de cima para a família.
-- No sul, eram comuns as casas caiadas de branco, com paredes grossas de taipa ou adobe para proteger do calor.
-- O interior era modesto: poucos móveis, cozinha com lareira (que servia para cozinhar e aquecer), e iluminação a candeias de azeite ou velas.
-
-### Alimentação
-Os camponeses alimentavam-se sobretudo do que cultivavam. Dos produtos que mais consumiam destacam-se a batata, o pão de centeio ou de milho, sopas de legumes e sardinhas. A carne, mais cara e de difícil conservação, era apenas consumida em dias de festa – o porco, criado em quase todas as casas rurais, era abatido uma vez por ano (a matança do porco) e as suas carnes eram conservadas em sal e fumeiro para durarem o ano inteiro.
-
-### Vestuário
-O vestuário dos camponeses variava de região para região, de acordo com o clima e com as atividades predominantes.
-No interior, era frequente os homens usarem calças compridas, coletes ou jaquetas e calçarem botas ou tamancos de madeira. As mulheres vestiam saias compridas e usavam lenços coloridos na cabeça.
-No litoral, os homens usavam calças curtas ou arregaçadas e geralmente andavam descalços, tal como as mulheres, que vestiam saias mais curtas do que as do interior, devido às suas atividades relacionadas com o mar.
-
-### Divertimentos e vida social
-Os divertimentos das pessoas do campo estavam associados sobretudo:
-
-- Às **atividades agrícolas coletivas**, como as vindimas, as desfolhadas e as malhadas, que juntavam as comunidades e incluíam cantigas, jogos e refeições partilhadas.
-- À **religião**, com as feiras, romarias e festas religiosas em honra do santo padroeiro de cada localidade, que eram os grandes momentos de convívio e celebração.
-- Às **feiras e mercados**, onde se comprava, vendia e trocava produtos, mas que também serviam como ponto de encontro e socialização.
-
-A igreja era o centro da vida comunitária: era onde se batizavam os filhos, se casava e se prestava o último adeus aos mortos. O padre era muitas vezes a figura mais influente da aldeia.
-
-
-## A VIDA QUOTIDIANA NAS GRANDES CIDADES
-Atividades económicas
-A modernização do país influenciou mais a vida quotidiana das pessoas que viviam nas cidades.
-O grupo social dominante era a burguesia, constituído por comerciantes, banqueiros, industriais, médicos, advogados, professores, oficiais do exército e funcionários públicos.
-No entanto, a maior parte da população pertencia a grupos de menores recursos. As pessoas do povo trabalhavam sobretudo como vendedores ambulantes, empregados de balcão ou criados nas casas de pessoas ricas.
-Com o desenvolvimento da indústria, formou-se um novo grupo social: o operariado. Os operários eram homens, mulheres e até crianças, que trabalhavam duramente nas fábricas muitas horas a troco de pouco dinheiro. Em caso de acidente, não tinham qualquer proteção. Eram despedidos sem qualquer indemnização.
-Alimentação
-A burguesia e a nobreza tinham uma alimentação abundante e variada. Faziam quatro refeições por dia: pequeno-almoço, almoço, jantar e ceia. Comiam carne, peixe, legumes, cereais, frutas e doces. Surgiram neste período vários restaurantes que trouxeram do estrangeiro novas receitas, como o pudim, a omelete, o puré, o bife e o soufflé.
-As pessoas das classes menos privilegiadas alimentavam-se sobretudo de pão, legumes, toucinho e sardinhas.
-Vestuário
-As pessoas mais ricas das cidades vestiam-se de acordo com a moda francesa. As mulheres vestiam saias até ao chão com roda, com uma armação de lâminas de aço e batanas – a crinolina. Passou também a usar a tournoure, uma espécie de almofada sobre os rins que levantava a saia atrás. Os homens vestiam calças, camisa, colete, casaca e chapéu.
-As pessoas mais pobres vestiam roupas bastante simples, adaptadas às tarefas que desempenhavam.
-Divertimentos
-Os nobres e os burgueses frequentavam os grandes jardins onde passeavam, conversavam e ouviam a música tocada nos coretos. Reuniam-se também nos cafés e clubes, jantares, festas e bailes, iam à ópera, ao teatro e ao circo.
-Os divertimentos dos populares era semelhante aos do campo: feiras, festas religiosas e passeios ao campo domingo à tarde.
-
-DA REVOLUÇÃO REPUBLICANA DE 1910 À DITADURA MILITAR DE 1926
-A AÇÃO MILITAR NO 5 DE OUTUBRO E A QUEDA DA MONARQUIA
-Formação do Partido Republicano
-Descontentamento da população no fim do século XIX
-A população, no fim do século XIX encontrava-se bastante descontente:
-
-- Os camponeses e os operários continuavam a viver com grandes dificuldades enquanto que a alta burguesia recebia cada vez mais lucros.
-- O rei e a família real eram acusados de gastar mal o dinheiro, o que contribuiu para o endividamento do reino.
-Partido Republicano (1876)
-Formou-se nesta altura o Partido Republicano que pretendia acabar com a Monarquia para passar a haver uma República, ou seja, deixaria de haver reis para haver presidentes eleitos por um determinado tempo.
-Os republicanos acreditavam que desta forma conseguiria-se modernizar o país e melhorar as condições de vida dos mais pobres.
-Disputa pelos territórios africanos
-Conferência de Berlim (1884-1885)
-Vários países europeus, como a Grã-Bretanha, a Alemanha e a França, entraram em conflitos por causa dos territórios africanos pois possuíam muitas riquezas.
-Para resolver estes conflitos realizou-se a Conferência de Berlim onde ficou estabelecido que os territórios seriam partilhados de acordo com a sua ocupação efetiva, ou seja, de acordo com quem tivesse meios para os ocupar, sem interessar quem os descobriu.
-Ultimato inglês
-Portugal apresentou o Mapa Cor-de Rosa na tentativa de ocupar os territórios entre Angola a Moçambique.
-Grã-Bretanha não aceitou porque queria os mesmos territórios para ligar Cabo a Cairo, e então fez um ultimato a Portugal para abandonar aqueles territórios.
-O governo português cedeu ao ultimato, o que agravou o descontentamento da população. Muitas pessoas passaram a apoiar o Partido Republicano pois pretendiam um governo forte.
-Revoltas republicanas
-31 de Janeiro de 1891 – Revolta republicana
-A cedência perante o Ultimato inglês foi considerado um ato de traição à pátria. Os republicanos aproveitaram ainda para acusar o rei de gastar mal o dinheiro e deixar o país cheio de dívidas, e culpou-o também pela miséria dos mais pobres.
-Dia 31 de Janeiro de 1891 surgiu uma revolta na tentativa de acabar com a monarquia mas não foi bem sucedida. No entanto, mostrou o crescimento do Partido Republicano.
-1 de Fevereiro de 1908 – Regícidio
-O rei D. Carlos I foi morto a tiro quando passava de carruagem pelo Terreiro do Paço em Lisboa. Com ele morreu o herdeiro do trono D. Luis Filipe. Ficou a governar o seu irmão D. Manuel II. Foi mais um ato para tentar acabar com a monarquia.
-5 de Outubro de 1910 – Queda da Monarquia e implantação da República
-Na madrugada de 4 de Outubro de 1910 iniciou-se a revolução republicana. Os militares republicanos (membros do exército e da marinha) e os populares pegaram em armas e concentraram-se na Rotunda, atual praça Marquês de Pombal.
-As tropas fiéis ao rei eram em maior número mas mesmo assim não conseguiram acabar com a revolta e na manhã de 5 de Outubro de 1910 foi proclamada a República, acabando assim com a Monarquia.
-
-## A I REPÚBLICA
-Primeiras medidas republicanas
-Formação de um Governo Provisório
-Após a proclamação da República foi criado um Governo Provisório, presidido por Teófilo Braga, que tomou as seguintes medidas:
-
-- adotou-se uma nova bandeira;
-- o hino nacional passou a ser “A Portuguesa”;
-- a moeda passou a ser o escudo em vez do real.
-Simbologia da nova bandeira:
-
-- Esfera armilar: representa o mundo que os navegadores portugueses decobriram;
-- Escudetes azuis: representam a bravura dos que lutaram pela independência;
-- Castelos: representam a independência garantida por D. Afonso Henriques;
-- Verde: cor da esperança;
-- Vermelho: cor da coragem e do sangue derramado pelos portugueses mortos em combate.
-A Constituição republicana
-Assembleia Constituinte
-Depois de criado o Governo Provisório fizeram-se eleições para formar a Assembleia Constituinte que tinha como função elaborar a nova constituição – a Constituição de 1911.
-Nesta constituição ficou estabelecido que:
-
-- o chefe de estado de Portugal passa a ser um Presidente da República em vez de um rei;
-- é eleito por um período de 4 anos;
-- tem o poder de escolher o governo;
-- o congresso tem o poder de eleger e demitir o Presidente da República.
-Divisão de poderes
-
-- Poder legislativo: pertence ao Congresso ou Parlamento – deputados.
-- Poder executivo: pertence ao Presidente da República e o seu governo – presidente e ministros.
-- Poder judicial: pertence aos Tribunais – juízes
-Principais medidas da I República
-Na Educação
-
-- criação dos primeiros jardins-escola para crianças dos 4 aos 7 anos;
-- ensino obrigatório e gratuito dos 7 aos 10 anos;
-- criação de escolas primárias, de um liceu em Lisboa (liceu Passos de Manuel) e de universidades (de Lisboa e do Porto);
-- criação de escolas para formação de professores;
-- criação de bibliotecas.
-
-O principal objetivo destas medidas era acabar com o analfabetismo.
-No Trabalho
-
-- direito à greve;
-- direito a oito horas de trabalho e a um dia semanal de descanso;
-- criação de um seguro obrigatório para doença, velhice e acidentes de trabalho.
-Sindicato: associação de trabalhadores de uma mesma profissão que defendia os direitos dos trabalhadores.
-Greve: forma de luta mais utilizada pelos trabalhadores em que se recussavam a trabalhar para que o Governo e os patrões cedessem às suas reinvidicações.
-CGT: Confederação Geral do Trabalho – união de vários sindicatos.
-UON: União Operária Nacional
-Dificuldades da I República
-No entanto, a 1ª República atravessou vários problemas que fez crescer o descontentamento da população.
-Participação de Portugal na I Guerra Mundial
-A Inglaterra e a França entrou em guerra com a Alemanha por causa dos territórios africanos. Depois, vários outros países europeus entraram na guerra, bem como países de outros continentes, por isso diz-se que foi uma Guerra Mundial.
-A Inglaterra pediu a Portugal que apreendesse os navios alemães refugiados nos portos portugueses. A Alemanha, em resposta, declarou guerra a Portugal e tentou ocupar os territórios portugueses em Angola e Moçambique.
-A guerra terminou com a vitória dos ingleses, franceses e os seus aliados, e assim Portugal conseguiu manter as suas colónias. No entanto, as despesas militares durante a guerra contribuíram para um maior endividamento do reino.
-Subida de preços e aumento de impostos
-Os preços dos produtos aumentaram enquanto os salários não acompanharam essa subida.
-As despesas do reino eram superiores às receitas. Os governos republicanos recorreram a empréstimos ao estrangeiro e para os pagar aumentaram-se os impostos.
-Tudo isto fez com que se tornassem frequentes as greves, revoltas e assaltos a armazéns de comida.
-Instabilidade política
-Os governos mudavam frequentemente e os presidentes ou se demitiam ou eram demitidos. Só entre 1910 e 1926 houve 8 presidentes e 45 governos.
-O GOLPE MILITAR EM 28 DE MAIO
-Crise em Portugal durante a I República
-
-- Crise social:
-- subida dos preços
-- redução do poder de compra
-- greves e manifestações
-- atentados à bomba
-- Crise financeira:
-- despesas superiores às receitas
-- crescimento da dívida externa
-- Crise política:
-- mudanças sucessivas de governo – instabilidade política
-Golpe militar de 28 de Maio de 1926
-A 28 de Maio de 1926, o general Gomes da Costa chefiou uma revolta militar que teve início em Braga e estendeu-se até Lisboa. Por todo o país os militares foram aderindo a este movimento. O Presidente da República, Bernardino Machado, demitiu-se e entregou o poder aos revoltosos.
-Principais medidas durante a Ditadura militar
-Foram tomadas várias medidas que colocaram fim à democracia da I República:
-
-- o Parlamento foi encerrado;
-- o governo passou a ser escolhido pelos militares, sem eleições;
-- os militares possuíam o poder legislativo e executivo;
-- a imprensa passou a ser censurada;
-- as greves e as manifestações foram proibidas.
-Portugal foi governado neste período segundo uma ditadura, ou seja, segundo um governo autoritário, não democrático, que não respeitava as liberdades e direitos dos cidadãos.
-Apesar destas medidas a ditadura não veio resolver os problemas existentes em Portugal:
-
-- os militares não se entendiam e as mudanças sucessivas de governo continuaram;
-- as despesas continuavam superiores às despesas;
-- continuou o recurso aos empréstimos ao estrangeiro, aumentando a dívida externa.
-O ESTADO NOVO (1933-1974)
-
-## SALAZAR E O ESTADO NOVO
-
-### Ascensão política de Salazar
-Em 1928, António de Oliveira Salazar foi nomeado ministro das Finanças e conseguiu equilibrar as contas públicas. Para isso, Salazar:
-
-- aumentou as receitas, através do aumento dos impostos
-- diminuiu as despesas do Estado, através da redução de gastos com a Educação, Saúde e com os salários dos funcionários públicos.
-
-Em 1932, Salazar foi nomeado Presidente do Conselho de Ministros, ou seja, passou a ser o chefe do Governo.
-
-### Constituição de 1933
-Em 1933, foi aprovada uma nova constituição em que os direitos e liberdades dos cidadãos eram reconhecidos e ficou estabelecido que o Presidente da República e os deputados seriam eleitos pelos cidadãos.
-No entanto, as eleições não eram verdadeiramente livres e os direitos e liberdades dos cidadãos nem sempre foram respeitados por Salazar. Foi constituído novamente o Parlamento que apenas servia para aprovar as leis impostas pelo governo.
-
-### Política de obras públicas
-Durante o Estado Novo construíram-se estradas, barragens, hospitais e edifícios públicos. Esta política permitiu a modernização do país e combateu o desemprego junto das áreas urbanas. Salazar aproveitou também esta política de obras públicas para engrandecer o seu trabalho à frente do país e assim fazer propaganda.
-
-### Receitas do turismo e da emigração
-Desenvolveu-se o turismo, o que permitiu a entrada de mais receitas para o Estado.
-Apesar do desenvolvimento do país, muitas pessoas continuavam a viver em grandes dificuldades e decidiram emigrar. O dinheiro enviado para Portugal pelos emigrantes foi outra fonte de receitas para o Estado.
-
-### Suportes do Estado Novo
-Para Salazar conseguir tanto tempo no poder teve vários suportes:
-
-- **Censura:** da imprensa, teatro, cinema, rádio e televisão, que impedia a divulgação de opiniões contra o regime salazarista. Todos os jornais, livros, peças de teatro e filmes tinham de ser aprovados pela censura antes de serem publicados ou exibidos. O que era proibido era cortado com o "lápis azul".
-- **Polícia política:** PVDE, que passou mais tarde a chamar-se PIDE (Polícia Internacional e de Defesa do Estado), que vigiava, perseguia, prendia e torturava os opositores ao regime de Salazar. A PIDE tinha uma rede de informadores em todo o país e nas colónias, e as suas prisões (como a de Caxias e a do Tarrafal, em Cabo Verde) eram temidas.
-- **Mocidade Portuguesa:** organização obrigatória para jovens dos 7 aos 14 anos (voluntária até aos 18), com o fim de desenvolver o culto do chefe, o dever militar e a devoção à pátria. As raparigas tinham a Mocidade Portuguesa Feminina.
-- **Legião Portuguesa:** organização armada de voluntários que defendia o Estado Novo e combatia o Comunismo.
-- **Propaganda Nacional:** O Secretariado de Propaganda Nacional (SPN), dirigido por António Ferro, tinha como objetivo controlar a imagem do regime e obter o apoio da população. Organizava festas populares, concursos (como a "Aldeia mais portuguesa de Portugal") e divulgava os lemas do regime, como "Deus, Pátria e Família".
-- **União Nacional:** única organização política legal que apoiava Salazar. Todos os outros partidos foram proibidos.
-
-### A vida social durante o Estado Novo
-O regime de Salazar moldou profundamente a sociedade portuguesa:
-
-- **Educação:** O regime controlava os conteúdos escolares e os manuais. Os professores eram vigiados. O ensino promovia os valores do regime: obediência, patriotismo e religião. A taxa de analfabetismo, embora tenha diminuído, manteve-se elevada. Salazar afirmou que "é mais perigoso saber ler e escrever do que não saber", revelando a sua desconfiança em relação à instrução do povo.
-- **Papel da mulher:** O regime defendia que a mulher devia dedicar-se ao lar e à família. As mulheres casadas não podiam viajar ao estrangeiro, ter passaporte ou exercer certas profissões sem autorização do marido. Apesar destas restrições, muitas mulheres trabalhavam nas fábricas e no campo em condições muito difíceis.
-- **Pobreza e atraso:** Portugal era um dos países mais pobres e atrasados da Europa Ocidental. Grande parte da população vivia no campo, em condições de grande pobreza, sem eletricidade nem água canalizada. A mortalidade infantil era das mais altas da Europa.
-- **Emigração massiva:** Nas décadas de 1960 e 1970, milhões de portugueses emigraram, sobretudo para França, Alemanha e Luxemburgo, fugindo da pobreza e da Guerra Colonial. Muitos saíam clandestinamente, "a salto", atravessando a fronteira espanhola a pé durante a noite.
-
-### Oposição política
-Os opositores ao salazarismo organizaram-se clandestinamente para não serem perseguidos e presos. Outros tiveram de sair do país (exilados políticos).
-
-**Eleições legislativas de 1945:**
-A oposição cresceu em 1945 quando terminou a II Guerra Mundial, com a vitória dos países democráticos (EUA, França, Inglaterra e seus aliados), onde os direitos e liberdades dos cidadãos eram respeitados. Estes países pressionaram Salazar e este marcou eleições legislativas.
-A oposição uniu-se e criou o MUD (Movimento de Unidade Democrática). No entanto, o governo não permitiu que a oposição fizesse campanha eleitoral nem que a contagem dos votos fosse fiscalizada. Quem fosse suspeito de pertencer à oposição era tirado das listas eleitorais para não poderem votar. Os dirigentes do MUD decidiram então apelar à abstenção e assim a União Nacional conseguiu eleger todos os seus candidatos.
-
-**Eleições presidenciais de 1958:**
-O general Humberto Delgado, com o apoio de toda a oposição, candidatou-se às eleições presidenciais de 1958. Quando lhe perguntaram o que faria a Salazar se fosse eleito, respondeu: *"Obviamente, demito-o!"* – uma declaração que entusiasmou o país. Apesar do grande apoio que teve da população, foi Américo Tomás, pertencente à União Nacional, quem venceu as eleições, que foram consideradas fraudulentas pela oposição. Humberto Delgado foi perseguido e exilou-se. Em 1965, foi assassinado pela PIDE em Espanha.
-Depois destas eleições, Salazar mudou a lei e criou um colégio eleitoral que passa a eleger o Presidente da República.
-
-
-## A GUERRA COLONIAL
-
-### O contexto internacional: a descolonização
-Depois da II Guerra Mundial, a maioria das potências europeias reconheceu o direito à autodeterminação dos povos colonizados:
-
-- A **Inglaterra** concedeu independência à Índia (1947), e progressivamente às suas colónias africanas.
-- A **França** enfrentou guerras na Indochina (1946–1954) e na Argélia (1954–1962) antes de aceitar a descolonização.
-- A **Bélgica** concedeu independência ao Congo (1960).
-- A **ONU** defendia o direito dos povos à autodeterminação e pressionava Portugal a libertar as suas colónias.
-
-No entanto, Salazar recusou-se a aceitar a independência das colónias portuguesas. Em 1951, alterou a designação oficial de "colónias" para "províncias ultramarinas", tentando apresentá-las como parte integrante de Portugal e não como territórios colonizados. O lema do regime era: *"Portugal não é um país pequeno"* – referindo-se à extensão do império colonial.
-
-### O início dos conflitos
-
-- **1961 – Índia Portuguesa:** A União Indiana, liderada por Nehru, invadiu e ocupou Goa, Damão e Diu. Portugal não tinha meios militares para resistir e perdeu estes territórios.
-- **1961 – Angola:** Em fevereiro, grupos nacionalistas atacaram a prisão de Luanda, e em março houve uma revolta violenta no norte de Angola. Começava a guerra. Os principais movimentos de libertação eram o MPLA (Movimento Popular de Libertação de Angola), a FNLA (Frente Nacional de Libertação de Angola) e a UNITA (União Nacional para a Independência Total de Angola).
-- **1963 – Guiné-Bissau:** O PAIGC (Partido Africano para a Independência da Guiné e Cabo Verde), liderado por Amílcar Cabral, iniciou a luta armada.
-- **1964 – Moçambique:** A FRELIMO (Frente de Libertação de Moçambique), liderada por Eduardo Mondlane, iniciou a guerra no norte do país.
-
-### A guerra nos três teatros de operações
-Portugal foi obrigado a combater simultaneamente em três frentes – Angola, Guiné-Bissau e Moçambique – o que representou um esforço militar enorme para um país pequeno e economicamente frágil.
-
-- Foram enviados para África cerca de **800 mil militares** portugueses ao longo de 13 anos.
-- As condições de combate eram extremamente difíceis: selva tropical, doenças, emboscadas e minas.
-- Os movimentos de libertação recebiam apoio da URSS, de Cuba e de países vizinhos africanos.
-
-### Consequências da Guerra Colonial
-
-**Consequências humanas:**
-
-- Cerca de **9 mil soldados portugueses** morreram em combate e milhares ficaram feridos ou traumatizados (estima-se mais de 30 mil feridos e mutilados).
-- Também morreram dezenas de milhares de africanos, entre combatentes e civis.
-- Muitos dos ex-combatentes regressaram a Portugal com graves problemas físicos e psicológicos.
-
-**Consequências económicas:**
-
-- Os gastos militares consumiam cerca de 40% do orçamento do Estado, desviando recursos que faziam falta para a educação, a saúde e o desenvolvimento do país.
-- A guerra contribuiu para o atraso económico de Portugal em relação à Europa.
-
-**Consequências políticas e sociais:**
-
-- A emigração massiva de jovens que fugiam ao serviço militar obrigatório (4 anos, incluindo comissões em África).
-- O crescente descontentamento na população e sobretudo entre os jovens oficiais do Exército, que viria a desencadear a Revolução do 25 de Abril de 1974.
-
-O 25 DE ABRIL DE 1974 E O REGIME DEMOCRÁTICO
-A AÇÃO MILITAR E POPULAR EM 25 DE ABRIL
-Saída de Salazar do poder
-Salazar saiu do poder quando adoeceu gravemente em 1968. No entanto, Marcelo Caetano substituiu-o mantendo os seus ideais: manteve a DGS (Direção Geral de Segurança – antiga PIDE) e a Guerra Colonial.
-Fim da ditadura
-A falta de liberdade, o aumento do custo de vida e as despesas militares e muitas mortes durante a Guerra Colonial contribuíram para o aumento do descontentamento da população, o que levou ao fim da ditadura.
-25 de Abril de 1974
-Golpe militar organizado pelo MFA – Movimento das Forças Armadas – apoiado pelos populares. Várias cidades foram dominadas sem grande resistência.
-Marcelo Caetano refugiou-se no quartel do Carmo que foi cercado pelas tropas do capitão Salgueiro Maia e aceitou render-se perante um oficial superior: general António de Spínola. Acabou por ser preso, tal como Américo Tomás (presidente da República).
-Primeiras medidas do MFA
-
-- poder entregue a uma Junta de Salvação Nacional, presidida pelo António de Spínola
-- dissolução da Assembleia Nacional
-- extinção da DGS
-- abolição da censura
-- libertação dos presos políticos
-- negociações para pôr fim à Guerra Colonial
-
-
-## A INDEPENDÊNCIA DAS COLÓNIAS
-
-### O processo de descolonização
-Após o 25 de Abril de 1974, uma das primeiras prioridades do novo regime democrático foi pôr fim à Guerra Colonial e negociar a independência das colónias africanas. O general António de Spínola reconheceu o direito à autodeterminação dos povos colonizados.
-
-### Colónias africanas
-O processo de independência foi rápido mas nem sempre pacífico:
-
-- **Guiné-Bissau** (setembro de 1974) – Foi o primeiro território a tornar-se independente. Na verdade, o PAIGC já tinha declarado unilateralmente a independência em 1973, que foi reconhecida por Portugal após a revolução.
-- **Moçambique** (junho de 1975) – A FRELIMO assumiu o poder e Samora Machel tornou-se o primeiro presidente. O país enfrentaria depois uma longa guerra civil (1977–1992).
-- **Cabo Verde** (julho de 1975) – Tornou-se independente pacificamente, inicialmente em união política com a Guiné-Bissau (que se desfez em 1980).
-- **São Tomé e Príncipe** (julho de 1975) – Independência pacífica, com o MLSTP (Movimento de Libertação de São Tomé e Príncipe) a assumir o governo.
-- **Angola** (novembro de 1975) – A independência foi proclamada em simultâneo por três movimentos rivais (MPLA, FNLA e UNITA), o que levou a uma devastadora guerra civil que duraria até 2002. A saída dos colonos portugueses foi caótica: centenas de milhares regressaram a Portugal em poucos meses, deixando para trás tudo o que tinham construído.
-
-### Os retornados
-A descolonização provocou o regresso a Portugal de cerca de **500 a 800 mil portugueses** que viviam nas colónias, sobretudo de Angola e Moçambique. Eram chamados os **retornados**.
-
-- Muitos chegaram apenas com o que podiam carregar, tendo perdido casas, negócios e bens acumulados ao longo de gerações.
-- A integração dos retornados foi um enorme desafio para Portugal, que estava a atravessar um período de grande instabilidade política e económica.
-- Apesar das dificuldades iniciais, os retornados acabaram por se integrar na sociedade portuguesa e contribuíram significativamente para o desenvolvimento do país com as suas competências e experiência profissional.
-
-### Colónias do Oriente
-As colónias do continente asiático tiveram outros destinos:
-
-- **Macau** (1999) – Passou a ser território chinês (Região Administrativa Especial), de acordo com um processo negociado entre Portugal e a China ao longo dos anos 1980 e 1990.
-- **Timor-Leste** (2002) – Após a retirada portuguesa em 1975, Timor-Leste foi invadido e ocupado pela Indonésia durante 24 anos. Após um referendo apoiado pela ONU em 1999, em que a população votou pela independência, e um período de violência e intervenção internacional, Timor-Leste tornou-se oficialmente independente em 2002.
-
-### O legado da descolonização
-- Portugal passou de um grande império colonial a um pequeno país europeu, o que obrigou a uma profunda redefinição da identidade nacional.
-- Em 1996, foi criada a **CPLP (Comunidade dos Países de Língua Portuguesa)**, que reúne os países lusófonos numa organização de cooperação cultural, económica e diplomática.
-- A língua portuguesa, falada por mais de 250 milhões de pessoas em todo o mundo, é o principal legado cultural do antigo império.
-
-
-## RESTABELECIMENTO DA DEMOCRACIA
-Constituição de 1976
-
-- Em 25 de Abril de 1975 – realizaram-se eleições para eleger os deputados para a Assembleia Constituinte que tinha como função elaborar uma nova constituição
-- Em 25 de Abril de 1976 – foi aprovada a Constituição de 1976 que garantiu a separação dos poderes e os direitos e liberdades dos cidadãos
-Democracia
-
-- o governo voltou a governar segundo um regime democrático, ou seja, respeitando os direitos e liberdades dos cidadãos
-- assim os cidadãos voltaram a ter o direito de escolher os seus governantes – direito de voto
-Poder Central
-
-- conjunto de órgãos que exercem o seu poder sobre todo o território nacional e que abrange toda a população:
-- Presidente da República
-- Governo (1º ministro e restantes ministros)
-- Assembleia da república (deputados)
-- Tribunais (juízes)
-Separação dos poderes do poder central
-
-- Presidente da República
-- promulga e manda publicar as leis
-- é escolhido pelos cidadãos eleitores
-- Governo
-- executa as leis
-- o 1º ministro é escolhido pelo presidente da República e os restantes ministros são escolhidos pelo 1º ministro
-- Assembleia da República
-- faz as leis
-- os deputados são escolhidos pelos cidadãos eleitores
-- Tribunais
-- julgam quem não cumpre as leis
-- os juízes não são escolhidos por eleições
-Autonomia dos Açores e da Madeira
-A Madeira e os Açores têm os seus próprios órgãos de governo:
-
-- Assembleia Regional
-- faz as leis respeitando a Constituição e as leis gerais da República
-- os deputados são escolhidos pelos cidadãos eleitores da região
-- Governo Regional
-- executa as leis
-- o primeiro ministro é escolhido pelo partido mais votado para a Assembleia Regional que depois escolhe os restantes ministros
-Apesar de terem órgãos de governo próprios, continuam a estar dependentes do Poder Central, como qualquer outra região de Portugal.
-
-## ESPAÇOS EM QUE PORTUGAL SE INTEGRA
-## COMUNIDADES DA EUROPA E DO MUNDO QUE PORTUGAL FAZ PARTE
-União Europeia
-Em 1957, seis países europeus formaram a Comunidade Económica Europeia. Mais tarde, outros países aderiram esta comunidade, que passou a chamar-se União Europeia, pois os seus objetivos deixaram de ser apenas económicos mas também políticos, culturais, sociais e ambientais.
-Os principais objetivos da União Europeia são:
-
-- Livre circulação de pessoas e mercadorias
-- Circulação de uma moeda única – o Euro
-- Criação de políticas comuns
-- Ajuda aos países em dificuldades
-- Programas de intercâmbio de estudantes
-- Defesa da liberdade
-Portugal aderiu a esta comunidade em 1986.
-Organização das Nações Unidas (ONU)
-Portugal faz parte ainda da Organização das Nações Unidas, fundada em junho de 1945, após a Segunda Guerra Mundial.
-Os principais objetivos da Organização das Nações Unidas são:
-
-- Procurar resolver pacificamente os conflitos internacionais, de forma a manter a paz no mundo
-- Desenvolvera  cooperação internacional a nível económico, social, cultural e humanitário
-- Promover o respeito pelos diretos humanos
-Comunidade dos Países de Língua Portuguesa (CPLP)
-Em 1996, criou-se a Comunidade dos Países de Língua Portuguesa de forma a reforçar a cooperação entre os países onde se fala português. Todos os membros desta comunidade já foram colónias portuguesas e agora são nações independentes.
-
-## PORTUGAL HOJE
-
-## A POPULAÇÃO PORTUGUESA
-## A EVOLUÇÃO DA POPULAÇÃO
-Importância dos censos
-Conhecer a evolução da população e a sua constituição é bastante importante, tanto para compreender o passado como para planear melhor o futuro. Por isso, realizam-se recenseamentos (ou censos) que consistem na recolha de dados sobre a população (sexo, idade, naturalidade, profissão, lugar de residência, grau de instrução, etc…).
-Com estas informações os governantes conseguem fazer uma melhor gestão dos recursos que servem a população. Por exemplo, é possível saber onde existe maior necessidade de construir escolas, centros para idosos, novos hospitais, etc…
-A natalidade e a mortalidade
-Os fatores mais importantes que influenciam a evolução da população são:
-
-- a natalidade: número de nascimentos vivos ocorridos durante um ano
-- a mortalidade: número de óbitos (mortes) ocorridos durante um ano
-
-Se a natalidade for superior à mortalidade, a população aumenta. Se a natalidade é inferior à mortalidade, a população diminui.
-Desta forma, verifica-se o crescimento natural da população:
-CRESCIMENTO NATURAL = NATALIDADE – MORTALIDADE
-Ao longo do século XX e da primeira década do século XXI verificou-se uma diminuição da mortalidade. Tal deve-se às seguintes razões:
-
-- melhoria da alimentação
-- melhores serviços de saúde e novos medicamentos
-- melhoria da habitação, do conforto e da higiene
-Por sua vez, também se verificou uma diminuição da natalidade. As principais razões para esta diminuição são:
-
-- desenvolvimento e divulgação de métodos contracetivos, que permitem decidir o número de filhos que se quer ter
-- aumento do número de mulheres a trabalhar fora de casa, o que obriga despesas com amas e infantários
-No entanto, a natalidade continua a ser superior à mortalidade, o que faz com que se tenha verificado um aumento da população ao longo do século XX, com exceção da década 1960-1970.
-Na atualidade, a população absoluta portuguesa, ou seja, o número total de habitantes em Portugal, é de cerca de 10 650 000.
-
-## A MOBILIDADE DA POPULAÇÃO
-A evolução da população absoluta também é influenciada pela emigração (saída de pessoas para o estrangeiro) e pela imigração (entrada de pessoas para um país).
-Quando a emigração é muito intensa, a população pode diminuir. Por sua vez, a imigração contribui para o aumento da população.
-Emigração
-Os principais destinos foram: primeiro países africanos e americanos, sobretudo o Brasil, e mais tarde França e Alemanha. Na última década, a falta de emprego em Portugal fez com que muitos portugueses emigrassem sobretudo para Angola.
-De forma geral, as pessoas emigraram devido a razões de natureza económica:
-
-- procura de melhores condições de vida
-- procura de emprego e melhores salários
-No entanto, entre 1961 e 1974, muitos portugueses abandonaram o país por razões de natureza política:
-
-- discordância com o regime político (ditadura)
-- recusa em participar na Guerra Colonial
-Ao longo de décadas tem-se verificado uma grande emigração, o que tem tido como consequências:
-
-- negativas: envelhecimento da população e diminuição da população ativa
-- positivas: diminuição do desemprego e receção de remessas dos emigrantes
-Imigração
-Nas duas últimas décadas tem-se verificado um aumento da imigração, sobretudo do Brasil, dos Países Africanos de Língua Oficial Portuguesa (PALOP) e de países da Europa de Leste.
-Este aumento deveu-se à mudança de regime após o 25 de Abril de 1974 e à adesão à União Europeia que permitiu um desenvolvimento económico e social que tornou o nosso país atrativo para populações de outros países menos desenvolvidos.
-
-## CARACTERÍSTICAS DA POPULAÇÃO PORTUGUESA
-Composição da população por género e idade
-Conhecer a população implica também saber quantos portugueses são homens ou mulheres e a sua distribuição por idades – estrutura etária.
-Para caracterizar a estrutura etária é comum subdividir a população em três grupos etários (grupos de pessoas com idades semelhantes):
-
-- Jovens: até aos 14 anos
-- Adultos: dos 15 aos 64 anos
-- Idosos: a partir de 65 anos
-Em Portugal tem-se verificado uma diminuição do número de jovens, devido à diminuição da natalidade e à emigração. Por sua vez, o número de idosos tem vindo a aumentar, devido à diminuição da mortalidade. Sendo assim, pode-se concluir que a população portuguesa tem vindo a envelhecer.
-Em relação ao género, existem mais mulheres do que homens, pois a sua esperança média de vida (número de anos de vida que uma pessoa tem probabilidade de viver após o nascimento) é maior do que a do sexo masculino.
-
-## OS LUGARES ONDE VIVEMOS
-## TIPOS DE POVOAMENTO
-Existem dois grandes tipos de povoamento (modo como as pessoas ocupam e organizam o espaço em que habitam e desenvolvem as suas atividades económicas):
-
-- Povoamento rural:
-- Cujos habitantes se dedicam principalmente à agricultura, pecuária e silvicultura
-- Onde a densidade populacional é baixa
-- Povoamento urbano:
-- Cujos habitantes se dedicam principalmente ao comércio, à indústria e serviços
-- Onde a densidade populacional é alta
-OS CAMPOS: OS VESTÍGIOS DO PASSADO E AS MUDANÇAS
-Distribuição do povoamento rural
-O povoamento rural pode ser:
-
-- Povoamento disperso: se as casas encontram-se dispersas pelos campos
-- Povoamento agrupado: se as casas agrupam-se em aldeias ou vilas
-O povoamento rural disperso é mais comum no Litoral Norte, em algumas planícies do Interior, no Litoral Alentejano, na parte ocidental da serra Algarvia e na ilha da Madeira.
-O povoamento rural agrupado predomina em todo o Interior de Portugal Continental e no arquipélago dos Açores.
-As condições de vida no campo
-A habitação
-As habitações do meio rural têm tradição de serem construídas com os materiais da sua região e são adaptadas ao tipo de clima da região e às atividades económicas dos seus habitantes.
-
-- Casa rural tradicional do Norte:
-- construída em granito ou xisto, conforme a rocha predominante da região
-- geralmente tem 2 pisos: no inferior abrigam-se os animais e guardam-se os produtos e instrumentos agrícolas, e no superior é onde a família habita
-- nas terras mais altas os telhados são muito inclinados devido à neve
-- Casa rural tradicional do Sul:
-- Construídas em adobe (barro amassado com areia e palha)
-- Têm um só piso onde habita a família. Os animais, produtos e instrumentos agrícolas são guardados em construções junto à habitação como currais, celeiros, adegas, etc
-- As casas das zonas mais quentes (Alentejo e Algarve) são caiadas de branco para melhor suportar o calor de verão
-- Casas rurais das regiões autónomas:
-- Construídas em basalto
-- São quase sempre caiadas
-Ao longo do século XX, a construção tradicional rural tem vindo a ser substituída por um modelo mais próximo do tipo de construção urbana, que proporciona um maior conforto, com o recurso a materiais mais modernos e acessíveis – a vivenda.
-O trabalho
-As principais atividades económicas no meio rural são:
-
-- Agricultura
-- Pecuária
-- Silvicultura
-No entanto, a introdução da máquina nas atividades económicas tem libertado os habitantes das aldeias para outras atividades profissionais:
-
-- no núcleo urbano mais próximo: na indústria ou em serviços
-- em casa ou em pequenas oficinas: atividades artesanais, reparações mecânicas, elétricas, etc.
-O dia-a-dia
-A vida da população do meio rural sofreu grandes alterações, sobretudo a partir da segunda metade do século XX. Destacam-se as melhorias a nível de:
-
-- saneamento básico: rede de esgotos, canalização, recolha de lixo, tratamento de água
-- infra-estruturas: distribuição de eletricidade e de gás, rede de transportes, estradas
-- equipamentos coletivos: escolas, centros de saúde, campos desportivos, espaços verdes
-
-Hoje em dia é frequente as famílias terem carro próprio e a deslocação às vilas e às cidades mais próximas tornou-se mais fácil. Sendo assim o acesso a bens e serviços desses meios é mais facilitado o que contribui também para a melhor qualidade de vida das populações do meio rural.
-No entanto, ainda existem algumas povoações, sobretudo do Interior, que não tiveram acesso a muitas destas melhorias continuando muito isoladas do resto das povoações e núcleos urbanos.
-OS CENTROS URBANOS: ÁREAS DE ATRAÇÃO DA POPULAÇÃO
-Características dos centros urbanos
-O povoamento urbano corresponde a um espaço onde a densidade populacional é elevada e onde existe um grande número de habitações e edifícios industriais próximos uns dos outros. Nos centros urbanos é possível apontar algumas características:
-
-- Existência de um centro histórico: que corresponde ao primeiro núcleo de habitantes.  Geralmente nesta zona encontram-se casas comerciais e de serviços, centros escolares e de saúde, instalações administrativas e judiciais. À sua volta foram crescendo novos espaços habitacionais à medida que a cidade foi crescendo
-- Existência de poucos espaços verdes: os que existem são geralmente criados pelo Homem
-- Existência de grandes centros comerciais: hipermercados e grandes centros comercias surgem nos arredores da cidade
-Distribuição do povoamento urbano
-Os centros urbanos localizam-se sobretudo junto ao litoral. No Interior existem poucas cidades e são de pequena dimensão.
-Nas Regiões Autónomas, destacam-se o Funchal, na Madeira, e Ponta Delgada, nos Açores.
-As condições de vida no centros urbanos
-A habitação
-Os edifícios mais frequentes nos centros urbanos são os prédios com vários andares divididos em apartamentos. No entanto também existem outros tipos de habitação que refletem duas realidades bastante diferentes: as vivendas e as barracas.
-O trabalho
-As principais atividades económicas no meio urbano são:
-
-- Comércio
-- Indústria
-- Serviços
-O dia-a-dia
-Ao longo das últimas décadas, tem-se verificado uma melhoria das vias de comunicação e das redes de transporte, o que contribuiu para a redução da distância-tempo, ou seja, o tempo gasto em deslocações.
-Nos centros urbanos, o acesso a serviços de saúde, educação, lazer, etc. é bastante mais fácil do que no espaço rural. Existe também uma maior oferta de bens de consumo e existem também mais habitações e mais bem equipadas. A oferta de emprego é maior, bem como o acesso aos estudos e melhores condições de vida. Por isso, considera-se que os centros urbanos são áreas atrativas, o que tem provocado o seu aumento e desenvolvimento com a chegada de mais pessoas.
-
-## PROBLEMAS DA VIDA QUOTIDIANA NAS CIDADES E NO CAMPO
-Acessibilidade
-As necessidades do mundo moderno têm provocado transformações importantes nas vias de comunicação. É cada vez maior a circulação de pessoas e de produtos e a velocidade das deslocações é fundamental para, por exemplo, as pessoas chegarem a horas ao emprego e os produtos frescos chegarem ao destino em boas condições.
-Sendo assim, os meios de transporte e as vias de comunicação têm vindo a sofrer um grande desenvolvimento nas últimas décadas. No entanto, é possível verificar desigualdades entre o meio urbano e o meio rural.
-No meio urbano
-Aspetos positivos:
-
-- Variedade de meios de transporte (viatura particular, autocarro, táxi, metro, comboio, etc.)
-- Grande rede de vias de comunicação que interligam os vários meios de transporte
-Aspetos negativos:
-
-- Volume de tráfego intenso
-- Demora nas deslocações, sobretudo nas “horas de ponta”
-- Transportes coletivos frequentemente cheios e com dificuldade em cumprir os horários
-- Poluição
-No meio rural
-Aspetos positivos:
-
-- Volume de tráfego reduzido, por isso as deslocações locais são rápidas e fáceis
-Aspetos negativos:
-
-- Número reduzido de vias e meios de comunicação
-- Poucos transportes públicos
-Níveis de conforto
-A qualidade de vida depende do nível de conforto da habitação e dos bens e serviços a que a população tem acesso.
-Na sua maioria, no meio urbano, as habitações possuem as condições consideradas mínimas de conforto: água canalizada, eletricidade e saneamento básico (instalações sanitárias). No entanto, no meio rural, ainda predominam muitas habitações sem estas condições mínimas de conforto, sobretudo as mais antigas e mais afastadas de núcleos urbanos.
-Também a nível de serviços e equipamentos coletivos verificam-se algumas desigualdades. É nas cidades que se encontram os melhores e mais modernos hospitais, centros clínicos, universidades, escolas, bibliotecas, teatros, cinemas e recintos desportivos. No meio rural existe pouca oferta de serviços de assistência médica, maior dificuldade no acesso à instrução e cultura e a outros serviços úteis como bancos.
-De uma forma geral, pode-se concluir que é no meio urbano onde se encontram melhores níveis de conforto, por isso tem-se verificado um grande movimento da população do meio rural para os núcleos urbanos. No entanto, também as cidades têm os seus problemas, como o trânsito, a poluição e insegurança, o que leva a algumas pessoas a preferirem o meio rural.
-
-## ATIVIDADES QUE DESENVOLVEMOS
-## O MUNDO DO TRABALHO
-População ativa e população não ativa
-Para ter acesso a bens e serviços, as pessoas precisam de meios económicos. Sendo assim, a maioria dos adultos como menos de 65 anos exerce uma profissão de forma a obter um salário.
-
-- População ativa: população que exerce uma atividade remunerada, ou que está temporariamente desempregada (que não exerce uma atividade económica mas que está em condições de o fazer).
-Por outro lado, jovens, idosos e muitas mulheres donas de casa não recebem qualquer salário pelas suas atividades.
-
-- População não ativa: população que não exerce qualquer atividade paga.
-
-## AS PRINCIPAIS ATIVIDADES ECONÓMICAS
-Setores de atividade
-Como existe uma grande variedade de atividades económicas, convencionou-se agrupá-las em três setores:
-
-- Setor primário: atividades que obtêm ou extraem produtos da Natureza (matérias-prima)
-- Setor secundário: atividades que transformam as matérias-primas em novos produtos
-- Setor terciário: atividades que prestam serviços (apoiam os outros setores e a população)
-Durante séculos a maioria da população dedicou-se ao setor primário. Entretanto, a mecanização e modernização da agricultura contribuiu para a redução de mão-de-obra, o que fez diminuir o número de pessoas a trabalhar no setor primário. Atualmente, mais de metade da população ativa portuguesa trabalha no setor terciário.
-Setor primário
-As atividades do setor primário produzem bens que podem ser consumidos. Por isso são designadas atividades produtoras.
-Agricultura
-A agricultura é a atividade mais importante do setor primário. Em Portugal, a produção é fraca e os rendimentos obtidos são poucos, o que tem provocado a diminuição de pessoas a trabalhar nesta atividade.
-Como está diretamente relacionada com as condições naturais do clima, do relevo e do solo, apresenta características e produtos diferentes, consoante a região do país onde é praticada. Em Portugal foram definidas nove regiões agrárias:
-
-- Entre-Douro e Minho: produtos hortícolas, batata, centeio, vinho, batata
-- Trás-os-Montes: azeite, vinho, centeio
-- Beira Litoral: produtos hortícolas, batata, centeio, arroz
-- Beira Interior: azeite, batata
-- Ribatejo e Oeste: produtos hortícolas, tomate, arroz, vinho
-- Alentejo: tomate, girassol, azeite, centeio, vinho
-- Algarve: produtos hortícolas, batata, fruta
-- Açores: vinho, batata, milho, centeio, fruta
-- Madeira: vinho, batata, milho, centeio, fruta
-Pecuária
-A pecuária – criação de animais – tem vindo a desenvolver devido ao aumento de consumo de carne e de outros produtos de origem animal (leite, manteiga, queijo, ovos, etc) por parte da população.
-Continua muito ligada à agricultura e, como ela, depende das condições naturais. A distribuição das espécies de gado varia conforme a natureza das pastagens:
-
-- Litoral Norte: gado bovino
-- Sul e montanhas do Norte e Centro: gado ovino e caprino
-- Ribatejo: gado suíno
-- Madeira e Açores: gado bovino
-Silvicultura
-Da silvicultura – manutenção, exploração e recuperação da floresta – resulta a produção de madeira, cortiça, resina e outros produtos que são utilizados como matérias-primas por indústrias como a do mobiliário e a do papel.
-Pesca
-Dada a situação geográfica de Portugal, a pesca sempre foi uma das principais atividades dos portugueses. No entanto, atualmente, esta atividade enfrenta graves problemas devido à diminuição de reservas de peixe, frota constituída essencialmente por pequenos barcos e antiquados e rendimentos obtidos baixos.
-O espaço marítimo encontra-se repartido pelos diferentes países. À zona reservada a cada uma das nações chama-se Zona Económica Exclusiva – ZEE.
-As espécies mais pescadas nas águas portuguesas são a sardinha, o carapau, o polvo, o peixe-espada preto, o atum, a cavala e a faneca.
-Setor secundário
-As atividades do setor secundário consistem na transformação de matérias-primas noutros produtos, sendo por isso também designadas de atividades produtoras.
-Indústria transformadora
-A indústria transformadora é a atividade mais importante do setor secundário. Dela resultam produtos variadíssimos, tais como móveis, roupa, calçado, produtos alimentares, etc…
-Existem algumas indústrias que se localizam junto das áreas de produção das matérias-primas, como é o caso das indústrias de laticínios, madeira, cortiça e cimento. No entanto, a maioria das indústrias transformadoras localizam-se no Litoral, sobretudo nas zonas da Grande Lisboa e Grande Porto, pois dispõem de muita mão-de-obra e possuem portos marítimos que facilitam a chegada de matérias-primas e permitem um rápido escoamento dos produtos para o mercado internacional.
-Atualmente, o governo e as autarquias incentivam a instalação de indústrias no interior do país com o objetivo de criar postos de trabalho em zonas com menor densidade populacional, a fim de evitar o seu despovoamento. Apesar destes apoios, muitas das empresas têm vindo a fechar devido a dificuldades financeiras, dificuldade em concorrer com empresas estrangeiras e também devido à deslocação de empresas para países onde a mão-de-obra é mais barata.
-Setor terciário
-As atividades do setor terciário surgem como apoio aos outros setores e prestam serviços à população. Como não têm a finalidade de produzir bens materiais, são designadas de atividades não produtoras.
-Comércio
-O comércio é a atividade do setor terciário que emprega o maior número de trabalhadores. Consiste na troca de bens entre pessoas, regiões e países e é preponderante para a economia de um país.
-No meio rural os espaços de comércio são pequenos e geralmente cada loja apresenta uma grande variedade de produtos. No meio urbano existem lojas especializadas num tipo de produto e grandes centros comerciais e hipermercados onde se pode encontrar qualquer tipo de produto.
-Além da venda de produtos em espaços próprios, tem vindo a aumentar o comércio de produtos pela Internet, através de lojas online, por catálogo, por telefone ou mesmo ao domicilio.
-Podemos distinguir dois tipos de comércio:
-
-- Comércio interno: troca de bens realizado dentro de um país
-- Comércio externo: troca de bens realizado entre países
-Apesar do crescimento das exportações (venda de produtos ao estrangeiro), Portugal continua a ter um número superior de importações (compra de produtos ao estrangeiro).
-Saúde
-Em Portugal todos têm direito à proteção de saúde através de um Serviço Nacional de Saúde.
-Além de hospitais e outros centros clínicos públicos (pertencentes ao Estado), existem também equipamentos de saúde privados, geralmente só acessíveis a pessoas com alguns recursos económicos.
-Educação
-A Educação é também um dos serviços fundamentais para o desenvolvimento de um país. As melhorias nesta área contribuíram para a diminuição do analfabetismo e para o aumento de instrução da população.
-Tal como no caso da Saúde, existem centros escolares públicos e privados.
-Transportes
-Nos últimos anos tem sido feito um enorme investimento no alargamento e na melhoria da qualidade da rede rodoviária e ferroviária, devido à sua  importância na deslocação de pessoas e mercadorias. Também o transporte aéreo assume uma grande importância porque permite a ligação de Portugal Continental às regiões autónomas e ao estrangeiro.
-Outros serviços
-O setor terciário tem vindo a crescer significativamente devido à criação de empresas de serviços tradicionais, como bancos, seguros, etc, e devido ao surgimento de novas atividades, sobretudo ligadas às telecomunicações. Este crescimento tem influência na produção de riqueza de um país e na oferta de emprego.
-
-## O MUNDO MAIS PERTO DE NÓS
-## OS TRANSPORTES E AS COMUNICAÇÕES
-Acessibilidade de pessoas, bens e ideias
-Hoje, os transportes e comunicações atingiram um tal desenvolvimento que tudo se tornou mais fácil e rápido. Países e populações encontram-se cada vez mais próximos, assim como Portugal está mais próximo da Europa e do resto do mundo.
-Transportes
-Tipos de meios de transporte:
-
-- Terrestres:
-- Rodoviários: circulam pelas estradas
-- Ferroviários: circulam pelos caminhos-de-ferro
-- Aquáticos:
-- Marítimos: circulam pelo mar
-- Fluviais: circulam pelos rios
-- Aéreos: circulam pelo ar
-Na escolha do meio de transporte mais adequado, deve-se ter em conta alguns aspetos importantes. No caso da deslocação de pessoas, deve-se ter em conta sobretudo o custo e tempo da viagem e o conforto que lhes é proporcionado. Em relação ao transporte de mercadorias, deve-se ter em conta aspetos como o tipo de carga, tempo, custo e distância.
-Vantagens e desvantagens de cada tipo de meio de transporte:
-
-- Transportes rodoviários: podem transportar cargas pequenas e médias, o custo é médio e tem a vantagem de chegar a quase todos os locais
-- Transportes ferroviários: podem transportar cargas maiores, o custo é baixo, mas servem apenas alguns locais
-- Transportes marítimos: podem transportas cargas grandes e volumosas a grandes distâncias e a custo baixo, mas são lentos
-- Transportes aéreos: são muito rápidos, percorrem todas as distâncias, mas não transportam cargas grandes e o custo é muito elevado
-Comunicações
-Também hoje a informação tem maior facilidade de circulação e faz-se através de vários meios de comunicação:
-
-- Escrita:
-- Livros, jornais, revistas, etc…
-- À distância:
-- Telégrafo, telefone, rádio,televisão, telefax, internet, etc…
-- Outros:
-- Cinema, vídeo, etc…
-Hoje, é possível comunicar facilmente com uma pessoa que esteja em qualquer parte do mundo, através de aparelhos de telecomunicação, ou seja, meios que permitem, através de processos elétricos, a comunicação à distância.
-A troca de ideias e conhecimentos é maior entre os vários países, fazendo com que as fronteiras façam cada vez menos sentido, dado que as várias partes do mundo estão em permanente comunicação.
-
-## LAZER E PATRIMÓNIO
-## LAZER
-A ocupação dos tempos livres
-Nos momentos em que as pessoas não trabalham têm direito a um tempo de lazer, ou seja, tempo livre que as pessoas ocupam da maneira que mais lhe agrada.
-Estes momentos de lazer podem ser aproveitados para praticar atividades desportivas, culturais ou sociais, e dependem da existência de equipamentos (recintos desportivos, piscinas, teatros, cinemas, museus, etc.) e de instituições (clubes desportivos e associações culturais) que desenvolvam essas atividades.
-Estes equipamentos existem em maior número e com maior oferta de atividades no meio urbano, havendo por isso diferenças na ocupação dos tempos livres entre as pessoas do campo e as da cidade. Como no meio rural o acesso a esses equipamentos é mais escasso, a maior parte dos tempos livres são ocupados pelo convívio com os amigos, idas ao café, jogos em grupo, atividades ao ar livre como a caça, participação em grupos corais, ranchos, etc. Neste meio dá-se também muita importância às festas tradicionais: feiras, romarias ou arraiais.
-Turismo
-Nas férias as pessoas têm mais tempo livre e muitas aproveitam para fazer turismo, ou seja, conhecer espaços diferentes através de viagens ou passeios. O turismo pode ser feito dentro do próprio país ou para o estrangeiro.
-Devido às suas condições geográficas e climáticas, Portugal é um país que atrai muitos turistas estrangeiros.
-Em Portugal, os principais tipos de turismo são:
-
-- Balnear: muitas pessoas são atraídas pelas inúmeras praias existentes ao longo da costa portuguesa, sobretudo no verão, época de mês seco (cuja precipitação é igual ou menor que o dobro da temperatura nesse mês)
-- Cultural: mais frequente nos centros urbanos, relaciona-se com a visita a monumentos, museus ou centros históricos
-- De montanha: nas regiões de maior altitude é possível fazer caminhadas pela Natureza e praticar desportos radicais no inverno
-- Rural: para quem procura um maior contato com a natureza, ar puro e sossego
-- Termal: existem nascentes de água que atraem milhares de turistas devido às suas propiedades curativas
-- Religioso: muitas pessoas deslocam-se ao nosso país para visitar santuários ou outros locais de culto
-O número de chegada de turistas estrangeiros tem vindo a aumentar em Portugal, provocando a entrada de dinheiro estrangeiro, o desenvolvimento de muitas regiões e o aumento de emprego. Sendo assim, o turismo é uma das atividades mais importantes do setor terciário pelo desenvolvimento que provoca e pela entrada de receitas. No entanto, a construção de unidades hoteleiras, restaurantes, cafés, bares, estradas, tem tido um impacto negativo no ambiente, com a alteração da paisagem e aumento da poluição em áreas que tinham pouca intervenção humana.
-
-## IMPORTÂNCIA DAS ÁREAS DE PROTEÇÃO DA NATUREZA
-Preservação da natureza
-O aumento da população e do turismo tem provocado a humanização da paisagem, ou seja, modificação da paisagem através da intervenção do Homem, através da ocupação excessiva de territórios para construção, do abate de árvores, da pesca e caça sem controlo, colocando assim muitas vezes espécies animais e vegetais em risco de extinção.
-Sendo assim, tornou-se necessário tomar medidas para proteger certas zonas do país a fim de preservar a natureza, a sua fauna e a sua flora. Foram criadas, portanto, áreas protegidas pelo Estado em que qualquer alteração do meio carece de autorização. As áreas protegidas são constituídas pelos parques naturais e reservas naturais.
+### Das Sociedades Recoletoras às Primeiras Sociedades Produtoras
 
 1. Das sociedades recoletoras às primeiras sociedades produtoras
 1.1 Processo de hominização
@@ -2055,6 +241,9 @@ Monumentos megalíticos
 - **Dólmenes (ou antas)**
  - pedras ao alto cobertas com uma horizontal (laje) → onde enterravam os mortos
 
+
+### Contributo das Primeiras Civilizações
+
 2. Contributo das primeiras civilizações
 2.1 As civilizações dos grandes rios
 Definição de civilização
@@ -2158,6 +347,41 @@ Por terem estado ao longo dos tempos sujeitos a muitas perseguições, esperavam
 A escrita alfabética dos Fenícios
 Os Fenícios, como comerciantes, precisavam de uma escrita rápida e simples que facilitasse os seus negócios. Por isso, criaram um novo sistema de escrita – o alfabeto.
 Este novo sistema de escrita era composto por 22 sinais muito simples, em que cada um representava um único som.
+
+### As Primeiras Comunidades Humanas da Península Ibérica
+
+## AS PRIMEIRAS COMUNIDADES HUMANAS DA PENÍNSULA IBÉRICA
+## OS RECURSOS NATURAIS E A OCUPAÇÃO HUMANA
+As primeiras comunidades recoletoras
+Os primeiros grupos de homens e mulheres que habitaram a Península Ibérica viviam em comunidades: grupos de vinte a quarenta pessoas que partilhavam entre si os abrigos, a comida, os utensílios e os perigos.
+Para se protegerem do frio e dos animais ferozes refugiavam-se em grutas e outros abrigos existentes nas rochas. Por vezes construíam cabanas com troncos, ramos e peles de animais.
+As peles de animais também serviam para se vestirem. Faziam também utensílios de pedra e osso para se protegerem, para caçar, esquartejar animais e raspar e cortar as suas peles.
+As cenas de caça eram gravadas e pintadas nas paredes das grutas onde viviam. A estas gravuras e pinturas chamamos arte rupestre.
+Estas comunidades viviam da pesca, da caça, e da recoleção, por isso as chamamos comunidades recoletoras. Isto significa que viviam da recolha do que a Natureza lhes oferecia.
+Quando os recursos naturais de um local escasseavam tinham que procurar um novo local com mais frutos e mais animais para sobreviverem. Por isso não tinham casa fixa e não permaneciam no mesmo local durante muito tempo. Diz-se então que eram nómadas.
+A descoberta do fogo permitiu defenderem-se melhor dos animais ferozes, para se aquecerem e assarem os animais.
+As comunidades agro-pastoris
+Há cerca de 10000 anos a temperatura subiu, os gelos fundiram-se e o clima tornou-se quente e seco. Os animais de clima frio desapareceram e surgiram novas espécies vegetais e animais.
+Ficaram assim reunidas condições para os homens abandonarem as grutas e melhorar a sua forma de vida.
+As comunidades agro-pastoris vivam da agricultura, da pastorícia e da domesticação de animais. Como viviam perto das terras que cultivavam deixaram de precisar de se deslocar constantemente, tornando-se assim sedentários.
+Começou a haver uma maior abundância e diversidade de alimentos o que originou os primeiros povoados.
+Começou-se a praticar a cestaria, a cerâmica e a tecelagem. Novos utensílios foram inventados como a foice, a enxada de pedra, o arado de madeira e a mó manual, e deu-se maior uso da roda.
+Surge também nesta época vários monumentos em pedra como antas, ou dólmenes, e os menires.
+Homens dos castros
+Há cerca de 2500 anos  a Península Ibérica era habitada pelos:
+
+- Celtas: povos guerreiros vindos no Centro da Europa, eram altos de cabelo e olhos claros e fixaram-se no Norte e Oeste da Península Ibérica.
+- Iberos: homens morenos e de estatura média que se fixaram no Sul e Este da Península Ibérica.
+Os Iberos só conheciam o cobre e o bronze. Os celtas trouxeram o ouro e o ferro.
+Com o passar do tempo estes povos acabaram por se misturar dando origem aos celtiberos.
+Estas tribos viviam nos cimos dos montes rodeados por muralhas nas citânias, ou castros.
+Contato com os povos mediterrânicos
+Os povos do sul da Península Ibérica viviam melhor que os do norte principalmente devido ao contato com Fenícios, Gregos e Cartagineses, que eram povos mais evoluídos.
+Estes povos dedicavam-se ao comércio. Na Península Ibérica encontraram metais e em troca ofereciam objectos de vidro, adornos, cerâmicas, tecidos de linho e púrpura.
+Deixaram-nos novas ideias e costumes e deram a conhecer o alfabeto fenício, a moeda grega e a conservação dos alimentos pelo sal.
+
+### Os Gregos no Séc. V a.C.: Exemplo de Atenas
+
 OS GREGOS NO SÉC. V A.C.: EXEMPLO DE ATENAS
 O mundo helénico no século V a.C.
 
@@ -2335,6 +559,43 @@ Além dos deuses, os Gregos veneravam os heróis, homens que se haviam distingu
 - **Pintura:**
 - → é-nos dada a conhecer sobretudo pela cerâmica → principais temas → cenas da vida quotidiana e da mitologia grega → as figuras eram pintadas em preto sobre o fundo vermelho dos vasos e, mais tarde, passaram a ser pintadas em vermelho sobre um fundo preto.
 
+
+### Os Romanos na Península Ibérica e o Mundo Romano
+
+#### Os Romanos na Península Ibérica (visão geral)
+
+## OS ROMANOS NA PENÍNSULA IBÉRICA
+A CONQUISTA ROMANA E A RESISTÊNCIA DOS POVOS IBÉRICOS
+A conquista
+Os romanos eram um povo proveniente da Península Itálica que conquistaram vários territórios à volta do mar Mediterrâneo graças ao seu poderoso e organizado exército.
+Atraídos pelas riquezas das Península Ibérica, conquistaram-na no séc. III a.C. Desta forma conseguiram o domínio do comércio do Mediterrâneo.
+A resistência
+As populações do litoral sul não ofereceram grande resistência. O mesmo não aconteceu com os povos do Centro e Norte que lutaram contra os romanos durante quase  200 anos. Um dos povos que se distinguiu na luta contra os romanos foram os Lusitanos, chefiados por Viriato. Estes montavam armadilhas e emboscadas aproveitando as montanhas e desfiladeiros.
+O império romano
+Entretanto não foi só conquistada a Península Ibérica, mas sim um conjunto de territórios à volta do Mediterrâneo que fez com que os romanos construíssem um grande Império. A sua capital era a cidade de Roma e possuíam territórios na Europa, Ásia e África. O chefe supremo do Império era o imperador.
+
+## A PENÍNSULA IBÉRICA ROMANIZADA
+Herança romana
+Os romanos permaneceram quase 700 anos na Península Ibérica e durante este tempo os costumes das pessoas alterou-se e  foram construídos edifícios e estruturas que influenciaram bastante o modo de vida da população. A todas as alterações provocadas pela presença dos romanos na Península Ibérica chama-se romanização.
+As transformações mais significativas foram:
+
+- construção de estradas, aquedutos, pontes, teatros, balneários públicos, templos, monumentos;
+- casas cobertas com telha, com jardins exteriores e com mosaicos a decorar o pavimento;
+- intensificação da produção agrícola (vinho, azeite e trigo) e da exploração agrícola;
+- criação de indústrias: salga do peixe, olaria, tecelagem;
+- desenvolvimento do comércio;
+- maior uso da moeda;
+- a língua falada passa a ser o latim.
+Era cristã
+Este período também ficou marcado pelo surgimento de uma nova religião: o Cristianismo. Esta nova religião expandiu-se por todo o Império e a contagem do tempo passou-se a fazer pela era cristã, ou seja, a partir do do nascimento de Jesus Cristo (quem começou a pregar esta religião e que afirmava ser filho de Deus).
+Na contagem do tempo podemos utilizar o ano, a década (10 anos), o século (100 anos) e o milénio (1000 anos).
+Para fazer corresponder os anos aos séculos há duas regras bastante simples:
+
+- quando o ano termina em dois zeros o número de centenas indica o século. Ex: ano 1500, séc. XV;
+- quando o ano não termina em dois zeros, acrescenta-se uma unidade ao número das centenas. Ex: 1548, séc. XVI
+
+#### O Mundo Romano no Apogeu do Império
+
 ## O MUNDO ROMANO NO APOGEU DO IMPÉRIO
 O Império Romano
 
@@ -2469,6 +730,8 @@ O latim
 
 O Cristianismo
 
+### Origem e Difusão do Cristianismo
+
 ## ORIGEM E DIFUSÃO DO CRISTIANISMO
 Origem do Cristianismo
 
@@ -2535,6 +798,9 @@ Existência de judeus por todo o império
 - → o imperador Teodósio declarou o Cristianismo como religião oficial do império
 
 As invasões bárbaras e a queda do Império Romano
+
+
+### Fim do Império Romano e os Povos Bárbaros
 
 ### Fim do Império Romano do Ocidente e início da Idade Média (476)
 
@@ -2618,6 +884,41 @@ Inexistência de excedentes → falta de produtos para vender
 Enfraquecimento do comércio
 
 Economia de subsistência → produção para autoconsumo
+
+---
+
+## Capítulo 2: Alta Idade Média (séc. V–XII)
+
+Após a queda de Roma, a Europa fragmenta-se em reinos bárbaros enquanto a Igreja Católica se torna o grande fator de unidade. No Oriente, nasce o Islão e os Muçulmanos constroem um vasto império que chega à Península Ibérica em 711. Segue-se a longa Reconquista Cristã, que dará origem aos reinos peninsulares. No resto da Europa, a sociedade feudal organiza-se em torno dos senhorios. É neste contexto que nasce o Condado Portucalense e, em 1143, o Reino de Portugal.
+
+---
+
+### O Mundo Muçulmano e a Ocupação da Península Ibérica
+
+#### A Ocupação Muçulmana da Península Ibérica
+
+## OS MUÇULMANOS NA PENÍNSULA IBÉRICA
+## A OCUPAÇÃO MUÇULMANA
+O profeta Maomet e o Islamismo
+No séc. VI a Arábia (península da Ásia) era bastante pobre. Foi neste local que Maomet, nascido na cidade de Meca, anunciou-se em 612 como profeta (enviado de Deus para revelar verdades sagradas aos homens) e começou a pregar uma nova religião – o Islamismo.
+Os seguidores desta religião são os Muçulmanos e acreditam num único deus – Alá. Os princípios desta religião estão reunidos num livro sagrado chamado Corão.
+Obrigações dos Muçulmanos:
+
+- reconhecer Alá como Deus único e Maomet como seu profeta;
+- rezar cinco vezes por dia virados para Meca;
+- jejuar no mês do Ramadão;
+- dar esmola aos mais pobres;
+- ir a Meca pelo menos uma vez na vida.
+Conquista da Península Ibérica
+Os Muçulmanos começaram a conquistar novos territórios de forma a:
+
+- expandir o Islamismo, procurando converter outros povos à sua religião;
+- melhorar as suas condições de vida dado que a Arábia era um território bastante pobre.
+Foram conquistados territórios na Ásia, no Norte de África e, em 711, iniciou-se a conquista da Península Ibérica. Os Mouros (designação para os Muçulmanos oriundos do Norte de África) entraram pelo estreito de Gibraltar e venceram os cristãos visigodos na batalha de Guadalete.
+Muito rapidamente (em cerca de dois anos) os Muçulmanos ocuparam praticamente toda a Península Ibérica, com excepção das Astúrias e parte dos Pirinéus, devido às suas condições adversas.
+Esta ocupação foi realizada através do uso de armas mas, em muitos casos, faziam-se acordos com os visigodos que lhes permitiam viver em paz e confraternizar, desde que se submetessem aos novos conquistadores.
+
+#### O Mundo Muçulmano em Expansão
 
 ## O MUNDO MUÇULMANO EM EXPANSÃO
 A origem do Islamismo e do Império Muçulmano
@@ -2713,6 +1014,42 @@ Arco em ferradura.
 Decoração com mosaicos e estuques pintados.
 
 Decoração com elementos vegetalistas ou geométricos e por frases religiosas (o Alcorão proíbe a representação de animais e da figura humana).
+
+
+### Cristãos e Muçulmanos no Período da Reconquista
+
+## CRISTÃOS E MUÇULMANOS NO PERÍODO DA RECONQUISTA CRISTÃ
+A resistência cristã
+Durante a ocupação muçulmana, alguns nobres visigodos conseguiram refugiar-se nas Astúrias (zona montanhosa no norte da Península ibérica). Foi a partir deste local que os cristãos formaram núcleos de resistência contra os Muçulmanos e, no ano de 722, obtiveram a sua primeira grande vitória, na batalha de Covadonga, chefiados por Pelágio. Depois deste acontecimento formou-se o reino das Astúrias.
+A Reconquista Cristã
+Foi então a partir das Astúrias e junto dos Pirinéus que se iniciou a Reconquista Cristã, ou seja, os cristãos começaram a lutar contra os Muçulmanos para voltar a conquistar as terras que perderam para os Muçulmanos.
+Reinos cristãos formados a partir do Reino das Astúrias:
+
+- reino de Leão;
+- reino de Castela;
+- reino de Navarra;
+- reino de Aragão.
+Cada reino tinha como objectivo conquistar terras a sul aos Muçulmanos de forma a expulsá-los da Península Ibérica.
+Foram precisos quase 800 anos para o conseguirem. Entretanto também houve períodos de paz e confraternização. Cristãos e Muçulmanos foram-se habituando a aceitar costumes e tradições diferentes dos seus.
+
+
+### A Herança Muçulmana
+
+## A HERANÇA MUÇULMANA
+Influência muçulmana nos povos peninsulares
+Os povos que sofreram maior influência da presença dos Muçulmanos na Península Ibérica  foram os do sul pois foi aí que permaneceram mais tempo.
+As principais marcas muçulmanas foram:
+
+- construção de mesquitas e palácios decorados com azulejos;
+- casas com terraços e pátios interiores e eram caiadas de branco;
+- desenvolvimento de indústrias artesanais como armas, carros e tapetes;
+- desenvolvimento da agricultura com novos processos de rega, a nora, a picota e o açude;
+- introdução de novas plantas como a laranjeira, o limoeiro, a amendoeira, a figueira e da oliveira;
+- novos conhecimentos de medicina, navegação, astronomia e matemática;
+- cerca de 600 palavras, a maior parte começadas por al.
+
+
+### A Sociedade Europeia nos Séculos IX a XII
 
 ## A SOCIEDADE EUROPEIA NOS SÉCULOS IX A XII
 A sociedade medieval
@@ -2835,6 +1172,179 @@ Caracterização das Ordens mendicantes (Franciscanos e Dominicanos)
 - viviam de esmolas
 - praticavam as caridade
 - viviam em contacto permanente com as populações
+
+
+### A Formação do Reino de Portugal
+
+## A FORMAÇÃO DO REINO DE PORTUGAL
+D. AFONSO HENRIQUES E A LUTA PELA INDEPENDÊNCIA
+Condado Portucalense
+Durante a Reconquista Cristã, os reis cristãos da Península Ibérica pediram auxílio a outros reinos cristãos da Europa para reconquistar os territórios aos Muçulmanos. Os cavaleiros que vieram ajudar na luta contra os Muçulmanos chamavam-se cruzados.
+A pedido de D. Afonso VI, rei de Leão e Castela, vieram de França os cruzados D. Raimundo e D. Henrique. Em troca pelos seus serviços os cruzados receberam:
+
+- D. Raimundo: a mão da filha legítima do rei, D. Urraca, e o Condado de Galiza;
+- D. Henrique: a mão da filha ilegítima do rei, D. Teresa, e o Condado de Portucale.
+Estes condados pertenciam ao reino de Leão, por isso D. Henrique tinha que prestar obediência, lealdade e auxílio militar ao rei D. Afonso VI. Em 1112 morre e, como o seu filho D. Afonso Henriques apenas tinha 4 anos de idade, ficou D. Teresa a governar o Condado Portucalense.
+A luta pela independência
+Em 1125, aos 16 anos, D. Afonso Henriques armou-se a si próprio cavaleiro, como só faziam os reis. D. Afonso Henriques tinha como ambição concretizar o desejo do seu pai D. Henrique: tornar o Condado Portucalense independente do reino de Leão e Castela.
+Nesta altura, D. Teresa mantinha uma relação amorosa com um fidalgo galego, o conde Fernão Peres de Trava. Esta relação prejudicava a ambição de tornar o Condado Portucalense independente. Por isso, apoiado por alguns nobres portucalenses, D. Afonso Henriques revoltou-se contra a sua mãe.
+Em 1128, D. Teresa é derrotada na batalha de S. Mamede por D. Afonso Henriques, que passa a governar o Condado Portucalense.
+D. Afonso Henriques passa a ter duas lutas:
+
+- luta contra D. Afonso VI, para conseguir a independência do Condado Portucalense;
+- luta contra os Muçulmanos, para aumentar o território para sul.
+O reino de Portugal
+Para a formação de Portugal foram bastante importantes as seguintes batalhas:
+
+- 1136:  batalha de Cerneja onde D. Afonso Henriques vence os galegos.
+- 1139: batalha de Ourique onde D. Afonso Henriques derrota os exércitos de cinco reis mouros.
+- 1140: batalha em Arcos de Valdevez, D. Afonso Henriques vence novamente os exércitos de D. Afonso VII.
+Com estas vitórias de D. Afonso Henriques, D. Afonso VII, seu primo agora rei de Leão e Castela, viu-se obrigado a fazer um acordo de paz – o Tratado de Zamora. Neste tratado, assinado em 1143, Afonso VII concede a independência ao Condado Portucalense que passa a chamar-se reino de Portugal, e reconhece D. Afonso Henriques como seu rei.
+A conquista da linha do Tejo
+Feita a paz com o rei de Leão e Castela, D. Afonso Henriques passou a preocupar-se exclusivamente em conquistar territórios a sul aos mouros de forma a alargar o território do reino de Portugal:
+
+- 1145: conquista definitiva de Leiria;
+- 1147: conquista de Santarém e Lisboa.
+Na reconquista das terras aos mouros participou quase toda a população portuguesa que podia pegar em armas:
+
+- senhores nobres e monges guerreiros: combatiam a cavalo, comandavam os guerreiros e recebiam terras como recompensa pelos seus serviços prestados ao rei;
+- homens do povo: combatiam a pé e eram a grande maioria dos combatentes.
+
+Em algumas batalhas os portugueses foram ainda ajudados por cruzados bem treinados e com armas próprias para atacar as muralhas, vindos do Norte da Europa.
+O reconhecimento do reino
+Apesar de o rei Afonso VII ter reconhecido em 1143 D. Afonso Henriques como rei de Portugal, o mesmo não aconteceu com o Papa.
+O Papa era o chefe supremo da Igreja Católica e tinha muitos poderes. Os reis cristãos lhe deviam total obediência e fidelidade. Para a independência de um reino ser respeitada pelos outros reinos cristãos teria de ser reconhecida por ele. Para obter este reconhecimento D. Afonso Henriques mandou construir sés e igrejas e deu privilégios e regalias aos mosteiros.
+Só em 1179 é que houve o reconhecimento por parte do papa Alexandre III através de uma bula (documento escrito pelo papa).
+
+
+### O Reino de Portugal e do Algarve
+
+## O REINO DE PORTUGAL E DO ALGARVE
+Alargamento do território e definição de fronteiras
+Portugal foi uma monarquia desde 1143 até 1910, ou seja, durante este período Portugal foi sempre governado por um rei.
+A monarquia portuguesa era hereditária. Isto significa que quem sucede um rei é o seu filho mais velho (o príncipe herdeiro).
+Depois da morte de D. Afonso Henriques sucederam-lhe:
+
+- D. Sancho I;
+- D. Afonso II;
+- D. Sancho II;
+- D. Afonso III;
+- etc…
+Os primeiros 4 reis de Portugal, a seguir a D. Afonso Henriques, continuaram a conquistar territórios aos mouros até que em 1249 D. Afonso III conquista definitivamente o Algarve.
+Entretanto, os limites do território não estavam totalmente definidos pois havia zonas a norte e a este que ainda estavam em disputa com o reino de Leão e Castela.
+Só em 1297, com o Tratado de Alcanises, entre D. Dinis, rei de Portugal, e D. Fernando, rei de Leão e Castela, ficaram definidas as fronteiras do território português que assim se mantiveram aproximadamente até os dias de hoje. Apenas em 1801 Espanha ocupou Olivença que já não faz parte de Portugal.
+Características naturais de Portugal
+O relevo de Portugal no séc. XIII apresentava características idênticas às de hoje. De realçar os contrastes que ainda hoje existem:
+
+- Norte/Sul: terras altas, planaltos e serras no norte enquanto que no sul predominam terras de baixa altitude como as planícies;
+- Litoral/Interior: no litoral temos pequenas planícies costeiras enquando que no inetrior encontramos planaltos e serras.
+Os rios correm para o Atlântico seguindo a inclinação do relevo e existem em maior número no Norte.
+Sobre o clima destacam-se três zonas climáticas:
+
+- Norte Litoral: chuvas abundantes e temperaturas amenas tanto no Verão como no Inverno;
+- Norte Interior: poucas chuvas, muito frio no Inverno e quente no Verão:
+- Sul: poucas chuvas, invernos suaves e temperaturas muito elevadas no verão, sobretudo no interior.
+No entanto, nem todas as características naturais permanecem exactamente iguais aos dias de hoje. Ao longo dos tempos a paisagem do território português foi-se alterando devido à influência humana e da própria Natureza. Um exemplo disso mesmo é o facto de os rios serem antigamente  mais navegáveis mas com a acumulação de areias trazidas pelos próprios rios o litoral ficou mais alinhado tornando os rios menos navegáveis ao longo dos tempos.
+No séc. XIII abundava a vegetação natural, ou seja, que ainda não tinha sido modificada pelo homem. No Norte abundavam bosques e florestas muito densas com árvores de folha caduca e no Sul as florestas eram menos densas e predominavam as folhas de folha persistente.
+Atribuição de terras
+Ao serem reconquistadas terras os reis tinham a necessidade de as povoar, defender e explorar para não voltarem a ser ocupadas pelos mouros.
+Os reis reservavam uma parte dessas terras para si e a grande parte era dada aos nobres e às ordens religiosas militares como recompensa pela sua ajuda prestada na guerra, bem como às ordens religiosas não militares para que fossem povoadas mais rapidamente.
+Sendo assim, as terras pertenciam ao rei, à Nobreza e ao Clero. O povo trabalhava nessas terras e em troca recebiam proteção.
+Aproveitamento dos recursos naturais
+O aproveitamento dos recursos naturais das terras era realizado através da:
+
+- terrenos bravios: pastorícia, criação de gado, caça e recolha de produtos (como a lenha, a madeira, a cortiça, frutos silvestres, mel e cera).
+- terrenos aráveis: agricultura onde se produzia cereais, vinho, azeite, legumes, frutos e linho.
+- mar e rios: pesca e salicultura.
+Produção artesanal:
+
+- O vestuário, calçado, instrumentos e todos os objectos necessários para o dia-a-dia dos pastores, agricultores e pescadores eram feitos por eles mesmos à mão e através da utilização de produtos retirados directamente da Natureza ou pelos materiais fornecidos pela agricultura e pela pastorícia.
+
+---
+
+## Capítulo 3: Séculos XIII–XIV — Portugal Medieval
+
+Com as fronteiras praticamente definidas, Portugal volta-se para a organização interna. O século XIII é marcado pela vida quotidiana medieval — a agricultura, as feiras, os mosteiros e a emergência das primeiras universidades. A cultura portuguesa oscila entre os modelos românico e gótico. O século XIV traz crises devastadoras: a Peste Negra, a fome e as guerras dinásticas. Em Portugal, a crise culmina na Revolução de 1383-1385 e na ascensão da dinastia de Avis, abrindo caminho para a era dos Descobrimentos.
+
+---
+
+### A Vida Quotidiana no Século XIII
+Ordens sociais
+A população portuguesa no séc. XIII era constituída por três grupos sociais:
+
+- nobreza: grupo privilegiado que possuía terras, não pagava impostos, recebia impostos e aplicava a justiça nas suas terras. A sua principal actividade era combater;
+- clero: grupo privilegiado que possuía terras, não pagava impostos, recebia impostos e aplicava a justiça nas suas terras. A sua principal actividade era prestar serviço religioso;
+- povo: grupo não priveligiado que trabalhava nas terras do rei, da nobreza e do clero e que ainda tinham que pagar impostos.
+Todos os grupos sociais deviam ao rei fidelidade, obediência e auxílio.
+Vida quotidiana nas terras senhoriais
+As terras senhoriais, ou senhorios, pertenciam aos senhores nobres que viviam numa casa acastelada situada na parte mais alta. À sua volta distribuíam-se campos cultivados, a floresta, o moinho e as casas dos camponeses que trabalhavam as terras.
+Nestas terras era o nobre que aplicava a justiça, recrutava homens para o seu exército e recebia impostos de todos os que lá trabalhavam. Em troca, tinha como obrigação proteger as pessoas que estavam na sua dependência.
+Atividades dos nobres:
+
+- em tempo de guerra: combatiam;
+- em tempo de paz: praticavam a caça, a equitação e exercícios desportivos que os preparavam para a guerra.
+Distrações dos nobres:
+
+- À noite entretinham-se com jogos de sala, como o xadrez e dados, com os saltimbancos, que faziam proezas, e com os jograis, que tocavam e cantavam.
+Casa senhorial:
+
+- o salão era o aposento mais importante e era onde o nobre dava as suas ordens, recebia os hóspedes e onde serviam-se as refeições;
+- o mobiliário existente na casa era uma mesa, arcas para guardar a roupa e outros objetos domésticos, poucas cadeiras e bancos chamados escanos;
+- para a iluminação durante a noite utilizavam-se lamparinas de azeite ou tochas e velas de cera e sebo.
+Alimentação dos nobres:
+
+- faziam-se normalmente duas refeições, o jantar e a ceia, onde predominava a carne, pão de trigo, vinho, queijo e um pouco de fruta.
+Por outro lado, os camponeses tinham uma vida dura e difícil. Trabalhavam seis dias por semana nos campos dos senhores nobres e ainda tinham que lhes pagar impostos pois só assim garantiam proteção.
+Atividades dos camponeses:
+
+- trabalhar nos campos.
+Distrações dos camponeses:
+
+- ida à missa, procissões e romarias.
+Casa do camponês:
+
+- tecto de colmo, paredes de madeira ou pedra, quase sem aberturas, e chão em terra batida;
+- tinha só uma divisão e havia pouca mobília;
+- dormia-se num recanto coberto de molhos de palha.
+Alimentação dos camponeses:
+
+- baseava-se em pão negro, feito de mistura de cereais ou castanha, acompanhado por cebolas, alhos ou toucinho. Apenas nos dias festivos havia queijo, ovos e bocados de carne.
+Vida quotidiana nos mosteiros
+O clero, cuja principal função era o serviço religioso, dividia-se em dois:
+
+- clero secular: padres, bispos e cónegos que viviam junto da população nas aldeias ou cidades;
+- clero regular: frades (ou monges) e freiras que viviam nos mosteiros ou conventos.
+A vida no mosteiro era dirigida pelo abade ou abadessa. Os monges dedicavam a sua vida a Deus e ao serviço religioso, meditavam, rezavam e cantavam cânticos religiosos.
+Para além do serviço religioso, os monges também se dedicavam ao ensino. Durante muito tempo, o clero foi a única ordem social a saber ler e escrever. Fundaram-se algumas escolas junto aos mosteiros, os monges eram os professores e os alunos eram os futuros monges. Existiam ainda os monges copistas que dedicavam-se a copiar os livros mais importantes e ilustravam o texto com pinturas chamadas iluminuras.
+Todos os mosteiros tinham enfermarias onde os doentes eram recolhidos e tratados pelos monges. Era também dada assistência aos peregrinos que se dirigiam aos santuários para cumprir promessas ou para rezar.
+O clero praticava também a agricultura. Produzia tudo o que precisava.
+Alimentação dos clérigos:
+
+- a refeição principal era tomada em comum e em silêncio, no refeitório: sopa, pão, um pouco de carne ou peixe nos dias de abstinência.
+Vida quotidiana nos concelhos
+Um concelho era uma povoação que tinha recebido foral ou carta de foral. A carta de foral era um documento onde estavam descritos os direitos e os deveres dos moradores do concelho para com o senhor (dono) da terra.
+Os moradores de um concelho tinham mais regalias que os que não lá viviam:
+
+- eram donos de algumas terras;
+- só pagavam os impostos exigidos no foral.
+Existia ainda uma assembleia de homens-bons, formada pelos homens mais ricos e respeitados do concelho, que resolvia os principais problemas do concelho. Elegiam juízes entre si para aplicar a justiça e os mordomos que cobravam os impostos.
+Os concelhos eram formados por uma povoação mais desenvolvida (a vila) e por localidades rurais à sua volta (o termo).
+Muitos dos concelhos foram criados pelo rei mas houve alguns também criados por grandes senhores da nobreza e pelo clero nos seus senhorios e surgiram da necessidade de garantir o povoamento e a defesa das terras conquistadas aos mouros e para desenvolver as atividades económicas.
+Principais atividades:
+
+- agricultura, pastorícia, pesca: camponeses e pescadores;
+- artesanato: havia pequenas oficinas onde os artesãos executavam trabalhos à mão (manufactura), utilizando técnicas e instrumentos muito rudimentares;
+- comércio: os camponeses e os artesãos reuniam-se para vender os seus produtos dando origem aos mercados e mais tarde às feiras (maiores que os mercados e com maior abundância e variedade de produtos).
+A criação de feiras contribuiu para o desenvolvimento do comércio interno, isto é, troca e venda de produtos dentro do país. No entanto, nesta altura Portugal também comerciava com outros países – comércio externo.
+O comércio externo contribuiu para o desenvolvimento das cidades situadas no litoral e contribuiu também para o surgimento de um novo grupo social:  a burguesia. Os burgueses eram homens do povo, mercadores e artesãos, que enriqueceram com o comércio externo.
+Vida quotidiana na corte
+A corte era constituída pela família do rei, pelos conselheiros e funcionários. A corte seguia sempre o rei.
+Distrações:
+
+- Banquetes e saraus (festas à noite) onde havia espetáculos de jograis (os jograis cantavam e tocavam instrumentos musicais).
+
+
+### A Cultura Portuguesa Face aos Modelos Europeus
 
 ## A Cultura Portuguesa Face aos Modelos Europeus
 
@@ -3259,6 +1769,305 @@ Alterações no consumo e hábitos dos Europeus
  - os grupos mais privilegiados tinham mobiliário requintado, adornos, porcelanas, pedras preciosas, vestuário em tecidos de luxo, usavam perfumes do Oriente e objetos de marfim e ouro de África
  - generalizou-se ainda o consumo de tabaco
 
+
+### As Crises do Século XIV
+
+## As Crises do Século XIV
+
+### A Crise Europeia do Século XIV
+
+O século XIV foi marcado por uma profunda crise que afetou toda a Europa. Após um período de crescimento económico e demográfico nos séculos XII e XIII, a Europa enfrentou uma série de calamidades que transformaram radicalmente a sociedade medieval.
+
+#### Causas da Crise
+
+**Crise agrária e fomes:**
+- No início do século XIV, uma série de **maus anos agrícolas** provocou escassez de alimentos
+- As chuvas intensas e prolongadas arruinaram colheitas sucessivas
+- A **Grande Fome de 1315-1317** afetou grande parte da Europa, causando milhões de mortes
+- A população tinha crescido além da capacidade de produção agrícola da época
+
+**A Peste Negra (1347-1351):**
+- A **Peste Negra** foi a maior catástrofe demográfica da história europeia
+- Chegou à Europa em 1347, vinda da Ásia através das rotas comerciais
+- Propagou-se rapidamente devido à falta de higiene e ao desconhecimento sobre a doença
+- **Morreu cerca de um terço da população europeia** (estimativas variam entre 30% a 60%)
+- Os sintomas incluíam febres altas, bubões (inchaços) nas axilas e virilhas, e manchas negras na pele
+- A doença era transmitida por pulgas de ratos e também pelo ar (forma pneumónica)
+
+**Guerras e conflitos:**
+- A **Guerra dos Cem Anos (1337-1453)** entre França e Inglaterra devastou extensas regiões
+- Conflitos constantes entre reinos e senhores feudais
+- Pilhagens e destruição de campos agrícolas
+- Instabilidade política generalizada
+
+#### Consequências da Crise
+
+**Consequências demográficas:**
+- **Quebra demográfica** – a população europeia diminuiu drasticamente
+- Aldeias inteiras foram abandonadas (aldeias desertas)
+- Falta de mão-de-obra para trabalhar os campos
+
+**Consequências económicas:**
+- **Crise económica** – diminuição da produção agrícola e artesanal
+- Subida dos preços dos alimentos
+- Aumento dos salários dos trabalhadores (pela escassez de mão-de-obra)
+- Abandono de terras de cultivo
+- Declínio do comércio
+
+**Consequências sociais:**
+- Revoltas camponesas em vários países da Europa
+- Tensões entre senhores e camponeses
+- Perseguições a minorias (judeus foram acusados de envenenar poços)
+- Flagelantes – grupos que se açoitavam publicamente como penitência
+
+**Consequências políticas:**
+- Enfraquecimento do poder senhorial
+- Fortalecimento do poder régio em alguns reinos
+- Crises dinásticas em vários países
+
+### A Crise em Portugal
+
+Portugal não escapou às crises do século XIV. Na segunda metade do século, o reino viveu tempos particularmente difíceis:
+
+**As calamidades:**
+- **Fome** – deveu-se aos maus anos agrícolas por causa das chuvas intensas
+- **Epidemias** – deveu-se à falta de higiene e à falta de alimentação
+- **Guerras** – devido ao conflito com Castela
+
+A pior calamidade foi a **Peste Negra**, que chegou a Portugal em 1348. Em menos de três meses matou cerca de um terço da população portuguesa.
+
+**As Guerras Fernandinas (1369-1382):**
+
+O reinado de D. Fernando (1367-1383) foi marcado por três guerras contra Castela, conhecidas como **Guerras Fernandinas**. Estas guerras inserem-se no contexto mais amplo da **Guerra dos Cem Anos**, onde Portugal se aliou ora à Inglaterra, ora a Castela.
+
+- **1ª Guerra (1369-1370)** – D. Fernando reivindicou o trono de Castela
+- **2ª Guerra (1372-1373)** – Castela invadiu Portugal; Lisboa foi cercada
+- **3ª Guerra (1381-1382)** – Nova aliança com Inglaterra contra Castela
+
+Estas guerras:
+- Devastaram o território português
+- Agravaram a crise económica
+- Enfraqueceram o reino
+- Criaram instabilidade política
+
+
+### A Revolução de 1383-1385
+
+### A Revolução de 1383-1385
+
+#### Problema de sucessão
+Em 1383, D. Fernando assina um tratado de paz com Castela para salvaguardar a independência do reino de Portugal – o Tratado de Salvaterra de Magos.
+Neste tratado D. Fernando deu a mão da sua única filha, D. Beatriz, a D. João I, rei de Castela, e ficou estabelecido que o futuro rei de Portugal seria o seu neto, filho de D. Beatriz, quando atingisse os 14 anos.
+
+#### A População Dividida e a Revolta Popular
+
+Quando D. Fernando morre, D. Leonor de Teles, sua esposa, assume a regência do reino e aclama D. Beatriz como rainha de Portugal. O povo ficou descontente porque não queria ser governado por um rei estrangeiro e temia que Portugal perdesse a independência.
+
+- Apoiantes de D. Beatriz – alto Clero e alta Nobreza porque temiam perder os seus privilégios;
+- Apoiantes de D. João, Mestre de Avis – povo, burguesia, parte do Clero e parte da Nobreza porque não queriam ser governados por um rei estrangeiro e temiam que Portugal perdesse a independência.
+Álvaro Pais planeou uma conspiração para matar o conselheiro galego de D. Leonor de Teles, o conde Andeiro. D. João, Mestre de Avis, filho ilegítimo de D. Pedro, é escolhido para o matar. Após a morte do conde Andeiro, D. Leonor de Teles foge para Santarém e pede ajuda a D. João I, rei de Castela. Mestre de Avis passa a Regente e Defensor do reino com o apoio do povo.
+
+#### Resistência à Invasão Castelhana
+
+D. João I, rei de Castela, invade Portugal:
+
+- ocupa Santarém;
+- é vencido na batalha de Atoleiros;
+- cerca Lisboa em 1384.
+Lisboa esteve cercada 3 meses e só se libertou quando a peste negra atacou os soldados castelhanos.
+Nas Cortes em Coimbra (1385) João das Regras provou que D. João, Mestre de Avis, era quem tinha mais direito a ser o rei de Portugal que passa a intitular-se D. João I.
+Ao saber da  aclamação de Mestre de Avis como rei de Portugal, D. João I, rei de Castela, invade novamente Portugal mas é derrotado na batalha de Aljubarrota  (1385) pelos portugueses chefiados por D. Nuno Álvares Pereira.
+
+#### Consolidação da Independência
+
+D. João I, Mestre de Avis, recompensou com terras, cargos e títulos os nobres e burgueses que o apoiaram e retirou privilégios à alta Nobreza que apoiou D. Beatriz e que fugiu para Castela.
+Portugal fez ainda um tratado de amizade com Inglaterra onde os dois países se comprometeram a ajudar-se mutuamente. esta aliança foi reforçada com o casamento de D. João I com D. Filipa de Lencastre em 1387.
+Entretanto, só em 1411 o problema com Castela ficou resolvido com um tratado de paz.
+Muito do que sabemos sobre o que aconteceu neste período deve-se a Fernão Lopes através das suas crónicas sobre o que se passava no reino da época.
+
+---
+
+## Capítulo 4: Séculos XV–XVI — Os Descobrimentos
+
+O século XV abre uma nova era: impulsionados por D. Henrique, o Navegador, e pelos avanços técnicos na navegação, os portugueses lançam-se à exploração do Atlântico e da costa africana. A chegada à Índia em 1498 e ao Brasil em 1500 inaugura o primeiro império marítimo global. Na Europa, o Renascimento renova as artes, as ciências e o pensamento, enquanto a Reforma Protestante fractura a unidade religiosa do continente. Portugal acompanha estas transformações com a arte manuelina e o esplendor do Império.
+
+---
+
+### De Portugal às Ilhas Atlânticas e ao Cabo da Boa Esperança
+
+#### O caminho do mar
+No início do séc. XV, a Europa vivia isolada do resto do mundo. Apenas se conhecia, além da Europa, a Ásia e o norte de África.
+Nesta altura, Portugal era um reino pobre. No entanto, encontrava-se num período de paz e sentiu a necessidade de alargar os seus territórios. Os portugueses não podiam alargar as suas fronteiras para território castelhano, de forma a evitar entrar em guerra com Castela, por isso decidiram encontrar novos territórios pelo mar.
+A procura de novas terras interessou todos os grupos sociais:
+
+- a burguesia procurava riquezas e novos mercados
+- a nobreza queria novos títulos e terras
+- o clero pretendia converter outros povos ao cristianismo
+- o povo desejava melhores condições de vida
+Início da expansão portuguesa
+Em 1415, Portugal conquistou Ceuta, no norte de África, com o desejo de obter ouro e dominar o comércio do mar Mediterrâneo. Contudo, os mouros, ao perderem Ceuta, desviaram as rotas do ouro e das especiarias para outras cidades.
+Para obterem as riquezas que tanto ambicionavam os portugueses tinham então que descobrir a origem dos produtos que os mouros comerciavam mas, para isso, tinham que ir para terras desconhecidas.
+Mercadores e aventureiros tinham criados várias lendas sobre o mundo desconhecido. Pensava-se que os navios que navegassem para sul ao longo da costa africana seriam atacados por monstros marinhos e que o calor era tanto que os homens brancos se tornavam negros. Imaginava-se também que nas terras desconhecidas existiam seres maravilhosos e fantásticos: animais estranhos e homens sem cabeça, só com uma perna e só com um olho.
+Os portugueses, aventureiros e corajosos, decidiram enfrentar os medos sobre o mundo desconhecido e navegaram para sul ao longo da costa africana para áreas totalmente desconhecidas pelos europeus. O infante D. Henrique foi quem planeou e organizou estas viagens e foi ele o responsável pelos Descobrimentos até à chegada a Serra Leoa, em 1460.
+1ª Fase dos Descobrimentos – Acontecimentos mais importantes na época de D. Henrique:
+
+- 1415 – Conquista de Ceuta – D. João I com os seus filhos D. Duarte, D. Pedro e D. Henrique
+- 1419 – Redescoberta do arquipélago da Madeira – João Gonçalves Zarco e Tristão Vaz Teixeira
+- 1424 – Descoberta do arquipélago dos Açores – Diogo de Silves
+- 1434 – Passagem do cabo Bojador – Gil Eanes
+- 1460 – Chegada a Serra Leoa – Pedro de Cintra
+Técnicas de navegação
+Quando navegavam no mar alto orientavam-se pelos astros (estrela polar e sol), utilizando para isso o quadrante, o astrolábio e a balestilha.
+Passou-se a utilizar a caravela que era um navio inovador pois possuía velas triangulares que permitiam bolinar, ou seja, navegar com ventos contrários.
+Começaram a ser desenhadas as cartas náuticas com as novas terras descobertas e com informações sobre os ventos para facilitar as viagens futuras.
+Sendo assim, as viagens marítimas feitas pelos portugueses contribuíram para o desenvolvimento das técnicas de navegação, da cartografia, da astronomia e da matemática.
+Da Serra Leoa ao Cabo de Santa Catarina
+Depois da morte do infante D. Henrique, D. Afonso V encarregou ao burguês Fernão Gomes de continuar as descobertas na costa africana. Em troca, tinha o direito de comerciar nas terras descobertas por ele.
+2ª fase dos Descobrimentos – Acontecimentos mais importantes na época de Fernão Gomes:
+
+- 1471 – descoberta das ilhas de S. Tomé e Príncipe
+- 1474 – chegada ao cabo de Santa Catarina
+Do Cabo de Santa Catarina ao Cabo da Boa Esperança
+Em 1474, o infante D. João passa a dirigir do descobrimentos porque as terras descobertas tinham muitas riquezas como o ouro, marfim e escravos. Em 1488 subiu ao trono e ordenou que nas terras descobertas se colocassem padrões (um pilar de pedra gravado com uma cruz, as armas reais e a data de implantação). Mandou também afundar os navios de outros reinos que se encontrassem a sul das ilhas Canárias. foi na sua época que se descobriu o limite a sul do continente africano e a passagem para o oceano Índico.
+3a fase dos Descobrimentos – Acontecimentos mais importantes na época de D. João II:
+
+- 1480 – Tratado de Alcáçovas
+- 1482 – Chegada à foz do rio Zaire
+- 1488 – Passagem do cabo da Boa Esperança – Bartolomeu Dias
+Tratado de Tordesilhas
+O grande desejo de D. João II era chegar à Índia por mar por causa do comércio das especiarias. No entanto, também Castela tinha o mesmo desejo. Em 1492, Cristóvão Colombo, ao serviço de Castela, chega à América quando procurava chegar à Índia navegando para oeste. Esta descoberta criou um conflito entre Portugal e Castela porque segundo o Tratado de Alcáçovas, assinado em 1480, as terras a sul das ilhas Canárias pertenciam a Portugal. Sendo assim, as terras descobertas por Cristóvão Colombo deveriam pertencer a Portugal.
+Para resolver este conflito foi necessária a intervenção do papa que levou os dois monarcas dos dois reinos a assinar um novo acordo – o Tratado de Tordesilhas. Segundo este tratado o mundo ficava dividido em duas partes por um meridiano a passar a 370 léguas a ocidente de Cabo Verde. As terras que fossem descobertas a oriente pertenceriam aos portugueses e a ocidente seriam para Castela.
+
+### Chegada à Índia e ao Brasil
+
+#### Chegada à Índia
+D. João II acabou por não ver o seu sonho realizado. Após a sua morte, sucedeu-lhe o seu primo D. Manuel I que decidiu continuar os descobrimentos. Em 1497 nomeou Vasco da Gama capitão-mor de uma armada constituída por quatro navios: as naus S. Gabriel, S. Rafael e Bérrio, mais uma embarcação com mantimentos. O objetivo desta armada era chegar à Índia por mar. A viagem durou um ano e em maio de 1498 os portugueses chegam a Calecut.
+Descoberta do Brasil
+Quando Vasco da Gama chega à Índia, os portugueses foram no início bem recebidos. No entanto, começaram a sentir algumas hostilidades e para garantir o domínio português partiu de Portugal uma armada em Março de 1500. Esta nova armada, chefiada por Pedro Álvares Cabral, era constituída por treze navios. Um desvio feito a ocidente levou os portugueses a descobrirem o Brasil.
+
+
+### Chegada à Índia e ao Brasil / O Império Português no Séc. XVI
+
+## O IMPÉRIO PORTUGUÊS NO SÉCULO XVI
+No fim do século XVI, Portugal tinha um império de grande extensão. Possuía territórios na África, Ásia e na América mais as ilhas atlânticas.
+Os arquipélagos da Madeira e dos Açores
+Os arquipélagos da Madeira e dos Açores foram bastante importantes porque as embarcações que se dirigiam para África e para a Índia iam-se abastecer de alimentos frescos nestas ilhas.
+Na Madeira predominavam as árvores, por isso o seu nome.
+Nos Açores, encontraram muitas aves de nome açores e outras.
+Relevo
+O relevo das ilhas atlânticas é muito montanhoso e de origem vulcânica. É na ilha do Pico que se encontra o pico mais alto de Portugal, com 2351 metros de altitude.
+Os cursos de água existentes são pouco extensos por isso têm o nome de ribeiras. Nos Açores são famosas algumas lagoas formadas nas crateras de vulcões extintos.
+Clima e vegetação
+A Madeira, situada mais a sul e próximo de África, tem um verão quente e seco e um inverno ameno, com precipitações mais elevadas na montanha e vertente norte.
+Estava coberta de densas matas onde predominavam os dragoeiros, loureiros, urzes, giestas, zimbro e jasmim.
+Por seu lado, nos Açores não se notam grandes diferenças de temperatura nas diferentes estações do ano. É frequente o nevoeiro e as chuvas são abundantes, sobretudo nos meses de Outubro a Janeiro.
+Nas matas predominavam os cedros, loureiros, faias, urzes, giestas e fetos gigantes.
+Colonização
+Quando os portugueses descobriram a Madeira e os Açores encontravam-se desabitadas. O clima ameno e as terras férteis levaram o infante D. Henrique a realizar de imediato a sua colonização, ou seja, o povoamento e aproveitamento dos seus recursos naturais.
+As ilhas foram divididas em capitanias, cada uma com um capitão que tinha como função povoá-las e cultivar as suas terras. As pessoas que saíram do continente para as ilhas chamavam-se colonos.
+Principais atividades e produtos
+Os colonos dedicaram-se sobretudo à agricultura e à criação de gado. Na Madeira introduziram-se as culturas da vinha, cana de açúcar, árvores de fruto e cereais. Nos Açores o trigo, a criação de gado e as plantas tintureiras foram as principais riquezas.
+Territórios na África
+A vida dos povos africanos
+Os portugueses avistaram povos de raça negra abaixo do deserto do Sara. Estes povos viviam do aproveitamento dos recursos naturais existentes: caçavam, criavam animais, pescavam, recolhiam frutos, cultivavam o inhame (batata-doce) e faziam o aproveitamento de alguns minerais como o ouro e o cobre que trocavam por outros produtos.
+Os povos africanos estavam organizados em reinos que se guerreavam entre si. Normalmente os vencidos eram feitos escravos.
+Na maioria dos reinos praticava-se a poligamia, ou seja, um homem podia ter várias mulheres. Andavam todos nus da cintura para cima e vivam em palhotas.
+Contatos entre portugueses e africanos
+Os portugueses faziam comércio com os africanos. Ofereciam sal, trigo, objetos de cobre e latão e tecidos coloridos de pouco valor. Em troca recebiam ouro, escravos, marfim e malagueta. Nos locais com bons portos naturais e onde o comércio era mais intenso os portugueses estabeleceram feitorias.
+Além dos contatos comerciais, os portugueses realizaram expedições, da costa africana para o interior, para dominar alguns reis, desenvolver relações de paz e amizade e também para cristianizar os povos africanos. Os missionários fundaram escolas, foram-se construindo igrejas, fortalezas e criaram-se alguns povoados comerciais onde viviam africanos e colonos portugueses.
+ Territórios da Ásia
+ A vida dos povos asiáticos
+Na Ásia os portugueses conquistaram  Goa, Malaca e Ormuz, na Índia, e no Extremo Oriente chegaram às Molucas, ao litoral da China, a Cantão, Timor, Japão e a Macau.
+Em todos estes locais os portugueses encontraram povos de cor de pele, costumes, religião e formas de vida diferentes. Os chineses e os japoneses foram os que causaram maior admiração.
+Contatos entre portugueses e asiáticos
+Os portugueses comercializavam com os asiáticos. Goa, Malaca e Macau eram as principais feitorias. Os portugueses levavam para o Oriente vermelhão, cobre, prata e ouro (por amoedar) e em troca recebiam especiarias, pedras preciosas, porcelanas, perfumes, sedas e madeiras.
+Goa era a capital portuguesa na Índia e lá viviam aí muitos portugueses. No entanto, milhares de colonos portugueses instalaram-se por todo o Oriente, sendo frequente os casamentos com mulheres indianas.
+Também se construíram igrejas, escolas e seminários nas terras asiáticas.
+Territórios da América
+A vida dos índios brasileiros
+O Brasil era um território com imensas florestas, aves e frutos de grande beleza. Os índios viviam de uma maneira bastante simples em estreita relação com a natureza. Dedicavam-se à caça, à pesca e ao cultivo da mandioca. Eram pacíficos e acolhedores e receberam os portugueses com simpatia.
+Colonização
+Inicialmente os portugueses deslocavam-se ao Brasil apenas para trazer o pau-brasil e aves exóticas. Em 1530, iniciou-se a colonização. O rei dividiu as terras em capitanias, tal como nos arquipélagos da Madeira e dos Açores. Os colonos portugueses começaram a cultivar a cana-de-açúcar e a bananeira.
+Os índios não eram fáceis de escravizar por isso os portugueses levaram para o Brasil muitos escravos africanos.
+A VIDA URBANA NO SÉCULO XVI – LISBOA QUINHENTISTA
+Importância da cidade de Lisboa no séc. XVI
+No séc. XVI Lisboa era uma das cidades mais importantes da Europa devido à chegada de mercadorias oriundas do Oriente, África e Brasil, que depois eram distribuídas pelo centro e norte da Europa.
+Produtos que chegavam a Lisboa
+
+- Oriente: especiarias, sedas, porcelanas, pedras preciosas
+- África: ouro, malagueta, marfim, escravos
+- Brasil: açucar, pau-brasil, animais exóticos
+Crescimento da cidade
+Nos reinados de D. João II e de D. Manuel I Lisboa teve um desenvolvimento tão grande que as suas construções começaram a ocupar espaços fora das muralhas construídas por D. Fernando (Cerca Nova ou Cerca Fernandina).
+O rei D. Manuel deixou o Paço de Alcáçova, junto ao Castelo, para ir viver mais junto ao Tejo, no Paço da Ribeira, para melhor vigiar o movimento marítimo.
+Locais importantes da cidade
+
+- Paço da Ribeira: onde se encontravam os aposentos do rei e a Casa da Índia (local abastecido de produtos vindos do Oriente)
+- Rossio: onde os camponeses vendiam os seus produtos
+- Rua Nova dos Mercadores: onde havia mercadores de toda a parte do mundo
+- Ribeira das Naus: onde se construíam navios
+- Hospital Todos-os-Santos: recebia doentes, pobres e órfãos
+- Misericórdia: recebia pobres e crianças abandonadas
+- Feira da Ladra: onde se vendiam produtos usados
+Movimento de pessoas
+
+- Emigração: muitas pessoas partiram para as ilhas atlânticas, Brasil e Oriente, à procura de melhores condições de vida.
+- Imigração: chegaram a Lisboa muitas pessoas vindas de todo o mundo: comerciantes, artesãos, artistas, escravos…
+- Migração interna: muitos camponeses abandonaram os campos e foram para a cidade à procura de melhor condições de vida.
+Distribuição da riqueza
+
+- Nobreza:
+- recebia riquezas
+- gastava dinheiro em luxos, vestuário e na habitação
+- as famílias mais ricas tinham todas escravos
+- Clero:
+- foi beneficiado com a construção e adornação de igrejas e mosteiros
+- Grande parte do povo:
+- vivia em extrema pobreza
+- muitos eram vagabundos, mendigos, miseráveis
+- Corte:
+- das mais ricas e luxuosas da Europa
+- eram frequentes os banquetes e saraus com músicos, poetas e escritores
+- o rei realizava ainda cortejos para exibir a sua riqueza, onde desfilavam músicos ricamente vestidos e animais raros
+Cultura
+
+- Literatura
+- Luís de Camões: “Os Lusíadas”
+- Fernão Mendes: “A Peregrinação”
+- Pêro Vaz de Caminha: “Carta do Achamento do Brasil”
+- Damião de Góis e Rui de Pina: crónicas de reis
+- Bernardim Ribeiro, Sá de Miranda e Garcia de Resende
+- Matemática
+- Pedro Nunes
+- Medicina
+- Garcia de Orta e Amato Lusitano
+- Geografia e Astronomia:
+- Duarte Pacheco Pereira
+- Zoologia e Botânica:
+- Garcia da Orta
+Arte
+
+- Arte Manuelina na arquitetura: decoração com elementos alusivos às viagens marítimas (cordas, redes, conchas, naus, caravelas, esferas armilares) como no Mosteiro dos Jerónimos e Convento de Cristo.
+- Arte Manuelina na escultura, pintura, ourivesaria, cerâmica e mobiliário: revelam também influências dos Descobrimentos.
+
+ PORTUGAL: DA UNIÃO IBÉRICA À RESTAURAÇÃO DA INDEPENDÊNCIA
+A MORTE DE D. SEBASTIÃO E A SUCESSÃO AO TRONO
+Perda da independência
+Quando D. João III morreu, sucedeu-lhe o seu neto D. Sebastião. Como tinha apenas 3 anos, D. Catarina assume a regência do reino, seguindo-lhe o cardeal D. Henrique.
+Aos 14 anos, D. Sebastião assume ele próprio o governo do reino e decide conquistar o norte de África. No entanto, não foi bem sucedido e morreu na batalha de Alcácer Quibir sem deixar descendentes. D. Henrique passa a ser o rei de Portugal mas o problema de sucessão não estava resolvido pois também ele não tinha filhos.
+Surgiram então vários pretendentes ao trono:
+
+- D. Filipe II, rei de Espanha, apoiado por:
+- grande parte do clero e da nobreza: porque temiam perder privilégios e aspiravam novos cargos e terras
+- alta burguesia: porque pretendia novos mercados
+- D. António, prior do Crato, apoiado por:
+- povo e parte da nobreza: não queriam ser governados por um rei estrangeiro e temiam que Portugal perdesse a independência
+- D. Catarina, duquesa de Bragança, apoiada por:
+- muitos nobres e elementos do clero, mas desistiu e apoiou a candidatura filipina
+
+
+### O Renascimento e a Arte Renascentista
+
 ## RENASCIMENTO
 O que foi o Renascimento?
 
@@ -3407,6 +2216,9 @@ Principais pintores renascentistas portugueses
 - Gregório Lopes
 - Francisco Henriques
 
+
+### Reforma e Contrarreforma
+
 ## REFORMA E CONTRARREFORMA
 Igreja Católica do Séc. XVI
 Importância da Igreja Católica
@@ -3467,6 +2279,41 @@ Para travar o avanço das ideias protestantes foram criados:
 O que se passou na Península Ibérica
 As ideias protestantes praticamente não chegaram à Península Ibérica. No entanto, haviam bastantes Judeus. Em Espanha, a inquisição foi extremamente violenta para todos os suspeitos de não serem católicos. Em Portugal, D. Manuel expulsou os Judeus, os que ficaram e aceitaram converter-se ao cristianismo passaram a ser chamados cristãos-novos. No entanto, apesar de convertidos, continuaram a ser perseguidos, torturados e condenados em cerimónias públicas chamadas autos de fé.
 
+---
+
+## Capítulo 5: Século XVII — Domínio Filipino e Restauração
+
+O século XVII é dominado pela questão da soberania portuguesa. Após a morte de D. Sebastião em Alcácer-Quibir (1578) e a crise dinástica que se seguiu, Portugal entra na União Ibérica sob os Filipes de Espanha (1580–1640). Sessenta anos de domínio espanhol trazem prejuízos ao império colonial e descontentamento popular, culminando na Restauração da Independência em 1640, com a aclamação de D. João IV. É também o século do Antigo Regime e da arte barroca.
+
+---
+
+### O Domínio Filipino e a Restauração da Independência
+
+## O DOMÍNIO FILIPINO E OS LEVANTAMENTOS POPULARES
+União Ibérica (1580)
+Cortes em Almeirim: D. Filipe II é aclamado rei de Portugal
+Batalha de Alcântara: D. António, apoiado pelo povo, enfrenta o exército de D. Filipe II mas é derrotado e foge, primeiro para os Açores e depois para Inglaterra
+Cortes de Tomar: D. Filipe II, rei de Espanha, prestou juramento como rei de Portugal, foi intitulado como D. Filipe I, rei de Portugal, e fez várias promessas entre as quais:
+
+- manter a moeda, língua e costumes portugueses
+- cargos de governo de Portugal apenas para portugueses
+D. Filipe I cumpriu a maioria das promessas que fez mas os seus sucessores, D. Filipe II e D. Filipe III, não respeitaram as promessas feitas aos portugueses. A situação piorou quando Espanha entrou em guerras contra a Holanda, França e Inglaterra, e surgiram revoltas dentro do próprio país. Tudo isto teve consequências para Portugal:
+
+- aumento dos impostos
+- soldados portugueses no exército espanhol
+- espanhóis nomeados para cargos em Portugal
+- ataque dos inimigos de Espanha às colónias portuguesas
+Surgiu a revolta popular rapidamente reprimida violentamente pelo exército espanhol.
+A REVOLTA DE 1º DE DEZEMBRO E A GUERRA DA RESTAURAÇÃO
+A União Ibérica, que durou 60 anos, acabou por trazer vários prejuízos a Portugal. À revolta popular juntou-se o descontentamento da nobreza em muito prejudicada neste período.
+ 1 de Dezembro de 1640
+Um conjunto de nobres aproveitou o enfraquecimento da Espanha e a ausência do rei em Portugal para organizar uma conspiração para matar a vice-rei de Portugal, a duquesa de Mântua. Bem sucedidos, aclamaram a Restauração da Independência.
+Cortes em Lisboa
+D. João, duque de Bragança, é aclamado rei de Portugal com o título de D. João IV.
+Guerra da Restauração
+D. João IV procurou organizar o exército, fabricou armas e fortalezas junto às fronteiras com Espanha. Durante 28 anos Portugal esteve em guerra com Espanha, que só terminou com o Tratado de Madrid, assinado em 1668.
+
+
 União Ibérica e Restauração da Independência
 A União Ibérica e a Restauração da Independência são dois eventos históricos que marcaram a história de Portugal no período moderno, principalmente no século XVII. Vou te dar um resumo de cada um:
 1. União Ibérica (1580-1640)
@@ -3501,6 +2348,9 @@ Características
 - poder absoluto do rei (o rei concentrava em si todos os poderes)
 - sociedade de ordens tripartida (nobreza, clero e terceiro estado)
 - economia essencialmente agrícola mas dinamizada pelas actividades comerciais
+
+
+### O Antigo Regime
 
 Características Politicas
 
@@ -3568,7 +2418,154 @@ Politica Mercantilista
 - dramatismo
 - exuberância
 
-Arte Barroca, iluminismo e Marquês de Pombal
+
+### Grandes Construções e a Arte Barroca
+
+## GRANDES CONSTRUÇÕES
+Parte das riquezas obtidas com o ouro brasileiro foi gasta na construção de grandes palácios e conventos.
+Por iniciativa régia (do rei):
+
+- Aqueduto das Águas Livres
+- Palácio e Convento de Mafra
+- Capela de S. Batista
+Por iniciativa da nobreza:
+
+- Solar de Mateus
+- Palácio dos Condes de Anadia
+- Palácio do Freixo
+Por iniciativa do clero:
+
+- Torre dos Clérigos
+Estilo Barroco
+O estilo que caracterizava estas construções era o Barroco.
+Características do estilo barroco:
+
+- Grandiosidade
+- Revestimento em talha dourada, azulejo e mármore
+- Decoração abundante com curvas
+- Abundância de estátuas
+
+---
+
+## Capítulo 6: Século XVIII — Iluminismo e Absolutismo
+
+O século XVIII é a era das Luzes. Na Europa, os filósofos iluministas questionam o poder absoluto e defendem a razão, a liberdade e a igualdade. Em Portugal, D. João V beneficia das riquezas do ouro brasileiro e governa como monarca absoluto. Após o terramoto de 1755, o Marquês de Pombal reconstrói Lisboa e moderniza o Estado. O século encerra com a Revolução Francesa (1789), que abalará toda a ordem europeia, e com a independência dos Estados Unidos da América.
+
+---
+
+### O Império Colonial Português no Séc. XVIII
+
+O IMPÉRIO COLONIAL PORTUGUÊS DO SÉC. XVIII
+Colónias pertencentes a Portugal
+No século XVIII o Império português era constituído por:
+
+- Na Ásia: pelas cidades de Damão, Diu e Goa na Índia e ainda por Macau e Timor;
+- Em África: por Cabo Verde, Guiné, São Tomé e Príncipe, Angola e Moçambique
+- Na América: pelo Brasil
+Brasil
+Neste período Portugal já não obtinha grandes lucros com o comércio do Oriente (Índia) devido à concorrência com ingleses, franceses e holandeses, por isso interessou-se mais em explorar o Brasil.
+O tempo quente e húmido permitiu cultivar grandes quantidades de cana-de-açucar que depois era trabalhada nos engenhos para ser transformada em açucar.
+Além do açúcar, o Brasil passou a ser bastante importante por causa da descoberta de ouro e de pedras preciosas.
+Bandeirantes: pessoas que foram para o interior do Brasil à procura de ouro, pedras preciosas e  de índios para escravizar. Fundaram cidades e povoações o que permitiu alargar as fronteiras do Brasil para além da linha de Tordesilhas.
+Engenhos: conjunto de instalações que moem a cana-de-açúcar e a transformam em açúcar.
+Comércio triangular
+Neste período desenvolveu-se o comércio entre três continentes: Europa, América e África.
+Movimentos da população
+Da metrópole (Portugal):
+
+- Milhares de colonos partiram para o Brasil em busca de melhores condições de vida;
+- Missionários também partiram para o Brasil com a missão de expandir a fé católica.
+De África:
+
+- Milhares de escravos foram levados para o Brasil para trabalhar nas plantações de cana-de-açucar, nos engenhos e na exploração do ouro. Eram transportados em navios negreiros em condições desumanas.
+No Brasil:
+
+- Os bandeirantes deslocaram-se para o interior do Brasil à procura de ouro, pedras preciosas e de índios para os escravizar;
+- Os missionários também foram para o interior para evangelizar os índios brasileiros e para os proteger da escravatura.
+GOVERNO DE D. JOÃO V
+A descoberta de ouro e de pedras preciosas desenvolveu o comércio triangular que trouxe grandes riquezas a Portugal. D. João V tornou-se num dos reis mais ricos da Europa e concentrou em si todos os poderes passando a governar como um rei absoluto.
+Monarquia absoluta: regime em que o rei concentra em si todos os poderes.
+Poderes do rei:
+
+- Legislativo: fazia as leis
+- Executivo: fazia cumprir as leis
+- Judicial: julgava quem não cumpria as leis
+A vida da corte
+
+- Vivia em luxo e ostentação
+- Realizavam-se bailes, teatros, concertos, banquetes e cortejos para mostrar a sua riqueza
+A nobreza
+
+- Tentava imitar a corte no vestuário, na habitação e nos divertimentos.
+O clero
+
+- Construiu igrejas e conventos e adornou outras
+- Tinha um grande poder e criou o Tribunal de Inquisição que perseguia e condenava à morte quem estivesse contra a Igreja Católica, quem praticasse outra religião ou quem fosse suspeito
+Cristãos-novos: nome dado a quem aceitava converter-se à religião católica. No entanto, muitos foram perseguidos e condenados à morte por suspeita de praticarem outras religiões em segredo.
+Autos-de-fé: cerimónias públicas onde os condenados eram torturados e queimados vivos.
+A burguesia
+
+- A alta burguesia enriqueceu com o comércio e tentou imitar o modo de vida da nobreza
+- Estes burgueses conviviam em clubes e cafés com artistas, escritores e políticos
+Povo
+
+- Continuava a viver em grandes dificuldades
+
+
+### Lisboa Pombalina
+
+## LISBOA POMBALINA
+Governo de D. José I
+Em 1750, D. José I sobe ao trono e nomeia Sebastião José de Carvalho e Melo, futuro Marquês de Pombal, como ministro.
+Terramoto de 1755
+Lisboa ficou praticamente destruída após o terramoto de 1755:
+
+- Morreram cerca de 10 000 pessoas
+- Grande maior parte dos edificios ficaram em ruínas
+- Perderam-se muitos tesouros como livros, manuscritos, quadros e objetos de ouro e de prata
+Ação do Marquês de Pombal após o terramoto
+
+- Mandou enterrar os mortos e socorrer os feridos
+- Mandou policiar as ruas e os edifícios mais importantes para evitar roubos
+- Encarregou o engenheiro Manuel da Maia e o arquiteto Eugénio dos Santos elaborar um plano de reconstrução da baixa de Lisboa
+Características da nova Lisboa
+A baixa de Lisboa é conhecida por baixa pombalina porque o responsável pela sua reconstrução após o terramoto foi o Marquês de Pombal. Esta reconstrução caracterizou-se por várias inovações:
+
+- Ruas largas
+- Passeios calcetados
+- Traçado geométrico
+- Prédios da mesma altura com fachadas iguais e dotados de um sistema de madeira anti-sísmico
+- Rede de esgotos
+O Terreiro do Paço deu lugar à Praça do Comércio em homenagem aos burgueses que contribuíram com dinheiro para a reconstrução de Lisboa.
+Situação de Portugal neste período
+O reino português encontrava-se em crise:
+
+- O comércio enfrentou uma grande concorrência estrangeira que impediu o seu crescimento
+- A agricultura e a indústria não produziam o suficiente, portanto Portugal tinha que comprar quase tudo ao estrangeiro
+- Chegava cada vez menos ouro do Brasil, por isso deixou de haver dinheiro para importar tantos produtos
+- O terramoto de 1755 veio agravar ainda mais a situação do país
+Reformas pombalinas
+Para resolver a grave situação que enfrentava Portugal, Marquês de Pombal decidiu fazer várias reformas:
+
+- Reformas económicas:
+- Desenvolveu a indústria apoiando fábricas antigas e criando novas
+- Criou companhias de comércio
+- Reformas políticas e sociais
+- Perseguiu e retirou poder à Nobreza (retirou cargos e riquezas e reprimiu quem se lhe opusesse)
+- Diminuiu o poder do Clero, expulsando os Jesuítas
+- Protegeu a Burguesia
+- Extinguiu a escravatura no reino (embora continuasse a existir nas colónias portuguesas)
+- Reformas no ensino
+- Criou escolas primárias
+- Reformou a Universidade de Coimbra
+- Extinguiu a Universidade de Évora que era controlada pelos Jesuítas
+Marquês de Pombal utilizou a Burguesia como motor de desenvolvimento económico do país, e retirou poder às classes privilegiadas, ou seja, ao Clero e à Nobreza.
+Todas estas medidas, a nível social, político, económico e do ensino, contribuíram para a modernização do país.
+
+A REVOLUÇÃO FRANCESA DE 1789 E SEUS REFLEXOS EM PORTUGAL
+
+
+### O Iluminismo
 
 ## O ILUMINISMO
 O que foi o Iluminismo
@@ -3686,6 +2683,406 @@ Crescimento Urbano
 Muitas mudanças introduzidas na agricultura fizeram com que se deixasse de ser necessária tanta mão-de-obra nos campos. Sendo assim, com o crescimento da população e falta de trabalho nos campos, verificou-se um elevado êxodo rural, o que levou ao crescimento das cidades.
 CRESCIMENTO DA             +        FALTA DE TRABALHO
 POPULAÇÃO                                  NOS CAMPOS
+
+
+### A Revolução Francesa
+
+## REVOLUÇÃO FRANCESA
+
+### Causas da Revolução
+A França, na segunda metade do século XVIII, vivia sob o chamado Antigo Regime (*Ancien Régime*), um sistema político e social que provocava grande descontentamento:
+
+- **Sociedade de ordens desigual:** A sociedade francesa estava dividida em três estados (ordens):
+  - **1º Estado – Clero:** não pagava impostos e possuía vastas terras e riquezas.
+  - **2º Estado – Nobreza:** também isenta de impostos, ocupava os cargos mais importantes do reino.
+  - **3º Estado – Povo (burguesia, camponeses, artesãos):** representava cerca de 97% da população, mas era o único grupo que pagava impostos pesados.
+- **Crise financeira:** As guerras (incluindo o apoio à independência dos Estados Unidos), os gastos da corte de Versalhes e a má gestão das finanças levaram a França à beira da falência.
+- **Influência do Iluminismo:** As ideias de pensadores como Voltaire (liberdade de pensamento), Montesquieu (separação dos poderes) e Rousseau (soberania popular) inspiraram a população a questionar o poder absoluto do rei e os privilégios da nobreza e do clero.
+- **Fome e miséria:** Más colheitas em 1788 provocaram uma grave crise alimentar, com subida dos preços do pão, o que aumentou a revolta popular.
+
+### As Fases da Revolução
+
+**1ª Fase – Reunião dos Estados Gerais e início da Revolução (1789)**
+
+- Em maio de 1789, o rei Luís XVI convocou os Estados Gerais (assembleia com representantes dos três estados) para resolver a crise financeira. O Terceiro Estado exigiu que a votação fosse feita por cabeça (e não por ordem), para ter maioria. Como o rei recusou, os deputados do Terceiro Estado abandonaram a assembleia e formaram a **Assembleia Nacional Constituinte**, jurando não se separar até dar a França uma constituição (*Juramento do Jogo da Péla*).
+- A **14 de julho de 1789**, o povo de Paris, temendo uma reação militar do rei, assaltou a Bastilha, uma fortaleza-prisão símbolo do poder absoluto. Esta data tornou-se o símbolo da revolução.
+- Em agosto de 1789, a Assembleia aprovou a **Declaração dos Direitos do Homem e do Cidadão**, que proclamava:
+  - Todos os homens nascem livres e iguais em direitos.
+  - Os direitos naturais são a liberdade, a propriedade, a segurança e a resistência à opressão.
+  - A soberania reside na nação (e não no rei).
+  - Separação dos poderes (legislativo, executivo e judicial).
+
+**2ª Fase – Monarquia Constitucional (1791–1792)**
+
+- Em 1791 foi aprovada a primeira Constituição francesa, que estabelecia uma monarquia constitucional com separação de poderes. O rei mantinha o poder executivo, mas limitado pela lei.
+- Luís XVI tentou fugir de França para pedir ajuda militar estrangeira, mas foi capturado na fronteira (Fuga de Varennes), o que aumentou a desconfiança popular.
+- Os reis da Áustria e da Prússia declararam guerra à França para defender a monarquia absoluta, iniciando as **Guerras Revolucionárias**.
+
+**3ª Fase – A República e o Terror (1792–1794)**
+
+- Em setembro de 1792, a monarquia foi abolida e proclamou-se a **República Francesa**.
+- O rei Luís XVI foi julgado por traição e executado na guilhotina em janeiro de 1793, assim como a rainha Maria Antonieta.
+- Os **Jacobinos**, liderados por Maximilien de Robespierre, assumiram o poder e instauraram o chamado **Período do Terror** (1793–1794): milhares de pessoas foram executadas, acusadas de serem inimigas da revolução.
+- Outros líderes importantes deste período: Georges Danton e Jean-Paul Marat.
+- Em julho de 1794, o próprio Robespierre foi preso e executado, pondo fim ao Terror.
+
+**4ª Fase – O Diretório e a ascensão de Napoleão (1795–1799)**
+
+- Após o Terror, foi criado o **Diretório**, um governo mais moderado que governou a França entre 1795 e 1799.
+- No entanto, o Diretório enfrentou instabilidade política e económica, e a França continuava em guerra contra várias potências europeias.
+- Em 1799, o general **Napoleão Bonaparte**, que se tinha destacado nas campanhas militares, deu um golpe de Estado e assumiu o poder.
+
+### O Império Napoleónico e a Europa
+Napoleão governou primeiro como cônsul e depois, a partir de 1804, como imperador dos franceses. Através de guerras e alianças, conseguiu dominar grande parte da Europa, difundindo os ideais revolucionários (igualdade perante a lei, fim dos privilégios feudais, código civil).
+Para enfraquecer a Inglaterra, a sua principal rival, Napoleão ordenou o **Bloqueio Continental** (1806): todos os portos europeus deviam fechar-se ao comércio inglês.
+
+### A importância da Revolução Francesa
+A Revolução Francesa foi um dos acontecimentos mais importantes da história mundial:
+
+- Pôs fim à monarquia absoluta e ao sistema feudal em França.
+- Difundiu os ideais de **liberdade, igualdade e fraternidade** por toda a Europa e pelo mundo.
+- A Declaração dos Direitos do Homem e do Cidadão tornou-se a base dos direitos humanos modernos.
+- Inspirou movimentos revolucionários e liberais em Portugal, no Brasil e em muitos outros países durante o século XIX.
+
+### Reflexos em Portugal
+Fuga da família real portuguesa para o Brasil
+Neste período, Portugal tinha uma rainha, D. Maria I, viúva e doente. Por isso, o reino era governado pelo seu filho, o príncipe João.
+Portugal, como era um velho aliado da Inglaterra, e não queria perder o comércio com os ingleses, demorou a aderir ao bloqueio continental imposto por Napoleão Bonaparte. Quando o príncipe regente decidiu aderir ao bloqueio continental, já a França e a Espanha, sua aliada, tinham decidido invadir Portugal.
+A família real, com medo de ser presa pelas tropas francesas, parte para o Brasil em 1807, e é criada uma Junta de Regência para governar Portugal.
+
+
+
+### Independência dos Estados Unidos da América
+
+Independência dos EUA e revoluções francesa e portuguesa
+
+Independência Estados Unidos da América
+Localizar no tempo e no espaço a revolução
+Na América do Norte (na costa leste), em 1776 treze colónias inglesas tornam-se independentes.
+Apresentar os principais factores de descontentamento das colónias inglesas
+Existia uma burguesia próspera e empreendedora que estava contra o exclusivo colonial imposto pela metrópole que impedia de comerciar com os outros países. A situação piorou quando a metrópole fixou novas taxas alfandegárias sobre o açúcar, o chá e o papel selado.
+Identificar o processo que levou á criação dos E.U.A.
+Em 1775, os representantes das treze colónias resolveram criar um exercito para resistir á dominação inglesa e, no ano seguinte, um novo congresso em Filadélfia decidiu proclamar a independência. A Inglaterra entrou em guerra contra os revoltosos mas estes tiveram o apoio da França, Espanha e Holanda. No qual, em 1783, o exercito de Washington impôs-se aos ingleses que se viram obrigados em reconhecer a independência das suas colónias.
+Referir o processo de consolidação da independência
+Em 1787, as várias colónias aprovaram a Constituição de 1787 que instituiu os Estados Unidos da América sob a forma de uma república federal: cada Estado conservava a sua autonomia mas havia um governo central que se ocupava das questões comuns como a defesa e os negócios estrangeiros.
+Indica dois aspectos inovadores desta revolução
+
+- Pela primeira vez uma colónia tornava-se independente
+- Foi instaurado um regime democrático baseado nos ideais iluministas
+
+Revolução Liberal Francesa
+Localizar no tempo e no espaço esta revolução
+Em 1789, ocorreu uma revolução na França que acabou com a monarquia absoluta.
+Descontentamento social
+Terceiro Estado
+
+- Os camponeses viviam na miséria, pagavam bastantes impostos e ainda várias obrigações senhoriais
+- Os artesãos e assalariados queixavam-se da falta de emprego, baixos salários e subida de preços
+- Os burgueses, apesar de ser o grupo social mais rico e mais culto, não tinham acesso aos mais altos cargos, por isso apoiavam as ideias iluministas de liberdade e igualdade.
+
+Crise económica e financeira
+
+- maus anos agrícolas fez subir os preços dos cereais
+- as receitas do Estado eram insuficientes para cobrir as despesas
+
+Solução para esta crise
+Umas das soluções propostas foi cobrar impostos também aos grupos privilegiados (nobreza e clero), no entanto estes grupos sociais não aceitaram esta solução.
+
+---
+
+## Capítulo 7: Século XIX — Revoluções e Modernização
+
+O século XIX é uma era de profundas transformações. As invasões napoleónicas abalam Portugal e conduzem à fuga da corte para o Brasil. A Revolução Liberal de 1820, a independência do Brasil e a guerra civil entre liberais e absolutistas redefinem o país. Na segunda metade do século, a Regeneração e o Fontismo modernizam infraestruturas e ensino. Na Europa, a Revolução Industrial transforma a economia e a sociedade. O imperialismo europeu estende-se por África e Ásia, mas o Ultimato Inglês de 1890 humilha Portugal e alimenta o descontentamento que levará à queda da monarquia.
+
+---
+
+### Invasões Francesas em Portugal
+
+## INVASÕES FRANCESAS EM PORTUGAL
+1ª invasão francesa (1807)
+Comandante: Junot
+Instalou-se em Lisboa, mandou substituir a bandeira portuguesa pela francesa no castelo de S. Jorge, acabou com a Junta de Regência e passou ele a governar Portugal.
+Durante a invasão francesa destruíram-se culturas, mataram-se pessoas e foi roubado tudo o que tivesse valor.
+Reação portuguesa:
+Foram criados movimentos de resistência pelos populares e foi pedido auxílio aos ingleses. O exército anglo-português venceu os franceses nas batalhas da Roliça e do Vimeiro e Junot assinou a Convenção de Sintra e abandonou Portugal.
+2ª invasão francesa (1809)
+Comandante: Soult
+Entrou por Trás-os-Montes, chegou ao Porto mas encontrou uma forte resistência e refugiou-se na Galiza.
+3ª invasão francesa (1810)
+Comandante: Massena
+O seu exército perdeu muitos soldados na batalha do Buçaco mas tentou na mesma a todo o custo chegar a Lisboa. No entanto, ficou retido na linha defensiva de Torres Vedras, que era um conjunto de fortificações e canhões criados pelos ingleses para proteger a cidade de Lisboa.
+Massena foi obrigado a desistir e a retirar-se definitivamente.
+A REVOLUÇÃO LIBERAL DE 1820
+Situação do reino português após as invasões francesas
+A população encontrava-se bastante descontente:
+
+- A família real continuava no Brasil e sem intenções de voltar
+- O reino encontrava-se pobre e desorganizado
+- Os ingleses não saíram de Portugal e controlavam o comércio feito com o Brasil, prejudicando assim os comerciantes portugueses
+Grande parte da população, sobretudo o povo e a burguesia, começou a defender as ideias liberais vindas de França.
+Revolução liberal de 1820
+Em 1818 foi fundada no Porto uma sociedade secreta chamada Sinédrio que tinha como objetivo preparar uma revolução para expulsar os ingleses e ordenar o regresso do rei que estava no Brasil.
+Em 1820 iniciou-se a Revolução Liberal, no Porto, que depois se espalhou por todo o país e em Lisboa.
+Monarquia Liberal
+Portugal passou a ter uma monarquia liberal.
+Foram criadas as Cortes Constituintes, que tiveram a função de criar a Constituição de 1822, onde estavam definidos os direitos e deveres dos cidadãos. Nesta Constituição estava definido que todos os cidadãos eram iguais perante a lei e estava estabelecida a separação de poderes.
+
+
+### Independência do Brasil
+
+## INDEPENDÊNCIA DO BRASIL
+
+### Contexto
+Durante a permanência da família real no Brasil (1808–1821), o território brasileiro sofreu profundas transformações:
+
+- **Abertura dos portos:** Em 1808, D. João abriu os portos brasileiros ao comércio com todas as nações amigas, quebrando o monopólio comercial que Portugal mantinha. Isto beneficiou enormemente a burguesia brasileira e os comerciantes estrangeiros, sobretudo ingleses.
+- **Desenvolvimento económico e cultural:** O Rio de Janeiro tornou-se a capital do império português. Foram criados o Banco do Brasil, escolas superiores, a Imprensa Régia, o Jardim Botânico e a Biblioteca Real. O Brasil deixou de ser uma simples colónia e passou a ter vida cultural e económica própria.
+- **Elevação a reino:** Em 1815, o Brasil foi elevado à categoria de reino, passando a formar o Reino Unido de Portugal, Brasil e Algarves, o que lhe dava um estatuto de igualdade com Portugal.
+
+### O regresso de D. João VI e a tensão política
+Após a Revolução Liberal de 1820 em Portugal, as Cortes Constituintes exigiram o regresso do rei. D. João VI regressou a Portugal em 1821, deixando o seu filho D. Pedro como príncipe regente do Brasil.
+
+As Cortes tentaram reverter as conquistas do Brasil:
+
+- Ordenaram o regresso de D. Pedro a Portugal.
+- Tentaram restabelecer o monopólio comercial e retirar a autonomia administrativa brasileira.
+- Estas medidas provocaram uma enorme revolta entre os brasileiros, que não queriam perder os avanços alcançados.
+
+### A declaração de independência
+A burguesia brasileira, os grandes proprietários de terras e parte da população apoiaram D. Pedro, que decidiu permanecer no Brasil. A 9 de janeiro de 1822, D. Pedro declarou: *"Se é para o bem de todos e felicidade geral da nação, diga ao povo que fico"* – episódio que ficou conhecido como o **Dia do Fico**.
+
+A 7 de setembro de 1822, junto ao rio Ipiranga, em São Paulo, D. Pedro proclamou a independência do Brasil, no episódio conhecido como o **Grito do Ipiranga**: *"Independência ou morte!"*
+
+D. Pedro foi aclamado como D. Pedro I, imperador do Brasil. Portugal reconheceu a independência do Brasil em 1825, após mediação inglesa.
+
+### Consequências
+- O Brasil tornou-se uma monarquia constitucional independente.
+- Portugal perdeu a sua maior e mais rica colónia, agravando a crise económica do reino.
+- A independência do Brasil inspirou-se nos ideais liberais vindos da Revolução Francesa e da independência dos Estados Unidos.
+- O êxito da independência brasileira encorajou outros movimentos de emancipação na América Latina.
+
+
+
+### A Luta entre Liberais e Absolutistas
+
+## A LUTA ENTRE LIBERAIS E ABSOLUTISTAS
+
+### Contexto: duas visões opostas para Portugal
+Após a Revolução Liberal de 1820, Portugal dividiu-se em dois campos políticos irreconciliáveis:
+
+- **Liberais:** Defendiam a Constituição, a separação de poderes, os direitos individuais e uma monarquia constitucional em que o rei governava de acordo com as leis aprovadas pelo parlamento. Eram apoiados pela burguesia, pelos intelectuais e por grande parte do povo urbano.
+- **Absolutistas:** Defendiam o regresso à monarquia absoluta, em que o rei concentrava todo o poder. Eram apoiados pela alta nobreza e por grande parte do clero, que tinham perdido privilégios com as reformas liberais.
+
+### A Carta Constitucional de 1826
+Quando D. João VI morreu em 1826, D. Pedro (que era imperador do Brasil) sucedeu-lhe no trono português. No entanto, não querendo abandonar o Brasil, D. Pedro tomou duas decisões:
+
+- Outorgou a **Carta Constitucional de 1826**, um documento mais moderado que a Constituição de 1822, que mantinha a monarquia constitucional mas dava mais poderes ao rei (incluindo o poder moderador).
+- Abdicou da coroa portuguesa a favor da sua filha **D. Maria da Glória**, que tinha apenas 7 anos, ficando o seu irmão **D. Miguel** como regente.
+
+### O golpe absolutista de D. Miguel
+D. Miguel jurou governar segundo a Carta Constitucional, mas em 1828 dissolveu as Cortes e fez-se aclamar rei absoluto, restaurando o absolutismo. Iniciou uma violenta perseguição aos liberais: muitos foram presos, torturados ou forçados ao exílio.
+
+### A Guerra Civil (1832–1834)
+Em 1831, D. Pedro abdicou do trono brasileiro e dedicou-se a restaurar os direitos da sua filha em Portugal. Reuniu-se com liberais exilados na ilha Terceira, nos Açores, e organizou uma expedição militar.
+
+**Principais acontecimentos:**
+
+- **1832:** D. Pedro desembarcou com as suas tropas no Mindelo, perto do Porto, e ocupou a cidade. Seguiu-se o **Cerco do Porto**, em que as forças absolutistas de D. Miguel cercaram a cidade durante mais de um ano, mas os liberais resistiram.
+- **1833:** Uma expedição liberal, comandada pelo Duque da Terceira, navegou para o Algarve e subiu até Lisboa, conquistando a capital.
+- **1834:** Após várias derrotas militares, D. Miguel foi obrigado a assinar a **Convenção de Évora Monte** (maio de 1834), pela qual renunciou ao trono e partiu para o exílio.
+
+### Consequências
+- O liberalismo saiu vitorioso e implantou-se definitivamente em Portugal.
+- D. Maria II tornou-se rainha e jurou a Carta Constitucional.
+- Foram tomadas importantes reformas liberais: extinção das ordens religiosas, nacionalização dos seus bens, abolição dos dízimos, reforma da administração pública e do ensino.
+- A guerra civil deixou o país economicamente arruinado e socialmente dividido, consequências que se fariam sentir durante décadas.
+
+
+
+### Regeneração
+No início da segunda metade do séc. XIX, o Reino de Portugal encontrava-se pobre e desorganizado, principalmente devido a três acontecimentos:
+
+- Invasões napoleónicas
+- Guerra civil entre liberais e absolutistas
+- Independência do Brasil
+As principais atividades económicas (agricultura, criação de gado, extração mineira) encontravam-se bastante atrasadas, por isso Portugal tinha que importar vários produtos de outros países europeus com maior desenvolvimento. Era importante nesta altura desenvolver estas atividades económicas para tirar o Reino desta crise.
+A 1851 iniciou-se o movimento de Regeneração. Este movimento procurava o “renascer” da vida nacional, pois queria um novo rumo para Portugal, que se encontrava muito atrasado e pouco desenvolvido.
+Durante o período da Regeneração, várias medidas foram tomadas para desenvolver as atividades económicas, o que permitiram a modernização e o progresso do país.
+Este período de desenvolvimento apenas foi possível devido à:
+
+- existência de paz no Reino
+- estabilidade política após o triunfo do liberalismo
+Desenvolvimento da agricultura
+Para aumentar a produção de alimentos, os governos liberais tomaram várias medidas para o desenvolvimento da agricultura e para o aumento da área cultivada.
+Medidas para aumento da área cultivada:
+
+- extinção do direito do morgadio, ou seja, do direito do filho herdar todas as terras da família. As terras passaram a ser divididas por todos os filhos para assegurar uma melhor exploração das terras
+- entrega de terras pertencentes a nobres e clérigos a burgueses
+- entrega de baldios (terras incultas) aos camponeses
+Novas técnicas:
+
+- utilização de adubos químicos
+- utilização de semementes selecionadas
+- alternância de culturas, que pôs fim ao pousio. Desta forma as terras não precisavam de estar um período de tempo sem estarem cultivadas
+- introdução das máquinas agrícolas, inclusive a debulhadora mecânica a vapor
+Novas culturas:
+
+- batata
+- arroz
+Desenvolvimento da indústria
+A introdução da máquina a vapor na indústria contribuiu de forma significativa para o seu desenvolvimento. Esta inovação permitiu aumentar a produção em menos tempo, o que possibilitou o aumento de lucros.
+A produção artesanal foi assim começando a dar lugar à produção industrial por ser mais lucrativa.
+Principais diferenças entre produção artesanal e produção industrial:
+
+Produção artesanal
+Produção industrial
+Artesãos
+Operários
+Oficinas
+Fábricas
+Ferramentas simples
+Máquinas
+Muito tempo de produção
+Pouco tempo de produção
+Pouca produção
+Muita produção
+Produtos únicos
+Produtos em série
+Produtos mais caros
+Produtos mais baratos
+Menor lucro
+Maior lucro
+A maior parte das fábricas instauraram-se nas zonas do litoral, principalmente na zona de Porto/Guimarães (indústria têxtil e calçado) e na zona de Lisboa/Setúbal (indústria química e metalúrgica)
+Exploração mineira
+Com o desenvolvimento da indústria tornou-se necessário desenvolver a exploração mineira por se precisar de matérias-primas e combustíveis. Os metais mais procurados eram o cobre e o ferro. O carvão também foi muito procurado porque nessa época era a principal fonte de energia.
+Alteração da paisagem
+O aumento dos campos de cultivo e o aumento do número de fábricas e de minas provocaram uma profunda alteração das paisagens. Nas cidades predominavam as chaminés muito altas que enchiam o céu de fumos e maus cheiros.
+
+
+### O Fontismo
+
+## O FONTISMO
+
+### O que foi o Fontismo
+Para promover o desenvolvimento da agricultura, do comércio e da indústria, era necessário a construção de uma boa rede de transportes e de comunicações. Com esse fim, em 1852, foi criado o Ministério das Obras Públicas, dirigido por **Fontes Pereira de Melo**. Esta política de construção de obras públicas ficou conhecida por **Fontismo**, devido ao nome do seu principal impulsionador.
+
+Fontes Pereira de Melo acreditava que a modernização das infraestruturas era a chave para o progresso do país. O seu lema era "construir estradas, caminhos de ferro e escolas". Esta visão dominou a política portuguesa durante a segunda metade do século XIX.
+
+### Desenvolvimento dos meios de transporte
+
+**Caminhos-de-ferro:**
+A rede de caminhos-de-ferro cresceu de forma muito rápida e ao longo da sua extensão construíram-se várias pontes, túneis e estações.
+
+- Em **1856** realizou-se a primeira viagem de comboio, entre Lisboa e Carregado.
+- Em **1863** foi inaugurada a ligação Lisboa-Porto.
+- Em **1887** inaugurou-se a ligação direta Lisboa-Madrid-Paris. Portugal ficou assim mais próximo do centro da Europa.
+- No final do século XIX, a rede ferroviária estendia-se já por grande parte do território nacional, com linhas que ligavam o litoral ao interior.
+
+**Rede de estradas:**
+Iniciou-se também a renovação e construção de novas estradas em todo o país. De forma a facilitar a circulação, construíram-se várias pontes, como a ponte D. Luís I no Porto (1886) e a ponte D. Maria Pia, também no Porto, projetada por Gustave Eiffel (1877).
+A partir de 1855 começou a circular na estrada Lisboa-Porto a mala-posta, uma carruagem que transportava o correio e algumas pessoas.
+No final do século XIX surgiram os primeiros automóveis.
+
+**Portos marítimos e faróis:**
+Para tornar mais segura a navegação costeira, construíram-se vários faróis e melhoraram-se os portos marítimos, com destaque para os portos de Lisboa e Leixões.
+Surgiram nesta época os barcos movidos a vapor, primeiro no Rio Tejo, depois na ligação entre Lisboa e Porto e, mais tarde ainda, na ligação aos Açores e Madeira.
+
+### Desenvolvimento das comunicações
+- Os correios foram remodelados, surgindo o primeiro selo-adesivo, o bilhete-postal e os primeiros marcos de correio.
+- Surgiu o **telégrafo** (1857 – primeira ligação telegráfica Lisboa-Porto), que permitia enviar mensagens rapidamente a longa distância.
+- Em 1882 chegou o **telefone** a Portugal, instalado primeiro em Lisboa.
+
+### Consequências do Fontismo
+
+**Aspetos positivos:**
+
+- Modernização do país e aproximação à Europa.
+- Maior mobilidade de pessoas e mercadorias.
+- Desenvolvimento do comércio interno e externo.
+- Integração das várias regiões do país.
+
+**Aspetos negativos:**
+
+- As obras públicas foram financiadas em grande parte com **empréstimos ao estrangeiro**, o que aumentou significativamente a dívida externa portuguesa.
+- O desenvolvimento concentrou-se no litoral, agravando as desigualdades entre o litoral e o interior.
+- A agricultura e a indústria não se desenvolveram ao mesmo ritmo que as infraestruturas.
+- Os custos das obras foram muito superiores ao previsto, contribuindo para a crise financeira que afetaria Portugal nas décadas seguintes.
+
+
+### Modernização do Ensino
+
+## MODERNIZAÇÃO DO ENSINO
+
+### A necessidade de instruir a população
+O país encontrava-se em plena modernização, com novas fábricas, transportes e tecnologias, por isso era urgente que a população se tornasse mais instruída e preparada para acompanhar estas mudanças. No início da segunda metade do século XIX, a maioria dos portugueses era analfabeta – estima-se que cerca de 80% da população não sabia ler nem escrever.
+
+### Medidas tomadas
+
+**Ensino primário:**
+
+- Criaram-se novas escolas primárias por todo o país, tanto para rapazes como para raparigas.
+- Tornou-se obrigatória a frequência nos primeiros 3 anos, com mais um de voluntariado.
+- Apesar da obrigatoriedade, muitas crianças, sobretudo nas zonas rurais, continuavam a não frequentar a escola, pois eram necessárias para ajudar no trabalho do campo.
+- Foram formados novos professores nas escolas normais (escolas de formação de professores).
+
+**Ensino liceal:**
+
+- Criaram-se novos liceus em todas as capitais de distrito e dois em Lisboa.
+- O ensino liceal preparava os alunos para os estudos universitários e para carreiras na administração pública.
+
+**Ensino técnico e profissional:**
+
+- Fundaram-se escolas industriais, comerciais e agrícolas, para formar trabalhadores qualificados que pudessem contribuir para o desenvolvimento económico do país.
+- Estas escolas representavam uma novidade importante, pois até então o ensino era quase exclusivamente teórico e literário.
+
+**Ensino universitário e superior:**
+
+- Criaram-se novas escolas ligadas à Marinha, às Artes, às Técnicas e ao Teatro.
+- A Universidade de Coimbra continuou a ser a única universidade do país até ao início do século XX.
+
+### Resultados
+Apesar dos esforços, os resultados foram modestos. No final do século XIX, a taxa de analfabetismo em Portugal continuava acima dos 70%, uma das mais altas da Europa. A escolarização no meio rural era especialmente difícil, devido à distância das escolas, à pobreza das famílias e à necessidade de mão de obra infantil na agricultura. Ainda assim, as reformas educativas deste período lançaram as bases para o desenvolvimento do sistema de ensino que seria expandido durante a I República.
+
+
+
+### Direitos Humanos
+
+## DIREITOS HUMANOS
+
+### Avanços em Portugal no século XIX
+A segunda metade do século XIX foi um período de importantes conquistas no campo dos direitos humanos em Portugal, influenciado pelas ideias liberais e pelos movimentos sociais europeus.
+
+**Abolição da pena de morte:**
+
+- Em **1852**, Portugal aboliu a pena de morte para crimes políticos, tornando-se um dos primeiros países do mundo a dar este passo.
+- Em **1867**, a pena de morte foi abolida para todos os crimes civis. Portugal foi pioneiro na Europa nesta medida, que refletia os ideais humanistas e iluministas.
+
+**Extinção da escravatura:**
+
+- Em **1761**, o Marquês de Pombal já tinha proibido a entrada de novos escravos em Portugal continental, mas a escravatura continuou nas colónias.
+- Em **1869**, a escravatura foi definitivamente abolida em todos os territórios portugueses, incluindo as colónias africanas. Esta medida foi o culminar de um longo processo que se iniciou em 1854, quando foi decretada a libertação dos escravos do Estado, e em 1856, quando se estabeleceu que todos os filhos de escravos nasceriam livres.
+
+**Direitos dos trabalhadores:**
+
+- Com o desenvolvimento da indústria e o crescimento do operariado, surgiram os primeiros movimentos de defesa dos trabalhadores.
+- Os operários começaram a organizar-se em **associações de classe** e, mais tarde, em **sindicatos** para lutar por melhores condições de trabalho, salários dignos e horários mais reduzidos.
+- As greves tornaram-se um instrumento de luta frequente na segunda metade do século XIX.
+
+**Direitos das mulheres:**
+
+- Embora as conquistas femininas fossem ainda muito limitadas neste período, começaram a surgir vozes a favor da educação feminina.
+- A obrigatoriedade do ensino primário estendeu-se progressivamente às raparigas, embora na prática muitas continuassem sem acesso à escola, sobretudo nas zonas rurais.
+
+### Contexto europeu
+Estas conquistas portuguesas inseriam-se num movimento mais amplo na Europa:
+
+- A **Declaração dos Direitos do Homem e do Cidadão** (1789, França) estabeleceu princípios fundamentais que inspiraram legislação em todo o continente.
+- Em 1833, o parlamento britânico aboliu a escravatura no Império Britânico.
+- Em vários países europeus surgiram movimentos operários e sindicais que exigiam direitos laborais e proteção social.
+
+
+
+### Revolução Industrial
 
 ## ÊXODO RURAL
 ## CRESCIMENTO URBANO
@@ -3847,97 +3244,137 @@ Invenções como o elevador , o frigorífico, o aspirador, o fogão a gás alter
 - A Revolução Industrial provocou profundas transformações tecnológicas, sociais e econômicas, com o surgimento de novas classes sociais e o crescimento das cidades industriais, mas também trouxe problemas como exploração de trabalhadores e degradação ambiental.
 - A Regeneração em Portugal buscou modernizar o país por meio de reformas políticas, econômicas e sociais, com um foco na infraestrutura e na educação, mas encontrou resistência e dificuldades em industrializar completamente o país.
 
-Esses dois momentos são cruciais para entender as grandes mudanças na Europa e em Portugal no século XIX, e as bases para o mundo industrializado que se consolidaria nos séculos seguintes.
-1ª Guerra Mundial
 
-Supremacia europeia sobre o mundo
-Ao começar o século XX a Europa é…
+### Os Movimentos da População
 
-- A fábrica do mundo
-- O maior banqueiro mundial
-- O principal centro do comércio
-- O mais activo foco cultural
+## OS MOVIMENTOS DA POPULAÇÃO
 
-a supremacia europeia justifica-se pelos progressos técnicos e a expansão de capitalismo industrial e financeiro, ocorridos ao do século XIX.
-A concorrência americana e japonesa
-Estados Unidos da América
+### Contagem da população
+Para dar melhor resposta às necessidades da população, tornou-se necessário saber o número de habitantes do país e onde se concentravam em maior quantidade.
+Já se tinham realizado contagens da população, mas eram pouco exatas pois tinham como base a contagem de habitações e não de pessoas. A estas contagens dá-se o nome de **numeramentos**.
+A primeira contagem rigorosa do número de habitantes do país realizou-se em **1864**, ou seja, foi quando se realizou o primeiro **recenseamento**. Em boletins próprios, os habitantes tinham que colocar o nome, o sexo, a idade, o estado civil e a profissão. A partir dessa data realizam-se recenseamentos, ou censos, de 10 em 10 anos.
 
-- ricos em matérias-primas e em mão de obra
-- burguesia dinâmica e empreendedora
-- mercado vasto para colocar os produtos transformados
+### Crescimento demográfico
+Através dos recenseamentos verificou-se o aumento de população desde que se fez o primeiro censo. De 1864 até 1900, a população passou de cerca de 4 milhões de habitantes para 5 milhões.
+Este crescimento justifica-se pela melhoria das condições de vida da população:
 
-Japão
+- Período de paz e estabilidade política e social.
+- Melhoria da alimentação, com o aumento do consumo da batata e do milho.
+- Melhoria das condições de higiene, com a construção de esgotos, distribuição de água através da canalização e calcetamento das ruas.
+- Melhoria da assistência médica e hospitalar, com o aparecimento de novos medicamentos, divulgação de algumas vacinas e construção de hospitais.
 
-- técnicas importadas da Europa
-- mão de obra barata
+### Distribuição da população
+Verificou-se que o crescimento populacional não ocorreu de igual forma por todo o território. O aumento de população foi maior no norte litoral, onde se encontravam os solos mais férteis, maior quantidade de portos de pesca e unidades industriais. Em todas as cidades verificou-se aumento de população, principalmente nas do litoral. Esta tendência de concentração no litoral iria acentuar-se nas décadas seguintes.
 
-Interesse pelos territórios da África, Ásia e América do Sul
-Os países mais desenvolvidos procuram alargar os seus territórios devido:
+### Êxodo Rural
+Apesar do desenvolvimento da agricultura, a produção continuava a ser insuficiente. A mecanização originou despedimentos e as dificuldades no meio rural intensificaram-se. Muitas pessoas decidiram abandonar os campos para ir para as cidades à procura de melhores condições de vida. A este fenómeno dá-se o nome de **êxodo rural**.
 
-- à necessidade de procurar novas novas fontes de matérias primas a baixos preços
-- à possibilidade de alargar mercados
-- à exploração de novos produtos
-- à existência de capitais disponíveis para investir
+As consequências do êxodo rural foram significativas:
 
-Colonialismo – sistema de dominação politica, económica e cultural exercida por um estado (metrópole) sobre um ou mais territórios (as colónias) cujo o principal objectivo é a exploração económica.
-Imperialismo – politica de expansão e domínio territorial efectivo, civilizacional e / ou económico de uma nação sobre outras.
-Clima de tensão entre os países europeus
-Os países mais industrializados entraram em competição pelos territórios ricos em matérias primas, criando-se assim rivalidades entre eles. Para além destas rivalidades económicas e de disputas territoriais havia tensões nacionalistas em que vários povos na região dos Balcãs  estavam contra o domínio do império Austro-Húngaro.
-Nacionalismo – atitude e prática politica, de alguns Estados, de exaltação patriótica. Geralmente, esse patriotismo glorifica o passado e os valores nacionais com vista a garantir a unidade nacional.
-As viagens de exploração
-A Europa possuía vastos domínios coloniais e algumas dessas áreas eram ainda pouco conhecidas, sobretudo as do interior do continente africano. Com o objectivo de explorar e efectivar a posse dessas regiões, foram organizadas várias expedições.
-Principais exploradores:
+- **Nas cidades:** crescimento rápido e desordenado, com a formação de bairros pobres e sobrelotados nos arredores das grandes cidades; aumento da oferta de mão de obra barata para as fábricas.
+- **No campo:** abandono de terras agrícolas, envelhecimento da população rural e diminuição da produção agrícola em algumas regiões.
 
-- Livingstone
-- Standley
-- Brazza
-- Serpa Pinto
-- Roberto Ivens
-- Brito Capelo
+### Emigração
+Devido ao aumento da população, não havia postos de emprego para todos nas cidades. Muitos dos trabalhos eram mal pagos, apesar de se trabalhar duramente durante muitas horas diárias.
 
-Conferência de Berlim
-Para resolver a partilha de África realizou-se a conferencia de Berlim onde ficou estabelecido que os territórios africanos pertencessem aos países que demonstrassem capacidade para os ocupar.  (principio da ocupação efectiva)
- Mapa cor-de-rosa
-Após a conferencia de Berlim, Portugal apresentou o mapa cor-de-rosa, que consistia na pretensão de unir os territórios de Angola a Moçambique.
-Ultimato Inglês
-O projecto português colidia com os interesses ingleses que pretendiam juntar os territórios que iam do Cairo (Egipto) ao Cabo (África do Sul). Sendo assim, a Inglaterra fez um ultimato exigindo a retirada das tropas portuguesas dos territórios entre Angola e Moçambique. Portugal, sem possibilidade de enfrentar a mais forte das potencias coloniais da época, cedeu ás suas exigências.
-Os antecedentes da 1ª Guerra Mundial
-A rivalidade económica e os nacionalismos
-O desejo de exercer influência e dominar os mais ricos territórios mundiais criou rivalidades entre os países da Europa e intensificou o orgulho patriótico de algumas nações:
+Muitas pessoas decidiram procurar melhores condições de vida no estrangeiro. Os principais destinos foram:
 
-- a Alemanha, a França e a Inglaterra, disputavam os territórios coloniais mais ricos ou estrategicamente situados;
-- a França queria recuperar os territórios da Alsácia e da Lorena, anexados pela Alemanha;
-- na Alemanha crescia um movimento politico que defendia a união de todos os povos germânicos e proclamava a superioridade da sua raça;
-- a região dos Balcãs era constituída por povos que desejam tornar-se independentes dos Impérios Austro-Húngaro e Otomano (Turco);
-- a Itália reclamava alguns territórios a norte da Península Itálica que se encontravam integrados no Império Austro-Húngaro;
-- a Polónia, dividida pela Áustria, Rússia e Alemanha, ambicionava tornar-se unida e autónoma.
+- **Brasil:** o destino preferido, pois falava-se a mesma língua e havia grande necessidade de mão de obra, sobretudo após a extinção da escravatura (1888 no Brasil). Estima-se que entre 1855 e 1900 emigraram para o Brasil cerca de 500 mil portugueses.
+- **América Central, Estados Unidos da América** e outros destinos nas Américas.
 
-A Politica das Alianças
-Perante este contexto de rivalidades económicas e politicas, os países europeus formaram duas alianças:
+Muitos emigrantes enriqueceram e, ao regressar a Portugal, compraram terras e palacetes e vestiam-se luxuosamente. Eram chamados os **«brasileiros»** e tiveram um impacto significativo na economia e na sociedade, sobretudo no norte do país, onde construíram casas e escolas e contribuíram para o desenvolvimento local.
 
-- a Tríplice Aliança, em 1882, e que integrava a Alemanha, o Império Austro-Húngaro e a Itália;
-- a Tríplice Entente, em 1907, composta pela Inglaterra, a França e a Rússia.
+O dinheiro enviado pelos emigrantes para as suas famílias (as chamadas **remessas**) tornou-se uma importante fonte de receitas para a economia portuguesa – uma característica que se manteve ao longo de todo o século XX.
 
-Qualquer situação conflituosa ocorrida entre dois países adversários arrastaria os seus aliados, obrigados a prestar-lhes apoio militar. Devido a esta instabilidade, as grandes potencias procuram armar-se, apesar de ainda se manterem em paz. A Europa viveu, assim, nos primeiros anos do século XX, um clima de paz armada.
-O que despoletou a Guerra
-No dia 28 de Junho de 1914, o herdeiro do Império Austro-Húngaro, o arquiduque Francisco Fernando, é assassinado em Sarajevo, por um estudante sérvio.
-O Império Austro-Húngaro responsabilizou a Sérvia pelo atentado e, com o apoio da Alemanha, declara guerra á Sérvia, aliada da Rússia, o que desencadeia o sistema das alianças. As sucessivas declarações de guerra, entre países das duas alianças, deram origem ao inicio da 1ª Guerra Mundial.
-Na Europa, o conflito desenrolou-se em três frentes:
 
-- na frente ocidental, do mar do Norte à fronteira da Suiça e desta ao mar Adriático;
-- na frente oriental, do mar Báltico ao mar Negro;
-- na frente balcânica, do mar Adriático à Turquia.
 
-As Fases da Guerra
-1ª Fase – Guerra de movimentos (1914)
-A 1ª Fase da Guerra foi caracterizada pelos movimentos ofensivos rápidos;
+### A Vida Quotidiana no Campo
 
-- A Alemanha invadiu a Bélgica (país neutro) e entrou no Norte de França. Com algum êxito; desejava chegar rapidamente a Paris.
-- Em Novembro de 1914, o exercito Francês deteve o avanço dos alemães (1ª batalha de Marne), impedindo-os de tomar Paris.
-- Na frente oriental os exércitos alemães conseguiram grandes vitórias sobre os Russos.
+## A VIDA QUOTIDIANA NO CAMPO
 
-2ª Fase – Guerra de defesa de posições (1915 – 1918)
-Para conservar as regiões ocupadas, as tropas em confronto escavaram uma extensa rede de valas e abrigos.
+### Atividades económicas
+As principais atividades do meio rural na segunda metade do século XIX continuavam a ser a agricultura, a criação de gado e a pesca nas zonas do litoral.
+Na sua maioria, os camponeses não eram donos das terras em que trabalhavam. As terras pertenciam sobretudo à antiga nobreza, proprietários burgueses e a alguns lavradores mais abastados. Os camponeses trabalhavam como **jornaleiros** (pagos ao dia), **rendeiros** (que arrendavam terras) ou **caseiros** (que viviam e trabalhavam nas terras do proprietário em troca de parte da colheita).
+
+O trabalho no campo era muito duro e os rendimentos eram poucos, por isso, os camponeses viviam muito pobremente. O dia começava ao nascer do sol e terminava ao anoitecer, com poucas pausas.
+
+Com a introdução da máquina na agricultura, aumentou o desemprego por já não ser necessária tanta mão de obra, dificultando ainda mais a vida dos homens e mulheres do campo. Muitos viram-se obrigados a procurar trabalho nas cidades (êxodo rural) ou a emigrar.
+
+### Habitação
+As casas dos camponeses eram geralmente pequenas e simples, construídas com os materiais disponíveis na região:
+
+- No norte, predominavam as casas de granito, muitas vezes com dois pisos: o andar de baixo para os animais e alfaias, e o de cima para a família.
+- No sul, eram comuns as casas caiadas de branco, com paredes grossas de taipa ou adobe para proteger do calor.
+- O interior era modesto: poucos móveis, cozinha com lareira (que servia para cozinhar e aquecer), e iluminação a candeias de azeite ou velas.
+
+### Alimentação
+Os camponeses alimentavam-se sobretudo do que cultivavam. Dos produtos que mais consumiam destacam-se a batata, o pão de centeio ou de milho, sopas de legumes e sardinhas. A carne, mais cara e de difícil conservação, era apenas consumida em dias de festa – o porco, criado em quase todas as casas rurais, era abatido uma vez por ano (a matança do porco) e as suas carnes eram conservadas em sal e fumeiro para durarem o ano inteiro.
+
+### Vestuário
+O vestuário dos camponeses variava de região para região, de acordo com o clima e com as atividades predominantes.
+No interior, era frequente os homens usarem calças compridas, coletes ou jaquetas e calçarem botas ou tamancos de madeira. As mulheres vestiam saias compridas e usavam lenços coloridos na cabeça.
+No litoral, os homens usavam calças curtas ou arregaçadas e geralmente andavam descalços, tal como as mulheres, que vestiam saias mais curtas do que as do interior, devido às suas atividades relacionadas com o mar.
+
+### Divertimentos e vida social
+Os divertimentos das pessoas do campo estavam associados sobretudo:
+
+- Às **atividades agrícolas coletivas**, como as vindimas, as desfolhadas e as malhadas, que juntavam as comunidades e incluíam cantigas, jogos e refeições partilhadas.
+- À **religião**, com as feiras, romarias e festas religiosas em honra do santo padroeiro de cada localidade, que eram os grandes momentos de convívio e celebração.
+- Às **feiras e mercados**, onde se comprava, vendia e trocava produtos, mas que também serviam como ponto de encontro e socialização.
+
+A igreja era o centro da vida comunitária: era onde se batizavam os filhos, se casava e se prestava o último adeus aos mortos. O padre era muitas vezes a figura mais influente da aldeia.
+
+
+
+### A Vida Quotidiana nas Grandes Cidades
+
+## A VIDA QUOTIDIANA NAS GRANDES CIDADES
+Atividades económicas
+A modernização do país influenciou mais a vida quotidiana das pessoas que viviam nas cidades.
+O grupo social dominante era a burguesia, constituído por comerciantes, banqueiros, industriais, médicos, advogados, professores, oficiais do exército e funcionários públicos.
+No entanto, a maior parte da população pertencia a grupos de menores recursos. As pessoas do povo trabalhavam sobretudo como vendedores ambulantes, empregados de balcão ou criados nas casas de pessoas ricas.
+Com o desenvolvimento da indústria, formou-se um novo grupo social: o operariado. Os operários eram homens, mulheres e até crianças, que trabalhavam duramente nas fábricas muitas horas a troco de pouco dinheiro. Em caso de acidente, não tinham qualquer proteção. Eram despedidos sem qualquer indemnização.
+Alimentação
+A burguesia e a nobreza tinham uma alimentação abundante e variada. Faziam quatro refeições por dia: pequeno-almoço, almoço, jantar e ceia. Comiam carne, peixe, legumes, cereais, frutas e doces. Surgiram neste período vários restaurantes que trouxeram do estrangeiro novas receitas, como o pudim, a omelete, o puré, o bife e o soufflé.
+As pessoas das classes menos privilegiadas alimentavam-se sobretudo de pão, legumes, toucinho e sardinhas.
+Vestuário
+As pessoas mais ricas das cidades vestiam-se de acordo com a moda francesa. As mulheres vestiam saias até ao chão com roda, com uma armação de lâminas de aço e batanas – a crinolina. Passou também a usar a tournoure, uma espécie de almofada sobre os rins que levantava a saia atrás. Os homens vestiam calças, camisa, colete, casaca e chapéu.
+As pessoas mais pobres vestiam roupas bastante simples, adaptadas às tarefas que desempenhavam.
+Divertimentos
+Os nobres e os burgueses frequentavam os grandes jardins onde passeavam, conversavam e ouviam a música tocada nos coretos. Reuniam-se também nos cafés e clubes, jantares, festas e bailes, iam à ópera, ao teatro e ao circo.
+Os divertimentos dos populares era semelhante aos do campo: feiras, festas religiosas e passeios ao campo domingo à tarde.
+
+DA REVOLUÇÃO REPUBLICANA DE 1910 À DITADURA MILITAR DE 1926
+A AÇÃO MILITAR NO 5 DE OUTUBRO E A QUEDA DA MONARQUIA
+Formação do Partido Republicano
+Descontentamento da população no fim do século XIX
+A população, no fim do século XIX encontrava-se bastante descontente:
+
+- Os camponeses e os operários continuavam a viver com grandes dificuldades enquanto que a alta burguesia recebia cada vez mais lucros.
+- O rei e a família real eram acusados de gastar mal o dinheiro, o que contribuiu para o endividamento do reino.
+Partido Republicano (1876)
+Formou-se nesta altura o Partido Republicano que pretendia acabar com a Monarquia para passar a haver uma República, ou seja, deixaria de haver reis para haver presidentes eleitos por um determinado tempo.
+Os republicanos acreditavam que desta forma conseguiria-se modernizar o país e melhorar as condições de vida dos mais pobres.
+Disputa pelos territórios africanos
+Conferência de Berlim (1884-1885)
+Vários países europeus, como a Grã-Bretanha, a Alemanha e a França, entraram em conflitos por causa dos territórios africanos pois possuíam muitas riquezas.
+Para resolver estes conflitos realizou-se a Conferência de Berlim onde ficou estabelecido que os territórios seriam partilhados de acordo com a sua ocupação efetiva, ou seja, de acordo com quem tivesse meios para os ocupar, sem interessar quem os descobriu.
+Ultimato inglês
+Portugal apresentou o Mapa Cor-de Rosa na tentativa de ocupar os territórios entre Angola a Moçambique.
+Grã-Bretanha não aceitou porque queria os mesmos territórios para ligar Cabo a Cairo, e então fez um ultimato a Portugal para abandonar aqueles territórios.
+O governo português cedeu ao ultimato, o que agravou o descontentamento da população. Muitas pessoas passaram a apoiar o Partido Republicano pois pretendiam um governo forte.
+Revoltas republicanas
+31 de Janeiro de 1891 – Revolta republicana
+A cedência perante o Ultimato inglês foi considerado um ato de traição à pátria. Os republicanos aproveitaram ainda para acusar o rei de gastar mal o dinheiro e deixar o país cheio de dívidas, e culpou-o também pela miséria dos mais pobres.
+Dia 31 de Janeiro de 1891 surgiu uma revolta na tentativa de acabar com a monarquia mas não foi bem sucedida. No entanto, mostrou o crescimento do Partido Republicano.
+1 de Fevereiro de 1908 – Regícidio
+O rei D. Carlos I foi morto a tiro quando passava de carruagem pelo Terreiro do Paço em Lisboa. Com ele morreu o herdeiro do trono D. Luis Filipe. Ficou a governar o seu irmão D. Manuel II. Foi mais um ato para tentar acabar com a monarquia.
+5 de Outubro de 1910 – Queda da Monarquia e implantação da República
+Na madrugada de 4 de Outubro de 1910 iniciou-se a revolução republicana. Os militares republicanos (membros do exército e da marinha) e os populares pegaram em armas e concentraram-se na Rotunda, atual praça Marquês de Pombal.
+As tropas fiéis ao rei eram em maior número mas mesmo assim não conseguiram acabar com a revolta e na manhã de 5 de Outubro de 1910 foi proclamada a República, acabando assim com a Monarquia.
+
+
+### Apogeu e Declínio da Influência Europeia
 
 ## APOGEU E DECLÍNIO DA INFLUÊNCIA EUROPEIA
 Supremacia europeia sobre o mundo
@@ -4012,100 +3449,109 @@ Qualquer situação conflituosa ocorrida entre dois países adversários arrasta
 O que despoletou a Guerra
 No dia 28 de Junho de 1914, o herdeiro do Império Austro-Húngaro, o arquiduque Francisco Fernando, é assassinado em Sarajevo, por um estudante sérvio.
 O Império Austro-Húngaro responsabilizou a Sérvia pelo atentado e, com o apoio da Alemanha, declara guerra á Sérvia, aliada da Rússia, o que desencadeia o sistema das alianças. As sucessivas declarações de guerra, entre países das duas alianças, deram origem ao inicio da 1ª Guerra Mundial.
-Na Europa, o conflito desenrolou-se em três frentes:
+---
 
-- na frente ocidental, do mar do Norte à fronteira da Suiça e desta ao mar Adriático;
-- na frente oriental, do mar Báltico ao mar Negro;
-- na frente balcânica, do mar Adriático à Turquia.
+## Capítulo 8: Século XX — Guerras, Ditadura e Democracia
 
-As Fases da Guerra
-1ª Fase – Guerra de movimentos (1914)
-A 1ª Fase da Guerra foi caracterizada pelos movimentos ofensivos rápidos;
+O século XX é o mais turbulento da história moderna. Abre com a I República portuguesa (1910) e as duas guerras mundiais que devastam a Europa. Os regimes totalitários — fascismo, nazismo e, em Portugal, o Estado Novo de Salazar — suprimem liberdades durante décadas. A Guerra Fria divide o mundo em dois blocos. Em Portugal, a longa Guerra Colonial e o isolamento do regime conduzem à Revolução dos Cravos em 25 de Abril de 1974, que restaura a democracia e descoloniza o império. O século encerra com a integração europeia e a queda do Muro de Berlim.
 
-- A Alemanha invadiu a Bélgica (país neutro) e entrou no Norte de França. Com algum êxito; desejava chegar rapidamente a Paris.
-- Em Novembro de 1914, o exercito Francês deteve o avanço dos alemães (1ª batalha de Marne), impedindo-os de tomar Paris.
-- Na frente oriental os exércitos alemães conseguiram grandes vitórias sobre os Russos.
+---
 
-2ª Fase – Guerra de defesa de posições (1915 – 1918)
-Para conservar as regiões ocupadas, as tropas em confronto escavaram uma extensa rede de valas e abrigos.
-Ao longo desta etapa a situação militar é marcada por vários acontecimentos:
+### A I República (1910–1926)
 
-- Adesão de outros países à guerra.
-- do lado dos Aliados: Itália, China, Brasil e Portugal
-- do lado das Potencias Centrais: Bulgária
-- Aperfeiçoamento dos meios de ataque que se tornaram cada vez mais mortíferos:
-- Canhões de longo alcance
-- morteiros
-- carros blindados
-- granadas de mão
-- metralhadoras
-- zepelins
-- aviões
-- submarinos
-- gás de cloro
-- Travaram-se grandes batalhas, das quais se destacam:
-- Batalha de Verdun – ofensiva alemã (1916)
-- Batalha de Somme – iniciativa franco-britânica (1916)
-- Batalha da Jutlândia – no mar do Norte, entre a armada inglesa e a alemã (1916)
+## A I REPÚBLICA
+Primeiras medidas republicanas
+Formação de um Governo Provisório
+Após a proclamação da República foi criado um Governo Provisório, presidido por Teófilo Braga, que tomou as seguintes medidas:
 
-Novos factores alteravam a situação de conflito:
+- adotou-se uma nova bandeira;
+- o hino nacional passou a ser “A Portuguesa”;
+- a moeda passou a ser o escudo em vez do real.
+Simbologia da nova bandeira:
 
-- Entrada dos americanos na guerra ao lado dos Aliados (Abril de 1917) – apoio económico e bélico e participação de cerca de um milhão de militares à Europa.
-- A Rússia abandonou a guerra assinando o armistício de Brest-Litovsk com a Alemanha (Dezembro de 1917)
+- Esfera armilar: representa o mundo que os navegadores portugueses decobriram;
+- Escudetes azuis: representam a bravura dos que lutaram pela independência;
+- Castelos: representam a independência garantida por D. Afonso Henriques;
+- Verde: cor da esperança;
+- Vermelho: cor da coragem e do sangue derramado pelos portugueses mortos em combate.
+A Constituição republicana
+Assembleia Constituinte
+Depois de criado o Governo Provisório fizeram-se eleições para formar a Assembleia Constituinte que tinha como função elaborar a nova constituição – a Constituição de 1911.
+Nesta constituição ficou estabelecido que:
 
-Os Alemães uma vez libertos da frente oriental, lançaram uma ofensiva no norte da França para ocuparem Paris antes da chegada das tropas americanas. Recomeçava a guerra de movimentos.
-3ª Fase – O retorno à guerra de movimentos (1915 – 1918)
-A vitória dos Aliados
+- o chefe de estado de Portugal passa a ser um Presidente da República em vez de um rei;
+- é eleito por um período de 4 anos;
+- tem o poder de escolher o governo;
+- o congresso tem o poder de eleger e demitir o Presidente da República.
+Divisão de poderes
 
-- As crescentes dificuldades dos alemães devido ao bloqueio económico que os privou de alimentos e matérias-primas.
-- Na frente Balcânica os exércitos das potências centrais sofreram pesadas derrotas, a Bulgária (28 de Setembro) e a Turquia (30 de Outubro) renderam-se, solicitando o fim das hostilidades.
-- na Itália, o exército Austro-Húngaro foi derrotado e rendeu-se.
+- Poder legislativo: pertence ao Congresso ou Parlamento – deputados.
+- Poder executivo: pertence ao Presidente da República e o seu governo – presidente e ministros.
+- Poder judicial: pertence aos Tribunais – juízes
+Principais medidas da I República
+Na Educação
 
-A Alemanha, face a esta situação sentiu-se isolada e impotente. A 11 de Novembro de 1918, o governo Alemão assinou o Armistício em Rethondes (França) que terminava a 1ª Guerra Mundial.
-Revolução Russa
+- criação dos primeiros jardins-escola para crianças dos 4 aos 7 anos;
+- ensino obrigatório e gratuito dos 7 aos 10 anos;
+- criação de escolas primárias, de um liceu em Lisboa (liceu Passos de Manuel) e de universidades (de Lisboa e do Porto);
+- criação de escolas para formação de professores;
+- criação de bibliotecas.
 
-Transformações geopolíticas decorrentes da 1.ª Grande Guerra
-Tratado de Versalhes
-Foi realizado no fim da guerra, em 1919, pelos países vencedores. Foi imposto à Alemanha a restituição à França da Alsácia – Lorena, a perda de todas as colónias, a redução do armamento e dos efectivos militares e o pagamento de indemnizações de guerra aos países vencedores.
-Sociedade das Nações
-Em 1919, foi constituída a sociedade das Nações com sede em Genebra e Suiça, cujos objectivos eram: defender a paz mundial e a independência politica dos Estados, proteger as minorias nacionais, reduzir os armamentos e favorecer a cooperação entre os países, ao nível social, cultural e financeiro.
-Revolução Soviética
-Nas vésperas da revolução
-Descrever a situação social, politica e económica da Rússia no inicio do séc- XX
-A nível politico, a Rússia era governada segundo um regime autoritário em que o Czar (Imperador) concentrava em si todos os poderes.
-A nível económico, predominava a agricultura tradicional, tinha uma industrialização fraca e um comércio pouco dinâmico.
-A nível social, existia uma sociedade de classes. O Clero e a Nobreza ocupavam os altos cargos e eram donos da maior parte das propriedades. A maior parte da população era camponesa e vivia em condições miseráveis. O operariado (menos 2%) tinha condições de trabalho difíceis e defendia as ideias socialistas. Também a burguesia estava descontente com o poder do Czar, e defendia a instauração do regime liberal e parlamento, no qual pudesse participar.
-Inserir no contexto politico e social a tentativa revolucionária do “Domingo Sangrento” de 1905
-O “Domingo Sangrento” surgiu devido ao descontentamento da maioria da população face ás condições de vida, devido ao agravamento de situação após a derrota na guerra russo-japonesa e devido ao desinteresse de Czar pela situação da população.
-Identificar as medidas postas em prática pelo Czar Nicolau
-O Czar, sentido-se ameaçado, criou a DUMA (Parlamento) para dar uma aparência democrática ao regime. No entanto, na realidade, o governo manipulava o Parlamento e aumentou a repressão. Com isto, as ideias socialistas começaram a espalhar-se.
-As Duas Revoluções
-Distinguir a Revolução de Fevereiro da Revolução de Outubro de 1917
-A Revolução de Fevereiro, com o apoio da burguesia, pretendia o fim do poder do Czar e implementar um regime liberal parlamentar. Após a revolução surgiu um governo provisório (governo liberal burguês) e, apesar de a guerra ter motivado esta revolução, a Rússia manteve-se na guerra mundial.
-A Revolução de Outubro, com o apoio do operariado, campesinato e sectores da pequena burguesia, pretendia uma revolução mais radical em que o poder pertenceria aos trabalhadores (ditadura do proletariado) numa sociedade sem classes (comunismo) e defendiam também a retirada da guerra. Após a revolução foi instaurado um governo socialista inspirado pela ideologia do Marxismo-Leninismo.
-O Triunfo da Revolução Socialista
-Descreve como foi instaurada a democracia dos Sovietes
-No final de 1917, os bolcheviques organizaram eleições para a assembleia constituinte. No entanto, apenas tiveram 25% dos votos e, por isso, Lenine dissolveu a assembleia e entregou o poder legislativo ao congresso dos sovietes. A Rússia passa a ser uma República Soviética, não parlamentar.
-Indica as medidas tomadas após a revolução
-Foi assinado o tratado de Brest-Litovsk que retirou a Rússia da guerra e foi abolida toda a propriedade privada (fábricas, terras, minas e bancos) que foi nacionalizada sem o pagamento de indemnizações aos seus proprietários.
-Explica como surgiu a guerra civil na Rússia (1918-1920)
-A burguesia e a aristocracia, descontentes por terem perdido os seus bens, tiveram apoio de alguns países porque temiam a expansão do comunismo e criaram o exército branco que se opôs ao exercito vermelho dos bolcheviques, surgindo assim uma violenta guerra civil.
-Caracteriza a ditadura comunista
-Durante a guerra civil, a revolução socialista radicalizou-se, adotando um conjunto de medidas que ficaram conhecidas por comunismo da guerra:
+O principal objetivo destas medidas era acabar com o analfabetismo.
+No Trabalho
 
-- foram proibidos todos os partidos políticos, à excepção do Partido Comunista (partido único)
-- criaram a Tcheka, uma policia politica que exercia grande repressão.
-- instauraram a censura
-- perseguiram, prenderam, torturaram e mataram muitos adversários políticos.
+- direito à greve;
+- direito a oito horas de trabalho e a um dia semanal de descanso;
+- criação de um seguro obrigatório para doença, velhice e acidentes de trabalho.
+Sindicato: associação de trabalhadores de uma mesma profissão que defendia os direitos dos trabalhadores.
+Greve: forma de luta mais utilizada pelos trabalhadores em que se recussavam a trabalhar para que o Governo e os patrões cedessem às suas reinvidicações.
+CGT: Confederação Geral do Trabalho – união de vários sindicatos.
+UON: União Operária Nacional
+Dificuldades da I República
+No entanto, a 1ª República atravessou vários problemas que fez crescer o descontentamento da população.
+Participação de Portugal na I Guerra Mundial
+A Inglaterra e a França entrou em guerra com a Alemanha por causa dos territórios africanos. Depois, vários outros países europeus entraram na guerra, bem como países de outros continentes, por isso diz-se que foi uma Guerra Mundial.
+A Inglaterra pediu a Portugal que apreendesse os navios alemães refugiados nos portos portugueses. A Alemanha, em resposta, declarou guerra a Portugal e tentou ocupar os territórios portugueses em Angola e Moçambique.
+A guerra terminou com a vitória dos ingleses, franceses e os seus aliados, e assim Portugal conseguiu manter as suas colónias. No entanto, as despesas militares durante a guerra contribuíram para um maior endividamento do reino.
+Subida de preços e aumento de impostos
+Os preços dos produtos aumentaram enquanto os salários não acompanharam essa subida.
+As despesas do reino eram superiores às receitas. Os governos republicanos recorreram a empréstimos ao estrangeiro e para os pagar aumentaram-se os impostos.
+Tudo isto fez com que se tornassem frequentes as greves, revoltas e assaltos a armazéns de comida.
+Instabilidade política
+Os governos mudavam frequentemente e os presidentes ou se demitiam ou eram demitidos. Só entre 1910 e 1926 houve 8 presidentes e 45 governos.
+O GOLPE MILITAR EM 28 DE MAIO
+Crise em Portugal durante a I República
 
-Justifica a adopção da NEP
-Quando a guerra civil terminou, a Rússia encontrava-se arrasada e a sua população faminta. Perante o descontentamento generalizado, Lenine resolveu fazer “um recuo estratégico”, ou seja, optar por um retorno ao “capitalismo limitado por um tempo limitado”, como afirmou para justificar a sua Nova Politica Económica, a NEP.
-A construção da URSS
-Compreender as causas da constituição da URSS como a federação
-A criação de uma União foi a fórmula encontrada pelos bolcheviques para conseguir manter unidos nacionalidades, etnias e territórios muito diferentes.
-A sucessão de Lenine
-Explicar a sucessão de Lenine
-Após a morte de Lenine surgiu uma violenta luta pelo poder entre Trotsky e Estaline. Estaline sai vencedor desta disputa pelo poder e, progressivamente, vai afastar e eliminar os seus opositores. Trotsky é expulso da URSS e refugia-se no México, onde veio a ser assassinado. Sob a direcção de Estaline, a URSS passa a seguir uma linha politica mais dura e estabelece-se uma ditadura totalitária.
+- Crise social:
+- subida dos preços
+- redução do poder de compra
+- greves e manifestações
+- atentados à bomba
+- Crise financeira:
+- despesas superiores às receitas
+- crescimento da dívida externa
+- Crise política:
+- mudanças sucessivas de governo – instabilidade política
+Golpe militar de 28 de Maio de 1926
+A 28 de Maio de 1926, o general Gomes da Costa chefiou uma revolta militar que teve início em Braga e estendeu-se até Lisboa. Por todo o país os militares foram aderindo a este movimento. O Presidente da República, Bernardino Machado, demitiu-se e entregou o poder aos revoltosos.
+Principais medidas durante a Ditadura militar
+Foram tomadas várias medidas que colocaram fim à democracia da I República:
+
+- o Parlamento foi encerrado;
+- o governo passou a ser escolhido pelos militares, sem eleições;
+- os militares possuíam o poder legislativo e executivo;
+- a imprensa passou a ser censurada;
+- as greves e as manifestações foram proibidas.
+Portugal foi governado neste período segundo uma ditadura, ou seja, segundo um governo autoritário, não democrático, que não respeitava as liberdades e direitos dos cidadãos.
+Apesar destas medidas a ditadura não veio resolver os problemas existentes em Portugal:
+
+- os militares não se entendiam e as mudanças sucessivas de governo continuaram;
+- as despesas continuavam superiores às despesas;
+- continuou o recurso aos empréstimos ao estrangeiro, aumentando a dívida externa.
+O ESTADO NOVO (1933-1974)
+
+#### Da I República à Ditadura Militar
+
 Portugal: da 1ª República à Ditadura Militar
 1. Implantação da 1ª República (1910)
 
@@ -4146,6 +3592,9 @@ Apesar dos ideais republicanos, o regime enfrentou grandes dificuldades:
 
 - Em 1933, Salazar elaborou uma nova Constituição, que instaurou o Estado Novo, uma ditadura autoritária, de inspiração fascista, centrada na figura do chefe do governo e na repressão política.
 - Assim, a Ditadura Militar (1926–1933) deu lugar ao Estado Novo (1933–1974), com Salazar no poder.
+
+
+### Cultura de Massas e Correntes Artísticas
 
 Cultura de massas e correntes artísticas
 Cultura de Massas em Portugal (início do século XX)
@@ -4208,6 +3657,110 @@ Teatro
 - O teatro teve grande importância social, com destaque para:
 - As revistas à portuguesa (espetáculos de música, humor e crítica política).
 - Peças com temáticas sociais e críticas ao regime, mais tarde censuradas durante a Ditadura Militar e o Estado Novo.
+
+### A I Guerra Mundial
+
+O Império Austro-Húngaro responsabilizou a Sérvia pelo atentado e, com o apoio da Alemanha, declara guerra á Sérvia, aliada da Rússia, o que desencadeia o sistema das alianças. As sucessivas declarações de guerra, entre países das duas alianças, deram origem ao inicio da 1ª Guerra Mundial.
+Na Europa, o conflito desenrolou-se em três frentes:
+
+- na frente ocidental, do mar do Norte à fronteira da Suiça e desta ao mar Adriático;
+- na frente oriental, do mar Báltico ao mar Negro;
+- na frente balcânica, do mar Adriático à Turquia.
+
+As Fases da Guerra
+1ª Fase – Guerra de movimentos (1914)
+A 1ª Fase da Guerra foi caracterizada pelos movimentos ofensivos rápidos;
+
+- A Alemanha invadiu a Bélgica (país neutro) e entrou no Norte de França. Com algum êxito; desejava chegar rapidamente a Paris.
+- Em Novembro de 1914, o exercito Francês deteve o avanço dos alemães (1ª batalha de Marne), impedindo-os de tomar Paris.
+- Na frente oriental os exércitos alemães conseguiram grandes vitórias sobre os Russos.
+
+2ª Fase – Guerra de defesa de posições (1915 – 1918)
+Para conservar as regiões ocupadas, as tropas em confronto escavaram uma extensa rede de valas e abrigos.
+Ao longo desta etapa a situação militar é marcada por vários acontecimentos:
+
+- Adesão de outros países à guerra.
+- do lado dos Aliados: Itália, China, Brasil e Portugal
+- do lado das Potencias Centrais: Bulgária
+- Aperfeiçoamento dos meios de ataque que se tornaram cada vez mais mortíferos:
+- Canhões de longo alcance
+- morteiros
+- carros blindados
+- granadas de mão
+- metralhadoras
+- zepelins
+- aviões
+- submarinos
+- gás de cloro
+- Travaram-se grandes batalhas, das quais se destacam:
+- Batalha de Verdun – ofensiva alemã (1916)
+- Batalha de Somme – iniciativa franco-britânica (1916)
+- Batalha da Jutlândia – no mar do Norte, entre a armada inglesa e a alemã (1916)
+
+Novos factores alteravam a situação de conflito:
+
+- Entrada dos americanos na guerra ao lado dos Aliados (Abril de 1917) – apoio económico e bélico e participação de cerca de um milhão de militares à Europa.
+- A Rússia abandonou a guerra assinando o armistício de Brest-Litovsk com a Alemanha (Dezembro de 1917)
+
+Os Alemães uma vez libertos da frente oriental, lançaram uma ofensiva no norte da França para ocuparem Paris antes da chegada das tropas americanas. Recomeçava a guerra de movimentos.
+3ª Fase – O retorno à guerra de movimentos (1915 – 1918)
+A vitória dos Aliados
+
+- As crescentes dificuldades dos alemães devido ao bloqueio económico que os privou de alimentos e matérias-primas.
+- Na frente Balcânica os exércitos das potências centrais sofreram pesadas derrotas, a Bulgária (28 de Setembro) e a Turquia (30 de Outubro) renderam-se, solicitando o fim das hostilidades.
+- na Itália, o exército Austro-Húngaro foi derrotado e rendeu-se.
+
+A Alemanha, face a esta situação sentiu-se isolada e impotente. A 11 de Novembro de 1918, o governo Alemão assinou o Armistício em Rethondes (França) que terminava a 1ª Guerra Mundial.
+
+### A Revolução Russa
+
+Revolução Russa
+
+Transformações geopolíticas decorrentes da 1.ª Grande Guerra
+Tratado de Versalhes
+Foi realizado no fim da guerra, em 1919, pelos países vencedores. Foi imposto à Alemanha a restituição à França da Alsácia – Lorena, a perda de todas as colónias, a redução do armamento e dos efectivos militares e o pagamento de indemnizações de guerra aos países vencedores.
+Sociedade das Nações
+Em 1919, foi constituída a sociedade das Nações com sede em Genebra e Suiça, cujos objectivos eram: defender a paz mundial e a independência politica dos Estados, proteger as minorias nacionais, reduzir os armamentos e favorecer a cooperação entre os países, ao nível social, cultural e financeiro.
+Revolução Soviética
+Nas vésperas da revolução
+Descrever a situação social, politica e económica da Rússia no inicio do séc- XX
+A nível politico, a Rússia era governada segundo um regime autoritário em que o Czar (Imperador) concentrava em si todos os poderes.
+A nível económico, predominava a agricultura tradicional, tinha uma industrialização fraca e um comércio pouco dinâmico.
+A nível social, existia uma sociedade de classes. O Clero e a Nobreza ocupavam os altos cargos e eram donos da maior parte das propriedades. A maior parte da população era camponesa e vivia em condições miseráveis. O operariado (menos 2%) tinha condições de trabalho difíceis e defendia as ideias socialistas. Também a burguesia estava descontente com o poder do Czar, e defendia a instauração do regime liberal e parlamento, no qual pudesse participar.
+Inserir no contexto politico e social a tentativa revolucionária do “Domingo Sangrento” de 1905
+O “Domingo Sangrento” surgiu devido ao descontentamento da maioria da população face ás condições de vida, devido ao agravamento de situação após a derrota na guerra russo-japonesa e devido ao desinteresse de Czar pela situação da população.
+Identificar as medidas postas em prática pelo Czar Nicolau
+O Czar, sentido-se ameaçado, criou a DUMA (Parlamento) para dar uma aparência democrática ao regime. No entanto, na realidade, o governo manipulava o Parlamento e aumentou a repressão. Com isto, as ideias socialistas começaram a espalhar-se.
+As Duas Revoluções
+Distinguir a Revolução de Fevereiro da Revolução de Outubro de 1917
+A Revolução de Fevereiro, com o apoio da burguesia, pretendia o fim do poder do Czar e implementar um regime liberal parlamentar. Após a revolução surgiu um governo provisório (governo liberal burguês) e, apesar de a guerra ter motivado esta revolução, a Rússia manteve-se na guerra mundial.
+A Revolução de Outubro, com o apoio do operariado, campesinato e sectores da pequena burguesia, pretendia uma revolução mais radical em que o poder pertenceria aos trabalhadores (ditadura do proletariado) numa sociedade sem classes (comunismo) e defendiam também a retirada da guerra. Após a revolução foi instaurado um governo socialista inspirado pela ideologia do Marxismo-Leninismo.
+O Triunfo da Revolução Socialista
+Descreve como foi instaurada a democracia dos Sovietes
+No final de 1917, os bolcheviques organizaram eleições para a assembleia constituinte. No entanto, apenas tiveram 25% dos votos e, por isso, Lenine dissolveu a assembleia e entregou o poder legislativo ao congresso dos sovietes. A Rússia passa a ser uma República Soviética, não parlamentar.
+Indica as medidas tomadas após a revolução
+Foi assinado o tratado de Brest-Litovsk que retirou a Rússia da guerra e foi abolida toda a propriedade privada (fábricas, terras, minas e bancos) que foi nacionalizada sem o pagamento de indemnizações aos seus proprietários.
+Explica como surgiu a guerra civil na Rússia (1918-1920)
+A burguesia e a aristocracia, descontentes por terem perdido os seus bens, tiveram apoio de alguns países porque temiam a expansão do comunismo e criaram o exército branco que se opôs ao exercito vermelho dos bolcheviques, surgindo assim uma violenta guerra civil.
+Caracteriza a ditadura comunista
+Durante a guerra civil, a revolução socialista radicalizou-se, adotando um conjunto de medidas que ficaram conhecidas por comunismo da guerra:
+
+- foram proibidos todos os partidos políticos, à excepção do Partido Comunista (partido único)
+- criaram a Tcheka, uma policia politica que exercia grande repressão.
+- instauraram a censura
+- perseguiram, prenderam, torturaram e mataram muitos adversários políticos.
+
+Justifica a adopção da NEP
+Quando a guerra civil terminou, a Rússia encontrava-se arrasada e a sua população faminta. Perante o descontentamento generalizado, Lenine resolveu fazer “um recuo estratégico”, ou seja, optar por um retorno ao “capitalismo limitado por um tempo limitado”, como afirmou para justificar a sua Nova Politica Económica, a NEP.
+A construção da URSS
+Compreender as causas da constituição da URSS como a federação
+A criação de uma União foi a fórmula encontrada pelos bolcheviques para conseguir manter unidos nacionalidades, etnias e territórios muito diferentes.
+A sucessão de Lenine
+Explicar a sucessão de Lenine
+Após a morte de Lenine surgiu uma violenta luta pelo poder entre Trotsky e Estaline. Estaline sai vencedor desta disputa pelo poder e, progressivamente, vai afastar e eliminar os seus opositores. Trotsky é expulso da URSS e refugia-se no México, onde veio a ser assassinado. Sob a direcção de Estaline, a URSS passa a seguir uma linha politica mais dura e estabelece-se uma ditadura totalitária.
+
+### Crise, Ditaduras e Democracia
+
 Crise, ditaduras e democracia
 
 DIFICULDADES ECONÓMICAS DOS ANOS 30
@@ -4327,6 +3880,63 @@ Principais características dos regimes:
 - Manutenção da censura e da policia politica (PIDE)
 - Corporativismo
 - Colonialismo
+
+### Salazar e o Estado Novo
+
+## SALAZAR E O ESTADO NOVO
+
+### Ascensão política de Salazar
+Em 1928, António de Oliveira Salazar foi nomeado ministro das Finanças e conseguiu equilibrar as contas públicas. Para isso, Salazar:
+
+- aumentou as receitas, através do aumento dos impostos
+- diminuiu as despesas do Estado, através da redução de gastos com a Educação, Saúde e com os salários dos funcionários públicos.
+
+Em 1932, Salazar foi nomeado Presidente do Conselho de Ministros, ou seja, passou a ser o chefe do Governo.
+
+### Constituição de 1933
+Em 1933, foi aprovada uma nova constituição em que os direitos e liberdades dos cidadãos eram reconhecidos e ficou estabelecido que o Presidente da República e os deputados seriam eleitos pelos cidadãos.
+No entanto, as eleições não eram verdadeiramente livres e os direitos e liberdades dos cidadãos nem sempre foram respeitados por Salazar. Foi constituído novamente o Parlamento que apenas servia para aprovar as leis impostas pelo governo.
+
+### Política de obras públicas
+Durante o Estado Novo construíram-se estradas, barragens, hospitais e edifícios públicos. Esta política permitiu a modernização do país e combateu o desemprego junto das áreas urbanas. Salazar aproveitou também esta política de obras públicas para engrandecer o seu trabalho à frente do país e assim fazer propaganda.
+
+### Receitas do turismo e da emigração
+Desenvolveu-se o turismo, o que permitiu a entrada de mais receitas para o Estado.
+Apesar do desenvolvimento do país, muitas pessoas continuavam a viver em grandes dificuldades e decidiram emigrar. O dinheiro enviado para Portugal pelos emigrantes foi outra fonte de receitas para o Estado.
+
+### Suportes do Estado Novo
+Para Salazar conseguir tanto tempo no poder teve vários suportes:
+
+- **Censura:** da imprensa, teatro, cinema, rádio e televisão, que impedia a divulgação de opiniões contra o regime salazarista. Todos os jornais, livros, peças de teatro e filmes tinham de ser aprovados pela censura antes de serem publicados ou exibidos. O que era proibido era cortado com o "lápis azul".
+- **Polícia política:** PVDE, que passou mais tarde a chamar-se PIDE (Polícia Internacional e de Defesa do Estado), que vigiava, perseguia, prendia e torturava os opositores ao regime de Salazar. A PIDE tinha uma rede de informadores em todo o país e nas colónias, e as suas prisões (como a de Caxias e a do Tarrafal, em Cabo Verde) eram temidas.
+- **Mocidade Portuguesa:** organização obrigatória para jovens dos 7 aos 14 anos (voluntária até aos 18), com o fim de desenvolver o culto do chefe, o dever militar e a devoção à pátria. As raparigas tinham a Mocidade Portuguesa Feminina.
+- **Legião Portuguesa:** organização armada de voluntários que defendia o Estado Novo e combatia o Comunismo.
+- **Propaganda Nacional:** O Secretariado de Propaganda Nacional (SPN), dirigido por António Ferro, tinha como objetivo controlar a imagem do regime e obter o apoio da população. Organizava festas populares, concursos (como a "Aldeia mais portuguesa de Portugal") e divulgava os lemas do regime, como "Deus, Pátria e Família".
+- **União Nacional:** única organização política legal que apoiava Salazar. Todos os outros partidos foram proibidos.
+
+### A vida social durante o Estado Novo
+O regime de Salazar moldou profundamente a sociedade portuguesa:
+
+- **Educação:** O regime controlava os conteúdos escolares e os manuais. Os professores eram vigiados. O ensino promovia os valores do regime: obediência, patriotismo e religião. A taxa de analfabetismo, embora tenha diminuído, manteve-se elevada. Salazar afirmou que "é mais perigoso saber ler e escrever do que não saber", revelando a sua desconfiança em relação à instrução do povo.
+- **Papel da mulher:** O regime defendia que a mulher devia dedicar-se ao lar e à família. As mulheres casadas não podiam viajar ao estrangeiro, ter passaporte ou exercer certas profissões sem autorização do marido. Apesar destas restrições, muitas mulheres trabalhavam nas fábricas e no campo em condições muito difíceis.
+- **Pobreza e atraso:** Portugal era um dos países mais pobres e atrasados da Europa Ocidental. Grande parte da população vivia no campo, em condições de grande pobreza, sem eletricidade nem água canalizada. A mortalidade infantil era das mais altas da Europa.
+- **Emigração massiva:** Nas décadas de 1960 e 1970, milhões de portugueses emigraram, sobretudo para França, Alemanha e Luxemburgo, fugindo da pobreza e da Guerra Colonial. Muitos saíam clandestinamente, "a salto", atravessando a fronteira espanhola a pé durante a noite.
+
+### Oposição política
+Os opositores ao salazarismo organizaram-se clandestinamente para não serem perseguidos e presos. Outros tiveram de sair do país (exilados políticos).
+
+**Eleições legislativas de 1945:**
+A oposição cresceu em 1945 quando terminou a II Guerra Mundial, com a vitória dos países democráticos (EUA, França, Inglaterra e seus aliados), onde os direitos e liberdades dos cidadãos eram respeitados. Estes países pressionaram Salazar e este marcou eleições legislativas.
+A oposição uniu-se e criou o MUD (Movimento de Unidade Democrática). No entanto, o governo não permitiu que a oposição fizesse campanha eleitoral nem que a contagem dos votos fosse fiscalizada. Quem fosse suspeito de pertencer à oposição era tirado das listas eleitorais para não poderem votar. Os dirigentes do MUD decidiram então apelar à abstenção e assim a União Nacional conseguiu eleger todos os seus candidatos.
+
+**Eleições presidenciais de 1958:**
+O general Humberto Delgado, com o apoio de toda a oposição, candidatou-se às eleições presidenciais de 1958. Quando lhe perguntaram o que faria a Salazar se fosse eleito, respondeu: *"Obviamente, demito-o!"* – uma declaração que entusiasmou o país. Apesar do grande apoio que teve da população, foi Américo Tomás, pertencente à União Nacional, quem venceu as eleições, que foram consideradas fraudulentas pela oposição. Humberto Delgado foi perseguido e exilou-se. Em 1965, foi assassinado pela PIDE em Espanha.
+Depois destas eleições, Salazar mudou a lei e criou um colégio eleitoral que passa a eleger o Presidente da República.
+
+
+
+### A II Guerra Mundial
+
 2ª Guerra Mundial
 A Segunda Guerra Mundial foi o maior conflito armado da história, envolvendo praticamente todos os continentes. Ocorreu entre 1939 e 1945 e resultou em milhões de mortes, devastação mundial e grandes mudanças políticas e sociais.
 
@@ -4377,6 +3987,9 @@ Consequências da guerra
 - Criação da ONU (1945) para manter a paz mundial.
 - Julgamento de Nuremberg: líderes nazistas foram condenados por crimes de guerra.
 - Descolonização: colônias na Ásia e África começaram a lutar pela independência.
+
+
+### Guerra Fria e Formação da CEE
 
 Guerra Fria e formação da CEE
 A Guerra Fria foi um conflito político, ideológico e económico entre as duas superpotências que surgiram depois da Segunda Guerra Mundial:
@@ -4444,6 +4057,75 @@ c) Expansão e evolução
 - Em 1992, o Tratado de Maastricht transformou a CEE em União Europeia (UE).
 - Introdução do euro (1999) e reforço da integração política e económica.
 
+
+### A Guerra Colonial
+
+## A GUERRA COLONIAL
+
+### O contexto internacional: a descolonização
+Depois da II Guerra Mundial, a maioria das potências europeias reconheceu o direito à autodeterminação dos povos colonizados:
+
+- A **Inglaterra** concedeu independência à Índia (1947), e progressivamente às suas colónias africanas.
+- A **França** enfrentou guerras na Indochina (1946–1954) e na Argélia (1954–1962) antes de aceitar a descolonização.
+- A **Bélgica** concedeu independência ao Congo (1960).
+- A **ONU** defendia o direito dos povos à autodeterminação e pressionava Portugal a libertar as suas colónias.
+
+No entanto, Salazar recusou-se a aceitar a independência das colónias portuguesas. Em 1951, alterou a designação oficial de "colónias" para "províncias ultramarinas", tentando apresentá-las como parte integrante de Portugal e não como territórios colonizados. O lema do regime era: *"Portugal não é um país pequeno"* – referindo-se à extensão do império colonial.
+
+### O início dos conflitos
+
+- **1961 – Índia Portuguesa:** A União Indiana, liderada por Nehru, invadiu e ocupou Goa, Damão e Diu. Portugal não tinha meios militares para resistir e perdeu estes territórios.
+- **1961 – Angola:** Em fevereiro, grupos nacionalistas atacaram a prisão de Luanda, e em março houve uma revolta violenta no norte de Angola. Começava a guerra. Os principais movimentos de libertação eram o MPLA (Movimento Popular de Libertação de Angola), a FNLA (Frente Nacional de Libertação de Angola) e a UNITA (União Nacional para a Independência Total de Angola).
+- **1963 – Guiné-Bissau:** O PAIGC (Partido Africano para a Independência da Guiné e Cabo Verde), liderado por Amílcar Cabral, iniciou a luta armada.
+- **1964 – Moçambique:** A FRELIMO (Frente de Libertação de Moçambique), liderada por Eduardo Mondlane, iniciou a guerra no norte do país.
+
+### A guerra nos três teatros de operações
+Portugal foi obrigado a combater simultaneamente em três frentes – Angola, Guiné-Bissau e Moçambique – o que representou um esforço militar enorme para um país pequeno e economicamente frágil.
+
+- Foram enviados para África cerca de **800 mil militares** portugueses ao longo de 13 anos.
+- As condições de combate eram extremamente difíceis: selva tropical, doenças, emboscadas e minas.
+- Os movimentos de libertação recebiam apoio da URSS, de Cuba e de países vizinhos africanos.
+
+### Consequências da Guerra Colonial
+
+**Consequências humanas:**
+
+- Cerca de **9 mil soldados portugueses** morreram em combate e milhares ficaram feridos ou traumatizados (estima-se mais de 30 mil feridos e mutilados).
+- Também morreram dezenas de milhares de africanos, entre combatentes e civis.
+- Muitos dos ex-combatentes regressaram a Portugal com graves problemas físicos e psicológicos.
+
+**Consequências económicas:**
+
+- Os gastos militares consumiam cerca de 40% do orçamento do Estado, desviando recursos que faziam falta para a educação, a saúde e o desenvolvimento do país.
+- A guerra contribuiu para o atraso económico de Portugal em relação à Europa.
+
+**Consequências políticas e sociais:**
+
+- A emigração massiva de jovens que fugiam ao serviço militar obrigatório (4 anos, incluindo comissões em África).
+- O crescente descontentamento na população e sobretudo entre os jovens oficiais do Exército, que viria a desencadear a Revolução do 25 de Abril de 1974.
+
+O 25 DE ABRIL DE 1974 E O REGIME DEMOCRÁTICO
+A AÇÃO MILITAR E POPULAR EM 25 DE ABRIL
+Saída de Salazar do poder
+Salazar saiu do poder quando adoeceu gravemente em 1968. No entanto, Marcelo Caetano substituiu-o mantendo os seus ideais: manteve a DGS (Direção Geral de Segurança – antiga PIDE) e a Guerra Colonial.
+Fim da ditadura
+A falta de liberdade, o aumento do custo de vida e as despesas militares e muitas mortes durante a Guerra Colonial contribuíram para o aumento do descontentamento da população, o que levou ao fim da ditadura.
+25 de Abril de 1974
+Golpe militar organizado pelo MFA – Movimento das Forças Armadas – apoiado pelos populares. Várias cidades foram dominadas sem grande resistência.
+Marcelo Caetano refugiou-se no quartel do Carmo que foi cercado pelas tropas do capitão Salgueiro Maia e aceitou render-se perante um oficial superior: general António de Spínola. Acabou por ser preso, tal como Américo Tomás (presidente da República).
+Primeiras medidas do MFA
+
+- poder entregue a uma Junta de Salvação Nacional, presidida pelo António de Spínola
+- dissolução da Assembleia Nacional
+- extinção da DGS
+- abolição da censura
+- libertação dos presos políticos
+- negociações para pôr fim à Guerra Colonial
+
+
+
+### O 25 de Abril de 1974
+
 25 de Abril de 1974 — A Revolução dos Cravos
  1. Contexto histórico
 Antes do 25 de Abril, Portugal vivia há décadas sob uma ditadura:
@@ -4494,6 +4176,96 @@ Sociais e económicas:
 - Devolveu a liberdade, a democracia e a dignidade ao povo português.
 - É celebrado todos os anos como Dia da Liberdade — feriado nacional em Portugal.
 
+
+### A Independência das Colónias
+
+## A INDEPENDÊNCIA DAS COLÓNIAS
+
+### O processo de descolonização
+Após o 25 de Abril de 1974, uma das primeiras prioridades do novo regime democrático foi pôr fim à Guerra Colonial e negociar a independência das colónias africanas. O general António de Spínola reconheceu o direito à autodeterminação dos povos colonizados.
+
+### Colónias africanas
+O processo de independência foi rápido mas nem sempre pacífico:
+
+- **Guiné-Bissau** (setembro de 1974) – Foi o primeiro território a tornar-se independente. Na verdade, o PAIGC já tinha declarado unilateralmente a independência em 1973, que foi reconhecida por Portugal após a revolução.
+- **Moçambique** (junho de 1975) – A FRELIMO assumiu o poder e Samora Machel tornou-se o primeiro presidente. O país enfrentaria depois uma longa guerra civil (1977–1992).
+- **Cabo Verde** (julho de 1975) – Tornou-se independente pacificamente, inicialmente em união política com a Guiné-Bissau (que se desfez em 1980).
+- **São Tomé e Príncipe** (julho de 1975) – Independência pacífica, com o MLSTP (Movimento de Libertação de São Tomé e Príncipe) a assumir o governo.
+- **Angola** (novembro de 1975) – A independência foi proclamada em simultâneo por três movimentos rivais (MPLA, FNLA e UNITA), o que levou a uma devastadora guerra civil que duraria até 2002. A saída dos colonos portugueses foi caótica: centenas de milhares regressaram a Portugal em poucos meses, deixando para trás tudo o que tinham construído.
+
+### Os retornados
+A descolonização provocou o regresso a Portugal de cerca de **500 a 800 mil portugueses** que viviam nas colónias, sobretudo de Angola e Moçambique. Eram chamados os **retornados**.
+
+- Muitos chegaram apenas com o que podiam carregar, tendo perdido casas, negócios e bens acumulados ao longo de gerações.
+- A integração dos retornados foi um enorme desafio para Portugal, que estava a atravessar um período de grande instabilidade política e económica.
+- Apesar das dificuldades iniciais, os retornados acabaram por se integrar na sociedade portuguesa e contribuíram significativamente para o desenvolvimento do país com as suas competências e experiência profissional.
+
+### Colónias do Oriente
+As colónias do continente asiático tiveram outros destinos:
+
+- **Macau** (1999) – Passou a ser território chinês (Região Administrativa Especial), de acordo com um processo negociado entre Portugal e a China ao longo dos anos 1980 e 1990.
+- **Timor-Leste** (2002) – Após a retirada portuguesa em 1975, Timor-Leste foi invadido e ocupado pela Indonésia durante 24 anos. Após um referendo apoiado pela ONU em 1999, em que a população votou pela independência, e um período de violência e intervenção internacional, Timor-Leste tornou-se oficialmente independente em 2002.
+
+### O legado da descolonização
+- Portugal passou de um grande império colonial a um pequeno país europeu, o que obrigou a uma profunda redefinição da identidade nacional.
+- Em 1996, foi criada a **CPLP (Comunidade dos Países de Língua Portuguesa)**, que reúne os países lusófonos numa organização de cooperação cultural, económica e diplomática.
+- A língua portuguesa, falada por mais de 250 milhões de pessoas em todo o mundo, é o principal legado cultural do antigo império.
+
+
+
+### Restabelecimento da Democracia
+
+## RESTABELECIMENTO DA DEMOCRACIA
+Constituição de 1976
+
+- Em 25 de Abril de 1975 – realizaram-se eleições para eleger os deputados para a Assembleia Constituinte que tinha como função elaborar uma nova constituição
+- Em 25 de Abril de 1976 – foi aprovada a Constituição de 1976 que garantiu a separação dos poderes e os direitos e liberdades dos cidadãos
+Democracia
+
+- o governo voltou a governar segundo um regime democrático, ou seja, respeitando os direitos e liberdades dos cidadãos
+- assim os cidadãos voltaram a ter o direito de escolher os seus governantes – direito de voto
+Poder Central
+
+- conjunto de órgãos que exercem o seu poder sobre todo o território nacional e que abrange toda a população:
+- Presidente da República
+- Governo (1º ministro e restantes ministros)
+- Assembleia da república (deputados)
+- Tribunais (juízes)
+Separação dos poderes do poder central
+
+- Presidente da República
+- promulga e manda publicar as leis
+- é escolhido pelos cidadãos eleitores
+- Governo
+- executa as leis
+- o 1º ministro é escolhido pelo presidente da República e os restantes ministros são escolhidos pelo 1º ministro
+- Assembleia da República
+- faz as leis
+- os deputados são escolhidos pelos cidadãos eleitores
+- Tribunais
+- julgam quem não cumpre as leis
+- os juízes não são escolhidos por eleições
+Autonomia dos Açores e da Madeira
+A Madeira e os Açores têm os seus próprios órgãos de governo:
+
+- Assembleia Regional
+- faz as leis respeitando a Constituição e as leis gerais da República
+- os deputados são escolhidos pelos cidadãos eleitores da região
+- Governo Regional
+- executa as leis
+- o primeiro ministro é escolhido pelo partido mais votado para a Assembleia Regional que depois escolhe os restantes ministros
+Apesar de terem órgãos de governo próprios, continuam a estar dependentes do Poder Central, como qualquer outra região de Portugal.
+
+---
+
+## Capítulo 9: Portugal Contemporâneo
+
+Este capítulo olha para o Portugal de hoje: a sua integração na União Europeia, na Comunidade dos Países de Língua Portuguesa e nas Nações Unidas; a evolução da população, a mobilidade, as atividades económicas, os transportes, o lazer e o património. Inclui também o contexto da globalização e das potências emergentes que moldam o mundo contemporâneo.
+
+---
+
+### Potências Emergentes e Globalização
+
 Potências emergentes e globalização
 Depois da Revolução, o mundo entrou numa nova fase da globalização, marcada por:
 
@@ -4522,6 +4294,336 @@ Após 1974, Portugal passou de um país fechado e rural para um país aberto e i
 - Anos 2000: desafios da competitividade e da crise económica; aumento da emigração e investimento estrangeiro.
 - Hoje: Portugal aposta na inovação, turismo sustentável, energias renováveis e cooperação lusófona para se posicionar na economia global.
 
+
+### Espaços em que Portugal se Integra
+
+## ESPAÇOS EM QUE PORTUGAL SE INTEGRA
+## COMUNIDADES DA EUROPA E DO MUNDO QUE PORTUGAL FAZ PARTE
+União Europeia
+Em 1957, seis países europeus formaram a Comunidade Económica Europeia. Mais tarde, outros países aderiram esta comunidade, que passou a chamar-se União Europeia, pois os seus objetivos deixaram de ser apenas económicos mas também políticos, culturais, sociais e ambientais.
+Os principais objetivos da União Europeia são:
+
+- Livre circulação de pessoas e mercadorias
+- Circulação de uma moeda única – o Euro
+- Criação de políticas comuns
+- Ajuda aos países em dificuldades
+- Programas de intercâmbio de estudantes
+- Defesa da liberdade
+Portugal aderiu a esta comunidade em 1986.
+Organização das Nações Unidas (ONU)
+Portugal faz parte ainda da Organização das Nações Unidas, fundada em junho de 1945, após a Segunda Guerra Mundial.
+Os principais objetivos da Organização das Nações Unidas são:
+
+- Procurar resolver pacificamente os conflitos internacionais, de forma a manter a paz no mundo
+- Desenvolvera  cooperação internacional a nível económico, social, cultural e humanitário
+- Promover o respeito pelos diretos humanos
+Comunidade dos Países de Língua Portuguesa (CPLP)
+Em 1996, criou-se a Comunidade dos Países de Língua Portuguesa de forma a reforçar a cooperação entre os países onde se fala português. Todos os membros desta comunidade já foram colónias portuguesas e agora são nações independentes.
+
+
+### Portugal Hoje
+
+## PORTUGAL HOJE
+
+## A POPULAÇÃO PORTUGUESA
+## A EVOLUÇÃO DA POPULAÇÃO
+Importância dos censos
+Conhecer a evolução da população e a sua constituição é bastante importante, tanto para compreender o passado como para planear melhor o futuro. Por isso, realizam-se recenseamentos (ou censos) que consistem na recolha de dados sobre a população (sexo, idade, naturalidade, profissão, lugar de residência, grau de instrução, etc…).
+Com estas informações os governantes conseguem fazer uma melhor gestão dos recursos que servem a população. Por exemplo, é possível saber onde existe maior necessidade de construir escolas, centros para idosos, novos hospitais, etc…
+A natalidade e a mortalidade
+Os fatores mais importantes que influenciam a evolução da população são:
+
+- a natalidade: número de nascimentos vivos ocorridos durante um ano
+- a mortalidade: número de óbitos (mortes) ocorridos durante um ano
+
+Se a natalidade for superior à mortalidade, a população aumenta. Se a natalidade é inferior à mortalidade, a população diminui.
+Desta forma, verifica-se o crescimento natural da população:
+CRESCIMENTO NATURAL = NATALIDADE – MORTALIDADE
+Ao longo do século XX e da primeira década do século XXI verificou-se uma diminuição da mortalidade. Tal deve-se às seguintes razões:
+
+- melhoria da alimentação
+- melhores serviços de saúde e novos medicamentos
+- melhoria da habitação, do conforto e da higiene
+Por sua vez, também se verificou uma diminuição da natalidade. As principais razões para esta diminuição são:
+
+- desenvolvimento e divulgação de métodos contracetivos, que permitem decidir o número de filhos que se quer ter
+- aumento do número de mulheres a trabalhar fora de casa, o que obriga despesas com amas e infantários
+No entanto, a natalidade continua a ser superior à mortalidade, o que faz com que se tenha verificado um aumento da população ao longo do século XX, com exceção da década 1960-1970.
+Na atualidade, a população absoluta portuguesa, ou seja, o número total de habitantes em Portugal, é de cerca de 10 650 000.
+
+## A MOBILIDADE DA POPULAÇÃO
+A evolução da população absoluta também é influenciada pela emigração (saída de pessoas para o estrangeiro) e pela imigração (entrada de pessoas para um país).
+Quando a emigração é muito intensa, a população pode diminuir. Por sua vez, a imigração contribui para o aumento da população.
+Emigração
+Os principais destinos foram: primeiro países africanos e americanos, sobretudo o Brasil, e mais tarde França e Alemanha. Na última década, a falta de emprego em Portugal fez com que muitos portugueses emigrassem sobretudo para Angola.
+De forma geral, as pessoas emigraram devido a razões de natureza económica:
+
+- procura de melhores condições de vida
+- procura de emprego e melhores salários
+No entanto, entre 1961 e 1974, muitos portugueses abandonaram o país por razões de natureza política:
+
+- discordância com o regime político (ditadura)
+- recusa em participar na Guerra Colonial
+Ao longo de décadas tem-se verificado uma grande emigração, o que tem tido como consequências:
+
+- negativas: envelhecimento da população e diminuição da população ativa
+- positivas: diminuição do desemprego e receção de remessas dos emigrantes
+Imigração
+Nas duas últimas décadas tem-se verificado um aumento da imigração, sobretudo do Brasil, dos Países Africanos de Língua Oficial Portuguesa (PALOP) e de países da Europa de Leste.
+Este aumento deveu-se à mudança de regime após o 25 de Abril de 1974 e à adesão à União Europeia que permitiu um desenvolvimento económico e social que tornou o nosso país atrativo para populações de outros países menos desenvolvidos.
+
+## CARACTERÍSTICAS DA POPULAÇÃO PORTUGUESA
+Composição da população por género e idade
+Conhecer a população implica também saber quantos portugueses são homens ou mulheres e a sua distribuição por idades – estrutura etária.
+Para caracterizar a estrutura etária é comum subdividir a população em três grupos etários (grupos de pessoas com idades semelhantes):
+
+- Jovens: até aos 14 anos
+- Adultos: dos 15 aos 64 anos
+- Idosos: a partir de 65 anos
+Em Portugal tem-se verificado uma diminuição do número de jovens, devido à diminuição da natalidade e à emigração. Por sua vez, o número de idosos tem vindo a aumentar, devido à diminuição da mortalidade. Sendo assim, pode-se concluir que a população portuguesa tem vindo a envelhecer.
+Em relação ao género, existem mais mulheres do que homens, pois a sua esperança média de vida (número de anos de vida que uma pessoa tem probabilidade de viver após o nascimento) é maior do que a do sexo masculino.
+
+## OS LUGARES ONDE VIVEMOS
+## TIPOS DE POVOAMENTO
+Existem dois grandes tipos de povoamento (modo como as pessoas ocupam e organizam o espaço em que habitam e desenvolvem as suas atividades económicas):
+
+- Povoamento rural:
+- Cujos habitantes se dedicam principalmente à agricultura, pecuária e silvicultura
+- Onde a densidade populacional é baixa
+- Povoamento urbano:
+- Cujos habitantes se dedicam principalmente ao comércio, à indústria e serviços
+- Onde a densidade populacional é alta
+OS CAMPOS: OS VESTÍGIOS DO PASSADO E AS MUDANÇAS
+Distribuição do povoamento rural
+O povoamento rural pode ser:
+
+- Povoamento disperso: se as casas encontram-se dispersas pelos campos
+- Povoamento agrupado: se as casas agrupam-se em aldeias ou vilas
+O povoamento rural disperso é mais comum no Litoral Norte, em algumas planícies do Interior, no Litoral Alentejano, na parte ocidental da serra Algarvia e na ilha da Madeira.
+O povoamento rural agrupado predomina em todo o Interior de Portugal Continental e no arquipélago dos Açores.
+As condições de vida no campo
+A habitação
+As habitações do meio rural têm tradição de serem construídas com os materiais da sua região e são adaptadas ao tipo de clima da região e às atividades económicas dos seus habitantes.
+
+- Casa rural tradicional do Norte:
+- construída em granito ou xisto, conforme a rocha predominante da região
+- geralmente tem 2 pisos: no inferior abrigam-se os animais e guardam-se os produtos e instrumentos agrícolas, e no superior é onde a família habita
+- nas terras mais altas os telhados são muito inclinados devido à neve
+- Casa rural tradicional do Sul:
+- Construídas em adobe (barro amassado com areia e palha)
+- Têm um só piso onde habita a família. Os animais, produtos e instrumentos agrícolas são guardados em construções junto à habitação como currais, celeiros, adegas, etc
+- As casas das zonas mais quentes (Alentejo e Algarve) são caiadas de branco para melhor suportar o calor de verão
+- Casas rurais das regiões autónomas:
+- Construídas em basalto
+- São quase sempre caiadas
+Ao longo do século XX, a construção tradicional rural tem vindo a ser substituída por um modelo mais próximo do tipo de construção urbana, que proporciona um maior conforto, com o recurso a materiais mais modernos e acessíveis – a vivenda.
+O trabalho
+As principais atividades económicas no meio rural são:
+
+- Agricultura
+- Pecuária
+- Silvicultura
+No entanto, a introdução da máquina nas atividades económicas tem libertado os habitantes das aldeias para outras atividades profissionais:
+
+- no núcleo urbano mais próximo: na indústria ou em serviços
+- em casa ou em pequenas oficinas: atividades artesanais, reparações mecânicas, elétricas, etc.
+O dia-a-dia
+A vida da população do meio rural sofreu grandes alterações, sobretudo a partir da segunda metade do século XX. Destacam-se as melhorias a nível de:
+
+- saneamento básico: rede de esgotos, canalização, recolha de lixo, tratamento de água
+- infra-estruturas: distribuição de eletricidade e de gás, rede de transportes, estradas
+- equipamentos coletivos: escolas, centros de saúde, campos desportivos, espaços verdes
+
+Hoje em dia é frequente as famílias terem carro próprio e a deslocação às vilas e às cidades mais próximas tornou-se mais fácil. Sendo assim o acesso a bens e serviços desses meios é mais facilitado o que contribui também para a melhor qualidade de vida das populações do meio rural.
+No entanto, ainda existem algumas povoações, sobretudo do Interior, que não tiveram acesso a muitas destas melhorias continuando muito isoladas do resto das povoações e núcleos urbanos.
+OS CENTROS URBANOS: ÁREAS DE ATRAÇÃO DA POPULAÇÃO
+Características dos centros urbanos
+O povoamento urbano corresponde a um espaço onde a densidade populacional é elevada e onde existe um grande número de habitações e edifícios industriais próximos uns dos outros. Nos centros urbanos é possível apontar algumas características:
+
+- Existência de um centro histórico: que corresponde ao primeiro núcleo de habitantes.  Geralmente nesta zona encontram-se casas comerciais e de serviços, centros escolares e de saúde, instalações administrativas e judiciais. À sua volta foram crescendo novos espaços habitacionais à medida que a cidade foi crescendo
+- Existência de poucos espaços verdes: os que existem são geralmente criados pelo Homem
+- Existência de grandes centros comerciais: hipermercados e grandes centros comercias surgem nos arredores da cidade
+Distribuição do povoamento urbano
+Os centros urbanos localizam-se sobretudo junto ao litoral. No Interior existem poucas cidades e são de pequena dimensão.
+Nas Regiões Autónomas, destacam-se o Funchal, na Madeira, e Ponta Delgada, nos Açores.
+As condições de vida no centros urbanos
+A habitação
+Os edifícios mais frequentes nos centros urbanos são os prédios com vários andares divididos em apartamentos. No entanto também existem outros tipos de habitação que refletem duas realidades bastante diferentes: as vivendas e as barracas.
+O trabalho
+As principais atividades económicas no meio urbano são:
+
+- Comércio
+- Indústria
+- Serviços
+O dia-a-dia
+Ao longo das últimas décadas, tem-se verificado uma melhoria das vias de comunicação e das redes de transporte, o que contribuiu para a redução da distância-tempo, ou seja, o tempo gasto em deslocações.
+Nos centros urbanos, o acesso a serviços de saúde, educação, lazer, etc. é bastante mais fácil do que no espaço rural. Existe também uma maior oferta de bens de consumo e existem também mais habitações e mais bem equipadas. A oferta de emprego é maior, bem como o acesso aos estudos e melhores condições de vida. Por isso, considera-se que os centros urbanos são áreas atrativas, o que tem provocado o seu aumento e desenvolvimento com a chegada de mais pessoas.
+
+## PROBLEMAS DA VIDA QUOTIDIANA NAS CIDADES E NO CAMPO
+Acessibilidade
+As necessidades do mundo moderno têm provocado transformações importantes nas vias de comunicação. É cada vez maior a circulação de pessoas e de produtos e a velocidade das deslocações é fundamental para, por exemplo, as pessoas chegarem a horas ao emprego e os produtos frescos chegarem ao destino em boas condições.
+Sendo assim, os meios de transporte e as vias de comunicação têm vindo a sofrer um grande desenvolvimento nas últimas décadas. No entanto, é possível verificar desigualdades entre o meio urbano e o meio rural.
+No meio urbano
+Aspetos positivos:
+
+- Variedade de meios de transporte (viatura particular, autocarro, táxi, metro, comboio, etc.)
+- Grande rede de vias de comunicação que interligam os vários meios de transporte
+Aspetos negativos:
+
+- Volume de tráfego intenso
+- Demora nas deslocações, sobretudo nas “horas de ponta”
+- Transportes coletivos frequentemente cheios e com dificuldade em cumprir os horários
+- Poluição
+No meio rural
+Aspetos positivos:
+
+- Volume de tráfego reduzido, por isso as deslocações locais são rápidas e fáceis
+Aspetos negativos:
+
+- Número reduzido de vias e meios de comunicação
+- Poucos transportes públicos
+Níveis de conforto
+A qualidade de vida depende do nível de conforto da habitação e dos bens e serviços a que a população tem acesso.
+Na sua maioria, no meio urbano, as habitações possuem as condições consideradas mínimas de conforto: água canalizada, eletricidade e saneamento básico (instalações sanitárias). No entanto, no meio rural, ainda predominam muitas habitações sem estas condições mínimas de conforto, sobretudo as mais antigas e mais afastadas de núcleos urbanos.
+Também a nível de serviços e equipamentos coletivos verificam-se algumas desigualdades. É nas cidades que se encontram os melhores e mais modernos hospitais, centros clínicos, universidades, escolas, bibliotecas, teatros, cinemas e recintos desportivos. No meio rural existe pouca oferta de serviços de assistência médica, maior dificuldade no acesso à instrução e cultura e a outros serviços úteis como bancos.
+De uma forma geral, pode-se concluir que é no meio urbano onde se encontram melhores níveis de conforto, por isso tem-se verificado um grande movimento da população do meio rural para os núcleos urbanos. No entanto, também as cidades têm os seus problemas, como o trânsito, a poluição e insegurança, o que leva a algumas pessoas a preferirem o meio rural.
+
+## ATIVIDADES QUE DESENVOLVEMOS
+## O MUNDO DO TRABALHO
+População ativa e população não ativa
+Para ter acesso a bens e serviços, as pessoas precisam de meios económicos. Sendo assim, a maioria dos adultos como menos de 65 anos exerce uma profissão de forma a obter um salário.
+
+- População ativa: população que exerce uma atividade remunerada, ou que está temporariamente desempregada (que não exerce uma atividade económica mas que está em condições de o fazer).
+Por outro lado, jovens, idosos e muitas mulheres donas de casa não recebem qualquer salário pelas suas atividades.
+
+- População não ativa: população que não exerce qualquer atividade paga.
+
+## AS PRINCIPAIS ATIVIDADES ECONÓMICAS
+Setores de atividade
+Como existe uma grande variedade de atividades económicas, convencionou-se agrupá-las em três setores:
+
+- Setor primário: atividades que obtêm ou extraem produtos da Natureza (matérias-prima)
+- Setor secundário: atividades que transformam as matérias-primas em novos produtos
+- Setor terciário: atividades que prestam serviços (apoiam os outros setores e a população)
+Durante séculos a maioria da população dedicou-se ao setor primário. Entretanto, a mecanização e modernização da agricultura contribuiu para a redução de mão-de-obra, o que fez diminuir o número de pessoas a trabalhar no setor primário. Atualmente, mais de metade da população ativa portuguesa trabalha no setor terciário.
+Setor primário
+As atividades do setor primário produzem bens que podem ser consumidos. Por isso são designadas atividades produtoras.
+Agricultura
+A agricultura é a atividade mais importante do setor primário. Em Portugal, a produção é fraca e os rendimentos obtidos são poucos, o que tem provocado a diminuição de pessoas a trabalhar nesta atividade.
+Como está diretamente relacionada com as condições naturais do clima, do relevo e do solo, apresenta características e produtos diferentes, consoante a região do país onde é praticada. Em Portugal foram definidas nove regiões agrárias:
+
+- Entre-Douro e Minho: produtos hortícolas, batata, centeio, vinho, batata
+- Trás-os-Montes: azeite, vinho, centeio
+- Beira Litoral: produtos hortícolas, batata, centeio, arroz
+- Beira Interior: azeite, batata
+- Ribatejo e Oeste: produtos hortícolas, tomate, arroz, vinho
+- Alentejo: tomate, girassol, azeite, centeio, vinho
+- Algarve: produtos hortícolas, batata, fruta
+- Açores: vinho, batata, milho, centeio, fruta
+- Madeira: vinho, batata, milho, centeio, fruta
+Pecuária
+A pecuária – criação de animais – tem vindo a desenvolver devido ao aumento de consumo de carne e de outros produtos de origem animal (leite, manteiga, queijo, ovos, etc) por parte da população.
+Continua muito ligada à agricultura e, como ela, depende das condições naturais. A distribuição das espécies de gado varia conforme a natureza das pastagens:
+
+- Litoral Norte: gado bovino
+- Sul e montanhas do Norte e Centro: gado ovino e caprino
+- Ribatejo: gado suíno
+- Madeira e Açores: gado bovino
+Silvicultura
+Da silvicultura – manutenção, exploração e recuperação da floresta – resulta a produção de madeira, cortiça, resina e outros produtos que são utilizados como matérias-primas por indústrias como a do mobiliário e a do papel.
+Pesca
+Dada a situação geográfica de Portugal, a pesca sempre foi uma das principais atividades dos portugueses. No entanto, atualmente, esta atividade enfrenta graves problemas devido à diminuição de reservas de peixe, frota constituída essencialmente por pequenos barcos e antiquados e rendimentos obtidos baixos.
+O espaço marítimo encontra-se repartido pelos diferentes países. À zona reservada a cada uma das nações chama-se Zona Económica Exclusiva – ZEE.
+As espécies mais pescadas nas águas portuguesas são a sardinha, o carapau, o polvo, o peixe-espada preto, o atum, a cavala e a faneca.
+Setor secundário
+As atividades do setor secundário consistem na transformação de matérias-primas noutros produtos, sendo por isso também designadas de atividades produtoras.
+Indústria transformadora
+A indústria transformadora é a atividade mais importante do setor secundário. Dela resultam produtos variadíssimos, tais como móveis, roupa, calçado, produtos alimentares, etc…
+Existem algumas indústrias que se localizam junto das áreas de produção das matérias-primas, como é o caso das indústrias de laticínios, madeira, cortiça e cimento. No entanto, a maioria das indústrias transformadoras localizam-se no Litoral, sobretudo nas zonas da Grande Lisboa e Grande Porto, pois dispõem de muita mão-de-obra e possuem portos marítimos que facilitam a chegada de matérias-primas e permitem um rápido escoamento dos produtos para o mercado internacional.
+Atualmente, o governo e as autarquias incentivam a instalação de indústrias no interior do país com o objetivo de criar postos de trabalho em zonas com menor densidade populacional, a fim de evitar o seu despovoamento. Apesar destes apoios, muitas das empresas têm vindo a fechar devido a dificuldades financeiras, dificuldade em concorrer com empresas estrangeiras e também devido à deslocação de empresas para países onde a mão-de-obra é mais barata.
+Setor terciário
+As atividades do setor terciário surgem como apoio aos outros setores e prestam serviços à população. Como não têm a finalidade de produzir bens materiais, são designadas de atividades não produtoras.
+Comércio
+O comércio é a atividade do setor terciário que emprega o maior número de trabalhadores. Consiste na troca de bens entre pessoas, regiões e países e é preponderante para a economia de um país.
+No meio rural os espaços de comércio são pequenos e geralmente cada loja apresenta uma grande variedade de produtos. No meio urbano existem lojas especializadas num tipo de produto e grandes centros comerciais e hipermercados onde se pode encontrar qualquer tipo de produto.
+Além da venda de produtos em espaços próprios, tem vindo a aumentar o comércio de produtos pela Internet, através de lojas online, por catálogo, por telefone ou mesmo ao domicilio.
+Podemos distinguir dois tipos de comércio:
+
+- Comércio interno: troca de bens realizado dentro de um país
+- Comércio externo: troca de bens realizado entre países
+Apesar do crescimento das exportações (venda de produtos ao estrangeiro), Portugal continua a ter um número superior de importações (compra de produtos ao estrangeiro).
+Saúde
+Em Portugal todos têm direito à proteção de saúde através de um Serviço Nacional de Saúde.
+Além de hospitais e outros centros clínicos públicos (pertencentes ao Estado), existem também equipamentos de saúde privados, geralmente só acessíveis a pessoas com alguns recursos económicos.
+Educação
+A Educação é também um dos serviços fundamentais para o desenvolvimento de um país. As melhorias nesta área contribuíram para a diminuição do analfabetismo e para o aumento de instrução da população.
+Tal como no caso da Saúde, existem centros escolares públicos e privados.
+Transportes
+Nos últimos anos tem sido feito um enorme investimento no alargamento e na melhoria da qualidade da rede rodoviária e ferroviária, devido à sua  importância na deslocação de pessoas e mercadorias. Também o transporte aéreo assume uma grande importância porque permite a ligação de Portugal Continental às regiões autónomas e ao estrangeiro.
+Outros serviços
+O setor terciário tem vindo a crescer significativamente devido à criação de empresas de serviços tradicionais, como bancos, seguros, etc, e devido ao surgimento de novas atividades, sobretudo ligadas às telecomunicações. Este crescimento tem influência na produção de riqueza de um país e na oferta de emprego.
+
+## O MUNDO MAIS PERTO DE NÓS
+## OS TRANSPORTES E AS COMUNICAÇÕES
+Acessibilidade de pessoas, bens e ideias
+Hoje, os transportes e comunicações atingiram um tal desenvolvimento que tudo se tornou mais fácil e rápido. Países e populações encontram-se cada vez mais próximos, assim como Portugal está mais próximo da Europa e do resto do mundo.
+Transportes
+Tipos de meios de transporte:
+
+- Terrestres:
+- Rodoviários: circulam pelas estradas
+- Ferroviários: circulam pelos caminhos-de-ferro
+- Aquáticos:
+- Marítimos: circulam pelo mar
+- Fluviais: circulam pelos rios
+- Aéreos: circulam pelo ar
+Na escolha do meio de transporte mais adequado, deve-se ter em conta alguns aspetos importantes. No caso da deslocação de pessoas, deve-se ter em conta sobretudo o custo e tempo da viagem e o conforto que lhes é proporcionado. Em relação ao transporte de mercadorias, deve-se ter em conta aspetos como o tipo de carga, tempo, custo e distância.
+Vantagens e desvantagens de cada tipo de meio de transporte:
+
+- Transportes rodoviários: podem transportar cargas pequenas e médias, o custo é médio e tem a vantagem de chegar a quase todos os locais
+- Transportes ferroviários: podem transportar cargas maiores, o custo é baixo, mas servem apenas alguns locais
+- Transportes marítimos: podem transportas cargas grandes e volumosas a grandes distâncias e a custo baixo, mas são lentos
+- Transportes aéreos: são muito rápidos, percorrem todas as distâncias, mas não transportam cargas grandes e o custo é muito elevado
+Comunicações
+Também hoje a informação tem maior facilidade de circulação e faz-se através de vários meios de comunicação:
+
+- Escrita:
+- Livros, jornais, revistas, etc…
+- À distância:
+- Telégrafo, telefone, rádio,televisão, telefax, internet, etc…
+- Outros:
+- Cinema, vídeo, etc…
+Hoje, é possível comunicar facilmente com uma pessoa que esteja em qualquer parte do mundo, através de aparelhos de telecomunicação, ou seja, meios que permitem, através de processos elétricos, a comunicação à distância.
+A troca de ideias e conhecimentos é maior entre os vários países, fazendo com que as fronteiras façam cada vez menos sentido, dado que as várias partes do mundo estão em permanente comunicação.
+
+## LAZER E PATRIMÓNIO
+## LAZER
+A ocupação dos tempos livres
+Nos momentos em que as pessoas não trabalham têm direito a um tempo de lazer, ou seja, tempo livre que as pessoas ocupam da maneira que mais lhe agrada.
+Estes momentos de lazer podem ser aproveitados para praticar atividades desportivas, culturais ou sociais, e dependem da existência de equipamentos (recintos desportivos, piscinas, teatros, cinemas, museus, etc.) e de instituições (clubes desportivos e associações culturais) que desenvolvam essas atividades.
+Estes equipamentos existem em maior número e com maior oferta de atividades no meio urbano, havendo por isso diferenças na ocupação dos tempos livres entre as pessoas do campo e as da cidade. Como no meio rural o acesso a esses equipamentos é mais escasso, a maior parte dos tempos livres são ocupados pelo convívio com os amigos, idas ao café, jogos em grupo, atividades ao ar livre como a caça, participação em grupos corais, ranchos, etc. Neste meio dá-se também muita importância às festas tradicionais: feiras, romarias ou arraiais.
+Turismo
+Nas férias as pessoas têm mais tempo livre e muitas aproveitam para fazer turismo, ou seja, conhecer espaços diferentes através de viagens ou passeios. O turismo pode ser feito dentro do próprio país ou para o estrangeiro.
+Devido às suas condições geográficas e climáticas, Portugal é um país que atrai muitos turistas estrangeiros.
+Em Portugal, os principais tipos de turismo são:
+
+- Balnear: muitas pessoas são atraídas pelas inúmeras praias existentes ao longo da costa portuguesa, sobretudo no verão, época de mês seco (cuja precipitação é igual ou menor que o dobro da temperatura nesse mês)
+- Cultural: mais frequente nos centros urbanos, relaciona-se com a visita a monumentos, museus ou centros históricos
+- De montanha: nas regiões de maior altitude é possível fazer caminhadas pela Natureza e praticar desportos radicais no inverno
+- Rural: para quem procura um maior contato com a natureza, ar puro e sossego
+- Termal: existem nascentes de água que atraem milhares de turistas devido às suas propiedades curativas
+- Religioso: muitas pessoas deslocam-se ao nosso país para visitar santuários ou outros locais de culto
+O número de chegada de turistas estrangeiros tem vindo a aumentar em Portugal, provocando a entrada de dinheiro estrangeiro, o desenvolvimento de muitas regiões e o aumento de emprego. Sendo assim, o turismo é uma das atividades mais importantes do setor terciário pelo desenvolvimento que provoca e pela entrada de receitas. No entanto, a construção de unidades hoteleiras, restaurantes, cafés, bares, estradas, tem tido um impacto negativo no ambiente, com a alteração da paisagem e aumento da poluição em áreas que tinham pouca intervenção humana.
+
+## IMPORTÂNCIA DAS ÁREAS DE PROTEÇÃO DA NATUREZA
+Preservação da natureza
+O aumento da população e do turismo tem provocado a humanização da paisagem, ou seja, modificação da paisagem através da intervenção do Homem, através da ocupação excessiva de territórios para construção, do abate de árvores, da pesca e caça sem controlo, colocando assim muitas vezes espécies animais e vegetais em risco de extinção.
+Sendo assim, tornou-se necessário tomar medidas para proteger certas zonas do país a fim de preservar a natureza, a sua fauna e a sua flora. Foram criadas, portanto, áreas protegidas pelo Estado em que qualquer alteração do meio carece de autorização. As áreas protegidas são constituídas pelos parques naturais e reservas naturais.
+
+
+---
+
+# PARTE II — GEOGRAFIA
 
 ## GEOGRAFIA
 
