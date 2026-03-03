@@ -171,7 +171,7 @@ A comprehensive Portuguese educational website providing curriculum-aligned cont
 
 This project is shared under the **GNU Affero General Public License v3.0** - a strong copyleft license ensuring this knowledge remains free and open for all.
 
-See [LICENSE](LICENSE) file for details.
+See [LICENSE](AURYN/node_modules/qs/LICENSE.md) file for details.
 
 ---
 
