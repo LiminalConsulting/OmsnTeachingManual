@@ -1,0 +1,79 @@
+#!/bin/bash
+# Build all manuals and exercise books
+# Run from repo root: bash build_all.sh
+# Optional: bash build_all.sh math   (rebuild one subject only)
+
+set -e
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+BUILD="$SCRIPT_DIR/shared/build.sh"
+BUILD_EX="$SCRIPT_DIR/shared/build_exercises.sh"
+
+SUBJECT="${1:-all}"
+SUCCESS=0
+FAIL=0
+
+run() {
+  local dir="$1"; local cmd="${@:2}"
+  (cd "$dir" && bash $cmd) && ((SUCCESS++)) || ((FAIL++))
+}
+
+build_math() {
+  local d="$SCRIPT_DIR/subjects/math"
+  run "$d/manual" "$BUILD" MANUAL_FINAL_PRINT.md          MANUAL_FINAL.pdf          pt-PT
+  run "$d/manual" "$BUILD" MANUAL_FINAL_EN_PRINT.md       MANUAL_FINAL_EN.pdf       en-US
+  run "$d/manual" "$BUILD" MANUAL_FINAL_BILINGUAL_SRC.md  MANUAL_FINAL_BILINGUAL.pdf bilingual
+  run "$d/exercises" "$BUILD_EX" EXERCISES_FINAL_PT.md    EXERCISES_FINAL.pdf          pt-PT
+  run "$d/exercises" "$BUILD_EX" EXERCISES_FINAL_EN.md    EXERCISES_FINAL_EN.pdf       en-US
+  run "$d/exercises" "$BUILD_EX" EXERCISES_FINAL_BILINGUAL.md EXERCISES_FINAL_BILINGUAL.pdf bilingual
+}
+
+build_physics() {
+  local d="$SCRIPT_DIR/subjects/physics-chemistry"
+  run "$d/manual" "$BUILD" MANUAL_FINAL_PHYSICS_CHEMISTRY_PRINT.md    MANUAL_FINAL_PHYSICS_CHEMISTRY.pdf    pt-PT
+  run "$d/manual" "$BUILD" MANUAL_FINAL_PHYSICS_CHEMISTRY_EN_PRINT.md MANUAL_FINAL_PHYSICS_CHEMISTRY_EN.pdf en-US
+  run "$d/manual" "$BUILD" MANUAL_FINAL_PHYSICS_CHEMISTRY_BILINGUAL_SRC.md MANUAL_FINAL_PHYSICS_CHEMISTRY_BILINGUAL.pdf bilingual
+  run "$d/exercises" "$BUILD_EX" EXERCISES_FINAL_PT.md    EXERCISES_FINAL.pdf          pt-PT
+  run "$d/exercises" "$BUILD_EX" EXERCISES_FINAL_EN.md    EXERCISES_FINAL_EN.pdf       en-US
+  run "$d/exercises" "$BUILD_EX" EXERCISES_FINAL_BILINGUAL.md EXERCISES_FINAL_BILINGUAL.pdf bilingual
+}
+
+build_sciences() {
+  local d="$SCRIPT_DIR/subjects/sciences"
+  run "$d/manual" "$BUILD" MANUAL_FINAL_SCIENCES_PRINT.md    MANUAL_FINAL_SCIENCES.pdf    pt-PT
+  run "$d/manual" "$BUILD" MANUAL_FINAL_SCIENCES_EN_PRINT.md MANUAL_FINAL_SCIENCES_EN.pdf en-US
+  run "$d/manual" "$BUILD" MANUAL_FINAL_SCIENCES_BILINGUAL_SRC.md MANUAL_FINAL_SCIENCES_BILINGUAL.pdf bilingual
+  run "$d/exercises" "$BUILD_EX" EXERCISES_FINAL_PT.md    EXERCISES_FINAL.pdf          pt-PT
+  run "$d/exercises" "$BUILD_EX" EXERCISES_FINAL_EN.md    EXERCISES_FINAL_EN.pdf       en-US
+  run "$d/exercises" "$BUILD_EX" EXERCISES_FINAL_BILINGUAL.md EXERCISES_FINAL_BILINGUAL.pdf bilingual
+}
+
+build_history() {
+  local d="$SCRIPT_DIR/subjects/history-geography"
+  run "$d/manual" "$BUILD" MANUAL_FINAL_HISTORY_GEOGRAPHY_PRINT.md    MANUAL_FINAL_HISTORY_GEOGRAPHY.pdf    pt-PT
+  run "$d/manual" "$BUILD" MANUAL_FINAL_HISTORY_GEOGRAPHY_EN_PRINT.md MANUAL_FINAL_HISTORY_GEOGRAPHY_EN.pdf en-US
+  run "$d/manual" "$BUILD" MANUAL_FINAL_HISTORY_GEOGRAPHY_BILINGUAL_SRC.md MANUAL_FINAL_HISTORY_GEOGRAPHY_BILINGUAL.pdf bilingual
+  run "$d/exercises" "$BUILD_EX" EXERCISES_FINAL_PT.md    EXERCISES_FINAL.pdf          pt-PT
+  run "$d/exercises" "$BUILD_EX" EXERCISES_FINAL_EN.md    EXERCISES_FINAL_EN.pdf       en-US
+  run "$d/exercises" "$BUILD_EX" EXERCISES_FINAL_BILINGUAL.md EXERCISES_FINAL_BILINGUAL.pdf bilingual
+}
+
+case "$SUBJECT" in
+  math)    build_math ;;
+  physics) build_physics ;;
+  sciences) build_sciences ;;
+  history) build_history ;;
+  all)
+    build_math
+    build_physics
+    build_sciences
+    build_history
+    ;;
+  *)
+    echo "Unknown subject: $SUBJECT. Use: math | physics | sciences | history | all"
+    exit 1
+    ;;
+esac
+
+echo ""
+echo "Done: $SUCCESS succeeded, $FAIL failed"
+[ $FAIL -eq 0 ] || exit 1

@@ -182,6 +182,12 @@ In each `manual/` directory, remove:
 - Intermediate Python scripts that were one-time-use fixes (`clean_english_manual.py`,
   `fix_formatting.py`, `add_section_breaks.py`, `analyze_page_alignment.py`,
   `assemble_english_manual.sh`, `split_manual.sh`)
+- Old per-subject build scripts now replaced by `shared/build.sh`:
+  `generate_pdf.sh`, `generate_pdf_en.sh`, `generate_physics_chemistry_pdf.sh`,
+  `generate_sciences_pdf.sh`, `generate_history_geography_pdf.sh`,
+  `generate_bilingual_cover.sh`, `create_bilingual_pdf.py`, `create_bilingual_pdf.sh`
+- Old per-subject exercise scripts now replaced by `shared/build_exercises.sh`:
+  `generate_exercises_pdf.sh` in each subject's `exercises/` directory
 
 ### Files to keep
 - `MANUAL_FINAL_PRINT.md` — PT source (canonical)
@@ -257,6 +263,20 @@ Before declaring Horizon 1 complete, verify:
 
 ---
 
+## Build System
+
+All subject scripts have been consolidated into two shared scripts and one root orchestrator:
+
+- `shared/build.sh <input.md> <output.pdf> [lang]` — builds any teaching manual PDF
+- `shared/build_exercises.sh <input.md> <output.pdf> [lang]` — builds any exercise book PDF
+- `build_all.sh [subject]` — builds everything, or one subject: `bash build_all.sh math`
+
+The old per-subject scripts (`generate_pdf.sh`, `generate_physics_chemistry_pdf.sh`, etc.)
+are now redundant and should be deleted during Phase 4 cleanup.
+
+When adding a new build step, always call `shared/build.sh` or `shared/build_exercises.sh`.
+Never create a new subject-specific script.
+
 ## Token Efficiency Notes
 
 - Always read `.md` source files, never PDFs
@@ -264,4 +284,3 @@ Before declaring Horizon 1 complete, verify:
   — translate one section per context session
 - When creating bilingual source: read PT and EN side by side, interleave section by section
 - After any content work: commit immediately so progress is never lost
-- The build scripts exist — trust them. Don't rewrite them, just add missing ones.

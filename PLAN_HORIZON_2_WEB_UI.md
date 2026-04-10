@@ -50,29 +50,8 @@ jobs:
           sudo apt-get install -y pandoc texlive-xetex texlive-lang-portuguese \
             ghostscript poppler-utils
 
-      - name: Build Math
-        if: ${{ github.event.inputs.subject == 'all' || github.event.inputs.subject == 'math' || github.event_name == 'push' }}
-        run: |
-          cd subjects/math/manual && bash generate_pdf.sh && bash generate_pdf_en.sh && bash generate_bilingual_pdf.sh
-          cd ../exercises && bash generate_exercises_pdf.sh
-
-      - name: Build Physics-Chemistry
-        if: ${{ github.event.inputs.subject == 'all' || github.event.inputs.subject == 'physics' || github.event_name == 'push' }}
-        run: |
-          cd subjects/physics-chemistry/manual && bash generate_physics_chemistry_pdf.sh && bash generate_pdf_en.sh && bash generate_bilingual_pdf.sh
-          cd ../exercises && bash generate_exercises_pdf.sh
-
-      - name: Build Natural Sciences
-        if: ${{ github.event.inputs.subject == 'all' || github.event.inputs.subject == 'sciences' || github.event_name == 'push' }}
-        run: |
-          cd subjects/sciences/manual && bash generate_sciences_pdf.sh && bash generate_pdf_en.sh && bash generate_bilingual_pdf.sh
-          cd ../exercises && bash generate_exercises_pdf.sh
-
-      - name: Build History-Geography
-        if: ${{ github.event.inputs.subject == 'all' || github.event.inputs.subject == 'history' || github.event_name == 'push' }}
-        run: |
-          cd subjects/history-geography/manual && bash generate_history_geography_pdf.sh && bash generate_pdf_en.sh && bash generate_bilingual_pdf.sh
-          cd ../exercises && bash generate_exercises_pdf.sh
+      - name: Build manuals
+        run: bash build_all.sh ${{ github.event.inputs.subject || 'all' }}
 
       - name: Commit rebuilt PDFs
         run: |
