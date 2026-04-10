@@ -6,6 +6,7 @@
 INPUT="$1"
 OUTPUT="$2"
 LANG="${3:-pt-PT}"
+IS_BILINGUAL=false
 
 if [ -z "$INPUT" ] || [ -z "$OUTPUT" ]; then
   echo "Usage: build.sh <input.md> <output.pdf> [lang]"
@@ -23,7 +24,8 @@ if [ "$LANG" = "en-US" ]; then
   COVER="COVER_EN.md"
 elif [ "$LANG" = "bilingual" ]; then
   COVER="COVER_BILINGUAL.md"
-  LANG="pt-PT"  # paracol handles internal language; outer doc is PT
+  LANG="pt-PT"
+  IS_BILINGUAL=true
 else
   COVER="COVER.md"
 fi
@@ -31,22 +33,23 @@ fi
 if [ -f "$COVER" ]; then
   COVER_ARGS="--include-before-body=$COVER"
 else
-  echo "⚠  Cover file $COVER not found, building without cover"
+  echo "Warning: Cover file $COVER not found, building without cover"
 fi
 
-echo "Building $OUTPUT (lang=$LANG)..."
+echo "Building $OUTPUT (lang=${3:-pt-PT})..."
 
 HEADER_FILE=$(mktemp /tmp/omsn-header-XXXX.tex)
-cat > "$HEADER_FILE" <<'TEXEOF'
+if [ "$IS_BILINGUAL" = true ]; then
+  cat > "$HEADER_FILE" <<'TEXEOF'
 \usepackage{graphicx}
 \usepackage{paracol}
-% Allow longtable inside paracol by redefining to regular tabular
-\makeatletter
-\let\oldlongtable\longtable
-\let\endoldlongtable\endlongtable
-\renewenvironment{longtable}[1][]{\begin{tabular}{#1}}{\end{tabular}}
-\makeatother
+\usepackage{tabulary}
 TEXEOF
+else
+  cat > "$HEADER_FILE" <<'TEXEOF'
+\usepackage{graphicx}
+TEXEOF
+fi
 
 set +e
 pandoc "$INPUT" \

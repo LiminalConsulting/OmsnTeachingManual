@@ -6,6 +6,7 @@
 INPUT="$1"
 OUTPUT="$2"
 LANG="${3:-pt-PT}"
+IS_BILINGUAL=false
 
 if [ -z "$INPUT" ] || [ -z "$OUTPUT" ]; then
   echo "Usage: build_exercises.sh <input.md> <output.pdf> [lang]"
@@ -19,20 +20,23 @@ fi
 
 if [ "$LANG" = "bilingual" ]; then
   LANG="pt-PT"
+  IS_BILINGUAL=true
 fi
 
-echo "Building $OUTPUT (lang=$LANG)..."
+echo "Building $OUTPUT (lang=${3:-pt-PT})..."
 
 HEADER_FILE=$(mktemp /tmp/omsn-header-XXXX.tex)
-cat > "$HEADER_FILE" <<'TEXEOF'
+if [ "$IS_BILINGUAL" = true ]; then
+  cat > "$HEADER_FILE" <<'TEXEOF'
 \usepackage{graphicx}
 \usepackage{paracol}
-\makeatletter
-\let\oldlongtable\longtable
-\let\endoldlongtable\endlongtable
-\renewenvironment{longtable}[1][]{\begin{tabular}{#1}}{\end{tabular}}
-\makeatother
+\usepackage{tabulary}
 TEXEOF
+else
+  cat > "$HEADER_FILE" <<'TEXEOF'
+\usepackage{graphicx}
+TEXEOF
+fi
 
 set +e
 pandoc "$INPUT" \
