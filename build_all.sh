@@ -3,7 +3,6 @@
 # Run from repo root: bash build_all.sh
 # Optional: bash build_all.sh math   (rebuild one subject only)
 
-set -e
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 BUILD="$SCRIPT_DIR/shared/build.sh"
 BUILD_EX="$SCRIPT_DIR/shared/build_exercises.sh"
@@ -13,7 +12,6 @@ SUCCESS=0
 FAIL=0
 
 run() {
-  # Skips gracefully if the input file doesn't exist yet (safe during Horizon 1)
   local dir="$1"
   local script="$2"
   local input="$3"
@@ -23,7 +21,11 @@ run() {
     echo "⏭  Skipping $input (not yet created)"
     return 0
   fi
-  (cd "$dir" && bash "$script" "$input" "$output" "$lang") && ((SUCCESS++)) || ((FAIL++))
+  if (cd "$dir" && bash "$script" "$input" "$output" "$lang"); then
+    SUCCESS=$((SUCCESS + 1))
+  else
+    FAIL=$((FAIL + 1))
+  fi
 }
 
 build_math() {

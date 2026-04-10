@@ -3,8 +3,6 @@
 # Usage: build_exercises.sh <input.md> <output.pdf> [lang]
 #   lang defaults to pt-PT; use en-US for English, bilingual for bilingual
 
-set -e
-
 INPUT="$1"
 OUTPUT="$2"
 LANG="${3:-pt-PT}"
@@ -25,6 +23,13 @@ fi
 
 echo "Building $OUTPUT (lang=$LANG)..."
 
+HEADER_FILE=$(mktemp /tmp/omsn-header-XXXX.tex)
+cat > "$HEADER_FILE" <<'TEXEOF'
+\usepackage{graphicx}
+\usepackage{paracol}
+TEXEOF
+
+set +e
 pandoc "$INPUT" \
   -o "$OUTPUT" \
   --pdf-engine=xelatex \
@@ -35,16 +40,18 @@ pandoc "$INPUT" \
   -V linestretch=1.3 \
   -V linkcolor=blue \
   -V urlcolor=blue \
-  --include-in-header=<(echo '\usepackage{graphicx}\usepackage{paracol}') \
-  2>&1 | grep -v "WARNING" | grep -v "Missing character"
+  --include-in-header="$HEADER_FILE" \
+  2>&1
+EXIT_CODE=$?
+set -e
 
-EXIT_CODE=${PIPESTATUS[0]}
+rm -f "$HEADER_FILE"
 
 if [ $EXIT_CODE -eq 0 ]; then
   echo "✅ $OUTPUT"
   ls -lh "$OUTPUT"
   pdfinfo "$OUTPUT" 2>/dev/null | grep "Pages:" || true
 else
-  echo "❌ Failed: $OUTPUT"
+  echo "❌ Failed: $OUTPUT (exit code $EXIT_CODE)"
   exit 1
 fi
