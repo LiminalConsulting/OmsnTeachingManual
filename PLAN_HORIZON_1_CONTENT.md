@@ -6,6 +6,33 @@ page-matched, and ready to print. The repo is clean with no clutter.
 
 **Work entirely in Markdown source files. Never open PDFs to read content — that burns tokens fast.**
 
+**How PDFs are generated:** GitHub Actions runs `build_all.sh` automatically on every push to
+`main` that touches any `.md` source file. You never need pandoc or xelatex installed locally.
+Edit Markdown → push → wait ~5 minutes → PDFs are committed back to the repo by the build bot.
+Check the Actions tab on GitHub to watch the build and confirm success.
+
+---
+
+## Phase 0: Verify GitHub Actions (do this first)
+
+The workflow file is already at `.github/workflows/build-manuals.yml`.
+
+Before doing any content work, confirm the pipeline is live:
+
+1. Push any trivial change (e.g. add a blank line to this file and revert it)
+2. Go to the GitHub repo → Actions tab
+3. Confirm the "Build Manuals" workflow runs and completes successfully
+4. Confirm rebuilt PDFs appear as a new commit from "OMSN Build Bot"
+
+If the build fails, fix it before proceeding. Common causes:
+- Missing `texlive-latex-extra` package (add to the `apt-get install` line in the workflow)
+- A `generate_*.sh` script in a subject directory that fails — the unified scripts don't
+  call those anymore, but if `build_all.sh` references a file that doesn't exist yet
+  (e.g. `MANUAL_FINAL_HISTORY_GEOGRAPHY_EN_PRINT.md`), add a guard: the script should
+  skip missing files gracefully rather than exit 1
+
+Once you see green Actions and bot-committed PDFs, proceed to Phase 1.
+
 ---
 
 ## Current State Audit

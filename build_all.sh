@@ -13,8 +13,17 @@ SUCCESS=0
 FAIL=0
 
 run() {
-  local dir="$1"; local cmd="${@:2}"
-  (cd "$dir" && bash $cmd) && ((SUCCESS++)) || ((FAIL++))
+  # Skips gracefully if the input file doesn't exist yet (safe during Horizon 1)
+  local dir="$1"
+  local script="$2"
+  local input="$3"
+  local output="$4"
+  local lang="${5:-pt-PT}"
+  if [ ! -f "$dir/$input" ]; then
+    echo "⏭  Skipping $input (not yet created)"
+    return 0
+  fi
+  (cd "$dir" && bash "$script" "$input" "$output" "$lang") && ((SUCCESS++)) || ((FAIL++))
 }
 
 build_math() {

@@ -1,14 +1,17 @@
-# Horizon 2: Web UI for Image Placement + GitHub Actions Auto-Build
+# Horizon 2: GitHub Pages Download Site + Cloudflare Image Upload UI
 
-**Goal:** Non-technical contributors can drag-and-drop an image, specify where it goes in
-the manual, and see the updated PDF a few minutes later — all through a browser, no local
-tooling required. The build pipeline runs automatically on every push.
+**Goal:** Send Ivone (or any client) a single link. They see a clean page listing all PDFs
+to download. They can also drag-and-drop an image to add it to a manual — no coding required.
+Updated PDFs appear automatically a few minutes later.
 
-**Prerequisite:** Horizon 1 must be complete. All PDFs build cleanly from source.
+**Prerequisite:** Horizon 1 complete. All PDFs build cleanly from source.
+
+**Note on GitHub Actions:** The auto-build pipeline is already live (set up in Phase 0 of
+Horizon 1). This horizon only needs the GitHub Pages site and the Cloudflare Worker.
 
 ---
 
-## Part A: GitHub Actions Auto-Build
+## Part A: GitHub Actions Auto-Build (ALREADY DONE — see Phase 0 of Horizon 1)
 
 This is the foundation. Without it, the web UI has nowhere to trigger builds.
 
