@@ -1,4 +1,6 @@
+```{=latex}
 \begin{paracol}{2}
+```
 
 # Exercícios: Capítulo 2 - Números
 
@@ -8,7 +10,9 @@
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 # Exercises: Chapter 2 - Numbers
 
@@ -18,7 +22,9 @@
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Instruções
 
@@ -30,7 +36,9 @@
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Instructions
 
@@ -42,7 +50,9 @@
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 2.1 Números Naturais
 
@@ -148,7 +158,9 @@ Os números 24 e 36 são primos entre si? Justifica a tua resposta.
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 2.1 Natural Numbers
 
@@ -254,7 +266,9 @@ Are the numbers 24 and 36 coprime (relatively prime)? Justify your answer.
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 2.2 Números Inteiros
 
@@ -324,7 +338,9 @@ A temperatura às 6h era de −3°C. Às 12h tinha subido 8°C e às 18h tinha d
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 2.2 Integers
 
@@ -394,7 +410,9 @@ The temperature at 6am was −3°C. By 12pm it had risen by 8°C and by 6pm it h
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 2.3 Números Racionais
 
@@ -468,7 +486,9 @@ Um tanque está cheio até 3/5 da sua capacidade. Depois de usar 1/4 da água qu
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 2.3 Rational Numbers
 
@@ -542,7 +562,9 @@ A tank is filled to 3/5 of its capacity. After using 1/4 of the water it contain
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 2.4 Números Reais
 
@@ -594,7 +616,9 @@ Um quadrado tem área de 169 cm². Qual é o perímetro do quadrado?
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 2.4 Real Numbers
 
@@ -646,7 +670,9 @@ A square has an area of 169 cm². What is the perimeter of the square?
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 2.5 Potências e Notação Científica
 
@@ -710,7 +736,9 @@ A distância da Terra ao Sol é aproximadamente 1,5 × 10⁸ km. A velocidade da
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 2.5 Powers and Scientific Notation
 
@@ -774,7 +802,9 @@ The distance from Earth to the Sun is approximately 1.5 × 10⁸ km. The speed o
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Respostas
 
@@ -839,7 +869,9 @@ The distance from Earth to the Sun is approximately 1.5 × 10⁸ km. The speed o
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Answers
 
@@ -904,7 +936,9 @@ The distance from Earth to the Sun is approximately 1.5 × 10⁸ km. The speed o
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Instrucoes
 
@@ -916,7 +950,9 @@ The distance from Earth to the Sun is approximately 1.5 × 10⁸ km. The speed o
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Instructions
 
@@ -928,7 +964,9 @@ The distance from Earth to the Sun is approximately 1.5 × 10⁸ km. The speed o
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 3.1 Expressoes Algebricas
 
@@ -1038,7 +1076,9 @@ Verifica se as expressoes 3(x + 4) - 2x e x + 12 sao equivalentes para x = 0, x 
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 3.1 Algebraic Expressions
 
@@ -1148,7 +1188,9 @@ Verify whether the expressions 3(x + 4) - 2x and x + 12 are equivalent for x = 0
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 3.2 Sequencias e Padroes
 
@@ -1233,7 +1275,9 @@ b) Quais sao os proximos 4 termos?
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 3.2 Sequences and Patterns
 
@@ -1318,7 +1362,9 @@ b) What are the next 4 terms?
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 3.3 Equacoes e Inequacoes
 
@@ -1434,7 +1480,9 @@ A area de um retangulo e 48 cm^2. O comprimento e 2 cm maior que a largura. Quai
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 3.3 Equations and Inequalities
 
@@ -1550,7 +1598,9 @@ The area of a rectangle is 48 cm^2. The length is 2 cm more than the width. What
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 3.4 Funcoes
 
@@ -1686,7 +1736,9 @@ Uma bola e lancada para cima. A sua altura h (em metros) apos t segundos e dada 
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 3.4 Functions
 
@@ -1822,7 +1874,9 @@ A ball is thrown upward. Its height h (in metres) after t seconds is given by h(
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Respostas
 
@@ -1882,7 +1936,9 @@ A ball is thrown upward. Its height h (in metres) after t seconds is given by h(
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Answers
 
@@ -1942,7 +1998,9 @@ A ball is thrown upward. Its height h (in metres) after t seconds is given by h(
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Instrucoes
 
@@ -1954,7 +2012,9 @@ A ball is thrown upward. Its height h (in metres) after t seconds is given by h(
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Instructions
 
@@ -1966,7 +2026,9 @@ A ball is thrown upward. Its height h (in metres) after t seconds is given by h(
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 4.1 Elementos Basicos
 
@@ -2032,7 +2094,9 @@ Tres retas concorrentes formam 6 angulos num mesmo ponto. Se um dos angulos mede
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 4.1 Basic Elements
 
@@ -2098,7 +2162,9 @@ Three concurrent lines form 6 angles at the same point. If one of the angles mea
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 4.2 Figuras Planas
 
@@ -2240,7 +2306,9 @@ Num circulo, um angulo ao centro mede 90 graus. Qual e a medida do angulo inscri
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 4.2 Plane Figures
 
@@ -2382,7 +2450,9 @@ In a circle, a central angle measures 90 degrees. What is the measure of the ins
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 4.3 Transformacoes Geometricas
 
@@ -2450,7 +2520,9 @@ Uma fotografia de 10 cm x 15 cm e ampliada com razao de semelhanca 3. Quais sao 
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 4.3 Geometric Transformations
 
@@ -2518,7 +2590,9 @@ A photograph of 10 cm x 15 cm is enlarged with a similarity ratio of 3. What are
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 4.4 Solidos Geometricos
 
@@ -2576,7 +2650,9 @@ Um poliedro tem 20 vertices e 30 arestas. Quantas faces tem?
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 4.4 Geometric Solids
 
@@ -2634,7 +2710,9 @@ A polyhedron has 20 vertices and 30 edges. How many faces does it have?
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 4.5 Trigonometria
 
@@ -2722,7 +2800,9 @@ Do topo de uma torre de 20 metros de altura, observa-se um barco no mar com um a
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 4.5 Trigonometry
 
@@ -2810,7 +2890,9 @@ From the top of a 20-metre tower, a boat at sea is observed at an angle of depre
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Respostas
 
@@ -2873,7 +2955,9 @@ From the top of a 20-metre tower, a boat at sea is observed at an angle of depre
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Answers
 
@@ -2936,7 +3020,9 @@ From the top of a 20-metre tower, a boat at sea is observed at an angle of depre
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Instrucoes
 
@@ -2949,7 +3035,9 @@ From the top of a 20-metre tower, a boat at sea is observed at an angle of depre
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Instructions
 
@@ -2962,7 +3050,9 @@ From the top of a 20-metre tower, a boat at sea is observed at an angle of depre
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 5.1 Area
 
@@ -3080,7 +3170,9 @@ Um campo de futebol retangular tem 100 m de comprimento e 70 m de largura. Em ca
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 5.1 Area
 
@@ -3198,7 +3290,9 @@ A rectangular football pitch is 100 m long and 70 m wide. At each end there is a
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 5.2 Volume
 
@@ -3346,7 +3440,9 @@ b) A area total de folha-de-flandres necessaria para fabricar a lata (base + tam
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 5.2 Volume
 
@@ -3494,7 +3590,9 @@ b) The total area of tin plate needed to make the tin (base + lid + lateral surf
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Respostas
 
@@ -3548,7 +3646,9 @@ b) The total area of tin plate needed to make the tin (base + lid + lateral surf
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Answers
 
@@ -3602,7 +3702,9 @@ b) The total area of tin plate needed to make the tin (base + lid + lateral surf
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Instrucoes
 
@@ -3614,7 +3716,9 @@ b) The total area of tin plate needed to make the tin (base + lid + lateral surf
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Instructions
 
@@ -3626,7 +3730,9 @@ b) The total area of tin plate needed to make the tin (base + lid + lateral surf
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 6.1 Representacao de Dados
 
@@ -3724,7 +3830,9 @@ c) Se a turma tem 40 alunos, quantos preferem cada desporto?
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 6.1 Data Representation
 
@@ -3822,7 +3930,9 @@ c) If the class has 40 students, how many prefer each sport?
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 6.2 Estatistica
 
@@ -3939,7 +4049,9 @@ Num teste, a media da turma foi 65 pontos. Se retirarmos a nota mais alta (95 po
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 6.2 Statistics
 
@@ -4056,7 +4168,9 @@ In a test, the class mean was 65 marks. If we remove the highest mark (95), the 
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 6.3 Probabilidades
 
@@ -4219,7 +4333,9 @@ b) Nao comecar nas duas primeiras tentativas?
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 6.3 Probability
 
@@ -4382,7 +4498,9 @@ b) Not starting in the first two attempts?
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Respostas
 
@@ -4424,7 +4542,9 @@ b) Not starting in the first two attempts?
 
 *Adaptado do Manual de Matematica OMSN*
 
+```{=latex}
 \switchcolumn
+```
 
 ## Answers
 
@@ -4466,4 +4586,6 @@ b) Not starting in the first two attempts?
 
 *Adapted from the OMSN Mathematics Manual*
 
+```{=latex}
 \end{paracol}
+```

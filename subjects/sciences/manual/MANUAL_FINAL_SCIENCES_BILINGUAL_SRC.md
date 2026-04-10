@@ -1,4 +1,6 @@
+```{=latex}
 \begin{paracol}{2}
+```
 
 # Manual de Ciências Naturais: 7º ao 9º Ano
 
@@ -11,7 +13,9 @@ Este manual consolida os conteúdos de Ciências Naturais dos 7º, 8º e 9º ano
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 # Natural Sciences Manual: Grades 7 to 9
 
@@ -24,15 +28,21 @@ This manual consolidates the Natural Sciences content for grades 7, 8, and 9, or
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Índice
 
+```{=latex}
 \switchcolumn
+```
 
 ## Table of Contents
 
+```{=latex}
 \switchcolumn*
+```
 
 ## GEOLOGIA
 ### Paisagens e Estrutura da Terra
@@ -61,7 +71,9 @@ This manual consolidates the Natural Sciences content for grades 7, 8, and 9, or
 - Exploração sustentável das rochas
 - O contributo do conhecimento geológico
 
+```{=latex}
 \switchcolumn
+```
 
 ## GEOLOGY
 ### Landscapes and Earth's Structure
@@ -90,7 +102,9 @@ This manual consolidates the Natural Sciences content for grades 7, 8, and 9, or
 - Sustainable exploitation of rocks
 - The contribution of geological knowledge
 
+```{=latex}
 \switchcolumn*
+```
 
 ## BIOLOGIA CELULAR E ECOLOGIA
 ### Condições para a Vida
@@ -107,7 +121,9 @@ This manual consolidates the Natural Sciences content for grades 7, 8, and 9, or
 - Cadeias alimentares e ciclos da matéria
 - Sucessões ecológicas
 
+```{=latex}
 \switchcolumn
+```
 
 ## CELL BIOLOGY AND ECOLOGY
 ### Conditions for Life
@@ -124,7 +140,9 @@ This manual consolidates the Natural Sciences content for grades 7, 8, and 9, or
 - Food chains and matter cycles
 - Ecological successions
 
+```{=latex}
 \switchcolumn*
+```
 
 ## SUSTENTABILIDADE E GESTÃO AMBIENTAL
 ### Desenvolvimento Sustentável
@@ -140,7 +158,9 @@ This manual consolidates the Natural Sciences content for grades 7, 8, and 9, or
 - Ordenamento e gestão do território
 - Gestão de resíduos e da água
 
+```{=latex}
 \switchcolumn
+```
 
 ## SUSTAINABILITY AND ENVIRONMENTAL MANAGEMENT
 ### Sustainable Development
@@ -156,7 +176,9 @@ This manual consolidates the Natural Sciences content for grades 7, 8, and 9, or
 - Land use planning and management
 - Waste and water management
 
+```{=latex}
 \switchcolumn*
+```
 
 ## BIOLOGIA HUMANA
 ### Saúde e Organização do Corpo
@@ -193,7 +215,9 @@ This manual consolidates the Natural Sciences content for grades 7, 8, and 9, or
 
 # GEOLOGIA
 
+```{=latex}
 \switchcolumn
+```
 
 ## HUMAN BIOLOGY
 ### Health and Body Organization
@@ -230,7 +254,9 @@ This manual consolidates the Natural Sciences content for grades 7, 8, and 9, or
 
 # GEOLOGY
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Paisagens e Estrutura da Terra
 
@@ -384,7 +410,9 @@ Cada subsistema mantém a vida através de funções específicas:
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Landscapes and Earth's Structure
 
@@ -538,7 +566,9 @@ Each subsystem maintains life through specific functions:
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Rochas e Minerais
 
@@ -778,7 +808,9 @@ Este processo resulta da **dinâmica interna e externa terrestre**.
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Rocks and Minerals
 
@@ -1018,7 +1050,9 @@ This process results from **Earth's internal and external dynamics**.
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Dinâmica da Terra
 
@@ -1393,7 +1427,9 @@ Após um sismo:
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Earth's Dynamics
 
@@ -1768,7 +1804,9 @@ After an earthquake:
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## História da Terra
 
@@ -1868,7 +1906,9 @@ Os alunos devem identificar etapas de fossilização, estabelecer analogias com 
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Earth's History
 
@@ -1968,7 +2008,9 @@ Students should identify fossilization stages, establish analogies with the real
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Sustentabilidade Geológica
 
@@ -2061,7 +2103,9 @@ Relacionar o ambiente geológico com a saúde e explicar a importância do conhe
 
 # BIOLOGIA CELULAR E ECOLOGIA
 
+```{=latex}
 \switchcolumn
+```
 
 ## Geological Sustainability
 
@@ -2154,7 +2198,9 @@ Relate geological environment to health and explain the importance of geological
 
 # CELL BIOLOGY AND ECOLOGY
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Condições para a Vida
 
@@ -2244,7 +2290,9 @@ Os alunos devem:
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Conditions for Life
 
@@ -2334,7 +2382,9 @@ Students should:
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Organização Celular
 
@@ -2395,7 +2445,9 @@ Os biomas são "conjuntos de ecossistemas em interação que são condicionados 
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Cell Organization
 
@@ -2456,7 +2508,9 @@ Biomes are "sets of interacting ecosystems that are conditioned by geographical 
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Ecossistemas
 
@@ -2780,7 +2834,9 @@ Este manual consolida os conteúdos de Ciências Naturais dos 7º, 8º e 9º ano
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Ecosystems
 
@@ -3103,7 +3159,9 @@ This manual consolidates the Natural Sciences content for grades 7, 8, and 9, or
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## SUSTENTABILIDADE E GESTÃO AMBIENTAL
 ### Desenvolvimento Sustentável
@@ -3119,7 +3177,9 @@ This manual consolidates the Natural Sciences content for grades 7, 8, and 9, or
 - Ordenamento e gestão do território
 - Gestão de resíduos e da água
 
+```{=latex}
 \switchcolumn
+```
 
 ## SUSTAINABILITY AND ENVIRONMENTAL MANAGEMENT
 ### Sustainable Development
@@ -3135,7 +3195,9 @@ This manual consolidates the Natural Sciences content for grades 7, 8, and 9, or
 - Land use planning and management
 - Waste and water management
 
+```{=latex}
 \switchcolumn*
+```
 
 ## BIOLOGIA HUMANA
 ### Saúde e Organização do Corpo
@@ -3171,7 +3233,9 @@ This manual consolidates the Natural Sciences content for grades 7, 8, and 9, or
 
 # SUSTENTABILIDADE E GESTÃO AMBIENTAL
 
+```{=latex}
 \switchcolumn
+```
 
 ## HUMAN BIOLOGY
 ### Health and Body Organization
@@ -3207,7 +3271,9 @@ This manual consolidates the Natural Sciences content for grades 7, 8, and 9, or
 
 # SUSTAINABILITY AND ENVIRONMENTAL MANAGEMENT
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Desenvolvimento Sustentável
 
@@ -3322,7 +3388,9 @@ Exemplos:
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Sustainable Development
 
@@ -3437,7 +3505,9 @@ Examples:
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Proteção Ambiental
 
@@ -3592,7 +3662,9 @@ Segundo as metas curriculares do domínio "Sustentabilidade na Terra", o aluno d
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Environmental Protection
 
@@ -3747,7 +3819,9 @@ According to the curricular goals of the "Sustainability on Earth" domain, stude
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Gestão de Território e Recursos
 
@@ -3803,7 +3877,9 @@ Os estudantes devem dominar as seguintes competências:
 
 # BIOLOGIA HUMANA
 
+```{=latex}
 \switchcolumn
+```
 
 ## Territory and Resource Management
 
@@ -3859,7 +3935,9 @@ Students should master the following competencies:
 
 # HUMAN BIOLOGY
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Saúde e Organização do Corpo
 
@@ -4124,7 +4202,9 @@ Este tópico serve como ponte entre o estudo da célula (do 8º ano) e os sistem
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Health and Body Organization
 
@@ -4389,7 +4469,9 @@ This topic serves as a bridge between the study of the cell (from 8th grade) and
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Nutrição e Digestão
 
@@ -4627,7 +4709,9 @@ Tumores que podem ocorrer em:
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Nutrition and Digestion
 
@@ -4865,7 +4949,9 @@ Tumors that can occur in:
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Sistema Circulatório e Imunitário
 
@@ -5063,7 +5149,9 @@ Remover resíduos celulares e microrganismos da linfa, produzindo anticorpos.
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Circulatory and Immune System
 
@@ -5261,7 +5349,9 @@ Remove cellular debris and microorganisms from lymph, producing antibodies.
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Sistema Respiratório
 
@@ -5417,7 +5507,9 @@ Palmadas interescapulares são realizadas sobre o colo ou antebraço com a crian
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Respiratory System
 
@@ -5573,7 +5665,9 @@ Back blows are performed on the lap or forearm with the child head down.
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Sistema Excretor
 
@@ -5729,7 +5823,9 @@ Recomendações:
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Excretory System
 
@@ -5885,7 +5981,9 @@ Recommendations:
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Coordenação e Regulação
 
@@ -6087,7 +6185,9 @@ Atenção especial à alimentação pois muitas hormonas são produzidas atravé
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Coordination and Regulation
 
@@ -6289,7 +6389,9 @@ Special attention to diet because many hormones are produced from food substance
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Reprodução e Hereditariedade
 
@@ -6494,7 +6596,9 @@ De acordo com o currículo português, os alunos devem compreender:
 
 **Conteúdo adaptado de:** O Bichinho do Saber (www.obichinhodosaber.com)
 
+```{=latex}
 \switchcolumn
+```
 
 ## Reproduction and Heredity
 
@@ -6699,4 +6803,6 @@ According to the Portuguese curriculum, students should understand:
 
 **Content adapted from:** O Bichinho do Saber (www.obichinhodosaber.com)
 
+```{=latex}
 \end{paracol}
+```

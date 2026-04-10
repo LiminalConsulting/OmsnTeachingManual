@@ -1,8 +1,3 @@
----
-header-includes: |
-  \usepackage{graphicx}
----
-
 \begin{titlepage}
 \centering
 \vspace*{2cm}

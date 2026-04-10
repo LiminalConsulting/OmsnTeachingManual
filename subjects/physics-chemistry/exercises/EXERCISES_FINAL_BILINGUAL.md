@@ -1,4 +1,6 @@
+```{=latex}
 \begin{paracol}{2}
+```
 
 # Exercicios: Capitulo 1 - Astronomia e Forcas Gravitacionais
 
@@ -8,7 +10,9 @@
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 # Exercises: Chapter 1 - Astronomy and Gravitational Forces
 
@@ -18,7 +22,9 @@
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Instrucoes
 
@@ -30,7 +36,9 @@
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Instructions
 
@@ -42,7 +50,9 @@
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 1.1 O Universo e o Sistema Solar
 
@@ -185,7 +195,9 @@ b) Meteoroide, meteoro e meteorito
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 1.1 The Universe and the Solar System
 
@@ -328,7 +340,9 @@ b) Meteoroid, meteor, and meteorite
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 1.2 Terra, Lua e Forcas Gravitacionais
 
@@ -476,7 +490,9 @@ Explica porque as estacoes do ano sao opostas nos dois hemisferios. Porque e que
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 1.2 Earth, Moon, and Gravitational Forces
 
@@ -624,7 +640,9 @@ Explain why seasons are opposite in the two hemispheres. Why is the distance fro
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Respostas
 
@@ -660,7 +678,9 @@ Explain why seasons are opposite in the two hemispheres. Why is the distance fro
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Answers
 
@@ -696,7 +716,9 @@ Explain why seasons are opposite in the two hemispheres. Why is the distance fro
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Instrucoes
 
@@ -708,7 +730,9 @@ Explain why seasons are opposite in the two hemispheres. Why is the distance fro
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Instructions
 
@@ -720,7 +744,9 @@ Explain why seasons are opposite in the two hemispheres. Why is the distance fro
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 2.1 Movimentos na Terra
 
@@ -844,7 +870,9 @@ c) Um corpo esta na posicao 10 m aos 0 s e na posicao 50 m aos 8 s, movendo-se e
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 2.1 Movements on Earth
 
@@ -968,7 +996,9 @@ c) A body is at position 10 m at 0 s and at position 50 m at 8 s, moving in a st
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 2.2 Forcas e movimentos
 
@@ -1056,7 +1086,9 @@ c) Porque e que os carros de corrida e os avioes tem formas aerodinamicas?
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 2.2 Forces and Movements
 
@@ -1144,7 +1176,9 @@ c) Why do racing cars and airplanes have aerodynamic shapes?
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 2.3 Forcas e fluidos
 
@@ -1224,7 +1258,9 @@ Um cubo de lado 0,1 m e imerso em agua (densidade = 1000 kg/m^3). Calcula a impu
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 2.3 Forces and Fluids
 
@@ -1304,7 +1340,9 @@ A cube with side length 0.1 m is immersed in water (density = 1000 kg/m^3). Calc
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Respostas
 
@@ -1341,7 +1379,9 @@ A cube with side length 0.1 m is immersed in water (density = 1000 kg/m^3). Calc
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Answers
 
@@ -1378,7 +1418,9 @@ A cube with side length 0.1 m is immersed in water (density = 1000 kg/m^3). Calc
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Instrucoes
 
@@ -1390,7 +1432,9 @@ A cube with side length 0.1 m is immersed in water (density = 1000 kg/m^3). Calc
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Instructions
 
@@ -1402,7 +1446,9 @@ A cube with side length 0.1 m is immersed in water (density = 1000 kg/m^3). Calc
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 3.1 Transformacoes e Transferencias de Energia
 
@@ -1494,7 +1540,9 @@ d) Um carro a acelerar numa estrada.
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 3.1 Energy Transformations and Transfers
 
@@ -1586,7 +1634,9 @@ d) A car accelerating on a road.
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 3.2 Fontes e Transferencias de Energia
 
@@ -1664,7 +1714,9 @@ d) Porque se usa madeira nos cabos das panelas em vez de metal?
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 3.2 Sources and Transfers of Energy
 
@@ -1742,7 +1794,9 @@ d) Why are wooden handles used on pans instead of metal?
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 3.3 Eletricidade e Energia
 
@@ -1833,7 +1887,9 @@ Explica porque e que a dependencia de combustiveis fosseis e um problema ambient
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 3.3 Electricity and Energy
 
@@ -1924,7 +1980,9 @@ Explain why dependence on fossil fuels is an environmental problem. Name three c
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Respostas
 
@@ -1957,7 +2015,9 @@ Explain why dependence on fossil fuels is an environmental problem. Name three c
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Answers
 
@@ -1990,7 +2050,9 @@ Explain why dependence on fossil fuels is an environmental problem. Name three c
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Instrucoes
 
@@ -2002,7 +2064,9 @@ Explain why dependence on fossil fuels is an environmental problem. Name three c
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Instructions
 
@@ -2014,7 +2078,9 @@ Explain why dependence on fossil fuels is an environmental problem. Name three c
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 4.1 Ondas e Som
 
@@ -2142,7 +2208,9 @@ c) Ecolocalizacao
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 4.1 Waves and Sound
 
@@ -2270,7 +2338,9 @@ c) Echolocation
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 4.2 Luz e Fenomenos Oticos
 
@@ -2390,7 +2460,9 @@ b) Calcula a distancia focal da lente.
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 4.2 Light and Optical Phenomena
 
@@ -2510,7 +2582,9 @@ b) Calculate the focal distance of the lens.
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Respostas
 
@@ -2543,7 +2617,9 @@ b) Calculate the focal distance of the lens.
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Answers
 
@@ -2576,7 +2652,9 @@ b) Calculate the focal distance of the lens.
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Instrucoes
 
@@ -2588,7 +2666,9 @@ b) Calculate the focal distance of the lens.
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Instructions
 
@@ -2600,7 +2680,9 @@ b) Calculate the focal distance of the lens.
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 5.1 Corrente Eletrica
 
@@ -2730,7 +2812,9 @@ c) Calcula a corrente que atravessa um condutor com R = 100 ohm e U = 230 V.
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 5.1 Electric Current
 
@@ -2860,7 +2944,9 @@ c) Calculate the current through a conductor with R = 100 ohm and U = 230 V.
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 5.2 Potencia e Energia Eletrica
 
@@ -2933,7 +3019,9 @@ Explica porque o corpo humano e suscetivel a choques eletricos e quais podem ser
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 5.2 Electrical Power and Energy
 
@@ -3006,7 +3094,9 @@ Explain why the human body is susceptible to electric shocks and what the conseq
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Respostas
 
@@ -3037,7 +3127,9 @@ Explain why the human body is susceptible to electric shocks and what the conseq
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Answers
 
@@ -3068,7 +3160,9 @@ Explain why the human body is susceptible to electric shocks and what the conseq
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Instrucoes
 
@@ -3080,7 +3174,9 @@ Explain why the human body is susceptible to electric shocks and what the conseq
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Instructions
 
@@ -3092,7 +3188,9 @@ Explain why the human body is susceptible to electric shocks and what the conseq
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 6.1 Constituicao do Mundo Material
 
@@ -3214,7 +3312,9 @@ c) Se adicionarmos mais agua a uma solucao, a concentracao aumenta ou diminui?
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 6.1 Constitution of the Material World
 
@@ -3336,7 +3436,9 @@ c) If we add more water to a solution, does the concentration increase or decrea
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 6.2 Propriedades dos Materiais
 
@@ -3482,7 +3584,9 @@ c) Identifica o metal consultando: aluminio = 2,7 g/cm^3, ferro = 7,87 g/cm^3, c
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 6.2 Properties of Materials
 
@@ -3628,7 +3732,9 @@ c) Identify the metal by consulting: aluminum = 2.7 g/cm^3, iron = 7.87 g/cm^3, 
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Respostas
 
@@ -3662,7 +3768,9 @@ c) Identify the metal by consulting: aluminum = 2.7 g/cm^3, iron = 7.87 g/cm^3, 
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Answers
 
@@ -3696,7 +3804,9 @@ c) Identify the metal by consulting: aluminum = 2.7 g/cm^3, iron = 7.87 g/cm^3, 
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Instrucoes
 
@@ -3708,7 +3818,9 @@ c) Identify the metal by consulting: aluminum = 2.7 g/cm^3, iron = 7.87 g/cm^3, 
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Instructions
 
@@ -3720,7 +3832,9 @@ c) Identify the metal by consulting: aluminum = 2.7 g/cm^3, iron = 7.87 g/cm^3, 
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 7.1 Natureza Corpuscular da Materia
 
@@ -3746,7 +3860,9 @@ c) O que acontece a pressao de um gas se aumentarmos a temperatura a volume cons
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 7.1 Corpuscular Nature of Matter
 
@@ -3772,7 +3888,9 @@ c) What happens to gas pressure if we increase temperature at constant volume?
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 7.2 Atomos, Moleculas e Ioes
 
@@ -3866,7 +3984,9 @@ c) Sulfato de sodio (Na+ e SO4^2-)
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 7.2 Atoms, Molecules, and Ions
 
@@ -3960,7 +4080,9 @@ c) Sodium sulfate (Na+ and SO4^2-)
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 7.3 Representacao de Reacoes Quimicas
 
@@ -4002,7 +4124,9 @@ d) C + O2 -> CO2
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 7.3 Representation of Chemical Reactions
 
@@ -4044,7 +4168,9 @@ d) C + O2 -> CO2
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 7.4 Tipos de Reacoes Quimicas
 
@@ -4168,7 +4294,9 @@ Explica porque e que um comprimido efervescente se dissolve mais rapidamente em 
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 7.4 Types of Chemical Reactions
 
@@ -4292,7 +4420,9 @@ Explain why an effervescent tablet dissolves faster in hot water than in cold wa
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Respostas
 
@@ -4328,7 +4458,9 @@ Explain why an effervescent tablet dissolves faster in hot water than in cold wa
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Answers
 
@@ -4364,7 +4496,9 @@ Explain why an effervescent tablet dissolves faster in hot water than in cold wa
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Instrucoes
 
@@ -4376,7 +4510,9 @@ Explain why an effervescent tablet dissolves faster in hot water than in cold wa
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Instructions
 
@@ -4388,7 +4524,9 @@ Explain why an effervescent tablet dissolves faster in hot water than in cold wa
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 8.1 Evolucao do Conhecimento dos Atomos
 
@@ -4410,7 +4548,9 @@ Descricoes: A) Eletroes em orbitais (regioes de probabilidade). B) Atomos indivi
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 8.1 Evolution of Atomic Knowledge
 
@@ -4432,7 +4572,9 @@ Descriptions: A) Electrons in orbitals (probability regions). B) Indivisible ato
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 8.2 Atomos e Elementos Quimicos
 
@@ -4494,7 +4636,9 @@ Completa a tabela para os seguintes ioes:
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 8.2 Atoms and Chemical Elements
 
@@ -4556,7 +4700,9 @@ Complete the table for the following ions:
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 8.3 Distribuicoes Eletronicas
 
@@ -4610,7 +4756,9 @@ e) O cloro (2,8,7) tende a ceder ou captar eletroes? Quantos? Que iao forma?
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 8.3 Electron Configurations
 
@@ -4664,7 +4812,9 @@ e) Does chlorine (2,8,7) tend to lose or gain electrons? How many? What ion does
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 8.4 Tabela Periodica
 
@@ -4721,7 +4871,9 @@ c) Porque sao os gases nobres (grupo 18) pouco reativos?
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 8.4 Periodic Table
 
@@ -4778,7 +4930,9 @@ c) Why are noble gases (group 18) unreactive?
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 8.5 Ligacoes Quimicas
 
@@ -4871,7 +5025,9 @@ c) Ferro (Fe) e ferro (Fe)
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 8.5 Chemical Bonds
 
@@ -4964,7 +5120,9 @@ c) Iron (Fe) and iron (Fe)
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Respostas
 
@@ -4997,7 +5155,9 @@ c) Iron (Fe) and iron (Fe)
 
 *Adaptado do Manual de Fisico-Quimica OMSN*
 
+```{=latex}
 \switchcolumn
+```
 
 ## Answers
 
@@ -5030,4 +5190,6 @@ c) Iron (Fe) and iron (Fe)
 
 *Adapted from the OMSN Physics-Chemistry Manual*
 
+```{=latex}
 \end{paracol}
+```

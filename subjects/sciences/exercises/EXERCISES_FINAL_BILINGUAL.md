@@ -1,4 +1,6 @@
+```{=latex}
 \begin{paracol}{2}
+```
 
 # Exercicios: Capitulo 1 - Geologia
 
@@ -8,7 +10,9 @@
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 # Exercises: Chapter 1 - Geology
 
@@ -18,7 +22,9 @@
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Instrucoes
 
@@ -30,7 +36,9 @@
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Instructions
 
@@ -42,7 +50,9 @@
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 1.1 Paisagens e Estrutura da Terra
 
@@ -168,7 +178,9 @@ Descreve brevemente a experiencia de Urey-Miller (1953) e explica a sua importan
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 1.1 Landscapes and Earth's Structure
 
@@ -294,7 +306,9 @@ Briefly describe the Urey-Miller experiment (1953) and explain its importance fo
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 1.2 Rochas e Minerais
 
@@ -441,7 +455,9 @@ Explica porque se diz que "as rochas nao sao produtos acabados". Refere-te ao ci
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 1.2 Rocks and Minerals
 
@@ -588,7 +604,9 @@ Explain why it is said that "rocks are not finished products." Refer to the rock
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 1.3 Dinamica da Terra
 
@@ -747,7 +765,9 @@ Explica porque os vulcoes e os sismos se localizam principalmente nos limites da
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 1.3 Earth's Dynamics
 
@@ -906,7 +926,9 @@ Explain why volcanoes and earthquakes are mainly located at lithospheric plate b
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 1.4 Historia da Terra
 
@@ -971,7 +993,9 @@ Distingue tempo historico de tempo geologico. Indica a idade aproximada da Terra
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 1.4 Earth's History
 
@@ -1036,7 +1060,9 @@ Distinguish historical time from geological time. Indicate the approximate age o
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 1.5 Sustentabilidade Geologica
 
@@ -1066,7 +1092,9 @@ O conhecimento geologico e importante para a sustentabilidade da Terra. Explica 
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 1.5 Geological Sustainability
 
@@ -1096,7 +1124,9 @@ Geological knowledge is important for the sustainability of the Earth. Explain h
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Respostas
 
@@ -1162,7 +1192,9 @@ Geological knowledge is important for the sustainability of the Earth. Explain h
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Answers
 
@@ -1228,7 +1260,9 @@ Geological knowledge is important for the sustainability of the Earth. Explain h
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Instrucoes
 
@@ -1240,7 +1274,9 @@ Geological knowledge is important for the sustainability of the Earth. Explain h
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Instructions
 
@@ -1252,7 +1288,9 @@ Geological knowledge is important for the sustainability of the Earth. Explain h
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 2.1 Condicoes para a Vida
 
@@ -1325,7 +1363,9 @@ Explica como a atividade dos seres vivos fotossinteticos influenciou a evolucao 
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 2.1 Conditions for Life
 
@@ -1398,7 +1438,9 @@ Explain how the activity of photosynthetic organisms influenced the evolution of
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 2.2 Organizacao Celular
 
@@ -1466,7 +1508,9 @@ Explica o que sao biomas e indica dois fatores que condicionam a distribuicao do
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 2.2 Cellular Organization
 
@@ -1534,7 +1578,9 @@ Explain what biomes are and indicate two factors that determine the distribution
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 2.3 Ecossistemas
 
@@ -1709,7 +1755,9 @@ Descreve as fases de uma sucessao ecologica primaria, desde as comunidades pione
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 2.3 Ecosystems
 
@@ -1884,7 +1932,9 @@ Describe the stages of a primary ecological succession, from pioneer communities
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Respostas
 
@@ -1933,7 +1983,9 @@ Describe the stages of a primary ecological succession, from pioneer communities
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Answers
 
@@ -1982,7 +2034,9 @@ Describe the stages of a primary ecological succession, from pioneer communities
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Instrucoes
 
@@ -1994,7 +2048,9 @@ Describe the stages of a primary ecological succession, from pioneer communities
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Instructions
 
@@ -2006,7 +2062,9 @@ Describe the stages of a primary ecological succession, from pioneer communities
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 3.1 Saude e Organizacao do Corpo
 
@@ -2104,7 +2162,9 @@ Explica a diferenca entre determinantes biologicos e determinantes comportamenta
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 3.1 Health and Body Organization
 
@@ -2202,7 +2262,9 @@ Explain the difference between biological and behavioral health determinants. Gi
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 3.2 Nutricao e Digestao
 
@@ -2321,7 +2383,9 @@ Explica a importancia da microbiota intestinal para a saude humana. Indica tres 
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 3.2 Nutrition and Digestion
 
@@ -2440,7 +2504,9 @@ Explain the importance of intestinal microbiota for human health. Indicate three
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 3.3 Sistema Circulatorio e Imunitario
 
@@ -2537,7 +2603,9 @@ Indica tres doencas do sistema cardiovascular e quatro medidas preventivas para 
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 3.3 Circulatory and Immune Systems
 
@@ -2634,7 +2702,9 @@ Indicate three cardiovascular system diseases and four preventive measures to ma
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 3.4 Sistema Respiratorio
 
@@ -2675,7 +2745,9 @@ Descreve os quatro elos da cadeia de sobrevivencia em caso de paragem cardiorres
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 3.4 Respiratory System
 
@@ -2716,7 +2788,9 @@ Describe the four links in the chain of survival in case of cardiorespiratory ar
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 3.5 Sistema Excretor
 
@@ -2772,7 +2846,9 @@ Explica a diferenca entre hemodialise e transplante renal. Em que circunstancias
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 3.5 Excretory System
 
@@ -2828,7 +2904,9 @@ Explain the difference between hemodialysis and kidney transplant. Under what ci
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 3.6 Coordenacao e Regulacao
 
@@ -2908,7 +2986,9 @@ Explica como o hipotalamo assegura a ligacao entre o sistema nervoso e o sistema
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 3.6 Coordination and Regulation
 
@@ -2988,7 +3068,9 @@ Explain how the hypothalamus ensures the connection between the nervous system a
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 3.7 Reproducao e Hereditariedade
 
@@ -3070,7 +3152,9 @@ Explica como se calcula o periodo fertil de uma mulher com um ciclo menstrual de
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 3.7 Reproduction and Heredity
 
@@ -3152,7 +3236,9 @@ Explain how to calculate the fertile period of a woman with a 28-day menstrual c
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Respostas
 
@@ -3234,7 +3320,9 @@ Explain how to calculate the fertile period of a woman with a 28-day menstrual c
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Answers
 
@@ -3316,7 +3404,9 @@ Explain how to calculate the fertile period of a woman with a 28-day menstrual c
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Instrucoes
 
@@ -3328,7 +3418,9 @@ Explain how to calculate the fertile period of a woman with a 28-day menstrual c
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Instructions
 
@@ -3340,7 +3432,9 @@ Explain how to calculate the fertile period of a woman with a 28-day menstrual c
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 4.1 Desenvolvimento Sustentavel
 
@@ -3438,7 +3532,9 @@ Explica a relacao entre os servicos de suporte dos ecossistemas e todos os outro
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 4.1 Sustainable Development
 
@@ -3536,7 +3632,9 @@ Explain the relationship between ecosystem support services and all other types 
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 4.2 Protecao Ambiental
 
@@ -3638,7 +3736,9 @@ Explica o que e a bioacumulacao e como os pesticidas e metais pesados se movem a
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 4.2 Environmental Protection
 
@@ -3740,7 +3840,9 @@ Explain what bioaccumulation is and how pesticides and heavy metals move through
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 4.3 Gestao de Territorio e Recursos
 
@@ -3788,7 +3890,9 @@ Elabora um plano de acao com cinco medidas concretas para diminuir o consumo de 
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 4.3 Territory and Resource Management
 
@@ -3836,7 +3940,9 @@ Create an action plan with five concrete measures to reduce water consumption in
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Revisao Geral
 
@@ -3875,7 +3981,9 @@ d) Uma medida de protecao que possa ser implementada
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## General Review
 
@@ -3914,7 +4022,9 @@ d) One protection measure that could be implemented
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Respostas
 
@@ -3955,7 +4065,9 @@ d) One protection measure that could be implemented
 
 *Adaptado do Manual de Ciencias Naturais OMSN*
 
+```{=latex}
 \switchcolumn
+```
 
 ## Answers
 
@@ -3996,4 +4108,6 @@ d) One protection measure that could be implemented
 
 *Adapted from the OMSN Natural Sciences Manual*
 
+```{=latex}
 \end{paracol}
+```

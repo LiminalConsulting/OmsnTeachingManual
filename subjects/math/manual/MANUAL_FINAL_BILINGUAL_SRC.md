@@ -1,12 +1,18 @@
+```{=latex}
 \begin{paracol}{2}
+```
 
 # Manual de Matemática: 5º ao 9º Ano
 
+```{=latex}
 \switchcolumn
+```
 
 # Mathematics Manual: 5th to 9th Grade
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Organização Temática
 
@@ -14,7 +20,9 @@ Este manual apresenta os conteúdos essenciais de matemática para os anos escol
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Thematic Organization
 
@@ -22,7 +30,9 @@ This manual presents the essential mathematics content for school years 5th thro
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Índice
 
@@ -59,7 +69,9 @@ This manual presents the essential mathematics content for school years 5th thro
 
 # NÚMEROS
 
+```{=latex}
 \switchcolumn
+```
 
 ## Table of Contents
 
@@ -96,7 +108,9 @@ This manual presents the essential mathematics content for school years 5th thro
 
 # NUMBERS
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Números Naturais
 
@@ -371,7 +385,9 @@ Dois números são **primos entre si** se seu m.d.c. é igual a $1$.
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Natural Numbers
 
@@ -646,7 +662,9 @@ Two numbers are **relatively prime** if their g.c.d. equals $1$.
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Números Inteiros
 
@@ -729,7 +747,9 @@ Para subtrair números inteiros, adiciona-se ao primeiro número o simétrico do
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Integers
 
@@ -812,7 +832,9 @@ To subtract integer numbers, add to the first number the opposite of the second 
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Números Racionais
 
@@ -956,7 +978,9 @@ $37000 = 3,7 \times 10^4$
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Rational Numbers
 
@@ -1100,7 +1124,9 @@ $37000 = 3,7 \times 10^4$
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Números Reais
 
@@ -1206,7 +1232,9 @@ Os intervalos podem ser representados de várias formas:
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Real Numbers
 
@@ -1312,7 +1340,9 @@ Intervals can be represented in several ways:
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Potências e Notação Científica
 
@@ -1409,7 +1439,9 @@ $(a_1 \times 10^{n_1}) \div (a_2 \times 10^{n_2}) = (a_1 \div a_2) \times 10^{n_
 
 # ÁLGEBRA
 
+```{=latex}
 \switchcolumn
+```
 
 ## Powers and Scientific Notation
 
@@ -1506,7 +1538,9 @@ $(a_1 \times 10^{n_1}) \div (a_2 \times 10^{n_2}) = (a_1 \div a_2) \times 10^{n_
 
 # ALGEBRA
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Expressões Algébricas
 
@@ -1571,7 +1605,9 @@ $3b + 2b + 5 + 4m - 3 + 4n - 3m = 5b + 2 + m + 4n$
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Algebraic Expressions
 
@@ -1636,7 +1672,9 @@ $3b + 2b + 5 + 4m - 3 + 4n - 3m = 5b + 2 + m + 4n$
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Sequências e Padrões
 
@@ -1697,7 +1735,9 @@ Quando a diferença entre termos consecutivos é constante:
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Sequences and Patterns
 
@@ -1758,7 +1798,9 @@ When the difference between consecutive terms is constant:
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Equações e Inequações
 
@@ -1864,7 +1906,9 @@ Aplica-se processo semelhante às equações, mas com atenção ao sentido da de
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Equations and Inequalities
 
@@ -1970,7 +2014,9 @@ A process similar to equations is applied, but with attention to the direction o
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Funções
 
@@ -2071,7 +2117,9 @@ Reta não vertical.
 
 # GEOMETRIA
 
+```{=latex}
 \switchcolumn
+```
 
 ## Functions
 
@@ -2172,7 +2220,9 @@ Non-vertical line.
 
 # GEOMETRY
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Elementos Básicos
 
@@ -2236,7 +2286,9 @@ Retas que formam ângulos retos.
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Basic Elements
 
@@ -2299,7 +2351,9 @@ Lines that form right angles.
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Figuras Planas
 
@@ -2449,7 +2503,9 @@ Lugar geométrico dos pontos equidistantes de dois lados de um ângulo.
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Plane Figures
 
@@ -2599,7 +2655,9 @@ Locus of points equidistant from two sides of an angle.
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Transformações Geométricas
 
@@ -2721,7 +2779,9 @@ Dois lados diretamente proporcionais e o ângulo correspondente igual determinam
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Geometric Transformations
 
@@ -2843,7 +2903,9 @@ Two directly proportional sides and the corresponding angle equal determine simi
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Sólidos Geométricos
 
@@ -2976,7 +3038,9 @@ Conjunto de pontos do espaço que estão a uma distância igual ao raio do centr
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Geometric Solids
 
@@ -3109,7 +3173,9 @@ Set of points in space that are at a distance equal to the radius from the cente
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Trigonometria
 
@@ -3210,7 +3276,9 @@ $$\tan \alpha = \frac{\sin \alpha}{\cos \alpha}$$
 
 # MEDIDA
 
+```{=latex}
 \switchcolumn
+```
 
 ## Trigonometry
 
@@ -3311,7 +3379,9 @@ $$\tan \alpha = \frac{\sin \alpha}{\cos \alpha}$$
 
 # MEASUREMENT
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Área
 
@@ -3383,7 +3453,9 @@ Reconhecer que um triângulo com base $b$ e altura $a$ tem área $= \frac{b \tim
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Area
 
@@ -3455,7 +3527,9 @@ Recognize that a triangle with base $b$ and height $a$ has area $= \frac{b \time
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Volume
 
@@ -3547,7 +3621,9 @@ $$A = 4 \times \pi \times \text{raio}^2$$
 
 # ORGANIZAÇÃO E TRATAMENTO DE DADOS
 
+```{=latex}
 \switchcolumn
+```
 
 ## Volume
 
@@ -3639,7 +3715,9 @@ $$A = 4 \times \pi \times \text{radius}^2$$
 
 # DATA ORGANIZATION AND PROCESSING
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Representação de Dados
 
@@ -3703,7 +3781,9 @@ Quando existe grande variabilidade de valores, agrupam-se em classes com determi
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Data Representation
 
@@ -3767,7 +3847,9 @@ When there is great variability of values, they are grouped into classes with a 
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Estatística
 
@@ -3818,7 +3900,9 @@ Classe com maior frequência absoluta.
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Statistics
 
@@ -3869,7 +3953,9 @@ Class with highest absolute frequency.
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Probabilidades
 
@@ -3985,7 +4071,9 @@ Quanto maior o número de repetições, mais próximo será o valor da frequênc
 
 **Conteúdo adaptado de O Bichinho do Saber (www.obichinhodosaber.com)**
 
+```{=latex}
 \switchcolumn
+```
 
 ## Probability
 
@@ -4101,4 +4189,6 @@ The greater the number of repetitions, the closer the value of relative frequenc
 
 **Content adapted from O Bichinho do Saber (www.obichinhodosaber.com)**
 
+```{=latex}
 \end{paracol}
+```

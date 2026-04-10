@@ -1,12 +1,18 @@
+```{=latex}
 \begin{paracol}{2}
+```
 
 # Manual de Físico-Química: 7º, 8º e 9º Anos
 
+```{=latex}
 \switchcolumn
+```
 
 # Physics-Chemistry Manual: Grades 7, 8, and 9
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Organização Temática
 
@@ -18,7 +24,9 @@ Este manual apresenta os conteúdos de Físico-Química para os 7º, 8º e 9º a
 
 # ASTRONOMIA E FORÇAS GRAVITACIONAIS
 
+```{=latex}
 \switchcolumn
+```
 
 ## Thematic Organization
 
@@ -30,7 +38,9 @@ This manual presents Physics-Chemistry content for grades 7, 8, and 9 organized 
 
 # ASTRONOMY AND GRAVITATIONAL FORCES
 
+```{=latex}
 \switchcolumn*
+```
 
 ## O Universo e o Sistema Solar
 
@@ -293,7 +303,9 @@ O Sistema Solar formou-se há cerca de 4,5 mil milhões de anos.
 - Temperaturas moderadas
 - Único planeta com condições para a vida
 
+```{=latex}
 \switchcolumn
+```
 
 ## The Universe and the Solar System
 
@@ -556,7 +568,9 @@ The Solar System formed about 4.5 billion years ago.
 - Moderate temperatures
 - Only planet with conditions for life
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Terra, Lua e Forças Gravitacionais
 
@@ -722,7 +736,9 @@ As grandezas são diretamente proporcionais. Na Terra: **P = m × 9,8** onde a c
 
 # MECÂNICA: MOVIMENTO E FORÇAS
 
+```{=latex}
 \switchcolumn
+```
 
 ## Earth, Moon and Gravitational Forces
 
@@ -888,7 +904,9 @@ The quantities are directly proportional. On Earth: **P = m × 9.8** where the c
 
 # MECHANICS: MOTION AND FORCES
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Movimentos na Terra
 
@@ -1039,7 +1057,9 @@ Os gráficos posição-tempo são ferramentas fundamentais para:
 
 A inclinação da linha revela a rapidez: maior inclinação significa maior rapidez. Uma linha horizontal indica repouso.
 
+```{=latex}
 \switchcolumn
+```
 
 ## Motion on Earth
 
@@ -1190,7 +1210,9 @@ Position-time graphs are fundamental tools for:
 
 The slope of the line reveals the speed: greater slope means greater speed. A horizontal line indicates rest.
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Forças e movimentos
 
@@ -1344,7 +1366,9 @@ Depende de: forma do corpo and sua velocidade
 
 Relação: Quanto maior a velocidade maior a resistência do ar
 
+```{=latex}
 \switchcolumn
+```
 
 ## Forces and motion
 
@@ -1498,7 +1522,9 @@ Depends on: body shape and its velocity
 
 Relationship: The greater the velocity the greater the air resistance
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Forças, movimentos e energia
 
@@ -1586,7 +1612,9 @@ O trabalho pode ser classificado em três categorias:
 - Não há movimento
 - A energia cinética mantém-se
 
+```{=latex}
 \switchcolumn
+```
 
 ## Forces, motion and energy
 
@@ -1674,7 +1702,9 @@ Work can be classified into three categories:
 - There is no motion
 - Kinetic energy remains constant
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Forças e fluidos
 
@@ -1760,7 +1790,9 @@ Nota: "densidade (ou massa volúmica) = massa : volume ⇔ massa = densidade × 
 
 # ONDAS: SOM E LUZ
 
+```{=latex}
 \switchcolumn
+```
 
 ## Forces and fluids
 
@@ -1846,7 +1878,9 @@ Note: "density (or volumetric mass) = mass : volume ⇔ mass = density × volume
 
 # WAVES: SOUND AND LIGHT
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Ondas e Som
 
@@ -2076,7 +2110,9 @@ Espaços como salas de espetáculo e cinemas possuem tempos de reverberação ad
 
 Para reduzir poluição sonora, utilizam-se materiais com elevada absorção. Em residências aplicam-se janelas de vidro duplo e paredes duplas com isolamento interior.
 
+```{=latex}
 \switchcolumn
+```
 
 ## Waves and Sound
 
@@ -2306,7 +2342,9 @@ Spaces like performance halls and cinemas have adequate reverberation times. Coa
 
 To reduce noise pollution, materials with high absorption are used. In residences double-glazed windows and double walls with interior insulation are applied.
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Luz e Fenómenos Óticos
 
@@ -2480,7 +2518,9 @@ A cor de um objeto depende dos componentes da luz incidente que são refletidos.
 
 # ELETRICIDADE
 
+```{=latex}
 \switchcolumn
+```
 
 ## Light and Optical Phenomena
 
@@ -2653,7 +2693,9 @@ The color of an object depends on the components of incident light that are refl
 
 # ELECTRICITY
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Corrente Elétrica e Circuitos
 
@@ -2823,7 +2865,9 @@ R = U / I
 
 Um **reóstato** é um componente elétrico com resistência variável.
 
+```{=latex}
 \switchcolumn
+```
 
 ## Electric Current and Circuits
 
@@ -2993,7 +3037,9 @@ R = U / I
 
 A **rheostat** is an electrical component with variable resistance.
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Efeitos da corrente elétrica e energia elétrica
 
@@ -3070,7 +3116,9 @@ A **rheostat** is an electrical component with variable resistance.
 
 # ENERGIA
 
+```{=latex}
 \switchcolumn
+```
 
 ## Effects of electric current and electrical energy
 
@@ -3147,7 +3195,9 @@ A **rheostat** is an electrical component with variable resistance.
 
 # ENERGY
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Fontes e Transferências de Energia
 
@@ -3213,7 +3263,9 @@ A **rheostat** is an electrical component with variable resistance.
 
 # CONSTITUIÇÃO E PROPRIEDADES DA MATÉRIA
 
+```{=latex}
 \switchcolumn
+```
 
 ## Sources and Energy Transfers
 
@@ -3279,7 +3331,9 @@ A **rheostat** is an electrical component with variable resistance.
 
 # CONSTITUTION AND PROPERTIES OF MATTER
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Materiais e Laboratório
 
@@ -3348,7 +3402,9 @@ Soluções mais concentradas têm maior quantidade de soluto. Diluídas têm men
 
 Uma solução saturada contém a quantidade máxima de soluto que o solvente pode dissolver a dada temperatura.
 
+```{=latex}
 \switchcolumn
+```
 
 ## Materials and Laboratory
 
@@ -3417,7 +3473,9 @@ More concentrated solutions have greater quantity of solute. Diluted have lesser
 
 A saturated solution contains the maximum amount of solute that the solvent can dissolve at a given temperature.
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Propriedades dos Materiais
 
@@ -3615,7 +3673,9 @@ Processos envolvidos no ciclo da água:
 
 # REAÇÕES QUÍMICAS
 
+```{=latex}
 \switchcolumn
+```
 
 ## Properties of Materials
 
@@ -3813,7 +3873,9 @@ Processes involved in the water cycle:
 
 # CHEMICAL REACTIONS
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Representação e Tipos de Reações
 
@@ -4106,7 +4168,9 @@ Conforme a concentração de sais, as águas podem classificar-se da seguinte fo
 - Tem cloretos, sulfatos e nitratos de cálcio e de magnésio
 - Trata-se através de anticalcários
 
+```{=latex}
 \switchcolumn
+```
 
 ## Representation and Types of Reactions
 
@@ -4399,7 +4463,9 @@ Depending on salt concentration, waters can be classified as follows:
 - Has calcium and magnesium chlorides, sulfates and nitrates
 - Treated through anti-limescale agents
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Cinética Química
 
@@ -4441,7 +4507,9 @@ A velocidade das reações químicas depende do número de colisões eficazes en
 
 # ESTRUTURA ATÓMICA E TABELA PERIÓDICA
 
+```{=latex}
 \switchcolumn
+```
 
 ## Chemical Kinetics
 
@@ -4483,7 +4551,9 @@ The speed of chemical reactions depends on the number of effective collisions be
 
 # ATOMIC STRUCTURE AND PERIODIC TABLE
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Átomos e Elementos
 
@@ -4785,7 +4855,9 @@ Cálcio, fósforo, potássio, enxofre, sódio, cloro, magnésio
 - Pouco reativos
 - Inodoros e incolores
 
+```{=latex}
 \switchcolumn
+```
 
 ## Atoms and Elements
 
@@ -5087,7 +5159,9 @@ Calcium, phosphorus, potassium, sulfur, sodium, chlorine, magnesium
 - Low reactivity
 - Odorless and colorless
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Ligações Químicas
 
@@ -5177,7 +5251,9 @@ Calcium, phosphorus, potassium, sulfur, sodium, chlorine, magnesium
 
 Conteúdo adaptado de O Bichinho do Saber (www.obichinhodosaber.com)
 
+```{=latex}
 \switchcolumn
+```
 
 ## Chemical Bonds
 
@@ -5267,4 +5343,6 @@ Conteúdo adaptado de O Bichinho do Saber (www.obichinhodosaber.com)
 
 Content adapted from O Bichinho do Saber (www.obichinhodosaber.com)
 
+```{=latex}
 \end{paracol}
+```

@@ -33,6 +33,7 @@ set +e
 pandoc "$INPUT" \
   -o "$OUTPUT" \
   --pdf-engine=xelatex \
+  --from markdown-yaml_metadata_block \
   -V lang="$LANG" \
   -V geometry:margin=2.5cm \
   -V fontsize=12pt \

@@ -1,4 +1,6 @@
+```{=latex}
 \begin{paracol}{2}
+```
 
 # Exercícios: HGP 5º Ano - História e Geografia de Portugal
 
@@ -8,7 +10,9 @@
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 # Exercises: HGP Grade 5 - History and Geography of Portugal
 
@@ -18,7 +22,9 @@
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Instruções
 
@@ -30,7 +36,9 @@
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Instructions
 
@@ -42,7 +50,9 @@
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 1. A Península Ibérica: Localização e Quadro Natural
 
@@ -134,7 +144,9 @@ Completa a tabela sobre as zonas climáticas da Península Ibérica:
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 1. The Iberian Peninsula: Location and Natural Landscape
 
@@ -226,7 +238,9 @@ Complete the table about the climate zones of the Iberian Peninsula:
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 2. As Primeiras Comunidades Humanas
 
@@ -294,7 +308,9 @@ c) Nomeia dois contributos que estes povos deixaram aos peninsulares.
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 2. The First Human Communities
 
@@ -362,7 +378,9 @@ c) Name two contributions these peoples left to the peninsular populations.
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 3. Os Romanos na Península Ibérica
 
@@ -414,7 +432,9 @@ e) Ano 2000 → Século ___
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 3. The Romans in the Iberian Peninsula
 
@@ -466,7 +486,9 @@ e) Year 2000 → Century ___
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 4. Os Muçulmanos na Península Ibérica
 
@@ -514,7 +536,9 @@ c) Indica três contributos dos muçulmanos para a cultura peninsular.
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 4. The Muslims in the Iberian Peninsula
 
@@ -562,7 +586,9 @@ c) Name three Muslim contributions to peninsular culture.
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 5. Cristãos e Muçulmanos no Período da Reconquista
 
@@ -644,7 +670,9 @@ c) Na tua opinião, porque é que a presença tão longa dos romanos teve tanto 
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 5. Christians and Muslims During the Reconquest
 
@@ -726,7 +754,9 @@ c) In your opinion, why did the Romans' long presence have such an impact on the
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Respostas
 
@@ -773,7 +803,9 @@ c) In your opinion, why did the Romans' long presence have such an impact on the
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Answers
 
@@ -815,7 +847,9 @@ c) In your opinion, why did the Romans' long presence have such an impact on the
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Instruções
 
@@ -827,7 +861,9 @@ c) In your opinion, why did the Romans' long presence have such an impact on the
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Instructions
 
@@ -839,7 +875,9 @@ c) In your opinion, why did the Romans' long presence have such an impact on the
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 6. Portugal nos Séculos XIII e XIV
 
@@ -957,7 +995,9 @@ f) Diminuição da produção agrícola e artesanal. ___
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 6. Portugal in the 13th and 14th Centuries
 
@@ -1075,7 +1115,9 @@ f) Reduction in agricultural and artisanal production. ___
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 7. Crise de 1383-1385
 
@@ -1130,7 +1172,9 @@ c) Quem foi Fernão Lopes e qual a sua importância?
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 7. The Crisis of 1383–1385
 
@@ -1185,7 +1229,9 @@ c) Who was Fernão Lopes and what was his importance?
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 8. Portugal nos Séculos XV e XVI
 
@@ -1338,7 +1384,9 @@ Os Descobrimentos portugueses trouxeram muitas consequências para Portugal e pa
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 8. Portugal in the 15th and 16th Centuries
 
@@ -1491,7 +1539,9 @@ The Portuguese Discoveries had many consequences for Portugal and for the world.
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Respostas
 
@@ -1534,7 +1584,9 @@ The Portuguese Discoveries had many consequences for Portugal and for the world.
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Answers
 
@@ -1575,7 +1627,9 @@ The Portuguese Discoveries had many consequences for Portugal and for the world.
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Instruções
 
@@ -1585,7 +1639,9 @@ The Portuguese Discoveries had many consequences for Portugal and for the world.
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Instructions
 
@@ -1595,7 +1651,9 @@ The Portuguese Discoveries had many consequences for Portugal and for the world.
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 1. Das Sociedades Recoletoras às Primeiras Sociedades Produtoras
 
@@ -1708,7 +1766,9 @@ d) Conjunto de menires em linha — culto à Natureza
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 1. From Collector Societies to the First Producer Societies
 
@@ -1821,7 +1881,9 @@ d) Row of menhirs — Nature worship
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 2. Contributo das Primeiras Civilizações
 
@@ -1878,7 +1940,9 @@ b) Qual o contributo dos Fenícios para a escrita? Porquê?
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 2. Contribution of the First Civilisations
 
@@ -1935,7 +1999,9 @@ b) What was the Phoenicians' contribution to writing? Why was it important?
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 3. Os Gregos no Século V a.C.
 
@@ -1998,7 +2064,9 @@ c) História
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 3. The Greeks in the 5th Century BC
 
@@ -2061,7 +2129,9 @@ c) History
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 4. O Mundo Romano e o Cristianismo
 
@@ -2145,7 +2215,9 @@ c) Que tipo de economia tinham os Romanos? (indica 4 características)
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 4. The Roman World and Christianity
 
@@ -2229,7 +2301,9 @@ c) What kind of economy did the Romans have? (state 4 characteristics)
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Respostas
 
@@ -2265,7 +2339,9 @@ c) What kind of economy did the Romans have? (state 4 characteristics)
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Answers
 
@@ -2301,7 +2377,9 @@ c) What kind of economy did the Romans have? (state 4 characteristics)
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Instruções
 
@@ -2311,7 +2389,9 @@ c) What kind of economy did the Romans have? (state 4 characteristics)
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Instructions
 
@@ -2321,7 +2401,9 @@ c) What kind of economy did the Romans have? (state 4 characteristics)
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 1. A Abertura ao Mundo — Expansão Portuguesa
 
@@ -2404,7 +2486,9 @@ c) Rotas atlânticas: __________
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 1. Opening to the World — Portuguese Expansion
 
@@ -2487,7 +2571,9 @@ c) Atlantic Routes: __________
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 2. Renascimento
 
@@ -2541,7 +2627,9 @@ Indica três características da pintura renascentista.
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 2. The Renaissance
 
@@ -2595,7 +2683,9 @@ State three characteristics of Renaissance painting.
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 3. Reforma e Contrarreforma
 
@@ -2623,7 +2713,9 @@ Indica três instrumentos criados pela Igreja Católica para travar o avanço pr
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 3. The Reformation and Counter-Reformation
 
@@ -2651,7 +2743,9 @@ Name three instruments created by the Catholic Church to halt the advance of Pro
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 4-5. Antigo Regime
 
@@ -2679,7 +2773,9 @@ c) Nacionalismo económico: __________
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 4–5. The Ancien Régime
 
@@ -2707,7 +2803,9 @@ c) Economic nationalism: __________
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 6. Iluminismo e Marquês de Pombal
 
@@ -2747,7 +2845,9 @@ f) Extinguiu a escravatura no reino. ___
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 6. The Enlightenment and the Marquis of Pombal
 
@@ -2787,7 +2887,9 @@ f) Abolished slavery in the kingdom. ___
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 7. Revolução Agrícola e Industrial
 
@@ -2829,7 +2931,9 @@ Porque é que a Revolução Industrial surgiu primeiro em Inglaterra? Indica tr�
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 7. The Agricultural and Industrial Revolutions
 
@@ -2871,7 +2975,9 @@ Why did the Industrial Revolution begin first in England? State three conditions
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 8. Revoluções Liberais
 
@@ -2925,7 +3031,9 @@ Compara o regime absolutista com o regime liberal, preenchendo:
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 8. Liberal Revolutions
 
@@ -2979,7 +3087,9 @@ Compare the absolutist regime with the liberal regime:
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Respostas
 
@@ -3016,7 +3126,9 @@ Compare the absolutist regime with the liberal regime:
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Answers
 
@@ -3053,7 +3165,9 @@ Compare the absolutist regime with the liberal regime:
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Instruções
 
@@ -3063,7 +3177,9 @@ Compare the absolutist regime with the liberal regime:
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Instructions
 
@@ -3073,7 +3189,9 @@ Compare the absolutist regime with the liberal regime:
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 1. 1ª Guerra Mundial
 
@@ -3130,7 +3248,9 @@ Indica três condições impostas à Alemanha pelo Tratado de Versalhes:
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 1. World War I
 
@@ -3187,7 +3307,9 @@ State three conditions imposed on Germany by the Treaty of Versailles:
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 2. Revolução Russa
 
@@ -3231,7 +3353,9 @@ e) Trotsky sucedeu a Lenine no poder.
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 2. The Russian Revolution
 
@@ -3275,7 +3399,9 @@ e) Trotsky succeeded Lenin in power.
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 3. Portugal: da 1ª República à Ditadura
 
@@ -3325,7 +3451,9 @@ Indica três razões para o descontentamento durante a 1ª República:
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 3. Portugal: from the First Republic to the Dictatorship
 
@@ -3375,7 +3503,9 @@ State three reasons for discontent during the First Republic:
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 5. Crise, Ditaduras e Democracia
 
@@ -3403,7 +3533,9 @@ c) Estas eleições foram consideradas __________ pela oposição.
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 5. Crisis, Dictatorships and Democracy
 
@@ -3431,7 +3563,9 @@ c) These elections were considered __________ by the opposition.
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 6-7. 2ª Guerra Mundial e Guerra Fria
 
@@ -3447,7 +3581,9 @@ c) Nacionalismo: __________
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 6–7. World War II and the Cold War
 
@@ -3463,7 +3599,9 @@ c) Nationalism: __________
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 8. Portugal: Revolução de 25 de Abril
 
@@ -3536,7 +3674,9 @@ d) 2002: __________
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 8. Portugal: The Revolution of 25 April
 
@@ -3609,7 +3749,9 @@ d) 2002: __________
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 9. Portugal na Europa e no Mundo
 
@@ -3668,7 +3810,9 @@ Compara a Ditadura do Estado Novo com a Democracia atual em Portugal:
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 9. Portugal in Europe and the World
 
@@ -3727,7 +3871,9 @@ Compare the Estado Novo Dictatorship with present-day democracy in Portugal:
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Respostas
 
@@ -3764,7 +3910,9 @@ Compare the Estado Novo Dictatorship with present-day democracy in Portugal:
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Answers
 
@@ -3800,7 +3948,9 @@ Compare the Estado Novo Dictatorship with present-day democracy in Portugal:
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Instruções
 
@@ -3810,7 +3960,9 @@ Compare the Estado Novo Dictatorship with present-day democracy in Portugal:
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Instructions
 
@@ -3820,7 +3972,9 @@ Compare the Estado Novo Dictatorship with present-day democracy in Portugal:
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 1-2. A Paisagem e Representação da Superfície Terrestre
 
@@ -3883,7 +4037,9 @@ Indica os cinco elementos essenciais de um mapa:
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 1–2. Landscape and Representation of the Earth's Surface
 
@@ -3946,7 +4102,9 @@ State the five essential elements of a map:
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 3-4. Localização
 
@@ -4004,7 +4162,9 @@ c) Qual o meridiano de referência?
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 3–4. Location
 
@@ -4062,7 +4222,9 @@ c) What is the reference meridian?
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 5-6. A Europa e a União Europeia
 
@@ -4094,7 +4256,9 @@ d) Qual é o lema da UE?
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 5–6. Europe and the European Union
 
@@ -4126,7 +4290,9 @@ d) What is the EU's motto?
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 7-8. O Clima
 
@@ -4210,7 +4376,9 @@ c) A pressão normal é de __________ mbar.
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 7–8. Climate
 
@@ -4294,7 +4462,9 @@ c) Normal pressure is __________ mbar.
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 9-10. Relevo, Rios e Litoral
 
@@ -4327,7 +4497,9 @@ e) Bacia hidrográfica: __________
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 9–10. Relief, Rivers and the Coast
 
@@ -4360,7 +4532,9 @@ e) Drainage basin: __________
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 11-12. Riscos Naturais e Ambiente
 
@@ -4432,7 +4606,9 @@ Usando os teus conhecimentos sobre fatores climáticos, explica em 3-4 frases po
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 11–12. Natural Hazards and the Environment
 
@@ -4504,7 +4680,9 @@ Using your knowledge of climate factors, explain in 3–4 sentences why the nort
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Respostas
 
@@ -4547,7 +4725,9 @@ Using your knowledge of climate factors, explain in 3–4 sentences why the nort
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Answers
 
@@ -4590,7 +4770,9 @@ Using your knowledge of climate factors, explain in 3–4 sentences why the nort
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Instruções
 
@@ -4600,7 +4782,9 @@ Using your knowledge of climate factors, explain in 3–4 sentences why the nort
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Instructions
 
@@ -4610,7 +4794,9 @@ Using your knowledge of climate factors, explain in 3–4 sentences why the nort
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 1. Estudo da População
 
@@ -4656,7 +4842,9 @@ Completa a tabela:
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 1. Study of Population
 
@@ -4702,7 +4890,9 @@ Complete the table:
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 2. Migrações
 
@@ -4734,7 +4924,9 @@ e) As remessas dos emigrantes são uma fonte de receitas para o país.
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 2. Migration
 
@@ -4766,7 +4958,9 @@ e) Emigrants' remittances are a source of income for the country.
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 3. Cidades
 
@@ -4793,7 +4987,9 @@ Indica três características dos centros urbanos:
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 3. Cities
 
@@ -4820,7 +5016,9 @@ State three characteristics of urban centres:
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 4-5. Distribuição da População e Diversidade Cultural
 
@@ -4834,7 +5032,9 @@ b) Porque é que o litoral é mais povoado que o interior?
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 4–5. Population Distribution and Cultural Diversity
 
@@ -4848,7 +5048,9 @@ b) Why is the coast more densely populated than the interior?
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 6. Os Recursos Naturais
 
@@ -4874,7 +5076,9 @@ h) Pesca: __________
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 6. Natural Resources
 
@@ -4900,7 +5104,9 @@ h) Fishing: __________
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 7. A Agricultura
 
@@ -4925,7 +5131,9 @@ d) Tomate, girassol, azeite, vinho
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 7. Agriculture
 
@@ -4950,7 +5158,9 @@ d) Tomato, sunflower, olive oil, wine
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 8. A Pesca
 
@@ -4966,7 +5176,9 @@ c) Indica dois problemas enfrentados pela pesca portuguesa.
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 8. Fishing
 
@@ -4982,7 +5194,9 @@ c) State two problems faced by Portuguese fishing.
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 9. A Indústria
 
@@ -4996,7 +5210,9 @@ b) Que medidas tem o governo tomado para fixar indústrias no interior?
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 9. Industry
 
@@ -5010,7 +5226,9 @@ b) What measures has the government taken to attract industries to the interior?
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 10-11. Serviços e Turismo
 
@@ -5052,7 +5270,9 @@ e) Visita a monumentos, museus e centros históricos
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 10–11. Services and Tourism
 
@@ -5094,7 +5314,9 @@ e) Visits to monuments, museums and historic centres
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 12. Transportes e Telecomunicações
 
@@ -5123,7 +5345,9 @@ Indica três meios de comunicação à distância:
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 12. Transport and Telecommunications
 
@@ -5152,7 +5376,9 @@ State three means of distance communication:
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Problemas da Vida Quotidiana
 
@@ -5167,7 +5393,9 @@ Compara os aspetos positivos e negativos da vida no meio urbano e rural:
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Problems of Daily Life
 
@@ -5182,7 +5410,9 @@ Compare the positive and negative aspects of life in urban and rural environment
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Lazer e Património
 
@@ -5245,7 +5475,9 @@ Um município do interior de Portugal quer atrair mais habitantes e criar empreg
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Leisure and Heritage
 
@@ -5308,7 +5540,9 @@ A municipality in the interior of Portugal wants to attract more inhabitants and
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Respostas
 
@@ -5341,7 +5575,9 @@ A municipality in the interior of Portugal wants to attract more inhabitants and
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Answers
 
@@ -5374,7 +5610,9 @@ A municipality in the interior of Portugal wants to attract more inhabitants and
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Instruções
 
@@ -5384,7 +5622,9 @@ A municipality in the interior of Portugal wants to attract more inhabitants and
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Instructions
 
@@ -5394,7 +5634,9 @@ A municipality in the interior of Portugal wants to attract more inhabitants and
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 1. Características Gerais dos Países
 
@@ -5422,7 +5664,9 @@ Indica três indicadores que permitem avaliar o nível de desenvolvimento de um 
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 1. General Characteristics of Countries
 
@@ -5450,7 +5694,9 @@ State three indicators that allow the level of development of a country to be as
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 2. Crescimento Económico e Desenvolvimento Humano
 
@@ -5482,7 +5728,9 @@ Indica os três componentes do Índice de Desenvolvimento Humano (IDH):
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 2. Economic Growth and Human Development
 
@@ -5514,7 +5762,9 @@ State the three components of the Human Development Index (HDI):
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 3. Caracterização de Diferentes Grupos de Países
 
@@ -5542,7 +5792,9 @@ b) Onde se localizam a maioria dos países em desenvolvimento?
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 3. Characterisation of Different Groups of Countries
 
@@ -5570,7 +5822,9 @@ b) Where are most developing countries located?
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 4. Obstáculos ao Desenvolvimento
 
@@ -5611,7 +5865,9 @@ d) Diminuição da esperança média de vida
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 4. Obstacles to Development
 
@@ -5652,7 +5908,9 @@ d) Reduction in life expectancy
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 5. A Estrutura do Comércio Mundial
 
@@ -5690,7 +5948,9 @@ c) O que deve o país fazer para equilibrar a balança?
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 5. The Structure of World Trade
 
@@ -5728,7 +5988,9 @@ c) What should the country do to balance its trade?
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## 6. Ajuda ao Desenvolvimento
 
@@ -5777,7 +6039,9 @@ Indica três dos Objetivos de Desenvolvimento Sustentável:
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## 6. Aid for Development
 
@@ -5826,7 +6090,9 @@ State three of the Sustainable Development Goals:
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Exercícios de Síntese
 
@@ -5920,7 +6186,9 @@ c) Que medidas poderiam reduzir a mortalidade infantil no País Y?
 
 ---
 
+```{=latex}
 \switchcolumn
+```
 
 ## Synthesis Exercises
 
@@ -6014,7 +6282,9 @@ c) What measures could reduce infant mortality in Country Y?
 
 ---
 
+```{=latex}
 \switchcolumn*
+```
 
 ## Respostas
 
@@ -6045,7 +6315,9 @@ c) What measures could reduce infant mortality in Country Y?
 
 *Adaptado do Manual de História e Geografia OMSN*
 
+```{=latex}
 \switchcolumn
+```
 
 ## Answers
 
@@ -6076,4 +6348,6 @@ c) What measures could reduce infant mortality in Country Y?
 
 *Adapted from the OMSN History and Geography Manual*
 
+```{=latex}
 \end{paracol}
+```
