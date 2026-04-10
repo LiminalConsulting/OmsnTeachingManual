@@ -27,6 +27,11 @@ HEADER_FILE=$(mktemp /tmp/omsn-header-XXXX.tex)
 cat > "$HEADER_FILE" <<'TEXEOF'
 \usepackage{graphicx}
 \usepackage{paracol}
+\makeatletter
+\let\oldlongtable\longtable
+\let\endoldlongtable\endlongtable
+\renewenvironment{longtable}[1][]{\begin{tabular}{#1}}{\end{tabular}}
+\makeatother
 TEXEOF
 
 set +e
