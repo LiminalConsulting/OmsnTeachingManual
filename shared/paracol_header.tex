@@ -1,0 +1,14 @@
+\usepackage{graphicx}
+\usepackage{paracol}
+\usepackage{booktabs}
+
+% Fix: longtable cannot be used inside paracol's multi-column mode.
+% Replace longtable with a plain tabular and stub out longtable-specific commands.
+\makeatletter
+\let\longtable\tabular
+\let\endlongtable\endtabular
+\def\endhead{}
+\def\endfirsthead{}
+\def\endfoot{}
+\def\endlastfoot{}
+\makeatother

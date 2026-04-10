@@ -7,6 +7,7 @@ INPUT="$1"
 OUTPUT="$2"
 LANG="${3:-pt-PT}"
 IS_BILINGUAL=false
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 if [ -z "$INPUT" ] || [ -z "$OUTPUT" ]; then
   echo "Usage: build.sh <input.md> <output.pdf> [lang]"
@@ -18,7 +19,7 @@ if [ ! -f "$INPUT" ]; then
   exit 1
 fi
 
-# Cover file: COVER.md for PT, COVER_EN.md for EN, COVER_BILINGUAL.md for bilingual
+# Cover file
 COVER_ARGS=""
 if [ "$LANG" = "en-US" ]; then
   COVER="COVER_EN.md"
@@ -36,20 +37,16 @@ else
   echo "Warning: Cover file $COVER not found, building without cover"
 fi
 
-echo "Building $OUTPUT (lang=${3:-pt-PT})..."
-
-HEADER_FILE=$(mktemp /tmp/omsn-header-XXXX.tex)
+# Header: bilingual builds use paracol_header.tex (with longtable fix),
+# non-bilingual use a minimal header.
 if [ "$IS_BILINGUAL" = true ]; then
-  cat > "$HEADER_FILE" <<'TEXEOF'
-\usepackage{graphicx}
-\usepackage{paracol}
-\usepackage{tabulary}
-TEXEOF
+  HEADER="$SCRIPT_DIR/paracol_header.tex"
 else
-  cat > "$HEADER_FILE" <<'TEXEOF'
-\usepackage{graphicx}
-TEXEOF
+  HEADER=$(mktemp /tmp/omsn-header-XXXX.tex)
+  echo '\usepackage{graphicx}' > "$HEADER"
 fi
+
+echo "Building $OUTPUT (lang=${3:-pt-PT})..."
 
 set +e
 pandoc "$INPUT" \
@@ -66,13 +63,14 @@ pandoc "$INPUT" \
   -V linkcolor=blue \
   -V urlcolor=blue \
   -V classoption=openany \
-  --include-in-header="$HEADER_FILE" \
+  --include-in-header="$HEADER" \
   $COVER_ARGS \
   2>&1
 EXIT_CODE=$?
 set -e
 
-rm -f "$HEADER_FILE"
+# Clean up temp header (but not the shared paracol_header.tex)
+[[ "$HEADER" == /tmp/* ]] && rm -f "$HEADER"
 
 if [ $EXIT_CODE -eq 0 ]; then
   echo "✅ $OUTPUT"

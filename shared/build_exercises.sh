@@ -7,6 +7,7 @@ INPUT="$1"
 OUTPUT="$2"
 LANG="${3:-pt-PT}"
 IS_BILINGUAL=false
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 if [ -z "$INPUT" ] || [ -z "$OUTPUT" ]; then
   echo "Usage: build_exercises.sh <input.md> <output.pdf> [lang]"
@@ -23,20 +24,14 @@ if [ "$LANG" = "bilingual" ]; then
   IS_BILINGUAL=true
 fi
 
-echo "Building $OUTPUT (lang=${3:-pt-PT})..."
-
-HEADER_FILE=$(mktemp /tmp/omsn-header-XXXX.tex)
 if [ "$IS_BILINGUAL" = true ]; then
-  cat > "$HEADER_FILE" <<'TEXEOF'
-\usepackage{graphicx}
-\usepackage{paracol}
-\usepackage{tabulary}
-TEXEOF
+  HEADER="$SCRIPT_DIR/paracol_header.tex"
 else
-  cat > "$HEADER_FILE" <<'TEXEOF'
-\usepackage{graphicx}
-TEXEOF
+  HEADER=$(mktemp /tmp/omsn-header-XXXX.tex)
+  echo '\usepackage{graphicx}' > "$HEADER"
 fi
+
+echo "Building $OUTPUT (lang=${3:-pt-PT})..."
 
 set +e
 pandoc "$INPUT" \
@@ -50,12 +45,12 @@ pandoc "$INPUT" \
   -V linestretch=1.3 \
   -V linkcolor=blue \
   -V urlcolor=blue \
-  --include-in-header="$HEADER_FILE" \
+  --include-in-header="$HEADER" \
   2>&1
 EXIT_CODE=$?
 set -e
 
-rm -f "$HEADER_FILE"
+[[ "$HEADER" == /tmp/* ]] && rm -f "$HEADER"
 
 if [ $EXIT_CODE -eq 0 ]; then
   echo "✅ $OUTPUT"

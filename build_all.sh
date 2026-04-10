@@ -87,7 +87,4 @@ esac
 
 echo ""
 echo "Done: $SUCCESS succeeded, $FAIL failed"
-# Allow partial success — bilingual paracol builds may fail until longtable compat is resolved
-if [ $SUCCESS -eq 0 ] && [ $FAIL -gt 0 ]; then
-  exit 1
-fi
+[ $FAIL -eq 0 ] || exit 1
